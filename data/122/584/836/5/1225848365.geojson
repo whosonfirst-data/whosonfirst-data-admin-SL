@@ -1,0 +1,80 @@
+{
+  "id": 1225848365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.87982,9.26055,-12.87982,9.26055",
+    "geom:latitude":9.26055,
+    "geom:longitude":-12.87982,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mansonya",
+    "gn:country_code":"SL",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880310,
+    "gn:latitude":9.26055,
+    "gn:longitude":-12.87982,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Mansonya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mansonya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880310
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"770e011ebd6901b047459bb7d6ffbdd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1225848365,
+            "region_id":85671403
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1225848365,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1225848365,
+    "wof:lastmodified":1537700800,
+    "wof:name":"Mansonya",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.87982,
+    9.26055,
+    -12.87982,
+    9.26055
+],
+  "geometry": {"coordinates":[-12.87982,9.26055],"type":"Point"}
+}

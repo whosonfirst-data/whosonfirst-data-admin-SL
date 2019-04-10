@@ -1,0 +1,70 @@
+{
+  "id": 1243076359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.86523,8.34399,-12.86523,8.34399",
+    "geom:latitude":8.34399,
+    "geom:longitude":-12.86523,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mokaka",
+    "gn:country_code":"SL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872183,
+    "gn:latitude":8.34399,
+    "gn:longitude":-12.86523,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Mokaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mokaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872183
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8c8977f8b77fba2a20513df5156a2251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1243076359,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1243076359,
+    "wof:lastmodified":1537700743,
+    "wof:name":"Mokaka",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.86523,
+    8.34399,
+    -12.86523,
+    8.34399
+],
+  "geometry": {"coordinates":[-12.86523,8.34399],"type":"Point"}
+}

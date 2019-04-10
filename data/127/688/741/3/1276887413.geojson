@@ -1,0 +1,70 @@
+{
+  "id": 1276887413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.16283,7.63035,-11.16283,7.63035",
+    "geom:latitude":7.63035,
+    "geom:longitude":-11.16283,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tijoema",
+    "gn:country_code":"SL",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403443,
+    "gn:latitude":7.63035,
+    "gn:longitude":-11.16283,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tijoema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tijoema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403443
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"481a9aaae887ae7737217c5700d67d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1276887413,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1276887413,
+    "wof:lastmodified":1537700463,
+    "wof:name":"Tijoema",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.16283,
+    7.63035,
+    -11.16283,
+    7.63035
+],
+  "geometry": {"coordinates":[-11.16283,7.63035],"type":"Point"}
+}

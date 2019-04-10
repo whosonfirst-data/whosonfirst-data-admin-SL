@@ -1,0 +1,64 @@
+{
+  "id": 1209017257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.03633,8.96586,-13.03633,8.96586",
+    "geom:latitude":8.96586,
+    "geom:longitude":-13.03633,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Koya",
+    "gn:country_code":"SL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407366,
+    "gn:latitude":8.96586,
+    "gn:longitude":-13.03633,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Koya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407366
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f32b01b0c3f2bc2b65b3438606ca24f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209017257
+        }
+    ],
+    "wof:id":1209017257,
+    "wof:lastmodified":1537700593,
+    "wof:name":"Koya",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.03633,
+    8.96586,
+    -13.03633,
+    8.96586
+],
+  "geometry": {"coordinates":[-13.03633,8.96586],"type":"Point"}
+}

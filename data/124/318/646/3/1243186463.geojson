@@ -1,0 +1,70 @@
+{
+  "id": 1243186463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.38244,8.30848,-11.38244,8.30848",
+    "geom:latitude":8.30848,
+    "geom:longitude":-11.38244,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Manjeihun",
+    "gn:country_code":"SL",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406016,
+    "gn:latitude":8.30848,
+    "gn:longitude":-11.38244,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Manjeihun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manjehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406016
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"29c7d75c3dc038def9a75350244be0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1243186463,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1243186463,
+    "wof:lastmodified":1537700548,
+    "wof:name":"Manjeihun",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.38244,
+    8.30848,
+    -11.38244,
+    8.30848
+],
+  "geometry": {"coordinates":[-11.38244,8.30848],"type":"Point"}
+}

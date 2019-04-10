@@ -1,0 +1,64 @@
+{
+  "id": 1209515887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.08322,8.37478,-13.08322,8.37478",
+    "geom:latitude":8.37478,
+    "geom:longitude":-13.08322,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Susu Town",
+    "gn:country_code":"SL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566440,
+    "gn:latitude":8.37478,
+    "gn:longitude":-13.08322,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Susu Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Susu Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566440
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1fb0b0497883e0e3fe1f7991f0057503",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209515887
+        }
+    ],
+    "wof:id":1209515887,
+    "wof:lastmodified":1537700708,
+    "wof:name":"Susu Town",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.08322,
+    8.37478,
+    -13.08322,
+    8.37478
+],
+  "geometry": {"coordinates":[-13.08322,8.37478],"type":"Point"}
+}

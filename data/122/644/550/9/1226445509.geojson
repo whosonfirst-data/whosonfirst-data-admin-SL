@@ -1,0 +1,70 @@
+{
+  "id": 1226445509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.07705,8.73317,-12.07705,8.73317",
+    "geom:latitude":8.73317,
+    "geom:longitude":-12.07705,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Setnyin",
+    "gn:country_code":"SL",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403883,
+    "gn:latitude":8.73317,
+    "gn:longitude":-12.07705,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Setnyin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Setnyin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403883
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5734dbb3a76d1e613c8c2f824af1d3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1226445509,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226445509,
+    "wof:lastmodified":1537700476,
+    "wof:name":"Setnyin",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.07705,
+    8.73317,
+    -12.07705,
+    8.73317
+],
+  "geometry": {"coordinates":[-12.07705,8.73317],"type":"Point"}
+}

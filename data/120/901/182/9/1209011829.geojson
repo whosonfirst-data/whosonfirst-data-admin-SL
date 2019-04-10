@@ -1,0 +1,67 @@
+{
+  "id": 1209011829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.57572,8.08947,-11.57572,8.08947",
+    "geom:latitude":8.08947,
+    "geom:longitude":-11.57572,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Fuinda",
+    "gn:country_code":"SL",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409305,
+    "gn:latitude":8.08947,
+    "gn:longitude":-11.57572,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Fuinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fuinda"
+    ],
+    "name:und_x_variant":[
+        "Fuendo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409305
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"facb821c6ff0101560eefe49476a7c7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209011829
+        }
+    ],
+    "wof:id":1209011829,
+    "wof:lastmodified":1537700658,
+    "wof:name":"Fuinda",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.57572,
+    8.08947,
+    -11.57572,
+    8.08947
+],
+  "geometry": {"coordinates":[-11.57572,8.08947],"type":"Point"}
+}

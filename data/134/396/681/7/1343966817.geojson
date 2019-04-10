@@ -1,0 +1,80 @@
+{
+  "id": 1343966817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.22268,9.90677,-12.22268,9.90677",
+    "geom:latitude":9.90677,
+    "geom:longitude":-12.22268,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Badugula",
+    "gn:country_code":"SL",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410680,
+    "gn:latitude":9.90677,
+    "gn:longitude":-12.22268,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Badugula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Badugula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410680
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0bcf8386decbfdd8df96efd5bfd01a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1343966817,
+            "region_id":85677127
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1343966817,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1343966817,
+    "wof:lastmodified":1537700705,
+    "wof:name":"Badugula",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.22268,
+    9.90677,
+    -12.22268,
+    9.90677
+],
+  "geometry": {"coordinates":[-12.22268,9.90677],"type":"Point"}
+}

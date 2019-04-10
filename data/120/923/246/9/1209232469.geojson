@@ -1,0 +1,65 @@
+{
+  "id": 1209232469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.18618,7.77221,-11.18618,7.77221",
+    "geom:latitude":7.77221,
+    "geom:longitude":-11.18618,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Korma",
+    "gn:country_code":"SL",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407425,
+    "gn:latitude":7.77221,
+    "gn:longitude":-11.18618,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Korma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koma",
+        "Korma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407425
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7a1964285968c2f9cf17b78741db9a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209232469
+        }
+    ],
+    "wof:id":1209232469,
+    "wof:lastmodified":1537700595,
+    "wof:name":"Korma",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.18618,
+    7.77221,
+    -11.18618,
+    7.77221
+],
+  "geometry": {"coordinates":[-11.18618,7.77221],"type":"Point"}
+}

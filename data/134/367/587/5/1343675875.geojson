@@ -1,0 +1,70 @@
+{
+  "id": 1343675875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.95546,8.32458,-10.95546,8.32458",
+    "geom:latitude":8.32458,
+    "geom:longitude":-10.95546,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yarbuma",
+    "gn:country_code":"SL",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402888,
+    "gn:latitude":8.32458,
+    "gn:longitude":-10.95546,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yarbuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yarbuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402888
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"676b966124d00bf04132db55cb06ca1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1343675875,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1343675875,
+    "wof:lastmodified":1537700446,
+    "wof:name":"Yarbuma",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.95546,
+    8.32458,
+    -10.95546,
+    8.32458
+],
+  "geometry": {"coordinates":[-10.95546,8.32458],"type":"Point"}
+}

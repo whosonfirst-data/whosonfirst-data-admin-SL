@@ -1,0 +1,73 @@
+{
+  "id": 1276122071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.27907,8.00781,-11.27907,8.00781",
+    "geom:latitude":8.00781,
+    "geom:longitude":-11.27907,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gbado",
+    "gn:country_code":"SL",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410681,
+    "gn:latitude":8.00781,
+    "gn:longitude":-11.27907,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gbado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbado"
+    ],
+    "name:und_x_variant":[
+        "Bado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410681
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3706ccdaa87c7fc9b97d6deee646c97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1276122071,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1276122071,
+    "wof:lastmodified":1537700705,
+    "wof:name":"Gbado",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.27907,
+    8.00781,
+    -11.27907,
+    8.00781
+],
+  "geometry": {"coordinates":[-11.27907,8.00781],"type":"Point"}
+}

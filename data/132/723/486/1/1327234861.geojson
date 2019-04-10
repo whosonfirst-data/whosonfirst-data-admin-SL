@@ -1,0 +1,70 @@
+{
+  "id": 1327234861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.17835,8.96893,-12.17835,8.96893",
+    "geom:latitude":8.96893,
+    "geom:longitude":-12.17835,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Malimba",
+    "gn:country_code":"SL",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10133240,
+    "gn:latitude":8.96893,
+    "gn:longitude":-12.17835,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Malimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10133240
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b35fb09dd1bc4636e942865347048072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1327234861,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327234861,
+    "wof:lastmodified":1537700937,
+    "wof:name":"Malimba",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.17835,
+    8.96893,
+    -12.17835,
+    8.96893
+],
+  "geometry": {"coordinates":[-12.17835,8.96893],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226156925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.27832,8.26943,-11.27832,8.26943",
+    "geom:latitude":8.26943,
+    "geom:longitude":-11.27832,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sargolehun",
+    "gn:country_code":"SL",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404079,
+    "gn:latitude":8.26943,
+    "gn:longitude":-11.27832,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sargolehun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sargolehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404079
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ea6974dc6c14f2d32699476fc07589b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1226156925,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226156925,
+    "wof:lastmodified":1537700483,
+    "wof:name":"Sargolehun",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.27832,
+    8.26943,
+    -11.27832,
+    8.26943
+],
+  "geometry": {"coordinates":[-11.27832,8.26943],"type":"Point"}
+}

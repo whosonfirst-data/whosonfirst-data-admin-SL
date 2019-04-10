@@ -1,0 +1,70 @@
+{
+  "id": 1276986809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.92939,8.33829,-12.92939,8.33829",
+    "geom:latitude":8.33829,
+    "geom:longitude":-12.92939,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ma-pumpuni",
+    "gn:country_code":"SL",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405903,
+    "gn:latitude":8.33829,
+    "gn:longitude":-12.92939,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ma-pumpuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ma-pumpuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405903
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9f7d462a96fcb6dc4ba3f0e3940e482f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1276986809,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1276986809,
+    "wof:lastmodified":1537700545,
+    "wof:name":"Ma-pumpuni",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.92939,
+    8.33829,
+    -12.92939,
+    8.33829
+],
+  "geometry": {"coordinates":[-12.92939,8.33829],"type":"Point"}
+}

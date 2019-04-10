@@ -1,0 +1,80 @@
+{
+  "id": 1259696593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.70314,9.3905,-12.70314,9.3905",
+    "geom:latitude":9.3905,
+    "geom:longitude":-12.70314,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dundumakhadi",
+    "gn:country_code":"SL",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880504,
+    "gn:latitude":9.3905,
+    "gn:longitude":-12.70314,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Dundumakhadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dundumakhadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880504
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"da88655846495ba18ff5028f2d2de451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1259696593,
+            "region_id":85671403
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1259696593,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259696593,
+    "wof:lastmodified":1537700803,
+    "wof:name":"Dundumakhadi",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.70314,
+    9.3905,
+    -12.70314,
+    9.3905
+],
+  "geometry": {"coordinates":[-12.70314,9.3905],"type":"Point"}
+}

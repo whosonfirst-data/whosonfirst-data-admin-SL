@@ -1,0 +1,70 @@
+{
+  "id": 1226044533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.15641,8.16838,-12.15641,8.16838",
+    "geom:latitude":8.16838,
+    "geom:longitude":-12.15641,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Daru",
+    "gn:country_code":"SL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9903183,
+    "gn:latitude":8.16838,
+    "gn:longitude":-12.15641,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Daru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Daru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9903183
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"70c028277c4cb2e8d8ba7c23b4f48e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226044533,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226044533,
+    "wof:lastmodified":1537700845,
+    "wof:name":"Daru",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.15641,
+    8.16838,
+    -12.15641,
+    8.16838
+],
+  "geometry": {"coordinates":[-12.15641,8.16838],"type":"Point"}
+}

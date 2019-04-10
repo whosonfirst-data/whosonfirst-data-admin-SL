@@ -1,0 +1,70 @@
+{
+  "id": 1260184061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.07513,8.064,-12.07513,8.064",
+    "geom:latitude":8.064,
+    "geom:longitude":-12.07513,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Konaki",
+    "gn:country_code":"SL",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904156,
+    "gn:latitude":8.064,
+    "gn:longitude":-12.07513,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Konaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Konaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904156
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9984a78509321dbbc35826ac9dcf6f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1260184061,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1260184061,
+    "wof:lastmodified":1537700847,
+    "wof:name":"Konaki",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.07513,
+    8.064,
+    -12.07513,
+    8.064
+],
+  "geometry": {"coordinates":[-12.07513,8.064],"type":"Point"}
+}

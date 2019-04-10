@@ -1,0 +1,64 @@
+{
+  "id": 1209216469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.81437,7.9295,-11.81437,7.9295",
+    "geom:latitude":7.9295,
+    "geom:longitude":-11.81437,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Govoma",
+    "gn:country_code":"SL",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9873011,
+    "gn:latitude":7.9295,
+    "gn:longitude":-11.81437,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Govoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Govoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9873011
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3e31fe90ed35e8421bbb18fc165f3bce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209216469
+        }
+    ],
+    "wof:id":1209216469,
+    "wof:lastmodified":1537700751,
+    "wof:name":"Govoma",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.81437,
+    7.9295,
+    -11.81437,
+    7.9295
+],
+  "geometry": {"coordinates":[-11.81437,7.9295],"type":"Point"}
+}

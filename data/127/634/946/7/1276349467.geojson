@@ -1,0 +1,67 @@
+{
+  "id": 1276349467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.53333,8.41667,-11.53333,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":-11.53333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Londoma",
+    "gn:country_code":"SL",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406953,
+    "gn:latitude":8.41667,
+    "gn:longitude":-11.53333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Londoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406953
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9108b5fcf55b0136351904423363466d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1276349467,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1276349467,
+    "wof:lastmodified":1536756892,
+    "wof:name":"Londoma",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.53333,
+    8.41667,
+    -11.53333,
+    8.41667
+],
+  "geometry": {"coordinates":[-11.53333,8.41667],"type":"Point"}
+}

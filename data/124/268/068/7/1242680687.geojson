@@ -1,0 +1,71 @@
+{
+  "id": 1242680687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.64325,9.49949,-12.64325,9.49949",
+    "geom:latitude":9.49949,
+    "geom:longitude":-12.64325,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yomboro Duladi",
+    "gn:country_code":"SL",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402735,
+    "gn:latitude":9.49949,
+    "gn:longitude":-12.64325,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yomboro Duladi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duladi",
+        "Yomboro Duladi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402735
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d845f34077fa2f7e2ca9e825f0ed1b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1242680687,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1242680687,
+    "wof:lastmodified":1537700441,
+    "wof:name":"Yomboro Duladi",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.64325,
+    9.49949,
+    -12.64325,
+    9.49949
+],
+  "geometry": {"coordinates":[-12.64325,9.49949],"type":"Point"}
+}

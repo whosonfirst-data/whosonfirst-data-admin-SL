@@ -1,0 +1,64 @@
+{
+  "id": 1209323603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.61655,8.88776,-12.61655,8.88776",
+    "geom:latitude":8.88776,
+    "geom:longitude":-12.61655,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kamba",
+    "gn:country_code":"SL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408113,
+    "gn:latitude":8.88776,
+    "gn:longitude":-12.61655,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408113
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"705546013314e04caba1e098d50fb7c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209323603
+        }
+    ],
+    "wof:id":1209323603,
+    "wof:lastmodified":1537700617,
+    "wof:name":"Kamba",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.61655,
+    8.88776,
+    -12.61655,
+    8.88776
+],
+  "geometry": {"coordinates":[-12.61655,8.88776],"type":"Point"}
+}

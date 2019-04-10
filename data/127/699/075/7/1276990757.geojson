@@ -1,0 +1,70 @@
+{
+  "id": 1276990757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.62931,8.63432,-10.62931,8.63432",
+    "geom:latitude":8.63432,
+    "geom:longitude":-10.62931,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tinsiko",
+    "gn:country_code":"SL",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403409,
+    "gn:latitude":8.63432,
+    "gn:longitude":-10.62931,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Tinsiko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tinsiko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403409
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3504bf6841a062af08e3c97820a33f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1276990757,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1276990757,
+    "wof:lastmodified":1537700462,
+    "wof:name":"Tinsiko",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.62931,
+    8.63432,
+    -10.62931,
+    8.63432
+],
+  "geometry": {"coordinates":[-10.62931,8.63432],"type":"Point"}
+}

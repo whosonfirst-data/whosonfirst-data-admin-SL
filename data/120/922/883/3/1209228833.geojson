@@ -1,0 +1,64 @@
+{
+  "id": 1209228833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9041,7.85291,-10.9041,7.85291",
+    "geom:latitude":7.85291,
+    "geom:longitude":-10.9041,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ndokogbundema",
+    "gn:country_code":"SL",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875937,
+    "gn:latitude":7.85291,
+    "gn:longitude":-10.9041,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ndokogbundema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ndokogbundema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875937
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f320e8bb1a48504c5c1c9b2536a1e31f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209228833
+        }
+    ],
+    "wof:id":1209228833,
+    "wof:lastmodified":1537700772,
+    "wof:name":"Ndokogbundema",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9041,
+    7.85291,
+    -10.9041,
+    7.85291
+],
+  "geometry": {"coordinates":[-10.9041,7.85291],"type":"Point"}
+}

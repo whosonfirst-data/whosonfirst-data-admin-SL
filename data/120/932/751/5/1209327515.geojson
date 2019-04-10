@@ -1,0 +1,64 @@
+{
+  "id": 1209327515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.59823,8.43244,-12.59823,8.43244",
+    "geom:latitude":8.43244,
+    "geom:longitude":-12.59823,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masankara",
+    "gn:country_code":"SL",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872770,
+    "gn:latitude":8.43244,
+    "gn:longitude":-12.59823,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Masankara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masankara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872770
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"905306a6cfa52beaf7ec8f5fa6a7cb79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209327515
+        }
+    ],
+    "wof:id":1209327515,
+    "wof:lastmodified":1537700748,
+    "wof:name":"Masankara",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.59823,
+    8.43244,
+    -12.59823,
+    8.43244
+],
+  "geometry": {"coordinates":[-12.59823,8.43244],"type":"Point"}
+}

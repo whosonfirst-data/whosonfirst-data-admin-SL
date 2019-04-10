@@ -1,0 +1,72 @@
+{
+  "id": 890435433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.03333,8.7,-11.03333,8.7",
+    "geom:latitude":8.7,
+    "geom:longitude":-11.03333,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":2705,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koyima"
+    ],
+    "qs:name":"Peyima",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1033,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404472,
+        "gp:id":1424724,
+        "qs:id":1035447,
+        "wd:id":"Q1781849",
+        "wk:page":"Kono District"
+    },
+    "wof:country":"SL",
+    "wof:created":1469052067,
+    "wof:geomhash":"15f318be591cf78e1d02a03e805a6c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":890435433,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":890435433,
+    "wof:lastmodified":1527793052,
+    "wof:name":"Peyima",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:population":2705,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.03333,
+    8.7,
+    -11.03333,
+    8.7
+],
+  "geometry": {"coordinates":[-11.03333,8.7],"type":"Point"}
+}

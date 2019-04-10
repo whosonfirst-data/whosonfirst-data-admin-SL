@@ -1,0 +1,70 @@
+{
+  "id": 1327043051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.28662,9.19427,-12.28662,9.19427",
+    "geom:latitude":9.19427,
+    "geom:longitude":-12.28662,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yankalol",
+    "gn:country_code":"SL",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402905,
+    "gn:latitude":9.19427,
+    "gn:longitude":-12.28662,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Yankalol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yankalol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402905
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"293a62e1db38ce3f9c79433d088d2a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1327043051,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327043051,
+    "wof:lastmodified":1537700446,
+    "wof:name":"Yankalol",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.28662,
+    9.19427,
+    -12.28662,
+    9.19427
+],
+  "geometry": {"coordinates":[-12.28662,9.19427],"type":"Point"}
+}

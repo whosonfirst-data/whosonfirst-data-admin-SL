@@ -1,0 +1,73 @@
+{
+  "id": 1242581603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.59279,8.79326,-10.59279,8.79326",
+    "geom:latitude":8.79326,
+    "geom:longitude":-10.59279,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Torwa",
+    "gn:country_code":"SL",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403269,
+    "gn:latitude":8.79326,
+    "gn:longitude":-10.59279,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Torwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Torwa"
+    ],
+    "name:und_x_variant":[
+        "Towala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403269
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d25984a320171e2866c1aa7b0015fed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1242581603,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1242581603,
+    "wof:lastmodified":1537700458,
+    "wof:name":"Torwa",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.59279,
+    8.79326,
+    -10.59279,
+    8.79326
+],
+  "geometry": {"coordinates":[-10.59279,8.79326],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276228061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.98383,8.29967,-12.98383,8.29967",
+    "geom:latitude":8.29967,
+    "geom:longitude":-12.98383,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ma-sita",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872217,
+    "gn:latitude":8.29967,
+    "gn:longitude":-12.98383,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ma-sita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ma-sita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872217
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7e13a1c7fbed1b99685773c900333198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1276228061,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1276228061,
+    "wof:lastmodified":1537700743,
+    "wof:name":"Ma-sita",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.98383,
+    8.29967,
+    -12.98383,
+    8.29967
+],
+  "geometry": {"coordinates":[-12.98383,8.29967],"type":"Point"}
+}

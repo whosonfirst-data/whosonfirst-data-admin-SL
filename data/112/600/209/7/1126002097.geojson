@@ -1,0 +1,81 @@
+{
+  "id": 1126002097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.19,8.60972,-13.19,8.60972",
+    "geom:latitude":8.60972,
+    "geom:longitude":-13.19,
+    "gn:gn_country":"SL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3658,
+    "gn:population":3658,
+    "iso:country":"SL",
+    "lbl:latitude":8.60972,
+    "lbl:longitude":-13.19,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Masoyila"
+    ],
+    "qs_pg:aaroncc":"SL",
+    "qs_pg:gn_country":"SL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2405701,
+    "qs_pg:gn_pop":3658,
+    "qs_pg:name":"Masoyila",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":139977,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405701,
+        "qs_pg:id":139977
+    },
+    "wof:country":"SL",
+    "wof:created":1497299710,
+    "wof:geomhash":"b3fe82aff62f4ded9747c4739fe30415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1126002097,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1126002097,
+    "wof:lastmodified":1509406210,
+    "wof:name":"Masoyila",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:population":3658,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.19,
+    8.60972,
+    -13.19,
+    8.60972
+],
+  "geometry": {"coordinates":[-13.19,8.60972],"type":"Point"}
+}

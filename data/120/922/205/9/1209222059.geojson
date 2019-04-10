@@ -1,0 +1,64 @@
+{
+  "id": 1209222059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.39092,7.13383,-11.39092,7.13383",
+    "geom:latitude":7.13383,
+    "geom:longitude":-11.39092,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jene",
+    "gn:country_code":"SL",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408439,
+    "gn:latitude":7.13383,
+    "gn:longitude":-11.39092,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Jene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408439
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a6cdc17ff5c21007f4fd6856a012c201",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209222059
+        }
+    ],
+    "wof:id":1209222059,
+    "wof:lastmodified":1537700628,
+    "wof:name":"Jene",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.39092,
+    7.13383,
+    -11.39092,
+    7.13383
+],
+  "geometry": {"coordinates":[-11.39092,7.13383],"type":"Point"}
+}

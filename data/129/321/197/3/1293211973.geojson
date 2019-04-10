@@ -1,0 +1,67 @@
+{
+  "id": 1293211973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.59861,7.53333,-12.59861,7.53333",
+    "geom:latitude":7.53333,
+    "geom:longitude":-12.59861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Taldale",
+    "gn:country_code":"SL",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593510,
+    "gn:latitude":7.53333,
+    "gn:longitude":-12.59861,
+    "gn:modification_date":"1999-12-14",
+    "gn:name":"Taldale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593510
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d7f76a0d4794ac5f05e7633383284777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1293211973,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293211973,
+    "wof:lastmodified":1536687228,
+    "wof:name":"Taldale",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.59861,
+    7.53333,
+    -12.59861,
+    7.53333
+],
+  "geometry": {"coordinates":[-12.59861,7.53333],"type":"Point"}
+}

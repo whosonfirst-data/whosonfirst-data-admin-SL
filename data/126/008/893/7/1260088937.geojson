@@ -1,0 +1,70 @@
+{
+  "id": 1260088937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.12658,8.45095,-12.12658,8.45095",
+    "geom:latitude":8.45095,
+    "geom:longitude":-12.12658,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bariwa",
+    "gn:country_code":"SL",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875455,
+    "gn:latitude":8.45095,
+    "gn:longitude":-12.12658,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Bariwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bariwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875455
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b5a447b48c837aa08e2d179b1c0637eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1260088937,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1260088937,
+    "wof:lastmodified":1537700764,
+    "wof:name":"Bariwa",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.12658,
+    8.45095,
+    -12.12658,
+    8.45095
+],
+  "geometry": {"coordinates":[-12.12658,8.45095],"type":"Point"}
+}

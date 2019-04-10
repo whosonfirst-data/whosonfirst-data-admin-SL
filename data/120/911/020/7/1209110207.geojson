@@ -1,0 +1,64 @@
+{
+  "id": 1209110207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.89329,8.84319,-10.89329,8.84319",
+    "geom:latitude":8.84319,
+    "geom:longitude":-10.89329,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bakuidu",
+    "gn:country_code":"SL",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410597,
+    "gn:latitude":8.84319,
+    "gn:longitude":-10.89329,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Bakuidu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bakuidu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410597
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"50e759026b4f6b869cef2361e9f67cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209110207
+        }
+    ],
+    "wof:id":1209110207,
+    "wof:lastmodified":1537700702,
+    "wof:name":"Bakuidu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.89329,
+    8.84319,
+    -10.89329,
+    8.84319
+],
+  "geometry": {"coordinates":[-10.89329,8.84319],"type":"Point"}
+}

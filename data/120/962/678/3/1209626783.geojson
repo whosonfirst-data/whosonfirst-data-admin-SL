@@ -1,0 +1,64 @@
+{
+  "id": 1209626783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.35913,8.27048,-12.35913,8.27048",
+    "geom:latitude":8.27048,
+    "geom:longitude":-12.35913,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Guala",
+    "gn:country_code":"SL",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875225,
+    "gn:latitude":8.27048,
+    "gn:longitude":-12.35913,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Guala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Guala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875225
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5138993a058321f91e13b4824104b8d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209626783
+        }
+    ],
+    "wof:id":1209626783,
+    "wof:lastmodified":1537700762,
+    "wof:name":"Guala",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.35913,
+    8.27048,
+    -12.35913,
+    8.27048
+],
+  "geometry": {"coordinates":[-12.35913,8.27048],"type":"Point"}
+}

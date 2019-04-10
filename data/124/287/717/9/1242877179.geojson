@@ -1,0 +1,70 @@
+{
+  "id": 1242877179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.44871,9.14964,-12.44871,9.14964",
+    "geom:latitude":9.14964,
+    "geom:longitude":-12.44871,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makena",
+    "gn:country_code":"SL",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406414,
+    "gn:latitude":9.14964,
+    "gn:longitude":-12.44871,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Makena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406414
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9618682e352523f95b6522c0286dfa9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1242877179,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1242877179,
+    "wof:lastmodified":1537700561,
+    "wof:name":"Makena",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.44871,
+    9.14964,
+    -12.44871,
+    9.14964
+],
+  "geometry": {"coordinates":[-12.44871,9.14964],"type":"Point"}
+}

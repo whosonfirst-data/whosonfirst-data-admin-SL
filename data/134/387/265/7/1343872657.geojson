@@ -1,0 +1,74 @@
+{
+  "id": 1343872657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.13245,8.68336,-11.13245,8.68336",
+    "geom:latitude":8.68336,
+    "geom:longitude":-11.13245,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yima",
+    "gn:country_code":"SL",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403708,
+    "gn:latitude":8.68336,
+    "gn:longitude":-11.13245,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Yima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yima"
+    ],
+    "name:und_x_variant":[
+        "Sambaidu",
+        "Sumbaidu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403708
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"69503d285216a9c268d5bb8615b7fa8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1343872657,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1343872657,
+    "wof:lastmodified":1537700471,
+    "wof:name":"Yima",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.13245,
+    8.68336,
+    -11.13245,
+    8.68336
+],
+  "geometry": {"coordinates":[-11.13245,8.68336],"type":"Point"}
+}

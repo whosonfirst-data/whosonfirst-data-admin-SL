@@ -1,0 +1,70 @@
+{
+  "id": 1277076451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.99761,8.02552,-11.99761,8.02552",
+    "geom:latitude":8.02552,
+    "geom:longitude":-11.99761,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Takpanga",
+    "gn:country_code":"SL",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904511,
+    "gn:latitude":8.02552,
+    "gn:longitude":-11.99761,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Takpanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Takpanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904511
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"63ec16a031dceba7a9169b8e13a3fe8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1277076451,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1277076451,
+    "wof:lastmodified":1537700854,
+    "wof:name":"Takpanga",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.99761,
+    8.02552,
+    -11.99761,
+    8.02552
+],
+  "geometry": {"coordinates":[-11.99761,8.02552],"type":"Point"}
+}

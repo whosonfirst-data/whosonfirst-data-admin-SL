@@ -1,0 +1,64 @@
+{
+  "id": 1209228395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.85673,8.3886,-10.85673,8.3886",
+    "geom:latitude":8.3886,
+    "geom:longitude":-10.85673,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sormoi",
+    "gn:country_code":"SL",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9879793,
+    "gn:latitude":8.3886,
+    "gn:longitude":-10.85673,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Sormoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sormoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9879793
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ac62cec22db2ad41bbf825b371d9615f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209228395
+        }
+    ],
+    "wof:id":1209228395,
+    "wof:lastmodified":1537700795,
+    "wof:name":"Sormoi",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.85673,
+    8.3886,
+    -10.85673,
+    8.3886
+],
+  "geometry": {"coordinates":[-10.85673,8.3886],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226749359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.7,8.16667,-11.7,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":-11.7,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Panguma",
+    "gn:country_code":"SL",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404664,
+    "gn:latitude":8.16667,
+    "gn:longitude":-11.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Panguma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404664
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f9ac70ce2166468e114aab0163b84eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1226749359,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226749359,
+    "wof:lastmodified":1536710616,
+    "wof:name":"Panguma",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.7,
+    8.16667,
+    -11.7,
+    8.16667
+],
+  "geometry": {"coordinates":[-11.7,8.16667],"type":"Point"}
+}

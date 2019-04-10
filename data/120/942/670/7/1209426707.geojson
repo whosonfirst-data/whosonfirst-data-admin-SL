@@ -1,0 +1,64 @@
+{
+  "id": 1209426707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.81806,8.21435,-12.81806,8.21435",
+    "geom:latitude":8.21435,
+    "geom:longitude":-12.81806,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mobikaw",
+    "gn:country_code":"SL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9892953,
+    "gn:latitude":8.21435,
+    "gn:longitude":-12.81806,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Mobikaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mobikaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9892953
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"40f00306b0556b279c7421a42bd46571",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209426707
+        }
+    ],
+    "wof:id":1209426707,
+    "wof:lastmodified":1537700825,
+    "wof:name":"Mobikaw",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.81806,
+    8.21435,
+    -12.81806,
+    8.21435
+],
+  "geometry": {"coordinates":[-12.81806,8.21435],"type":"Point"}
+}

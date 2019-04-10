@@ -1,0 +1,65 @@
+{
+  "id": 1209626731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.89528,7.65444,-11.89528,7.65444",
+    "geom:latitude":7.65444,
+    "geom:longitude":-11.89528,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yambama",
+    "gn:country_code":"SL",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402934,
+    "gn:latitude":7.65444,
+    "gn:longitude":-11.89528,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yambama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yamoama",
+        "Yameama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402934
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e4fd6c779018b7781ceaeebe4db37d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209626731
+        }
+    ],
+    "wof:id":1209626731,
+    "wof:lastmodified":1537700447,
+    "wof:name":"Yambama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.89528,
+    7.65444,
+    -11.89528,
+    7.65444
+],
+  "geometry": {"coordinates":[-11.89528,7.65444],"type":"Point"}
+}

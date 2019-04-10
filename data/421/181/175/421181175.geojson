@@ -1,0 +1,84 @@
+{
+  "id": 421181175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.08083,8.26278,-13.08083,8.26278",
+    "geom:latitude":8.26278,
+    "geom:longitude":-13.08083,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Cline Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30a4\u30f3\u30bf\u30a6\u30f3"
+    ],
+    "qs:gn_country":"SL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2566368,
+    "qs:gn_pop":0,
+    "qs:name":"Cline Town",
+    "qs:name_adm0":"Sierra Leone",
+    "qs:name_adm1":"Western Area",
+    "qs:photos":211,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":211,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":479015,
+    "qs:woe_adm0":23424946,
+    "qs:woe_id":1419257,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":245,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566368,
+        "gp:id":1419257,
+        "qs:id":479015,
+        "wd:id":"Q5133722"
+    },
+    "wof:country":"SL",
+    "wof:created":1459009287,
+    "wof:geomhash":"f86984cf6750feb2b2d761eee1089d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":421181175,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":421181175,
+    "wof:lastmodified":1527716326,
+    "wof:name":"Cline Town",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.08083,
+    8.26278,
+    -13.08083,
+    8.26278
+],
+  "geometry": {"coordinates":[-13.08083,8.26278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209318581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.32903,8.31455,-10.32903,8.31455",
+    "geom:latitude":8.31455,
+    "geom:longitude":-10.32903,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Weh",
+    "gn:country_code":"SL",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403084,
+    "gn:latitude":8.31455,
+    "gn:longitude":-10.32903,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Weh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Weh"
+    ],
+    "name:und_x_variant":[
+        "Wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403084
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"64da69edc65f453959c7f7b2eb8f02d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209318581
+        }
+    ],
+    "wof:id":1209318581,
+    "wof:lastmodified":1537700452,
+    "wof:name":"Weh",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.32903,
+    8.31455,
+    -10.32903,
+    8.31455
+],
+  "geometry": {"coordinates":[-10.32903,8.31455],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226051429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.19752,8.88546,-12.19752,8.88546",
+    "geom:latitude":8.88546,
+    "geom:longitude":-12.19752,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Matamba",
+    "gn:country_code":"SL",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405635,
+    "gn:latitude":8.88546,
+    "gn:longitude":-12.19752,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Matamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405635
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b9e88f50442541f1f447f59eaf672a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1226051429,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226051429,
+    "wof:lastmodified":1537700536,
+    "wof:name":"Matamba",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.19752,
+    8.88546,
+    -12.19752,
+    8.88546
+],
+  "geometry": {"coordinates":[-12.19752,8.88546],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360296827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.82343,8.1509,-12.82343,8.1509",
+    "geom:latitude":8.1509,
+    "geom:longitude":-12.82343,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tuelo",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403260,
+    "gn:latitude":8.1509,
+    "gn:longitude":-12.82343,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Tuelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tuelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403260
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"af6b95f27b7245f1f4e7f20dc9f5717b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1360296827,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1360296827,
+    "wof:lastmodified":1537700458,
+    "wof:name":"Tuelo",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.82343,
+    8.1509,
+    -12.82343,
+    8.1509
+],
+  "geometry": {"coordinates":[-12.82343,8.1509],"type":"Point"}
+}

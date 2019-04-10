@@ -1,0 +1,70 @@
+{
+  "id": 1226454123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.0197,7.76735,-12.0197,7.76735",
+    "geom:latitude":7.76735,
+    "geom:longitude":-12.0197,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Masao",
+    "gn:country_code":"SL",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872488,
+    "gn:latitude":7.76735,
+    "gn:longitude":-12.0197,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Masao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872488
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a1414f31331c483f3afeb10d7cd602a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1226454123,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226454123,
+    "wof:lastmodified":1537700747,
+    "wof:name":"Masao",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.0197,
+    7.76735,
+    -12.0197,
+    7.76735
+],
+  "geometry": {"coordinates":[-12.0197,7.76735],"type":"Point"}
+}

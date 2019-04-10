@@ -1,0 +1,64 @@
+{
+  "id": 1209317709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.49358,8.88643,-11.49358,8.88643",
+    "geom:latitude":8.88643,
+    "geom:longitude":-11.49358,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tonkoli",
+    "gn:country_code":"SL",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403289,
+    "gn:latitude":8.88643,
+    "gn:longitude":-11.49358,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Tonkoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tonkoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403289
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d3303f30fa48340bd36d7f2b979ddae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209317709
+        }
+    ],
+    "wof:id":1209317709,
+    "wof:lastmodified":1537700458,
+    "wof:name":"Tonkoli",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.49358,
+    8.88643,
+    -11.49358,
+    8.88643
+],
+  "geometry": {"coordinates":[-11.49358,8.88643],"type":"Point"}
+}

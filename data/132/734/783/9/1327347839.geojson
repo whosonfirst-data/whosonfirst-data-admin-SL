@@ -1,0 +1,70 @@
+{
+  "id": 1327347839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.37588,8.44399,-10.37588,8.44399",
+    "geom:latitude":8.44399,
+    "geom:longitude":-10.37588,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Palima",
+    "gn:country_code":"SL",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9891930,
+    "gn:latitude":8.44399,
+    "gn:longitude":-10.37588,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Palima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Palima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9891930
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9427a00e4ba36ea5d8efcda1a942213a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1327347839,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1327347839,
+    "wof:lastmodified":1537700817,
+    "wof:name":"Palima",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.37588,
+    8.44399,
+    -10.37588,
+    8.44399
+],
+  "geometry": {"coordinates":[-10.37588,8.44399],"type":"Point"}
+}

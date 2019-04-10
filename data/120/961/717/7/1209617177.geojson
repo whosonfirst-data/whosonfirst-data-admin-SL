@@ -1,0 +1,64 @@
+{
+  "id": 1209617177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.15134,7.73137,-12.15134,7.73137",
+    "geom:latitude":7.73137,
+    "geom:longitude":-12.15134,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mabonto",
+    "gn:country_code":"SL",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876092,
+    "gn:latitude":7.73137,
+    "gn:longitude":-12.15134,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Mabonto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mabonto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876092
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"16a234bd4c80ae355b6861afc5799204",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209617177
+        }
+    ],
+    "wof:id":1209617177,
+    "wof:lastmodified":1537700774,
+    "wof:name":"Mabonto",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.15134,
+    7.73137,
+    -12.15134,
+    7.73137
+],
+  "geometry": {"coordinates":[-12.15134,7.73137],"type":"Point"}
+}

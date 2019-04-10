@@ -1,0 +1,67 @@
+{
+  "id": 1310308035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.14905,8.52273,-13.14905,8.52273",
+    "geom:latitude":8.52273,
+    "geom:longitude":-13.14905,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tagrin",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403646,
+    "gn:latitude":8.52273,
+    "gn:longitude":-13.14905,
+    "gn:modification_date":"2015-07-22",
+    "gn:name":"Tagrin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403646
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4055ecd307eafed283eea7a8082aac27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1310308035,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310308035,
+    "wof:lastmodified":1536704507,
+    "wof:name":"Tagrin",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.14905,
+    8.52273,
+    -13.14905,
+    8.52273
+],
+  "geometry": {"coordinates":[-13.14905,8.52273],"type":"Point"}
+}

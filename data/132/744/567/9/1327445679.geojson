@@ -1,0 +1,70 @@
+{
+  "id": 1327445679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.20993,8.61917,-11.20993,8.61917",
+    "geom:latitude":8.61917,
+    "geom:longitude":-11.20993,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sumbaidu",
+    "gn:country_code":"SL",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403709,
+    "gn:latitude":8.61917,
+    "gn:longitude":-11.20993,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Sumbaidu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sumbaidu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403709
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"758f921a6c835cccf7141c1eff50ee60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1327445679,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1327445679,
+    "wof:lastmodified":1537700471,
+    "wof:name":"Sumbaidu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.20993,
+    8.61917,
+    -11.20993,
+    8.61917
+],
+  "geometry": {"coordinates":[-11.20993,8.61917],"type":"Point"}
+}

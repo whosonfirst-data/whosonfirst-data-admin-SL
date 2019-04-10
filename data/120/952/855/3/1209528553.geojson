@@ -1,0 +1,64 @@
+{
+  "id": 1209528553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.11131,9.06929,-11.11131,9.06929",
+    "geom:latitude":9.06929,
+    "geom:longitude":-11.11131,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Siraia",
+    "gn:country_code":"SL",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403796,
+    "gn:latitude":9.06929,
+    "gn:longitude":-11.11131,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Siraia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Siraia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403796
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3365c6f457627c9cd2a63d8f1e80b02e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209528553
+        }
+    ],
+    "wof:id":1209528553,
+    "wof:lastmodified":1537700474,
+    "wof:name":"Siraia",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.11131,
+    9.06929,
+    -11.11131,
+    9.06929
+],
+  "geometry": {"coordinates":[-11.11131,9.06929],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277078397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.79908,8.69044,-10.79908,8.69044",
+    "geom:latitude":8.69044,
+    "geom:longitude":-10.79908,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dakadu",
+    "gn:country_code":"SL",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409724,
+    "gn:latitude":8.69044,
+    "gn:longitude":-10.79908,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Dakadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dakadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409724
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"edb4e71bb7a979e1de140d88d2407806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1277078397,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1277078397,
+    "wof:lastmodified":1537700672,
+    "wof:name":"Dakadu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.79908,
+    8.69044,
+    -10.79908,
+    8.69044
+],
+  "geometry": {"coordinates":[-10.79908,8.69044],"type":"Point"}
+}

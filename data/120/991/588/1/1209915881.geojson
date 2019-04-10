@@ -1,0 +1,71 @@
+{
+  "id": 1209915881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.77411,7.97842,-12.77411,7.97842",
+    "geom:latitude":7.97842,
+    "geom:longitude":-12.77411,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Motainkil",
+    "gn:country_code":"SL",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405046,
+    "gn:latitude":7.97842,
+    "gn:longitude":-12.77411,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Motainkil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Motainkin",
+        "Motainkil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405046
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"72e47c977d96b4992903ef2bb1069a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1209915881,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1209915881,
+    "wof:lastmodified":1537700516,
+    "wof:name":"Motainkil",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.77411,
+    7.97842,
+    -12.77411,
+    7.97842
+],
+  "geometry": {"coordinates":[-12.77411,7.97842],"type":"Point"}
+}

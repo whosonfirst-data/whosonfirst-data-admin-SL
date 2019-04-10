@@ -1,0 +1,64 @@
+{
+  "id": 1209113525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.63855,8.15197,-12.63855,8.15197",
+    "geom:latitude":8.15197,
+    "geom:longitude":-12.63855,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gambia",
+    "gn:country_code":"SL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893535,
+    "gn:latitude":8.15197,
+    "gn:longitude":-12.63855,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Gambia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gambia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893535
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"20620e8b346b844663f0f80bf4f3916a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209113525
+        }
+    ],
+    "wof:id":1209113525,
+    "wof:lastmodified":1537700835,
+    "wof:name":"Gambia",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.63855,
+    8.15197,
+    -12.63855,
+    8.15197
+],
+  "geometry": {"coordinates":[-12.63855,8.15197],"type":"Point"}
+}

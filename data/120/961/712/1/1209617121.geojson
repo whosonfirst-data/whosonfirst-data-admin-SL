@@ -1,0 +1,64 @@
+{
+  "id": 1209617121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.3656,7.41073,-12.3656,7.41073",
+    "geom:latitude":7.41073,
+    "geom:longitude":-12.3656,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Taigbe",
+    "gn:country_code":"SL",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403639,
+    "gn:latitude":7.41073,
+    "gn:longitude":-12.3656,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Taigbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Taigbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403639
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"789fe69e812051a34f198aecd96af7f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209617121
+        }
+    ],
+    "wof:id":1209617121,
+    "wof:lastmodified":1537700469,
+    "wof:name":"Taigbe",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.3656,
+    7.41073,
+    -12.3656,
+    7.41073
+],
+  "geometry": {"coordinates":[-12.3656,7.41073],"type":"Point"}
+}

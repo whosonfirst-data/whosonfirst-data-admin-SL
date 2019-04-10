@@ -1,0 +1,68 @@
+{
+  "id": 1209012053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.87007,7.65778,-11.87007,7.65778",
+    "geom:latitude":7.65778,
+    "geom:longitude":-11.87007,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kpatobu",
+    "gn:country_code":"SL",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404426,
+    "gn:latitude":7.65778,
+    "gn:longitude":-11.87007,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kpatobu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpatobu"
+    ],
+    "name:und_x_variant":[
+        "Patobu",
+        "Potobu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404426
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"60c055dad7fa21c6b62f30ca9e11ac6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209012053
+        }
+    ],
+    "wof:id":1209012053,
+    "wof:lastmodified":1537700495,
+    "wof:name":"Kpatobu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.87007,
+    7.65778,
+    -11.87007,
+    7.65778
+],
+  "geometry": {"coordinates":[-11.87007,7.65778],"type":"Point"}
+}

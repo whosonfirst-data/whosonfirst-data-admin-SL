@@ -1,0 +1,64 @@
+{
+  "id": 1209519597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.31752,8.49806,-10.31752,8.49806",
+    "geom:latitude":8.49806,
+    "geom:longitude":-10.31752,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sokoma",
+    "gn:country_code":"SL",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403779,
+    "gn:latitude":8.49806,
+    "gn:longitude":-10.31752,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Sokoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sokoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403779
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6fce724e760ae5e756b77a4d06240e29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209519597
+        }
+    ],
+    "wof:id":1209519597,
+    "wof:lastmodified":1537700474,
+    "wof:name":"Sokoma",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.31752,
+    8.49806,
+    -10.31752,
+    8.49806
+],
+  "geometry": {"coordinates":[-10.31752,8.49806],"type":"Point"}
+}

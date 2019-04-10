@@ -1,0 +1,64 @@
+{
+  "id": 1209327661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.91286,8.49388,-11.91286,8.49388",
+    "geom:latitude":8.49388,
+    "geom:longitude":-11.91286,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mabankra",
+    "gn:country_code":"SL",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406874,
+    "gn:latitude":8.49388,
+    "gn:longitude":-11.91286,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mabankra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mabankra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406874
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5e0591160fcb5ef77417ab3c72fd4b88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209327661
+        }
+    ],
+    "wof:id":1209327661,
+    "wof:lastmodified":1537700576,
+    "wof:name":"Mabankra",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.91286,
+    8.49388,
+    -11.91286,
+    8.49388
+],
+  "geometry": {"coordinates":[-11.91286,8.49388],"type":"Point"}
+}

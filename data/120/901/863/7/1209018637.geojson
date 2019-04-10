@@ -1,0 +1,64 @@
+{
+  "id": 1209018637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.38634,7.88613,-11.38634,7.88613",
+    "geom:latitude":7.88613,
+    "geom:longitude":-11.38634,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Longema",
+    "gn:country_code":"SL",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875178,
+    "gn:latitude":7.88613,
+    "gn:longitude":-11.38634,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Longema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Longema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875178
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9daa0908cf2ad94bfa7d390af49768ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209018637
+        }
+    ],
+    "wof:id":1209018637,
+    "wof:lastmodified":1537700760,
+    "wof:name":"Longema",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.38634,
+    7.88613,
+    -11.38634,
+    7.88613
+],
+  "geometry": {"coordinates":[-11.38634,7.88613],"type":"Point"}
+}

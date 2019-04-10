@@ -1,0 +1,73 @@
+{
+  "id": 1310715973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.33041,8.42296,-11.33041,8.42296",
+    "geom:latitude":8.42296,
+    "geom:longitude":-11.33041,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ndambala",
+    "gn:country_code":"SL",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409702,
+    "gn:latitude":8.42296,
+    "gn:longitude":-11.33041,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ndambala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ndambala"
+    ],
+    "name:und_x_variant":[
+        "Dambara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409702
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"85d2ceaa729987f4ddd03b7d8fb21e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1310715973,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1310715973,
+    "wof:lastmodified":1537700671,
+    "wof:name":"Ndambala",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.33041,
+    8.42296,
+    -11.33041,
+    8.42296
+],
+  "geometry": {"coordinates":[-11.33041,8.42296],"type":"Point"}
+}

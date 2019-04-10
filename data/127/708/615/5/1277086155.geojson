@@ -1,0 +1,70 @@
+{
+  "id": 1277086155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.74053,7.37154,-11.74053,7.37154",
+    "geom:latitude":7.37154,
+    "geom:longitude":-11.74053,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kabawana",
+    "gn:country_code":"SL",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571041,
+    "gn:latitude":7.37154,
+    "gn:longitude":-11.74053,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kabawana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kabawana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571041
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e1688dee81bf70d34bf4fb3b1356958f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779069,
+            "locality_id":1277086155,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1277086155,
+    "wof:lastmodified":1537700717,
+    "wof:name":"Kabawana",
+    "wof:parent_id":1108779069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.74053,
+    7.37154,
+    -11.74053,
+    7.37154
+],
+  "geometry": {"coordinates":[-11.74053,7.37154],"type":"Point"}
+}

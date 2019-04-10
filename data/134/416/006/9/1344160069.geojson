@@ -1,0 +1,70 @@
+{
+  "id": 1344160069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.41369,8.5052,-12.41369,8.5052",
+    "geom:latitude":8.5052,
+    "geom:longitude":-12.41369,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mayasani",
+    "gn:country_code":"SL",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10132005,
+    "gn:latitude":8.5052,
+    "gn:longitude":-12.41369,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Mayasani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mayasani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10132005
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a96b8d91cb68fa138222f9cd0217a9ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1344160069,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1344160069,
+    "wof:lastmodified":1537700932,
+    "wof:name":"Mayasani",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.41369,
+    8.5052,
+    -12.41369,
+    8.5052
+],
+  "geometry": {"coordinates":[-12.41369,8.5052],"type":"Point"}
+}

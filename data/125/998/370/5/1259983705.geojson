@@ -1,0 +1,83 @@
+{
+  "id": 1259983705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.28603,8.48193,-10.28603,8.48193",
+    "geom:latitude":8.48193,
+    "geom:longitude":-10.28603,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kpemalu",
+    "gn:country_code":"SL",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407308,
+    "gn:latitude":8.48193,
+    "gn:longitude":-10.28603,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kpemalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpemalu"
+    ],
+    "name:und_x_variant":[
+        "Kpemadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693663,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407308
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5ed9475c0b9063e8388039f5584ffcdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693663,
+            "locality_id":1259983705,
+            "region_id":85673539
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1259983705,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1259983705,
+    "wof:lastmodified":1537700591,
+    "wof:name":"Kpemalu",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.28603,
+    8.48193,
+    -10.28603,
+    8.48193
+],
+  "geometry": {"coordinates":[-10.28603,8.48193],"type":"Point"}
+}

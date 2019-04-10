@@ -1,0 +1,64 @@
+{
+  "id": 1209217637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.78335,8.40851,-12.78335,8.40851",
+    "geom:latitude":8.40851,
+    "geom:longitude":-12.78335,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gberi",
+    "gn:country_code":"SL",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872010,
+    "gn:latitude":8.40851,
+    "gn:longitude":-12.78335,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gberi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gberi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872010
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"764a79dda7d4757f77e06416b200448d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209217637
+        }
+    ],
+    "wof:id":1209217637,
+    "wof:lastmodified":1537700741,
+    "wof:name":"Gberi",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.78335,
+    8.40851,
+    -12.78335,
+    8.40851
+],
+  "geometry": {"coordinates":[-12.78335,8.40851],"type":"Point"}
+}

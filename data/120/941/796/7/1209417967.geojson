@@ -1,0 +1,64 @@
+{
+  "id": 1209417967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.292,9.02122,-13.292,9.02122",
+    "geom:latitude":9.02122,
+    "geom:longitude":-13.292,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makuma",
+    "gn:country_code":"SL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406290,
+    "gn:latitude":9.02122,
+    "gn:longitude":-13.292,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Makuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406290
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"10f2eb9eacf4f5a3b256e42554d7a0ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209417967
+        }
+    ],
+    "wof:id":1209417967,
+    "wof:lastmodified":1537700557,
+    "wof:name":"Makuma",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.292,
+    9.02122,
+    -13.292,
+    9.02122
+],
+  "geometry": {"coordinates":[-13.292,9.02122],"type":"Point"}
+}

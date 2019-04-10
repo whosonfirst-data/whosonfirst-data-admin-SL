@@ -1,0 +1,70 @@
+{
+  "id": 1293202609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.72924,8.10422,-11.72924,8.10422",
+    "geom:latitude":8.10422,
+    "geom:longitude":-11.72924,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mambwema",
+    "gn:country_code":"SL",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406136,
+    "gn:latitude":8.10422,
+    "gn:longitude":-11.72924,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mambwema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mambwema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406136
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1e18987a74f78d021bb0b63b112a4317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1293202609,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293202609,
+    "wof:lastmodified":1537700552,
+    "wof:name":"Mambwema",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.72924,
+    8.10422,
+    -11.72924,
+    8.10422
+],
+  "geometry": {"coordinates":[-11.72924,8.10422],"type":"Point"}
+}

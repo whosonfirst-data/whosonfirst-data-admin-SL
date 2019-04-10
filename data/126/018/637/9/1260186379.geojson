@@ -1,0 +1,70 @@
+{
+  "id": 1260186379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.11142,8.62903,-11.11142,8.62903",
+    "geom:latitude":8.62903,
+    "geom:longitude":-11.11142,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sagbe",
+    "gn:country_code":"SL",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404218,
+    "gn:latitude":8.62903,
+    "gn:longitude":-11.11142,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Sagbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sagbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404218
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bc37b9049c23f409635e02971e1b9352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1260186379,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1260186379,
+    "wof:lastmodified":1537700487,
+    "wof:name":"Sagbe",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.11142,
+    8.62903,
+    -11.11142,
+    8.62903
+],
+  "geometry": {"coordinates":[-11.11142,8.62903],"type":"Point"}
+}

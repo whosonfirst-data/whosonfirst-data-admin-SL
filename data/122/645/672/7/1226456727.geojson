@@ -1,0 +1,70 @@
+{
+  "id": 1226456727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.85396,8.18637,-10.85396,8.18637",
+    "geom:latitude":8.18637,
+    "geom:longitude":-10.85396,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kalia",
+    "gn:country_code":"SL",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9920187,
+    "gn:latitude":8.18637,
+    "gn:longitude":-10.85396,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Kalia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9920187
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4a529f68efe6103ff41ca01c4ef8eb27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1226456727,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226456727,
+    "wof:lastmodified":1537700866,
+    "wof:name":"Kalia",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.85396,
+    8.18637,
+    -10.85396,
+    8.18637
+],
+  "geometry": {"coordinates":[-10.85396,8.18637],"type":"Point"}
+}

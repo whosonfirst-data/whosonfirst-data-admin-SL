@@ -1,0 +1,70 @@
+{
+  "id": 1259981701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.3556,7.87904,-12.3556,7.87904",
+    "geom:latitude":7.87904,
+    "geom:longitude":-12.3556,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nyandehun",
+    "gn:country_code":"SL",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404745,
+    "gn:latitude":7.87904,
+    "gn:longitude":-12.3556,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Nyandehun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyandehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404745
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bb2b8e361f10a0d1a49072c9288ba853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1259981701,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1259981701,
+    "wof:lastmodified":1537700505,
+    "wof:name":"Nyandehun",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.3556,
+    7.87904,
+    -12.3556,
+    7.87904
+],
+  "geometry": {"coordinates":[-12.3556,7.87904],"type":"Point"}
+}

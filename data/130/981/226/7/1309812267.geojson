@@ -1,0 +1,67 @@
+{
+  "id": 1309812267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.05917,8.60389,-13.05917,8.60389",
+    "geom:latitude":8.60389,
+    "geom:longitude":-13.05917,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mayela",
+    "gn:country_code":"SL",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566529,
+    "gn:latitude":8.60389,
+    "gn:longitude":-13.05917,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Mayela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566529
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a4489fe15c592e329595bc4ea6c793c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1309812267,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309812267,
+    "wof:lastmodified":1536922316,
+    "wof:name":"Mayela",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.05917,
+    8.60389,
+    -13.05917,
+    8.60389
+],
+  "geometry": {"coordinates":[-13.05917,8.60389],"type":"Point"}
+}

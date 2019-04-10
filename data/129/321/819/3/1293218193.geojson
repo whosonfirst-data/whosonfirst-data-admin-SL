@@ -1,0 +1,70 @@
+{
+  "id": 1293218193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.68151,8.72094,-10.68151,8.72094",
+    "geom:latitude":8.72094,
+    "geom:longitude":-10.68151,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Keama",
+    "gn:country_code":"SL",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407822,
+    "gn:latitude":8.72094,
+    "gn:longitude":-10.68151,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Keama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Keama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407822
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"500810c2b93f5c15c0d0db046f1ddd3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1293218193,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293218193,
+    "wof:lastmodified":1537700608,
+    "wof:name":"Keama",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.68151,
+    8.72094,
+    -10.68151,
+    8.72094
+],
+  "geometry": {"coordinates":[-10.68151,8.72094],"type":"Point"}
+}

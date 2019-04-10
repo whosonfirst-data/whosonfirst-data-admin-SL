@@ -1,0 +1,70 @@
+{
+  "id": 1343981957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.93943,8.31452,-12.93943,8.31452",
+    "geom:latitude":8.31452,
+    "geom:longitude":-12.93943,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ma-selo",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405770,
+    "gn:latitude":8.31452,
+    "gn:longitude":-12.93943,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ma-selo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ma-selo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405770
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"532ef5626580806cb3713edae22dd139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1343981957,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1343981957,
+    "wof:lastmodified":1537700541,
+    "wof:name":"Ma-selo",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.93943,
+    8.31452,
+    -12.93943,
+    8.31452
+],
+  "geometry": {"coordinates":[-12.93943,8.31452],"type":"Point"}
+}

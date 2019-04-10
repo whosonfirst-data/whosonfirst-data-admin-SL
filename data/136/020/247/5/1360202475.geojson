@@ -1,0 +1,70 @@
+{
+  "id": 1360202475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9546,8.96641,-10.9546,8.96641",
+    "geom:latitude":8.96641,
+    "geom:longitude":-10.9546,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kawama",
+    "gn:country_code":"SL",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407851,
+    "gn:latitude":8.96641,
+    "gn:longitude":-10.9546,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kawama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kawama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407851
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ba0384e7b02f0988417f0d35edc8f11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1360202475,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1360202475,
+    "wof:lastmodified":1537700609,
+    "wof:name":"Kawama",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9546,
+    8.96641,
+    -10.9546,
+    8.96641
+],
+  "geometry": {"coordinates":[-10.9546,8.96641],"type":"Point"}
+}

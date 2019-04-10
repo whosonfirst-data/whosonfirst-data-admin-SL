@@ -1,0 +1,64 @@
+{
+  "id": 1209527297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.56399,7.31338,-11.56399,7.31338",
+    "geom:latitude":7.31338,
+    "geom:longitude":-11.56399,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Senehun",
+    "gn:country_code":"SL",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403951,
+    "gn:latitude":7.31338,
+    "gn:longitude":-11.56399,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Senehun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Senehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403951
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9d862735c9159e88164db58e064efa5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209527297
+        }
+    ],
+    "wof:id":1209527297,
+    "wof:lastmodified":1537700479,
+    "wof:name":"Senehun",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.56399,
+    7.31338,
+    -11.56399,
+    7.31338
+],
+  "geometry": {"coordinates":[-11.56399,7.31338],"type":"Point"}
+}

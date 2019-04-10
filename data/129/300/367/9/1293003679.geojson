@@ -1,0 +1,70 @@
+{
+  "id": 1293003679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.74101,8.60742,-12.74101,8.60742",
+    "geom:latitude":8.60742,
+    "geom:longitude":-12.74101,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Madawa",
+    "gn:country_code":"SL",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9986903,
+    "gn:latitude":8.60742,
+    "gn:longitude":-12.74101,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Madawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Madawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9986903
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e7ad9331a9e9eec407e59e558f648944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1293003679,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293003679,
+    "wof:lastmodified":1537700896,
+    "wof:name":"Madawa",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.74101,
+    8.60742,
+    -12.74101,
+    8.60742
+],
+  "geometry": {"coordinates":[-12.74101,8.60742],"type":"Point"}
+}

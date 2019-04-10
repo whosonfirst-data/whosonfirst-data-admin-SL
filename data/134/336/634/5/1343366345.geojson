@@ -1,0 +1,70 @@
+{
+  "id": 1343366345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.85235,8.07345,-12.85235,8.07345",
+    "geom:latitude":8.07345,
+    "geom:longitude":-12.85235,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Samu",
+    "gn:country_code":"SL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404142,
+    "gn:latitude":8.07345,
+    "gn:longitude":-12.85235,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Samu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Samu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404142
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"39f8d686c8fb679e2f030028510cb8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1343366345,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343366345,
+    "wof:lastmodified":1537700485,
+    "wof:name":"Samu",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.85235,
+    8.07345,
+    -12.85235,
+    8.07345
+],
+  "geometry": {"coordinates":[-12.85235,8.07345],"type":"Point"}
+}

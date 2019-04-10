@@ -1,0 +1,64 @@
+{
+  "id": 1209429235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.86833,7.53616,-10.86833,7.53616",
+    "geom:latitude":7.53616,
+    "geom:longitude":-10.86833,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Periwama",
+    "gn:country_code":"SL",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404571,
+    "gn:latitude":7.53616,
+    "gn:longitude":-10.86833,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Periwama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Periwama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404571
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"562a18dbb2e3962f86a3906effd58e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209429235
+        }
+    ],
+    "wof:id":1209429235,
+    "wof:lastmodified":1537700499,
+    "wof:name":"Periwama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.86833,
+    7.53616,
+    -10.86833,
+    7.53616
+],
+  "geometry": {"coordinates":[-10.86833,7.53616],"type":"Point"}
+}

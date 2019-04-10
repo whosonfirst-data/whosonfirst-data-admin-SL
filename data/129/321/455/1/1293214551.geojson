@@ -1,0 +1,70 @@
+{
+  "id": 1293214551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.09605,8.48687,-11.09605,8.48687",
+    "geom:latitude":8.48687,
+    "geom:longitude":-11.09605,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mende",
+    "gn:country_code":"SL",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9878411,
+    "gn:latitude":8.48687,
+    "gn:longitude":-11.09605,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Mende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9878411
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e2b32b31cc3dc772c61948d041760eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1293214551,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293214551,
+    "wof:lastmodified":1537700792,
+    "wof:name":"Mende",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.09605,
+    8.48687,
+    -11.09605,
+    8.48687
+],
+  "geometry": {"coordinates":[-11.09605,8.48687],"type":"Point"}
+}

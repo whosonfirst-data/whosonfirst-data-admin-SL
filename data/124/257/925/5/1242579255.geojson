@@ -1,0 +1,73 @@
+{
+  "id": 1242579255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.76515,8.08426,-12.76515,8.08426",
+    "geom:latitude":8.08426,
+    "geom:longitude":-12.76515,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Youlo",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402955,
+    "gn:latitude":8.08426,
+    "gn:longitude":-12.76515,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Youlo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Youlo"
+    ],
+    "name:und_x_variant":[
+        "Yalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402955
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7986e79f6dfbc86120d0c998e638530d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1242579255,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1242579255,
+    "wof:lastmodified":1537700448,
+    "wof:name":"Youlo",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.76515,
+    8.08426,
+    -12.76515,
+    8.08426
+],
+  "geometry": {"coordinates":[-12.76515,8.08426],"type":"Point"}
+}

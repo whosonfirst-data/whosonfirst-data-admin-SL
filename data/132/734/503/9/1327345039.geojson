@@ -1,0 +1,70 @@
+{
+  "id": 1327345039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.38275,8.14296,-11.38275,8.14296",
+    "geom:latitude":8.14296,
+    "geom:longitude":-11.38275,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Motema",
+    "gn:country_code":"SL",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9913397,
+    "gn:latitude":8.14296,
+    "gn:longitude":-11.38275,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Motema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Motema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9913397
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"411a4dce85fb18394b7b3c195ff25c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1327345039,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327345039,
+    "wof:lastmodified":1537700857,
+    "wof:name":"Motema",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.38275,
+    8.14296,
+    -11.38275,
+    8.14296
+],
+  "geometry": {"coordinates":[-11.38275,8.14296],"type":"Point"}
+}

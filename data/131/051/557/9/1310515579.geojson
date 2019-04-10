@@ -1,0 +1,73 @@
+{
+  "id": 1310515579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.12635,8.72338,-11.12635,8.72338",
+    "geom:latitude":8.72338,
+    "geom:longitude":-11.12635,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hermakono",
+    "gn:country_code":"SL",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404050,
+    "gn:latitude":8.72338,
+    "gn:longitude":-11.12635,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Hermakono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hermakono"
+    ],
+    "name:und_x_variant":[
+        "Sedukonkoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404050
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a3e59e200cec0cc503a9dff9cb5c4a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1310515579,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1310515579,
+    "wof:lastmodified":1537700482,
+    "wof:name":"Hermakono",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.12635,
+    8.72338,
+    -11.12635,
+    8.72338
+],
+  "geometry": {"coordinates":[-11.12635,8.72338],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209324291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.14236,7.77522,-11.14236,7.77522",
+    "geom:latitude":7.77522,
+    "geom:longitude":-11.14236,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Giema",
+    "gn:country_code":"SL",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408820,
+    "gn:latitude":7.77522,
+    "gn:longitude":-11.14236,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Giema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Giema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408820
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6ae9709999fa97de18ba56ca8d3d2d5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209324291
+        }
+    ],
+    "wof:id":1209324291,
+    "wof:lastmodified":1537700640,
+    "wof:name":"Giema",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.14236,
+    7.77522,
+    -11.14236,
+    7.77522
+],
+  "geometry": {"coordinates":[-11.14236,7.77522],"type":"Point"}
+}

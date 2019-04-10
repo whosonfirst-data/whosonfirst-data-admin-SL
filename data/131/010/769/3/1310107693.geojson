@@ -1,0 +1,70 @@
+{
+  "id": 1310107693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.51798,7.54498,-12.51798,7.54498",
+    "geom:latitude":7.54498,
+    "geom:longitude":-12.51798,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shogoro",
+    "gn:country_code":"SL",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871007,
+    "gn:latitude":7.54498,
+    "gn:longitude":-12.51798,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Shogoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shogoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871007
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"779e68b2554c5563b22a33016213cf3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1310107693,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310107693,
+    "wof:lastmodified":1537700730,
+    "wof:name":"Shogoro",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.51798,
+    7.54498,
+    -12.51798,
+    7.54498
+],
+  "geometry": {"coordinates":[-12.51798,7.54498],"type":"Point"}
+}

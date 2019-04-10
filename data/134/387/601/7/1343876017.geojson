@@ -1,0 +1,70 @@
+{
+  "id": 1343876017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.59359,8.14564,-10.59359,8.14564",
+    "geom:latitude":8.14564,
+    "geom:longitude":-10.59359,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Wami",
+    "gn:country_code":"SL",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403126,
+    "gn:latitude":8.14564,
+    "gn:longitude":-10.59359,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Wami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403126
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"de621c5fd474ae5de05576c50d816e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1343876017,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1343876017,
+    "wof:lastmodified":1537700453,
+    "wof:name":"Wami",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.59359,
+    8.14564,
+    -10.59359,
+    8.14564
+],
+  "geometry": {"coordinates":[-10.59359,8.14564],"type":"Point"}
+}

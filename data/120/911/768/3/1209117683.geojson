@@ -1,0 +1,64 @@
+{
+  "id": 1209117683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.64855,7.35695,-11.64855,7.35695",
+    "geom:latitude":7.35695,
+    "geom:longitude":-11.64855,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Petima",
+    "gn:country_code":"SL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9892772,
+    "gn:latitude":7.35695,
+    "gn:longitude":-11.64855,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Petima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Petima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9892772
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"de49353747f12e39dd75f62aa88257ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209117683
+        }
+    ],
+    "wof:id":1209117683,
+    "wof:lastmodified":1537700822,
+    "wof:name":"Petima",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.64855,
+    7.35695,
+    -11.64855,
+    7.35695
+],
+  "geometry": {"coordinates":[-11.64855,7.35695],"type":"Point"}
+}

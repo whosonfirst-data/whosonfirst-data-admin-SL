@@ -1,0 +1,70 @@
+{
+  "id": 1226759223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.85159,8.21321,-12.85159,8.21321",
+    "geom:latitude":8.21321,
+    "geom:longitude":-12.85159,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kangama",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9892964,
+    "gn:latitude":8.21321,
+    "gn:longitude":-12.85159,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Kangama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kangama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9892964
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f92e04f837cdedfbeb0cf0285c61f333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226759223,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226759223,
+    "wof:lastmodified":1537700825,
+    "wof:name":"Kangama",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.85159,
+    8.21321,
+    -12.85159,
+    8.21321
+],
+  "geometry": {"coordinates":[-12.85159,8.21321],"type":"Point"}
+}

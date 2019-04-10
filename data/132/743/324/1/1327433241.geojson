@@ -1,0 +1,70 @@
+{
+  "id": 1327433241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.89785,7.89767,-12.89785,7.89767",
+    "geom:latitude":7.89767,
+    "geom:longitude":-12.89785,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Victoria",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403170,
+    "gn:latitude":7.89767,
+    "gn:longitude":-12.89785,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Victoria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Victoria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403170
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"834389822c8713d46a82c1d0d461ef9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1327433241,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327433241,
+    "wof:lastmodified":1537700454,
+    "wof:name":"Victoria",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.89785,
+    7.89767,
+    -12.89785,
+    7.89767
+],
+  "geometry": {"coordinates":[-12.89785,7.89767],"type":"Point"}
+}

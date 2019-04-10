@@ -1,0 +1,73 @@
+{
+  "id": 1260296823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.44683,8.09487,-11.44683,8.09487",
+    "geom:latitude":8.09487,
+    "geom:longitude":-11.44683,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ngalahun",
+    "gn:country_code":"SL",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408500,
+    "gn:latitude":8.09487,
+    "gn:longitude":-11.44683,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Ngalahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ngalahun"
+    ],
+    "name:und_x_variant":[
+        "Jahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408500
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"349b54734c6f6d59419a8a3db9f332b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1260296823,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1260296823,
+    "wof:lastmodified":1537700630,
+    "wof:name":"Ngalahun",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.44683,
+    8.09487,
+    -11.44683,
+    8.09487
+],
+  "geometry": {"coordinates":[-11.44683,8.09487],"type":"Point"}
+}

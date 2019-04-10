@@ -1,0 +1,70 @@
+{
+  "id": 1225947489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.31167,9.38345,-12.31167,9.38345",
+    "geom:latitude":9.38345,
+    "geom:longitude":-12.31167,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mang-aibe",
+    "gn:country_code":"SL",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406074,
+    "gn:latitude":9.38345,
+    "gn:longitude":-12.31167,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Mang-aibe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mang-aibe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406074
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e831bcf7ab14faa82a64f02e1c5d5a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1225947489,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1225947489,
+    "wof:lastmodified":1537700550,
+    "wof:name":"Mang-aibe",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.31167,
+    9.38345,
+    -12.31167,
+    9.38345
+],
+  "geometry": {"coordinates":[-12.31167,9.38345],"type":"Point"}
+}

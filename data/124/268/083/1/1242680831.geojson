@@ -1,0 +1,71 @@
+{
+  "id": 1242680831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.82813,8.56073,-12.82813,8.56073",
+    "geom:latitude":8.56073,
+    "geom:longitude":-12.82813,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Robump",
+    "gn:country_code":"SL",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404348,
+    "gn:latitude":8.56073,
+    "gn:longitude":-12.82813,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Robump",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Robum",
+        "Robump"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404348
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1e0a58d6ec407ec4b388a4ea3f5b92f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1242680831,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1242680831,
+    "wof:lastmodified":1537700492,
+    "wof:name":"Robump",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.82813,
+    8.56073,
+    -12.82813,
+    8.56073
+],
+  "geometry": {"coordinates":[-12.82813,8.56073],"type":"Point"}
+}

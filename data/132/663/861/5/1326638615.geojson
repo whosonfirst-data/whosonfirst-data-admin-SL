@@ -1,0 +1,72 @@
+{
+  "id": 1326638615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.93333,9.28333,-10.93333,9.28333",
+    "geom:latitude":9.28333,
+    "geom:longitude":-10.93333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Banfele",
+    "gn:cc2":"SL",
+    "gn:country_code":"SL",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410452,
+    "gn:latitude":9.28333,
+    "gn:longitude":-10.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Banfele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bantele",
+        "Banfele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410452
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1717d297d29d99f920325e6e964290df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1326638615,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1326638615,
+    "wof:lastmodified":1537700697,
+    "wof:name":"Banfele",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.93333,
+    9.28333,
+    -10.93333,
+    9.28333
+],
+  "geometry": {"coordinates":[-10.93333,9.28333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209626827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.59716,8.16001,-11.59716,8.16001",
+    "geom:latitude":8.16001,
+    "geom:longitude":-11.59716,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sahn",
+    "gn:country_code":"SL",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404202,
+    "gn:latitude":8.16001,
+    "gn:longitude":-11.59716,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Sahn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sahn"
+    ],
+    "name:und_x_variant":[
+        "Sahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404202
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"87762f031e0b6fcf291f1270c467e6d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209626827
+        }
+    ],
+    "wof:id":1209626827,
+    "wof:lastmodified":1537700487,
+    "wof:name":"Sahn",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.59716,
+    8.16001,
+    -11.59716,
+    8.16001
+],
+  "geometry": {"coordinates":[-11.59716,8.16001],"type":"Point"}
+}

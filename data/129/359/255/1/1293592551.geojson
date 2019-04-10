@@ -1,0 +1,70 @@
+{
+  "id": 1293592551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.59168,9.01943,-12.59168,9.01943",
+    "geom:latitude":9.01943,
+    "geom:longitude":-12.59168,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maboma",
+    "gn:country_code":"SL",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880810,
+    "gn:latitude":9.01943,
+    "gn:longitude":-12.59168,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Maboma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maboma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880810
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7f417c1ff8278076fe51e6c28902e54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1293592551,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293592551,
+    "wof:lastmodified":1537700812,
+    "wof:name":"Maboma",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.59168,
+    9.01943,
+    -12.59168,
+    9.01943
+],
+  "geometry": {"coordinates":[-12.59168,9.01943],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209317799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.79882,9.11271,-10.79882,9.11271",
+    "geom:latitude":9.11271,
+    "geom:longitude":-10.79882,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Taiandu",
+    "gn:country_code":"SL",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403640,
+    "gn:latitude":9.11271,
+    "gn:longitude":-10.79882,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Taiandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Taiandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403640
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5b2709acba8873044cae3a4be1beffb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209317799
+        }
+    ],
+    "wof:id":1209317799,
+    "wof:lastmodified":1537700469,
+    "wof:name":"Taiandu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.79882,
+    9.11271,
+    -10.79882,
+    9.11271
+],
+  "geometry": {"coordinates":[-10.79882,9.11271],"type":"Point"}
+}

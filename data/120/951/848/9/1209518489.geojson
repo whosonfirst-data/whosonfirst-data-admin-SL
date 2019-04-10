@@ -1,0 +1,64 @@
+{
+  "id": 1209518489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.48184,8.94696,-12.48184,8.94696",
+    "geom:latitude":8.94696,
+    "geom:longitude":-12.48184,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Marunkari",
+    "gn:country_code":"SL",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131654,
+    "gn:latitude":8.94696,
+    "gn:longitude":-12.48184,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Marunkari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Marunkari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131654
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b03a580b8875c35825e7b292f4b5e912",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209518489
+        }
+    ],
+    "wof:id":1209518489,
+    "wof:lastmodified":1537700927,
+    "wof:name":"Marunkari",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.48184,
+    8.94696,
+    -12.48184,
+    8.94696
+],
+  "geometry": {"coordinates":[-12.48184,8.94696],"type":"Point"}
+}

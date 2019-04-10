@@ -1,0 +1,64 @@
+{
+  "id": 1209618309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.4122,9.96435,-11.4122,9.96435",
+    "geom:latitude":9.96435,
+    "geom:longitude":-11.4122,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbangan",
+    "gn:country_code":"SL",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409119,
+    "gn:latitude":9.96435,
+    "gn:longitude":-11.4122,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gbangan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409119
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6863c5741aedfe87615cfa621d443775",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209618309
+        }
+    ],
+    "wof:id":1209618309,
+    "wof:lastmodified":1537700651,
+    "wof:name":"Gbangan",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.4122,
+    9.96435,
+    -11.4122,
+    9.96435
+],
+  "geometry": {"coordinates":[-11.4122,9.96435],"type":"Point"}
+}

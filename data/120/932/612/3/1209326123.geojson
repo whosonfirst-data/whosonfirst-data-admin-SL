@@ -1,0 +1,64 @@
+{
+  "id": 1209326123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.72715,8.009,-11.72715,8.009",
+    "geom:latitude":8.009,
+    "geom:longitude":-11.72715,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pindegumahun",
+    "gn:country_code":"SL",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404466,
+    "gn:latitude":8.009,
+    "gn:longitude":-11.72715,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Pindegumahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pindegumahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404466
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2868f014d4765681046dcb2100fa43ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209326123
+        }
+    ],
+    "wof:id":1209326123,
+    "wof:lastmodified":1537700496,
+    "wof:name":"Pindegumahun",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.72715,
+    8.009,
+    -11.72715,
+    8.009
+],
+  "geometry": {"coordinates":[-11.72715,8.009],"type":"Point"}
+}

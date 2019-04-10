@@ -1,0 +1,67 @@
+{
+  "id": 1327440269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.58333,9.25,-11.58333,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":-11.58333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yara",
+    "gn:country_code":"SL",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402899,
+    "gn:latitude":9.25,
+    "gn:longitude":-11.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Yara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402899
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"44c8fb9d9b48ddef147f35fb0ff6efd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1327440269,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327440269,
+    "wof:lastmodified":1536669350,
+    "wof:name":"Yara",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.58333,
+    9.25,
+    -11.58333,
+    9.25
+],
+  "geometry": {"coordinates":[-11.58333,9.25],"type":"Point"}
+}

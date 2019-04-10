@@ -1,0 +1,64 @@
+{
+  "id": 1209008329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.63665,8.89093,-10.63665,8.89093",
+    "geom:latitude":8.89093,
+    "geom:longitude":-10.63665,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gbongonko",
+    "gn:country_code":"SL",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408957,
+    "gn:latitude":8.89093,
+    "gn:longitude":-10.63665,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Gbongonko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbongonko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408957
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c1599a6355ff3b951abe5657c0a35944",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209008329
+        }
+    ],
+    "wof:id":1209008329,
+    "wof:lastmodified":1537700645,
+    "wof:name":"Gbongonko",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.63665,
+    8.89093,
+    -10.63665,
+    8.89093
+],
+  "geometry": {"coordinates":[-10.63665,8.89093],"type":"Point"}
+}

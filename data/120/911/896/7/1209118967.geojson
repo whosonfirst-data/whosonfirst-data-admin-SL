@@ -1,0 +1,64 @@
+{
+  "id": 1209118967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.14492,8.81328,-13.14492,8.81328",
+    "geom:latitude":8.81328,
+    "geom:longitude":-13.14492,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kalangba",
+    "gn:country_code":"SL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408204,
+    "gn:latitude":8.81328,
+    "gn:longitude":-13.14492,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kalangba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kalangba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408204
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4b16bab9b49a8c72dc5f61d429cff0ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209118967
+        }
+    ],
+    "wof:id":1209118967,
+    "wof:lastmodified":1537700620,
+    "wof:name":"Kalangba",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.14492,
+    8.81328,
+    -13.14492,
+    8.81328
+],
+  "geometry": {"coordinates":[-13.14492,8.81328],"type":"Point"}
+}

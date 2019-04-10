@@ -1,0 +1,71 @@
+{
+  "id": 1210025055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.81487,8.68947,-11.81487,8.68947",
+    "geom:latitude":8.68947,
+    "geom:longitude":-11.81487,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sera",
+    "gn:country_code":"SL",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403897,
+    "gn:latitude":8.68947,
+    "gn:longitude":-11.81487,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Sera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sera Bonkuraw",
+        "Sera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403897
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ffe85cc4754d4ce66279863b86f72865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1210025055,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1210025055,
+    "wof:lastmodified":1537700477,
+    "wof:name":"Sera",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.81487,
+    8.68947,
+    -11.81487,
+    8.68947
+],
+  "geometry": {"coordinates":[-11.81487,8.68947],"type":"Point"}
+}

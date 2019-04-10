@@ -1,0 +1,70 @@
+{
+  "id": 1226554021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.44576,7.61691,-11.44576,7.61691",
+    "geom:latitude":7.61691,
+    "geom:longitude":-11.44576,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gandohun",
+    "gn:country_code":"SL",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409221,
+    "gn:latitude":7.61691,
+    "gn:longitude":-11.44576,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gandohun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409221
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"023adeb1af3abfa0fd229587db86a053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1226554021,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226554021,
+    "wof:lastmodified":1537700655,
+    "wof:name":"Gandohun",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.44576,
+    7.61691,
+    -11.44576,
+    7.61691
+],
+  "geometry": {"coordinates":[-11.44576,7.61691],"type":"Point"}
+}

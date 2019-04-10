@@ -1,0 +1,67 @@
+{
+  "id": 1260093869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.12571,7.59376,-11.12571,7.59376",
+    "geom:latitude":7.59376,
+    "geom:longitude":-11.12571,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Giewahun",
+    "gn:country_code":"SL",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408804,
+    "gn:latitude":7.59376,
+    "gn:longitude":-11.12571,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Giewahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408804
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4781c5fd6381a6963bfb056fa890e76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1260093869,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1260093869,
+    "wof:lastmodified":1536972614,
+    "wof:name":"Giewahun",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.12571,
+    7.59376,
+    -11.12571,
+    7.59376
+],
+  "geometry": {"coordinates":[-11.12571,7.59376],"type":"Point"}
+}

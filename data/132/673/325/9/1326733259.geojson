@@ -1,0 +1,70 @@
+{
+  "id": 1326733259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.04262,8.43759,-13.04262,8.43759",
+    "geom:latitude":8.43759,
+    "geom:longitude":-13.04262,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbap",
+    "gn:country_code":"SL",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566465,
+    "gn:latitude":8.43759,
+    "gn:longitude":-13.04262,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Gbap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566465
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3aab055fe0435d1d2c8a74d86455fd88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1326733259,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1326733259,
+    "wof:lastmodified":1537700709,
+    "wof:name":"Gbap",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.04262,
+    8.43759,
+    -13.04262,
+    8.43759
+],
+  "geometry": {"coordinates":[-13.04262,8.43759],"type":"Point"}
+}

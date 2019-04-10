@@ -1,0 +1,73 @@
+{
+  "id": 1226056873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.58435,8.58886,-10.58435,8.58886",
+    "geom:latitude":8.58886,
+    "geom:longitude":-10.58435,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sadu",
+    "gn:country_code":"SL",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404056,
+    "gn:latitude":8.58886,
+    "gn:longitude":-10.58435,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Sadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sadu"
+    ],
+    "name:und_x_variant":[
+        "Sedu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404056
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3f527e8499dffad5aa031d48a1bc142c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1226056873,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226056873,
+    "wof:lastmodified":1537700482,
+    "wof:name":"Sadu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.58435,
+    8.58886,
+    -10.58435,
+    8.58886
+],
+  "geometry": {"coordinates":[-10.58435,8.58886],"type":"Point"}
+}

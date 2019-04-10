@@ -1,0 +1,70 @@
+{
+  "id": 1260191539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.17395,9.26405,-12.17395,9.26405",
+    "geom:latitude":9.26405,
+    "geom:longitude":-12.17395,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lilia",
+    "gn:country_code":"SL",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406976,
+    "gn:latitude":9.26405,
+    "gn:longitude":-12.17395,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Lilia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lilia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406976
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"94645ba6437a1613eb8535b64ac042b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1260191539,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1260191539,
+    "wof:lastmodified":1537700579,
+    "wof:name":"Lilia",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.17395,
+    9.26405,
+    -12.17395,
+    9.26405
+],
+  "geometry": {"coordinates":[-12.17395,9.26405],"type":"Point"}
+}

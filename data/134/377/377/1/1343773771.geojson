@@ -1,0 +1,70 @@
+{
+  "id": 1343773771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.03919,7.95844,-12.03919,7.95844",
+    "geom:latitude":7.95844,
+    "geom:longitude":-12.03919,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bauya",
+    "gn:country_code":"SL",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871899,
+    "gn:latitude":7.95844,
+    "gn:longitude":-12.03919,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Bauya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bauya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871899
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"35ac8c959f9f46910702414da0e7b25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1343773771,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343773771,
+    "wof:lastmodified":1537700739,
+    "wof:name":"Bauya",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.03919,
+    7.95844,
+    -12.03919,
+    7.95844
+],
+  "geometry": {"coordinates":[-12.03919,7.95844],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226155951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.22928,9.3212,-12.22928,9.3212",
+    "geom:latitude":9.3212,
+    "geom:longitude":-12.22928,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makankwi",
+    "gn:country_code":"SL",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10134709,
+    "gn:latitude":9.3212,
+    "gn:longitude":-12.22928,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Makankwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makankwi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10134709
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"88b0a2e873e07a928c586e58f4f69e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1226155951,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226155951,
+    "wof:lastmodified":1537700946,
+    "wof:name":"Makankwi",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.22928,
+    9.3212,
+    -12.22928,
+    9.3212
+],
+  "geometry": {"coordinates":[-12.22928,9.3212],"type":"Point"}
+}

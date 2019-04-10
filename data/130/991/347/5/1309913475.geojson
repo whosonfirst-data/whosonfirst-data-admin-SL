@@ -1,0 +1,73 @@
+{
+  "id": 1309913475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.36217,7.58477,-12.36217,7.58477",
+    "geom:latitude":7.58477,
+    "geom:longitude":-12.36217,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mobopu",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405333,
+    "gn:latitude":7.58477,
+    "gn:longitude":-12.36217,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mobopu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mobopu"
+    ],
+    "name:und_x_variant":[
+        "Mobobu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405333
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c417cf4b8010f26941d9ae2911864686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1309913475,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1309913475,
+    "wof:lastmodified":1537700527,
+    "wof:name":"Mobopu",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.36217,
+    7.58477,
+    -12.36217,
+    7.58477
+],
+  "geometry": {"coordinates":[-12.36217,7.58477],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225961929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.76255,7.79248,-10.76255,7.79248",
+    "geom:latitude":7.79248,
+    "geom:longitude":-10.76255,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Malema",
+    "gn:country_code":"SL",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406218,
+    "gn:latitude":7.79248,
+    "gn:longitude":-10.76255,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Malema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406218
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7d43ad7a020c7d65b117840d3cd8e863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1225961929,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1225961929,
+    "wof:lastmodified":1537700555,
+    "wof:name":"Malema",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.76255,
+    7.79248,
+    -10.76255,
+    7.79248
+],
+  "geometry": {"coordinates":[-10.76255,7.79248],"type":"Point"}
+}

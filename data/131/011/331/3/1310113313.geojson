@@ -1,0 +1,70 @@
+{
+  "id": 1310113313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.59624,8.31538,-12.59624,8.31538",
+    "geom:latitude":8.31538,
+    "geom:longitude":-12.59624,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Magbese",
+    "gn:country_code":"SL",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406618,
+    "gn:latitude":8.31538,
+    "gn:longitude":-12.59624,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Magbese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magbese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406618
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4ddbcb8e8a9a13632e9f08da26d58199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1310113313,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310113313,
+    "wof:lastmodified":1537700568,
+    "wof:name":"Magbese",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.59624,
+    8.31538,
+    -12.59624,
+    8.31538
+],
+  "geometry": {"coordinates":[-12.59624,8.31538],"type":"Point"}
+}

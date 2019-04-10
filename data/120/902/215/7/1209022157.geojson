@@ -1,0 +1,64 @@
+{
+  "id": 1209022157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.1746,8.64767,-11.1746,8.64767",
+    "geom:latitude":8.64767,
+    "geom:longitude":-11.1746,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mambodu",
+    "gn:country_code":"SL",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406150,
+    "gn:latitude":8.64767,
+    "gn:longitude":-11.1746,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Mambodu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mambodu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406150
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"78e123f78307888902b12c846db0a26a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209022157
+        }
+    ],
+    "wof:id":1209022157,
+    "wof:lastmodified":1537700553,
+    "wof:name":"Mambodu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.1746,
+    8.64767,
+    -11.1746,
+    8.64767
+],
+  "geometry": {"coordinates":[-11.1746,8.64767],"type":"Point"}
+}

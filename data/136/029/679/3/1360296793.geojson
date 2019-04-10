@@ -1,0 +1,70 @@
+{
+  "id": 1360296793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.90155,8.20813,-12.90155,8.20813",
+    "geom:latitude":8.20813,
+    "geom:longitude":-12.90155,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moselime",
+    "gn:country_code":"SL",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405068,
+    "gn:latitude":8.20813,
+    "gn:longitude":-12.90155,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Moselime",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moselime"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405068
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f6e38ee87514b87c3bc15075d55e1a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1360296793,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1360296793,
+    "wof:lastmodified":1537700517,
+    "wof:name":"Moselime",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.90155,
+    8.20813,
+    -12.90155,
+    8.20813
+],
+  "geometry": {"coordinates":[-12.90155,8.20813],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226453991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.15996,8.10459,-12.15996,8.10459",
+    "geom:latitude":8.10459,
+    "geom:longitude":-12.15996,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Giegbolia",
+    "gn:country_code":"SL",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408856,
+    "gn:latitude":8.10459,
+    "gn:longitude":-12.15996,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Giegbolia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Giegbolia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408856
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"953efc0a879ae887d8c8e525e54301dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226453991,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226453991,
+    "wof:lastmodified":1537700641,
+    "wof:name":"Giegbolia",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.15996,
+    8.10459,
+    -12.15996,
+    8.10459
+],
+  "geometry": {"coordinates":[-12.15996,8.10459],"type":"Point"}
+}

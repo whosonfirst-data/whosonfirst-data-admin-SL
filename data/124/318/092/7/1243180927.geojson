@@ -1,0 +1,70 @@
+{
+  "id": 1243180927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.80144,8.60649,-11.80144,8.60649",
+    "geom:latitude":8.60649,
+    "geom:longitude":-11.80144,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Magbalema",
+    "gn:country_code":"SL",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10038646,
+    "gn:latitude":8.60649,
+    "gn:longitude":-11.80144,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Magbalema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magbalema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10038646
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"dd577183d58eb5676dde57ebb1281fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1243180927,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243180927,
+    "wof:lastmodified":1537700917,
+    "wof:name":"Magbalema",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.80144,
+    8.60649,
+    -11.80144,
+    8.60649
+],
+  "geometry": {"coordinates":[-11.80144,8.60649],"type":"Point"}
+}

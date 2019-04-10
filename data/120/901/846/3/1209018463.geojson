@@ -1,0 +1,67 @@
+{
+  "id": 1209018463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.94975,8.64683,-10.94975,8.64683",
+    "geom:latitude":8.64683,
+    "geom:longitude":-10.94975,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Koeyor",
+    "gn:country_code":"SL",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407112,
+    "gn:latitude":8.64683,
+    "gn:longitude":-10.94975,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Koeyor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koeyor"
+    ],
+    "name:und_x_variant":[
+        "Kwelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407112
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3ba899ec3b2144c921ce2b75429e9e4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209018463
+        }
+    ],
+    "wof:id":1209018463,
+    "wof:lastmodified":1537700584,
+    "wof:name":"Koeyor",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.94975,
+    8.64683,
+    -10.94975,
+    8.64683
+],
+  "geometry": {"coordinates":[-10.94975,8.64683],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343279513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.20999,7.49098,-11.20999,7.49098",
+    "geom:latitude":7.49098,
+    "geom:longitude":-11.20999,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lecrela",
+    "gn:country_code":"SL",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893100,
+    "gn:latitude":7.49098,
+    "gn:longitude":-11.20999,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Lecrela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lecrela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893100
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"05323fa0bba87eeccc543d715ab0fae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1343279513,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1343279513,
+    "wof:lastmodified":1537700828,
+    "wof:name":"Lecrela",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.20999,
+    7.49098,
+    -11.20999,
+    7.49098
+],
+  "geometry": {"coordinates":[-11.20999,7.49098],"type":"Point"}
+}

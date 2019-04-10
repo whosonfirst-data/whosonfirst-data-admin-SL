@@ -1,0 +1,64 @@
+{
+  "id": 1209109429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.88742,9.06111,-10.88742,9.06111",
+    "geom:latitude":9.06111,
+    "geom:longitude":-10.88742,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tingibu",
+    "gn:country_code":"SL",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403414,
+    "gn:latitude":9.06111,
+    "gn:longitude":-10.88742,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Tingibu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tingibu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403414
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9f372854a92f9501e3340c3b01af7c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209109429
+        }
+    ],
+    "wof:id":1209109429,
+    "wof:lastmodified":1537700462,
+    "wof:name":"Tingibu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.88742,
+    9.06111,
+    -10.88742,
+    9.06111
+],
+  "geometry": {"coordinates":[-10.88742,9.06111],"type":"Point"}
+}

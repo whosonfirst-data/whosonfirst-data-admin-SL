@@ -1,0 +1,64 @@
+{
+  "id": 1209326207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.87668,7.82133,-11.87668,7.82133",
+    "geom:latitude":7.82133,
+    "geom:longitude":-11.87668,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sami",
+    "gn:country_code":"SL",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404153,
+    "gn:latitude":7.82133,
+    "gn:longitude":-11.87668,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404153
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b28a6c08f81325c331c0c239ba4d534e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209326207
+        }
+    ],
+    "wof:id":1209326207,
+    "wof:lastmodified":1537700485,
+    "wof:name":"Sami",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.87668,
+    7.82133,
+    -11.87668,
+    7.82133
+],
+  "geometry": {"coordinates":[-11.87668,7.82133],"type":"Point"}
+}

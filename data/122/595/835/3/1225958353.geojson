@@ -1,0 +1,77 @@
+{
+  "id": 1225958353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.65,8.43333,-10.65,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":-10.65,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Folodu",
+    "gn:country_code":"SL",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409367,
+    "gn:latitude":8.43333,
+    "gn:longitude":-10.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Folodu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409367
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4c8f1ea1b1a72d48a1d3836055d1e54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1225958353,
+            "region_id":85677133
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1225958353,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1225958353,
+    "wof:lastmodified":1536849947,
+    "wof:name":"Folodu",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.65,
+    8.43333,
+    -10.65,
+    8.43333
+],
+  "geometry": {"coordinates":[-10.65,8.43333],"type":"Point"}
+}

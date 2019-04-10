@@ -1,0 +1,70 @@
+{
+  "id": 1343765035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.52313,8.60704,-12.52313,8.60704",
+    "geom:latitude":8.60704,
+    "geom:longitude":-12.52313,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karakaw",
+    "gn:country_code":"SL",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9989445,
+    "gn:latitude":8.60704,
+    "gn:longitude":-12.52313,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Karakaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karakaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9989445
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8b8ec0459b3d77d15a0a21c65f5ee6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1343765035,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343765035,
+    "wof:lastmodified":1537700904,
+    "wof:name":"Karakaw",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.52313,
+    8.60704,
+    -12.52313,
+    8.60704
+],
+  "geometry": {"coordinates":[-12.52313,8.60704],"type":"Point"}
+}

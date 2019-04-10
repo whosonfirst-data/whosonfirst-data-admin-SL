@@ -1,0 +1,80 @@
+{
+  "id": 1343872455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.47934,8.68187,-10.47934,8.68187",
+    "geom:latitude":8.68187,
+    "geom:longitude":-10.47934,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kadu",
+    "gn:country_code":"SL",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408295,
+    "gn:latitude":8.68187,
+    "gn:longitude":-10.47934,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408295
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3ad73cbd2b89e288b84c85c2d40ade38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1343872455,
+            "region_id":85677133
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1343872455,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1343872455,
+    "wof:lastmodified":1537700623,
+    "wof:name":"Kadu",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.47934,
+    8.68187,
+    -10.47934,
+    8.68187
+],
+  "geometry": {"coordinates":[-10.47934,8.68187],"type":"Point"}
+}

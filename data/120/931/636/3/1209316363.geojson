@@ -1,0 +1,64 @@
+{
+  "id": 1209316363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.06489,7.30615,-12.06489,7.30615",
+    "geom:latitude":7.30615,
+    "geom:longitude":-12.06489,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kebawana",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407819,
+    "gn:latitude":7.30615,
+    "gn:longitude":-12.06489,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kebawana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kebawana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407819
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c24ab640c64bb11fba0ce7188bafd396",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209316363
+        }
+    ],
+    "wof:id":1209316363,
+    "wof:lastmodified":1537700608,
+    "wof:name":"Kebawana",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.06489,
+    7.30615,
+    -12.06489,
+    7.30615
+],
+  "geometry": {"coordinates":[-12.06489,7.30615],"type":"Point"}
+}

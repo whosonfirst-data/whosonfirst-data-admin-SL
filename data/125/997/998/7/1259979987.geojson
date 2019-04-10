@@ -1,0 +1,71 @@
+{
+  "id": 1259979987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.20601,8.33668,-13.20601,8.33668",
+    "geom:latitude":8.33668,
+    "geom:longitude":-13.20601,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Number Two Village",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404794,
+    "gn:latitude":8.33668,
+    "gn:longitude":-13.20601,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Number Two Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Number Two",
+        "Number Two Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404794
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ab5d58300017cfeed247d62bc6d31ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1259979987,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1259979987,
+    "wof:lastmodified":1537700507,
+    "wof:name":"Number Two Village",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.20601,
+    8.33668,
+    -13.20601,
+    8.33668
+],
+  "geometry": {"coordinates":[-13.20601,8.33668],"type":"Point"}
+}

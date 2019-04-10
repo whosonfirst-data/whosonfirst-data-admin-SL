@@ -1,0 +1,70 @@
+{
+  "id": 1209727187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.21707,7.49247,-12.21707,7.49247",
+    "geom:latitude":7.49247,
+    "geom:longitude":-12.21707,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dodo",
+    "gn:country_code":"SL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409606,
+    "gn:latitude":7.49247,
+    "gn:longitude":-12.21707,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Dodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dodo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409606
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5f7f768f2f8e5ca9d4931541632c9de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1209727187,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1209727187,
+    "wof:lastmodified":1537700668,
+    "wof:name":"Dodo",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.21707,
+    7.49247,
+    -12.21707,
+    7.49247
+],
+  "geometry": {"coordinates":[-12.21707,7.49247],"type":"Point"}
+}

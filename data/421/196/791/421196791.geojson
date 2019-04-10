@@ -1,0 +1,93 @@
+{
+  "id": 421196791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.395,8.67167,-12.395,8.67167",
+    "geom:latitude":8.67167,
+    "geom:longitude":-12.395,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Rokupr"
+    ],
+    "name:fra_x_preferred":[
+        "Rokupr"
+    ],
+    "name:ron_x_preferred":[
+        "Rokupr"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043a\u0443\u043f\u0440"
+    ],
+    "qs:gn_country":"SL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2404303,
+    "qs:gn_pop":12504,
+    "qs:name":"Rokupr",
+    "qs:name_adm0":"Sierra Leone",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1298283,
+    "qs:woe_adm0":23424946,
+    "qs:woe_id":1423452,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404303,
+        "gp:id":1423452,
+        "qs:id":1298283,
+        "wd:id":"Q3012883"
+    },
+    "wof:country":"SL",
+    "wof:created":1459009893,
+    "wof:geomhash":"8ce4126b07278f9c50f1cf6c373ef9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":421196791,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":421196791,
+    "wof:lastmodified":1527716360,
+    "wof:name":"Rokupr",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:population":12504,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.395,
+    8.67167,
+    -12.395,
+    8.67167
+],
+  "geometry": {"coordinates":[-12.395,8.67167],"type":"Point"}
+}

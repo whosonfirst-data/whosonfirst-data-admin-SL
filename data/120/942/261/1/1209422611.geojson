@@ -1,0 +1,64 @@
+{
+  "id": 1209422611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.64444,7.55677,-11.64444,7.55677",
+    "geom:latitude":7.55677,
+    "geom:longitude":-11.64444,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gombahun",
+    "gn:country_code":"SL",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408732,
+    "gn:latitude":7.55677,
+    "gn:longitude":-11.64444,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gombahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gomahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408732
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2d4a05e29f5c3d2d1bd260de28c91fcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209422611
+        }
+    ],
+    "wof:id":1209422611,
+    "wof:lastmodified":1537700637,
+    "wof:name":"Gombahun",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.64444,
+    7.55677,
+    -11.64444,
+    7.55677
+],
+  "geometry": {"coordinates":[-11.64444,7.55677],"type":"Point"}
+}

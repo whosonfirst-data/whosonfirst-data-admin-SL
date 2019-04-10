@@ -1,0 +1,70 @@
+{
+  "id": 1260194399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.85052,7.59306,-12.85052,7.59306",
+    "geom:latitude":7.59306,
+    "geom:longitude":-12.85052,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Talail",
+    "gn:country_code":"SL",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9821330,
+    "gn:latitude":7.59306,
+    "gn:longitude":-12.85052,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Talail",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Talail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9821330
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"82be3d526ceab0ee2478ea22efb08e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1260194399,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1260194399,
+    "wof:lastmodified":1537700725,
+    "wof:name":"Talail",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.85052,
+    7.59306,
+    -12.85052,
+    7.59306
+],
+  "geometry": {"coordinates":[-12.85052,7.59306],"type":"Point"}
+}

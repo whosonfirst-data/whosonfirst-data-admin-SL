@@ -1,0 +1,70 @@
+{
+  "id": 1226449887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.12043,7.47429,-12.12043,7.47429",
+    "geom:latitude":7.47429,
+    "geom:longitude":-12.12043,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gubaru",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408612,
+    "gn:latitude":7.47429,
+    "gn:longitude":-12.12043,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gubaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gubaru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408612
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a208b59b7b8bbe7b47126c2aa00511d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1226449887,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226449887,
+    "wof:lastmodified":1537700634,
+    "wof:name":"Gubaru",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.12043,
+    7.47429,
+    -12.12043,
+    7.47429
+],
+  "geometry": {"coordinates":[-12.12043,7.47429],"type":"Point"}
+}

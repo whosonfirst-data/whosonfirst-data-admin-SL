@@ -1,0 +1,70 @@
+{
+  "id": 1310222653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.94492,7.70136,-10.94492,7.70136",
+    "geom:latitude":7.70136,
+    "geom:longitude":-10.94492,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bahama",
+    "gn:country_code":"SL",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9879948,
+    "gn:latitude":7.70136,
+    "gn:longitude":-10.94492,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Bahama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bahama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9879948
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6aea039518fee928ecac307f9c490cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1310222653,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1310222653,
+    "wof:lastmodified":1537700798,
+    "wof:name":"Bahama",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.94492,
+    7.70136,
+    -10.94492,
+    7.70136
+],
+  "geometry": {"coordinates":[-10.94492,7.70136],"type":"Point"}
+}

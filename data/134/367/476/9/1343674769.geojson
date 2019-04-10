@@ -1,0 +1,71 @@
+{
+  "id": 1343674769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.22452,8.64063,-13.22452,8.64063",
+    "geom:latitude":8.64063,
+    "geom:longitude":-13.22452,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lungi",
+    "gn:country_code":"SL",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406921,
+    "gn:latitude":8.64063,
+    "gn:longitude":-13.22452,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Lungi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lungi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406921,
+        "wk:page":"Lungi%2C_Sierra_Leone"
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4b944026bb55134aaae39e946b9eec2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1343674769,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343674769,
+    "wof:lastmodified":1537700578,
+    "wof:name":"Lungi",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.22452,
+    8.64063,
+    -13.22452,
+    8.64063
+],
+  "geometry": {"coordinates":[-13.22452,8.64063],"type":"Point"}
+}

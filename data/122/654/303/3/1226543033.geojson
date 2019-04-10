@@ -1,0 +1,70 @@
+{
+  "id": 1226543033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.00374,9.59075,-12.00374,9.59075",
+    "geom:latitude":9.59075,
+    "geom:longitude":-12.00374,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Brumi",
+    "gn:country_code":"SL",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875599,
+    "gn:latitude":9.59075,
+    "gn:longitude":-12.00374,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Brumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Brumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875599
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6abd7ae47a74600d10b13afcd93a4e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1226543033,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226543033,
+    "wof:lastmodified":1537700767,
+    "wof:name":"Brumi",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.00374,
+    9.59075,
+    -12.00374,
+    9.59075
+],
+  "geometry": {"coordinates":[-12.00374,9.59075],"type":"Point"}
+}

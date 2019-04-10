@@ -1,0 +1,70 @@
+{
+  "id": 1260296437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.54419,7.83221,-11.54419,7.83221",
+    "geom:latitude":7.83221,
+    "geom:longitude":-11.54419,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Patama",
+    "gn:country_code":"SL",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9873549,
+    "gn:latitude":7.83221,
+    "gn:longitude":-11.54419,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Patama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Patama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9873549
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ef44e9ef8f31879642ea9af9511f2cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1260296437,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1260296437,
+    "wof:lastmodified":1537700757,
+    "wof:name":"Patama",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.54419,
+    7.83221,
+    -11.54419,
+    7.83221
+],
+  "geometry": {"coordinates":[-11.54419,7.83221],"type":"Point"}
+}

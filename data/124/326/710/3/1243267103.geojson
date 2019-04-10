@@ -1,0 +1,70 @@
+{
+  "id": 1243267103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.9483,8.6487,-11.9483,8.6487",
+    "geom:latitude":8.6487,
+    "geom:longitude":-11.9483,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makoli",
+    "gn:country_code":"SL",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406361,
+    "gn:latitude":8.6487,
+    "gn:longitude":-11.9483,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Makoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406361
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f2a78b24f6156e02f8fb74198b7e4a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1243267103,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243267103,
+    "wof:lastmodified":1537700559,
+    "wof:name":"Makoli",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.9483,
+    8.6487,
+    -11.9483,
+    8.6487
+],
+  "geometry": {"coordinates":[-11.9483,8.6487],"type":"Point"}
+}

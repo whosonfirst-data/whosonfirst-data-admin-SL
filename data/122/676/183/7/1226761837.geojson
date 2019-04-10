@@ -1,0 +1,70 @@
+{
+  "id": 1226761837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.15265,7.70324,-11.15265,7.70324",
+    "geom:latitude":7.70324,
+    "geom:longitude":-11.15265,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Petema",
+    "gn:country_code":"SL",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9879878,
+    "gn:latitude":7.70324,
+    "gn:longitude":-11.15265,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Petema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Petema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9879878
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"759e3a4d30752246e6c01e2c751441c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1226761837,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226761837,
+    "wof:lastmodified":1537700797,
+    "wof:name":"Petema",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.15265,
+    7.70324,
+    -11.15265,
+    7.70324
+],
+  "geometry": {"coordinates":[-11.15265,7.70324],"type":"Point"}
+}

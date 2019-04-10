@@ -1,0 +1,70 @@
+{
+  "id": 1226045757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.40796,8.90827,-12.40796,8.90827",
+    "geom:latitude":8.90827,
+    "geom:longitude":-12.40796,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Manuntene",
+    "gn:country_code":"SL",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131748,
+    "gn:latitude":8.90827,
+    "gn:longitude":-12.40796,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Manuntene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manuntene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131748
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1a5a263d5dc57b839aa73c26fe80a1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1226045757,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226045757,
+    "wof:lastmodified":1537700929,
+    "wof:name":"Manuntene",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.40796,
+    8.90827,
+    -12.40796,
+    8.90827
+],
+  "geometry": {"coordinates":[-12.40796,8.90827],"type":"Point"}
+}

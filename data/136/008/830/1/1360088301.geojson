@@ -1,0 +1,70 @@
+{
+  "id": 1360088301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.22301,8.95065,-12.22301,8.95065",
+    "geom:latitude":8.95065,
+    "geom:longitude":-12.22301,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makeri",
+    "gn:country_code":"SL",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406400,
+    "gn:latitude":8.95065,
+    "gn:longitude":-12.22301,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Makeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406400
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"74fad7970995d8c0f95da8d6e5062b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1360088301,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1360088301,
+    "wof:lastmodified":1537700561,
+    "wof:name":"Makeri",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.22301,
+    8.95065,
+    -12.22301,
+    8.95065
+],
+  "geometry": {"coordinates":[-12.22301,8.95065],"type":"Point"}
+}

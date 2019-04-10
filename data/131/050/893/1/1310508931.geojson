@@ -1,0 +1,70 @@
+{
+  "id": 1310508931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.38071,7.44392,-12.38071,7.44392",
+    "geom:latitude":7.44392,
+    "geom:longitude":-12.38071,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Giehun",
+    "gn:country_code":"SL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876362,
+    "gn:latitude":7.44392,
+    "gn:longitude":-12.38071,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Giehun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Giehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876362
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"055a9fc80f6103af8af26f3d3186472a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1310508931,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310508931,
+    "wof:lastmodified":1537700781,
+    "wof:name":"Giehun",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.38071,
+    7.44392,
+    -12.38071,
+    7.44392
+],
+  "geometry": {"coordinates":[-12.38071,7.44392],"type":"Point"}
+}

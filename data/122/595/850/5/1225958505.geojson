@@ -1,0 +1,70 @@
+{
+  "id": 1225958505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.86028,8.43261,-10.86028,8.43261",
+    "geom:latitude":8.43261,
+    "geom:longitude":-10.86028,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gandorhun",
+    "gn:country_code":"SL",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409205,
+    "gn:latitude":8.43261,
+    "gn:longitude":-10.86028,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gandorhun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gandorhun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409205
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c62f372e3e1c3673316e6492a885ddcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1225958505,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1225958505,
+    "wof:lastmodified":1537700654,
+    "wof:name":"Gandorhun",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.86028,
+    8.43261,
+    -10.86028,
+    8.43261
+],
+  "geometry": {"coordinates":[-10.86028,8.43261],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209429307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.40165,8.4214,-10.40165,8.4214",
+    "geom:latitude":8.4214,
+    "geom:longitude":-10.40165,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Salabandu",
+    "gn:country_code":"SL",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9891949,
+    "gn:latitude":8.4214,
+    "gn:longitude":-10.40165,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Salabandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Salabandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9891949
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3cde66ce352b97c56f196d1253e5f9de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209429307
+        }
+    ],
+    "wof:id":1209429307,
+    "wof:lastmodified":1537700818,
+    "wof:name":"Salabandu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.40165,
+    8.4214,
+    -10.40165,
+    8.4214
+],
+  "geometry": {"coordinates":[-10.40165,8.4214],"type":"Point"}
+}

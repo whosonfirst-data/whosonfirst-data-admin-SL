@@ -1,0 +1,70 @@
+{
+  "id": 1309715363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4876,8.59547,-12.4876,8.59547",
+    "geom:latitude":8.59547,
+    "geom:longitude":-12.4876,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mataine",
+    "gn:country_code":"SL",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405652,
+    "gn:latitude":8.59547,
+    "gn:longitude":-12.4876,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Mataine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mataine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405652
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9876bbb1ab9324b180c5e785f858f935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1309715363,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309715363,
+    "wof:lastmodified":1537700537,
+    "wof:name":"Mataine",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4876,
+    8.59547,
+    -12.4876,
+    8.59547
+],
+  "geometry": {"coordinates":[-12.4876,8.59547],"type":"Point"}
+}

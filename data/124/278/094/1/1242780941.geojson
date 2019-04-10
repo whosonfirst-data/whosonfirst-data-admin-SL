@@ -1,0 +1,70 @@
+{
+  "id": 1242780941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.37259,9.17105,-12.37259,9.17105",
+    "geom:latitude":9.17105,
+    "geom:longitude":-12.37259,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makobonko",
+    "gn:country_code":"SL",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406369,
+    "gn:latitude":9.17105,
+    "gn:longitude":-12.37259,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Makobonko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makobonko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406369
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"18a59d2e47198f5214d52343b12445be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1242780941,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1242780941,
+    "wof:lastmodified":1537700560,
+    "wof:name":"Makobonko",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.37259,
+    9.17105,
+    -12.37259,
+    9.17105
+],
+  "geometry": {"coordinates":[-12.37259,9.17105],"type":"Point"}
+}

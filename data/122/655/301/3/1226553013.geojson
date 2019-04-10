@@ -1,0 +1,70 @@
+{
+  "id": 1226553013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.32174,9.43021,-12.32174,9.43021",
+    "geom:latitude":9.43021,
+    "geom:longitude":-12.32174,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masirebe",
+    "gn:country_code":"SL",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131174,
+    "gn:latitude":9.43021,
+    "gn:longitude":-12.32174,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Masirebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masirebe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131174
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1e1571e3f5992e0ddc3be3db557f6eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1226553013,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226553013,
+    "wof:lastmodified":1537700923,
+    "wof:name":"Masirebe",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.32174,
+    9.43021,
+    -12.32174,
+    9.43021
+],
+  "geometry": {"coordinates":[-12.32174,9.43021],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310715763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.35277,8.36764,-11.35277,8.36764",
+    "geom:latitude":8.36764,
+    "geom:longitude":-11.35277,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ballu",
+    "gn:country_code":"SL",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410570,
+    "gn:latitude":8.36764,
+    "gn:longitude":-11.35277,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ballu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballu"
+    ],
+    "name:und_x_variant":[
+        "Balu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410570
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5173c8f519d5db32d8471ede06aa9bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1310715763,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1310715763,
+    "wof:lastmodified":1537700701,
+    "wof:name":"Ballu",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.35277,
+    8.36764,
+    -11.35277,
+    8.36764
+],
+  "geometry": {"coordinates":[-11.35277,8.36764],"type":"Point"}
+}

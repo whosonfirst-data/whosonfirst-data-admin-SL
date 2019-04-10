@@ -1,0 +1,70 @@
+{
+  "id": 1343568891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.45085,7.38244,-12.45085,7.38244",
+    "geom:latitude":7.38244,
+    "geom:longitude":-12.45085,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Periwahun",
+    "gn:country_code":"SL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404597,
+    "gn:latitude":7.38244,
+    "gn:longitude":-12.45085,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Periwahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Periwahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404597
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5074016e668ed6a1bcaf95857685e951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1343568891,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343568891,
+    "wof:lastmodified":1537700500,
+    "wof:name":"Periwahun",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.45085,
+    7.38244,
+    -12.45085,
+    7.38244
+],
+  "geometry": {"coordinates":[-12.45085,7.38244],"type":"Point"}
+}

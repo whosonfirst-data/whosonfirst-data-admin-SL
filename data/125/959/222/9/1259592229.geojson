@@ -1,0 +1,70 @@
+{
+  "id": 1259592229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.72559,9.36485,-12.72559,9.36485",
+    "geom:latitude":9.36485,
+    "geom:longitude":-12.72559,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tuguguru",
+    "gn:country_code":"SL",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880523,
+    "gn:latitude":9.36485,
+    "gn:longitude":-12.72559,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Tuguguru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tuguguru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880523
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a858ffaf0c608689ee38397f3a026bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1259592229,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259592229,
+    "wof:lastmodified":1537700804,
+    "wof:name":"Tuguguru",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.72559,
+    9.36485,
+    -12.72559,
+    9.36485
+],
+  "geometry": {"coordinates":[-12.72559,9.36485],"type":"Point"}
+}

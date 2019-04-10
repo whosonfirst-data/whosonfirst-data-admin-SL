@@ -1,0 +1,70 @@
+{
+  "id": 1226043139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.97509,8.29372,-12.97509,8.29372",
+    "geom:latitude":8.29372,
+    "geom:longitude":-12.97509,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Foiya",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409372,
+    "gn:latitude":8.29372,
+    "gn:longitude":-12.97509,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Foiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Foiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409372
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5316b4755d626f7ac324085a5a6cf952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1226043139,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1226043139,
+    "wof:lastmodified":1537700660,
+    "wof:name":"Foiya",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.97509,
+    8.29372,
+    -12.97509,
+    8.29372
+],
+  "geometry": {"coordinates":[-12.97509,8.29372],"type":"Point"}
+}

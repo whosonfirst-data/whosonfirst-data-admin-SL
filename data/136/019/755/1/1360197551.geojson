@@ -1,0 +1,70 @@
+{
+  "id": 1360197551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.82665,9.1761,-11.82665,9.1761",
+    "geom:latitude":9.1761,
+    "geom:longitude":-11.82665,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mapore",
+    "gn:country_code":"SL",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405908,
+    "gn:latitude":9.1761,
+    "gn:longitude":-11.82665,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Mapore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mapore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405908
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8d01cd2d1c7211adc3e7e86ace4cbe8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1360197551,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1360197551,
+    "wof:lastmodified":1537700545,
+    "wof:name":"Mapore",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.82665,
+    9.1761,
+    -11.82665,
+    9.1761
+],
+  "geometry": {"coordinates":[-11.82665,9.1761],"type":"Point"}
+}

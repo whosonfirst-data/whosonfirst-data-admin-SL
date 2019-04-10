@@ -1,0 +1,70 @@
+{
+  "id": 1209918253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.0527,8.64484,-11.0527,8.64484",
+    "geom:latitude":8.64484,
+    "geom:longitude":-11.0527,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kissi Town",
+    "gn:country_code":"SL",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10043977,
+    "gn:latitude":8.64484,
+    "gn:longitude":-11.0527,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Kissi Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kissi Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10043977
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"847f925bc637d87d708929fa6bf3835a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1209918253,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1209918253,
+    "wof:lastmodified":1537700919,
+    "wof:name":"Kissi Town",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.0527,
+    8.64484,
+    -11.0527,
+    8.64484
+],
+  "geometry": {"coordinates":[-11.0527,8.64484],"type":"Point"}
+}

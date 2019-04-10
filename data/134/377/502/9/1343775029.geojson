@@ -1,0 +1,70 @@
+{
+  "id": 1343775029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.88067,9.05993,-12.88067,9.05993",
+    "geom:latitude":9.05993,
+    "geom:longitude":-12.88067,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Keyokine",
+    "gn:country_code":"SL",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880722,
+    "gn:latitude":9.05993,
+    "gn:longitude":-12.88067,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Keyokine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Keyokine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880722
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"03cdf1efe404f345bdbf6bb685646ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1343775029,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343775029,
+    "wof:lastmodified":1537700809,
+    "wof:name":"Keyokine",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.88067,
+    9.05993,
+    -12.88067,
+    9.05993
+],
+  "geometry": {"coordinates":[-12.88067,9.05993],"type":"Point"}
+}

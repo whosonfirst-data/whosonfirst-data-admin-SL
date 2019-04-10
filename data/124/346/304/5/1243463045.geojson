@@ -1,0 +1,70 @@
+{
+  "id": 1243463045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.05062,9.86286,-12.05062,9.86286",
+    "geom:latitude":9.86286,
+    "geom:longitude":-12.05062,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yatia",
+    "gn:country_code":"SL",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870565,
+    "gn:latitude":9.86286,
+    "gn:longitude":-12.05062,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Yatia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yatia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870565
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"696bb95ed4634984a027e9c27a1004b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1243463045,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243463045,
+    "wof:lastmodified":1537700727,
+    "wof:name":"Yatia",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.05062,
+    9.86286,
+    -12.05062,
+    9.86286
+],
+  "geometry": {"coordinates":[-12.05062,9.86286],"type":"Point"}
+}

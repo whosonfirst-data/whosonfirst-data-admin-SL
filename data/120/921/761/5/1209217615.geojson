@@ -1,0 +1,64 @@
+{
+  "id": 1209217615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.93821,8.51957,-12.93821,8.51957",
+    "geom:latitude":8.51957,
+    "geom:longitude":-12.93821,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ropat",
+    "gn:country_code":"SL",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404286,
+    "gn:latitude":8.51957,
+    "gn:longitude":-12.93821,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Ropat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ropat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404286
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3bbeae170ae5f031f47a1175b9118cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209217615
+        }
+    ],
+    "wof:id":1209217615,
+    "wof:lastmodified":1537700490,
+    "wof:name":"Ropat",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.93821,
+    8.51957,
+    -12.93821,
+    8.51957
+],
+  "geometry": {"coordinates":[-12.93821,8.51957],"type":"Point"}
+}

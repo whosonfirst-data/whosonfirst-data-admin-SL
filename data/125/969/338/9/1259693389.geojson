@@ -1,0 +1,70 @@
+{
+  "id": 1259693389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.1794,8.05632,-11.1794,8.05632",
+    "geom:latitude":8.05632,
+    "geom:longitude":-11.1794,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Manjama",
+    "gn:country_code":"SL",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9915581,
+    "gn:latitude":8.05632,
+    "gn:longitude":-11.1794,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Manjama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manjama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9915581
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3c684530593b1f1ec5902fb8d19dd670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1259693389,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1259693389,
+    "wof:lastmodified":1537700863,
+    "wof:name":"Manjama",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.1794,
+    8.05632,
+    -11.1794,
+    8.05632
+],
+  "geometry": {"coordinates":[-11.1794,8.05632],"type":"Point"}
+}

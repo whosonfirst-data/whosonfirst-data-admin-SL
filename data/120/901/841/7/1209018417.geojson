@@ -1,0 +1,61 @@
+{
+  "id": 1209018417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.36667,8.46667,-11.36667,8.46667",
+    "geom:latitude":8.46667,
+    "geom:longitude":-11.36667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Baomahun",
+    "gn:country_code":"SL",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410345,
+    "gn:latitude":8.46667,
+    "gn:longitude":-11.36667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Baomahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410345
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8384136676de8ba3e339a9fd7997641f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209018417
+        }
+    ],
+    "wof:id":1209018417,
+    "wof:lastmodified":1536300221,
+    "wof:name":"Baomahun",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.36667,
+    8.46667,
+    -11.36667,
+    8.46667
+],
+  "geometry": {"coordinates":[-11.36667,8.46667],"type":"Point"}
+}

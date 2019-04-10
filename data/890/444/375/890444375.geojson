@@ -1,0 +1,69 @@
+{
+  "id": 890444375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.9,7.45,-11.9,7.45",
+    "geom:latitude":7.45,
+    "geom:longitude":-11.9,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":3492,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tongole"
+    ],
+    "qs:name":"Tongole",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403303,
+        "gp:id":1424342,
+        "qs:id":1035430
+    },
+    "wof:country":"SL",
+    "wof:created":1469052466,
+    "wof:geomhash":"ec978f2a3852de7e328e5e4d345ef621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779069,
+            "locality_id":890444375,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":890444375,
+    "wof:lastmodified":1505343598,
+    "wof:name":"Tongole",
+    "wof:parent_id":1108779069,
+    "wof:placetype":"locality",
+    "wof:population":3492,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.9,
+    7.45,
+    -11.9,
+    7.45
+],
+  "geometry": {"coordinates":[-11.9,7.45],"type":"Point"}
+}

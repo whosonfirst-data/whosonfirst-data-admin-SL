@@ -1,0 +1,64 @@
+{
+  "id": 1209618095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.83206,8.36063,-11.83206,8.36063",
+    "geom:latitude":8.36063,
+    "geom:longitude":-11.83206,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Roboaf",
+    "gn:country_code":"SL",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404351,
+    "gn:latitude":8.36063,
+    "gn:longitude":-11.83206,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Roboaf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Roboaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404351
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"08bc33afc332b24881420b386b6d9379",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209618095
+        }
+    ],
+    "wof:id":1209618095,
+    "wof:lastmodified":1537700492,
+    "wof:name":"Roboaf",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.83206,
+    8.36063,
+    -11.83206,
+    8.36063
+],
+  "geometry": {"coordinates":[-11.83206,8.36063],"type":"Point"}
+}

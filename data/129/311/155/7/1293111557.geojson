@@ -1,0 +1,71 @@
+{
+  "id": 1293111557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.31631,9.23419,-12.31631,9.23419",
+    "geom:latitude":9.23419,
+    "geom:longitude":-12.31631,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mabafet",
+    "gn:country_code":"SL",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406905,
+    "gn:latitude":9.23419,
+    "gn:longitude":-12.31631,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Mabafet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magbafat",
+        "Mabafet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406905
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"76b539d029662392a4b8e8efeb5271cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1293111557,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293111557,
+    "wof:lastmodified":1537700578,
+    "wof:name":"Mabafet",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.31631,
+    9.23419,
+    -12.31631,
+    9.23419
+],
+  "geometry": {"coordinates":[-12.31631,9.23419],"type":"Point"}
+}

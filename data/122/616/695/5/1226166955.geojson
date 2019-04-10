@@ -1,0 +1,70 @@
+{
+  "id": 1226166955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.19054,8.30788,-13.19054,8.30788",
+    "geom:latitude":8.30788,
+    "geom:longitude":-13.19054,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Toke",
+    "gn:country_code":"SL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403371,
+    "gn:latitude":8.30788,
+    "gn:longitude":-13.19054,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Toke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Toke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403371
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"cee035b07840348f0e358363a9ebacfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1226166955,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1226166955,
+    "wof:lastmodified":1537700461,
+    "wof:name":"Toke",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.19054,
+    8.30788,
+    -13.19054,
+    8.30788
+],
+  "geometry": {"coordinates":[-13.19054,8.30788],"type":"Point"}
+}

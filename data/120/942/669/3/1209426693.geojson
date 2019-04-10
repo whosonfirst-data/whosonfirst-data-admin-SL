@@ -1,0 +1,64 @@
+{
+  "id": 1209426693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.28185,7.39086,-12.28185,7.39086",
+    "geom:latitude":7.39086,
+    "geom:longitude":-12.28185,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Walihun",
+    "gn:country_code":"SL",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876401,
+    "gn:latitude":7.39086,
+    "gn:longitude":-12.28185,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Walihun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Walihun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876401
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"638210c1991bd24ee3d16c91e123f7d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209426693
+        }
+    ],
+    "wof:id":1209426693,
+    "wof:lastmodified":1537700782,
+    "wof:name":"Walihun",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.28185,
+    7.39086,
+    -12.28185,
+    7.39086
+],
+  "geometry": {"coordinates":[-12.28185,7.39086],"type":"Point"}
+}

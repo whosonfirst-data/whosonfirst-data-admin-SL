@@ -1,0 +1,70 @@
+{
+  "id": 1276550355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.90297,8.98599,-12.90297,8.98599",
+    "geom:latitude":8.98599,
+    "geom:longitude":-12.90297,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Benka",
+    "gn:country_code":"SL",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9985210,
+    "gn:latitude":8.98599,
+    "gn:longitude":-12.90297,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Benka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Benka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9985210
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"71292c1a1ba55962a8b4ca8531d26e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1276550355,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276550355,
+    "wof:lastmodified":1537700875,
+    "wof:name":"Benka",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.90297,
+    8.98599,
+    -12.90297,
+    8.98599
+],
+  "geometry": {"coordinates":[-12.90297,8.98599],"type":"Point"}
+}

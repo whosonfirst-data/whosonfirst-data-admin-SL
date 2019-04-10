@@ -1,0 +1,70 @@
+{
+  "id": 1260093025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.94959,9.12291,-12.94959,9.12291",
+    "geom:latitude":9.12291,
+    "geom:longitude":-12.94959,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dubalaia",
+    "gn:country_code":"SL",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880588,
+    "gn:latitude":9.12291,
+    "gn:longitude":-12.94959,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Dubalaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dubalaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880588
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8376f30db198d20c85e731c82932d6ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1260093025,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1260093025,
+    "wof:lastmodified":1537700805,
+    "wof:name":"Dubalaia",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.94959,
+    9.12291,
+    -12.94959,
+    9.12291
+],
+  "geometry": {"coordinates":[-12.94959,9.12291],"type":"Point"}
+}

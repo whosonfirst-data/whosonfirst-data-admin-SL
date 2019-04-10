@@ -1,0 +1,70 @@
+{
+  "id": 1344060265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.76851,9.14678,-12.76851,9.14678",
+    "geom:latitude":9.14678,
+    "geom:longitude":-12.76851,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Matamberi",
+    "gn:country_code":"SL",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880798,
+    "gn:latitude":9.14678,
+    "gn:longitude":-12.76851,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Matamberi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matamberi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880798
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"01d36285dd6e3525ec51f285952fd3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1344060265,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1344060265,
+    "wof:lastmodified":1537700811,
+    "wof:name":"Matamberi",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.76851,
+    9.14678,
+    -12.76851,
+    9.14678
+],
+  "geometry": {"coordinates":[-12.76851,9.14678],"type":"Point"}
+}

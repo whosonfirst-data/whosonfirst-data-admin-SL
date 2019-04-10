@@ -1,0 +1,70 @@
+{
+  "id": 1210027837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.09086,7.69869,-12.09086,7.69869",
+    "geom:latitude":7.69869,
+    "geom:longitude":-12.09086,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kanga",
+    "gn:country_code":"SL",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876144,
+    "gn:latitude":7.69869,
+    "gn:longitude":-12.09086,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Kanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876144
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a874a7d19c63617a8ee88c02981dd082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1210027837,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1210027837,
+    "wof:lastmodified":1537700775,
+    "wof:name":"Kanga",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.09086,
+    7.69869,
+    -12.09086,
+    7.69869
+],
+  "geometry": {"coordinates":[-12.09086,7.69869],"type":"Point"}
+}

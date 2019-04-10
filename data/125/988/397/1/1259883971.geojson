@@ -1,0 +1,70 @@
+{
+  "id": 1259883971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.11787,8.20211,-11.11787,8.20211",
+    "geom:latitude":8.20211,
+    "geom:longitude":-11.11787,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gogboma",
+    "gn:country_code":"SL",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9915301,
+    "gn:latitude":8.20211,
+    "gn:longitude":-11.11787,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Gogboma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gogboma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9915301
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e251d05830ca055c8d0b49c6b94ac04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1259883971,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1259883971,
+    "wof:lastmodified":1537700862,
+    "wof:name":"Gogboma",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.11787,
+    8.20211,
+    -11.11787,
+    8.20211
+],
+  "geometry": {"coordinates":[-11.11787,8.20211],"type":"Point"}
+}

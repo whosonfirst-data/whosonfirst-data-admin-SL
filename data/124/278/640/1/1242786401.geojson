@@ -1,0 +1,70 @@
+{
+  "id": 1242786401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.6624,9.19596,-12.6624,9.19596",
+    "geom:latitude":9.19596,
+    "geom:longitude":-12.6624,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sanama",
+    "gn:country_code":"SL",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404140,
+    "gn:latitude":9.19596,
+    "gn:longitude":-12.6624,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sanama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sanama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404140
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7833f143fd287743ff7a87afe257180e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1242786401,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1242786401,
+    "wof:lastmodified":1537700485,
+    "wof:name":"Sanama",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.6624,
+    9.19596,
+    -12.6624,
+    9.19596
+],
+  "geometry": {"coordinates":[-12.6624,9.19596],"type":"Point"}
+}

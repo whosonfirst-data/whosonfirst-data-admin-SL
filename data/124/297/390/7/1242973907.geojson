@@ -1,0 +1,67 @@
+{
+  "id": 1242973907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.0,9.65,-12.0,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":-12.0,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kagbane",
+    "gn:country_code":"SL",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408281,
+    "gn:latitude":9.65,
+    "gn:longitude":-12.0,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kagbane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408281
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fba162fd688109e7dc9e567cb0d8af64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1242973907,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1242973907,
+    "wof:lastmodified":1536988955,
+    "wof:name":"Kagbane",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.0,
+    9.65,
+    -12.0,
+    9.65
+],
+  "geometry": {"coordinates":[-12.0,9.65],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259786513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.08488,9.13024,-11.08488,9.13024",
+    "geom:latitude":9.13024,
+    "geom:longitude":-11.08488,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mansonia",
+    "gn:country_code":"SL",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405942,
+    "gn:latitude":9.13024,
+    "gn:longitude":-11.08488,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Mansonia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mansonia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405942
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"57c6f8ffe9d227647a5e4301c601099f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1259786513,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259786513,
+    "wof:lastmodified":1537700546,
+    "wof:name":"Mansonia",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.08488,
+    9.13024,
+    -11.08488,
+    9.13024
+],
+  "geometry": {"coordinates":[-11.08488,9.13024],"type":"Point"}
+}

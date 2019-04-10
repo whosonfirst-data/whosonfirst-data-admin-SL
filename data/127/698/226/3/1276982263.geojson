@@ -1,0 +1,73 @@
+{
+  "id": 1276982263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.81637,7.83827,-12.81637,7.83827",
+    "geom:latitude":7.83827,
+    "geom:longitude":-12.81637,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mohiten",
+    "gn:country_code":"SL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405270,
+    "gn:latitude":7.83827,
+    "gn:longitude":-12.81637,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mohiten",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mohiten"
+    ],
+    "name:und_x_variant":[
+        "Mohite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405270
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ac6c07193ec7657cdaf15412c313f0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1276982263,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276982263,
+    "wof:lastmodified":1537700524,
+    "wof:name":"Mohiten",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.81637,
+    7.83827,
+    -12.81637,
+    7.83827
+],
+  "geometry": {"coordinates":[-12.81637,7.83827],"type":"Point"}
+}

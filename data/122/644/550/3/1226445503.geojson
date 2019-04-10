@@ -1,0 +1,70 @@
+{
+  "id": 1226445503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.18788,8.62245,-13.18788,8.62245",
+    "geom:latitude":8.62245,
+    "geom:longitude":-13.18788,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbanelol",
+    "gn:country_code":"SL",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566531,
+    "gn:latitude":8.62245,
+    "gn:longitude":-13.18788,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gbanelol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbanelol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566531
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d01f7914cae65d9856c9e540f216eadf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1226445503,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226445503,
+    "wof:lastmodified":1537700710,
+    "wof:name":"Gbanelol",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.18788,
+    8.62245,
+    -13.18788,
+    8.62245
+],
+  "geometry": {"coordinates":[-13.18788,8.62245],"type":"Point"}
+}

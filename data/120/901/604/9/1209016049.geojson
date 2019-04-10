@@ -1,0 +1,64 @@
+{
+  "id": 1209016049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.48424,7.23801,-11.48424,7.23801",
+    "geom:latitude":7.23801,
+    "geom:longitude":-11.48424,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Fanima",
+    "gn:country_code":"SL",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409463,
+    "gn:latitude":7.23801,
+    "gn:longitude":-11.48424,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Fanima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fanima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409463
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fde0305ac28f437d50371f61f9a64627",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209016049
+        }
+    ],
+    "wof:id":1209016049,
+    "wof:lastmodified":1537700663,
+    "wof:name":"Fanima",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.48424,
+    7.23801,
+    -11.48424,
+    7.23801
+],
+  "geometry": {"coordinates":[-11.48424,7.23801],"type":"Point"}
+}

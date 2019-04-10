@@ -1,0 +1,70 @@
+{
+  "id": 1193277559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.19419,8.00466,-12.19419,8.00466",
+    "geom:latitude":8.00466,
+    "geom:longitude":-12.19419,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gbaine",
+    "gn:country_code":"SL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904210,
+    "gn:latitude":8.00466,
+    "gn:longitude":-12.19419,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Gbaine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbaine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904210
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fa5e89d2e247a2bae295d5650c36b9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1193277559,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1193277559,
+    "wof:lastmodified":1537700849,
+    "wof:name":"Gbaine",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.19419,
+    8.00466,
+    -12.19419,
+    8.00466
+],
+  "geometry": {"coordinates":[-12.19419,8.00466],"type":"Point"}
+}

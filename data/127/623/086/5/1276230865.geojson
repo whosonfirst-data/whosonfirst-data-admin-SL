@@ -1,0 +1,70 @@
+{
+  "id": 1276230865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.94784,9.10178,-12.94784,9.10178",
+    "geom:latitude":9.10178,
+    "geom:longitude":-12.94784,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tavyia",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403529,
+    "gn:latitude":9.10178,
+    "gn:longitude":-12.94784,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tavyia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tauyia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403529
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b3518f6b583a1673cd3de3bf440688b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1276230865,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276230865,
+    "wof:lastmodified":1537700466,
+    "wof:name":"Tavyia",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.94784,
+    9.10178,
+    -12.94784,
+    9.10178
+],
+  "geometry": {"coordinates":[-12.94784,9.10178],"type":"Point"}
+}

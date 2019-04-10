@@ -1,0 +1,70 @@
+{
+  "id": 1360099245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.09787,7.88715,-11.09787,7.88715",
+    "geom:latitude":7.88715,
+    "geom:longitude":-11.09787,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yabaima",
+    "gn:country_code":"SL",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402975,
+    "gn:latitude":7.88715,
+    "gn:longitude":-11.09787,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yabaima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yabaima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402975
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e1d96b2a66ffa6ee45f4b1afe04b9e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1360099245,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1360099245,
+    "wof:lastmodified":1537700449,
+    "wof:name":"Yabaima",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.09787,
+    7.88715,
+    -11.09787,
+    7.88715
+],
+  "geometry": {"coordinates":[-11.09787,7.88715],"type":"Point"}
+}

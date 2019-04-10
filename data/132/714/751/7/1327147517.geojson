@@ -1,0 +1,70 @@
+{
+  "id": 1327147517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.32131,8.67539,-12.32131,8.67539",
+    "geom:latitude":8.67539,
+    "geom:longitude":-12.32131,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kunsu",
+    "gn:country_code":"SL",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10132022,
+    "gn:latitude":8.67539,
+    "gn:longitude":-12.32131,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Kunsu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kunsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10132022
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a470abda461b86f35532139e64abcf88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1327147517,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327147517,
+    "wof:lastmodified":1537700932,
+    "wof:name":"Kunsu",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.32131,
+    8.67539,
+    -12.32131,
+    8.67539
+],
+  "geometry": {"coordinates":[-12.32131,8.67539],"type":"Point"}
+}

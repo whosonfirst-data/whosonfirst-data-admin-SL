@@ -1,0 +1,70 @@
+{
+  "id": 1293789983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.08477,8.24736,-13.08477,8.24736",
+    "geom:latitude":8.24736,
+    "geom:longitude":-13.08477,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"During Town",
+    "gn:country_code":"SL",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9892837,
+    "gn:latitude":8.24736,
+    "gn:longitude":-13.08477,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"During Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "During Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9892837
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9904388fe860b4e69b1f07dc00c461f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1293789983,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1293789983,
+    "wof:lastmodified":1537700824,
+    "wof:name":"During Town",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.08477,
+    8.24736,
+    -13.08477,
+    8.24736
+],
+  "geometry": {"coordinates":[-13.08477,8.24736],"type":"Point"}
+}

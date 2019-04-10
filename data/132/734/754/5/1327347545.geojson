@@ -1,0 +1,70 @@
+{
+  "id": 1327347545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.68819,8.50932,-10.68819,8.50932",
+    "geom:latitude":8.50932,
+    "geom:longitude":-10.68819,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Woko",
+    "gn:country_code":"SL",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403048,
+    "gn:latitude":8.50932,
+    "gn:longitude":-10.68819,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Woko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Woko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403048
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"43d453d429b27dca6eb848af63187f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1327347545,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1327347545,
+    "wof:lastmodified":1537700451,
+    "wof:name":"Woko",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.68819,
+    8.50932,
+    -10.68819,
+    8.50932
+],
+  "geometry": {"coordinates":[-10.68819,8.50932],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209427825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.18941,8.9864,-12.18941,8.9864",
+    "geom:latitude":8.9864,
+    "geom:longitude":-12.18941,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mabana",
+    "gn:country_code":"SL",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10133241,
+    "gn:latitude":8.9864,
+    "gn:longitude":-12.18941,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Mabana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mabana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10133241
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2683a14fa71fb58e13092103700df84f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209427825
+        }
+    ],
+    "wof:id":1209427825,
+    "wof:lastmodified":1537700937,
+    "wof:name":"Mabana",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.18941,
+    8.9864,
+    -12.18941,
+    8.9864
+],
+  "geometry": {"coordinates":[-12.18941,8.9864],"type":"Point"}
+}

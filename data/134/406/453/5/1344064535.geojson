@@ -1,0 +1,64 @@
+{
+  "id": 1344064535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.63178,7.63943,-12.63178,7.63943",
+    "geom:latitude":7.63943,
+    "geom:longitude":-12.63178,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yenkin",
+    "gn:country_code":"SL",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593508,
+    "gn:latitude":7.63943,
+    "gn:longitude":-12.63178,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yenkin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yenkin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593508
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bff71247c3164c99649190e4a83ed98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344064535,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344064535,
+    "wof:lastmodified":1537700718,
+    "wof:name":"Yenkin",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.63178,
+    7.63943,
+    -12.63178,
+    7.63943
+],
+  "geometry": {"coordinates":[-12.63178,7.63943],"type":"Point"}
+}

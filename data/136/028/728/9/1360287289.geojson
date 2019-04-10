@@ -1,0 +1,70 @@
+{
+  "id": 1360287289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.41639,7.9152,-12.41639,7.9152",
+    "geom:latitude":7.9152,
+    "geom:longitude":-12.41639,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moyombo",
+    "gn:country_code":"SL",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404986,
+    "gn:latitude":7.9152,
+    "gn:longitude":-12.41639,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Moyombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moyombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404986
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6b00d620222ca637c9e49352291e0f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1360287289,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1360287289,
+    "wof:lastmodified":1537700514,
+    "wof:name":"Moyombo",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.41639,
+    7.9152,
+    -12.41639,
+    7.9152
+],
+  "geometry": {"coordinates":[-12.41639,7.9152],"type":"Point"}
+}

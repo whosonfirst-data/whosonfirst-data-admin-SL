@@ -1,0 +1,70 @@
+{
+  "id": 1276231919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.8346,8.52349,-10.8346,8.52349",
+    "geom:latitude":8.52349,
+    "geom:longitude":-10.8346,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kangordu",
+    "gn:country_code":"SL",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408008,
+    "gn:latitude":8.52349,
+    "gn:longitude":-10.8346,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kangordu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kangordu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408008
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ca3b319e43b677d33299b23a1964ca0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1276231919,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1276231919,
+    "wof:lastmodified":1537700613,
+    "wof:name":"Kangordu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.8346,
+    8.52349,
+    -10.8346,
+    8.52349
+],
+  "geometry": {"coordinates":[-10.8346,8.52349],"type":"Point"}
+}

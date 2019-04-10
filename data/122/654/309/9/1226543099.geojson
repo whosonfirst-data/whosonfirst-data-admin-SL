@@ -1,0 +1,70 @@
+{
+  "id": 1226543099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.33913,9.36618,-12.33913,9.36618",
+    "geom:latitude":9.36618,
+    "geom:longitude":-12.33913,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tendokom",
+    "gn:country_code":"SL",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403478,
+    "gn:latitude":9.36618,
+    "gn:longitude":-12.33913,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Tendokom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tendokom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403478
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"73e4303dd8e7fb47662c0b5bd2d55ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1226543099,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226543099,
+    "wof:lastmodified":1537700464,
+    "wof:name":"Tendokom",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.33913,
+    9.36618,
+    -12.33913,
+    9.36618
+],
+  "geometry": {"coordinates":[-12.33913,9.36618],"type":"Point"}
+}

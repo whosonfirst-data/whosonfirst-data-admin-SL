@@ -1,0 +1,70 @@
+{
+  "id": 1327442857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.67933,8.0599,-12.67933,8.0599",
+    "geom:latitude":8.0599,
+    "geom:longitude":-12.67933,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moyegbe",
+    "gn:country_code":"SL",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405001,
+    "gn:latitude":8.0599,
+    "gn:longitude":-12.67933,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Moyegbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moyegbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405001
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6a931a2b29c8be2662ff0c0563b56bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1327442857,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327442857,
+    "wof:lastmodified":1537700514,
+    "wof:name":"Moyegbe",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.67933,
+    8.0599,
+    -12.67933,
+    8.0599
+],
+  "geometry": {"coordinates":[-12.67933,8.0599],"type":"Point"}
+}

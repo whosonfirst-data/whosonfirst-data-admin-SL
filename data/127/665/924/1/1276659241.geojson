@@ -1,0 +1,71 @@
+{
+  "id": 1276659241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.4756,7.92535,-11.4756,7.92535",
+    "geom:latitude":7.92535,
+    "geom:longitude":-11.4756,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ndogbogoma",
+    "gn:country_code":"SL",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404898,
+    "gn:latitude":7.92535,
+    "gn:longitude":-11.4756,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ndogbogoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nongoba",
+        "Ndogbogoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404898
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"090195d2f20049bc53957e509aeb4dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1276659241,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276659241,
+    "wof:lastmodified":1537700510,
+    "wof:name":"Ndogbogoma",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.4756,
+    7.92535,
+    -11.4756,
+    7.92535
+],
+  "geometry": {"coordinates":[-11.4756,7.92535],"type":"Point"}
+}

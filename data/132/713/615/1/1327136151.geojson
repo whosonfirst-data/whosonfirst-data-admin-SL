@@ -1,0 +1,70 @@
+{
+  "id": 1327136151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.63182,7.72295,-11.63182,7.72295",
+    "geom:latitude":7.72295,
+    "geom:longitude":-11.63182,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sogoma",
+    "gn:country_code":"SL",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403783,
+    "gn:latitude":7.72295,
+    "gn:longitude":-11.63182,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sogoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sogoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403783
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"85c0ebcc4b7720275d2da6f4f85b9c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1327136151,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327136151,
+    "wof:lastmodified":1537700474,
+    "wof:name":"Sogoma",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.63182,
+    7.72295,
+    -11.63182,
+    7.72295
+],
+  "geometry": {"coordinates":[-11.63182,7.72295],"type":"Point"}
+}

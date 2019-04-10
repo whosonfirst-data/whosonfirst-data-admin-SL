@@ -1,0 +1,64 @@
+{
+  "id": 1209228401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.22695,8.59817,-11.22695,8.59817",
+    "geom:latitude":8.59817,
+    "geom:longitude":-11.22695,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tembedu",
+    "gn:country_code":"SL",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403489,
+    "gn:latitude":8.59817,
+    "gn:longitude":-11.22695,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Tembedu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tembedu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403489
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8efa266bf36cf7b2b83f2fe4a38910b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209228401
+        }
+    ],
+    "wof:id":1209228401,
+    "wof:lastmodified":1537700464,
+    "wof:name":"Tembedu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.22695,
+    8.59817,
+    -11.22695,
+    8.59817
+],
+  "geometry": {"coordinates":[-11.22695,8.59817],"type":"Point"}
+}

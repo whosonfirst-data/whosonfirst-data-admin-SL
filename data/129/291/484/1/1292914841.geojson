@@ -1,0 +1,70 @@
+{
+  "id": 1292914841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.86214,7.53699,-11.86214,7.53699",
+    "geom:latitude":7.53699,
+    "geom:longitude":-11.86214,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Male",
+    "gn:country_code":"SL",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406231,
+    "gn:latitude":7.53699,
+    "gn:longitude":-11.86214,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Male",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Male"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406231
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a47bad88651e31d2c3c3e2fc04056021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1292914841,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1292914841,
+    "wof:lastmodified":1537700555,
+    "wof:name":"Male",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.86214,
+    7.53699,
+    -11.86214,
+    7.53699
+],
+  "geometry": {"coordinates":[-11.86214,7.53699],"type":"Point"}
+}

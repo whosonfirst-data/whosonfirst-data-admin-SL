@@ -1,0 +1,70 @@
+{
+  "id": 1226749521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.01035,7.67678,-12.01035,7.67678",
+    "geom:latitude":7.67678,
+    "geom:longitude":-12.01035,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Garahun",
+    "gn:country_code":"SL",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876132,
+    "gn:latitude":7.67678,
+    "gn:longitude":-12.01035,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Garahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Garahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876132
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e33e326d5260e0f255af1ccf83b29e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1226749521,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226749521,
+    "wof:lastmodified":1537700775,
+    "wof:name":"Garahun",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.01035,
+    7.67678,
+    -12.01035,
+    7.67678
+],
+  "geometry": {"coordinates":[-12.01035,7.67678],"type":"Point"}
+}

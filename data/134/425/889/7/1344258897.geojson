@@ -1,0 +1,70 @@
+{
+  "id": 1344258897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.89917,7.48417,-11.89917,7.48417",
+    "geom:latitude":7.48417,
+    "geom:longitude":-11.89917,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yawei",
+    "gn:country_code":"SL",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570996,
+    "gn:latitude":7.48417,
+    "gn:longitude":-11.89917,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yawei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yawei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570996
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"320a60a4a19928251b963bdc22a88d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1344258897,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1344258897,
+    "wof:lastmodified":1537700717,
+    "wof:name":"Yawei",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.89917,
+    7.48417,
+    -11.89917,
+    7.48417
+],
+  "geometry": {"coordinates":[-11.89917,7.48417],"type":"Point"}
+}

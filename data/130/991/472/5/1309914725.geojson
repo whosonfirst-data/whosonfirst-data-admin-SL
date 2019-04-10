@@ -1,0 +1,70 @@
+{
+  "id": 1309914725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.19061,9.16146,-12.19061,9.16146",
+    "geom:latitude":9.16146,
+    "geom:longitude":-12.19061,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mahai",
+    "gn:country_code":"SL",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406554,
+    "gn:latitude":9.16146,
+    "gn:longitude":-12.19061,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Mahai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mahai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406554
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c6d4eb0ff3df2290d45397d63c84761f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1309914725,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309914725,
+    "wof:lastmodified":1537700566,
+    "wof:name":"Mahai",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.19061,
+    9.16146,
+    -12.19061,
+    9.16146
+],
+  "geometry": {"coordinates":[-12.19061,9.16146],"type":"Point"}
+}

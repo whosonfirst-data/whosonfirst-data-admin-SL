@@ -1,0 +1,73 @@
+{
+  "id": 1327335239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.4995,8.08372,-11.4995,8.08372",
+    "geom:latitude":8.08372,
+    "geom:longitude":-11.4995,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gbaama",
+    "gn:country_code":"SL",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410374,
+    "gn:latitude":8.08372,
+    "gn:longitude":-11.4995,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gbaama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbaama"
+    ],
+    "name:und_x_variant":[
+        "Baoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410374
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6afcc7cd6230b24c27a82ab6321ab92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1327335239,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327335239,
+    "wof:lastmodified":1537700694,
+    "wof:name":"Gbaama",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.4995,
+    8.08372,
+    -11.4995,
+    8.08372
+],
+  "geometry": {"coordinates":[-11.4995,8.08372],"type":"Point"}
+}

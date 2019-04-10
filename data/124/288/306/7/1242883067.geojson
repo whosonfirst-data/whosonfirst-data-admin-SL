@@ -1,0 +1,70 @@
+{
+  "id": 1242883067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.22447,8.71977,-13.22447,8.71977",
+    "geom:latitude":8.71977,
+    "geom:longitude":-13.22447,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kamayen",
+    "gn:country_code":"SL",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566568,
+    "gn:latitude":8.71977,
+    "gn:longitude":-13.22447,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kamayen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kamayen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566568
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"68c911d6ba58d66e82ac60c081166fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1242883067,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1242883067,
+    "wof:lastmodified":1537700711,
+    "wof:name":"Kamayen",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.22447,
+    8.71977,
+    -13.22447,
+    8.71977
+],
+  "geometry": {"coordinates":[-13.22447,8.71977],"type":"Point"}
+}

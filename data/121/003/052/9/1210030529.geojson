@@ -1,0 +1,70 @@
+{
+  "id": 1210030529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.29929,8.15666,-11.29929,8.15666",
+    "geom:latitude":8.15666,
+    "geom:longitude":-11.29929,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Batoma",
+    "gn:country_code":"SL",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410272,
+    "gn:latitude":8.15666,
+    "gn:longitude":-11.29929,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Batoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Batoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410272
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"814cd6740b78df7ec5df9522e9e44842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1210030529,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1210030529,
+    "wof:lastmodified":1537700691,
+    "wof:name":"Batoma",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.29929,
+    8.15666,
+    -11.29929,
+    8.15666
+],
+  "geometry": {"coordinates":[-11.29929,8.15666],"type":"Point"}
+}

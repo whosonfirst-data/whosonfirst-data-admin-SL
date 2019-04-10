@@ -1,0 +1,67 @@
+{
+  "id": 1209424517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.07209,8.40284,-11.07209,8.40284",
+    "geom:latitude":8.40284,
+    "geom:longitude":-11.07209,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sawula",
+    "gn:country_code":"SL",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406024,
+    "gn:latitude":8.40284,
+    "gn:longitude":-11.07209,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sawula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sawula"
+    ],
+    "name:und_x_variant":[
+        "Manjama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406024
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0a1cf9cb34f3fefb3b99eebd8dd0e2c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209424517
+        }
+    ],
+    "wof:id":1209424517,
+    "wof:lastmodified":1537700549,
+    "wof:name":"Sawula",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.07209,
+    8.40284,
+    -11.07209,
+    8.40284
+],
+  "geometry": {"coordinates":[-11.07209,8.40284],"type":"Point"}
+}

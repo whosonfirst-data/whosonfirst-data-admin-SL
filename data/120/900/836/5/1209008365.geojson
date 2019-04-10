@@ -1,0 +1,67 @@
+{
+  "id": 1209008365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.79755,8.18045,-10.79755,8.18045",
+    "geom:latitude":8.18045,
+    "geom:longitude":-10.79755,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Talia",
+    "gn:country_code":"SL",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408486,
+    "gn:latitude":8.18045,
+    "gn:longitude":-10.79755,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Talia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Talia"
+    ],
+    "name:und_x_variant":[
+        "Jalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408486
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4f27cbc60c8a376825228a3b2d9a5193",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209008365
+        }
+    ],
+    "wof:id":1209008365,
+    "wof:lastmodified":1537700629,
+    "wof:name":"Talia",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.79755,
+    8.18045,
+    -10.79755,
+    8.18045
+],
+  "geometry": {"coordinates":[-10.79755,8.18045],"type":"Point"}
+}

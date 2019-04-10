@@ -1,0 +1,70 @@
+{
+  "id": 1309918751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.80536,8.48043,-12.80536,8.48043",
+    "geom:latitude":8.48043,
+    "geom:longitude":-12.80536,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masumana",
+    "gn:country_code":"SL",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405688,
+    "gn:latitude":8.48043,
+    "gn:longitude":-12.80536,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Masumana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masumana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405688
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a0de862120f64b57f682ff244e65d1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1309918751,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309918751,
+    "wof:lastmodified":1537700538,
+    "wof:name":"Masumana",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.80536,
+    8.48043,
+    -12.80536,
+    8.48043
+],
+  "geometry": {"coordinates":[-12.80536,8.48043],"type":"Point"}
+}

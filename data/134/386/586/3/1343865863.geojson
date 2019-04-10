@@ -1,0 +1,70 @@
+{
+  "id": 1343865863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.866,7.99488,-12.866,7.99488",
+    "geom:latitude":7.99488,
+    "geom:longitude":-12.866,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mogbagura",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9916029,
+    "gn:latitude":7.99488,
+    "gn:longitude":-12.866,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Mogbagura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mogbagura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9916029
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fee17e3d66cc2c903e799137e3b857f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1343865863,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343865863,
+    "wof:lastmodified":1537700865,
+    "wof:name":"Mogbagura",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.866,
+    7.99488,
+    -12.866,
+    7.99488
+],
+  "geometry": {"coordinates":[-12.866,7.99488],"type":"Point"}
+}

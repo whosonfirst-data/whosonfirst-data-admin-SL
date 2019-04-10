@@ -1,0 +1,70 @@
+{
+  "id": 1259889481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.39817,7.75872,-11.39817,7.75872",
+    "geom:latitude":7.75872,
+    "geom:longitude":-11.39817,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sokebubu",
+    "gn:country_code":"SL",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875197,
+    "gn:latitude":7.75872,
+    "gn:longitude":-11.39817,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Sokebubu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sokebubu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875197
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"65c5aa76b16e37f45b41250dd90f8775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1259889481,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1259889481,
+    "wof:lastmodified":1537700761,
+    "wof:name":"Sokebubu",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.39817,
+    7.75872,
+    -11.39817,
+    7.75872
+],
+  "geometry": {"coordinates":[-11.39817,7.75872],"type":"Point"}
+}

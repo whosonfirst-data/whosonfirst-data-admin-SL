@@ -1,0 +1,70 @@
+{
+  "id": 1327342481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.0922,8.80706,-12.0922,8.80706",
+    "geom:latitude":8.80706,
+    "geom:longitude":-12.0922,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mabidungung",
+    "gn:country_code":"SL",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406840,
+    "gn:latitude":8.80706,
+    "gn:longitude":-12.0922,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Mabidungung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mabidungung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406840
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f3d40ca8a44a2b6f0b6ca7549fd83f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1327342481,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327342481,
+    "wof:lastmodified":1537700575,
+    "wof:name":"Mabidungung",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.0922,
+    8.80706,
+    -12.0922,
+    8.80706
+],
+  "geometry": {"coordinates":[-12.0922,8.80706],"type":"Point"}
+}

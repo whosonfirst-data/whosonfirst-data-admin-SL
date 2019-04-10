@@ -1,0 +1,75 @@
+{
+  "id": 1226343963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.53247,7.87698,-11.53247,7.87698",
+    "geom:latitude":7.87698,
+    "geom:longitude":-11.53247,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tungbebu",
+    "gn:country_code":"SL",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403296,
+    "gn:latitude":7.87698,
+    "gn:longitude":-11.53247,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tungbebu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tungbebu"
+    ],
+    "name:und_x_variant":[
+        "Tungebu",
+        "Tungwebu",
+        "Tongwebu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403296
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"53f42434a4422d932e6d1b4800741e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1226343963,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226343963,
+    "wof:lastmodified":1537700459,
+    "wof:name":"Tungbebu",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.53247,
+    7.87698,
+    -11.53247,
+    7.87698
+],
+  "geometry": {"coordinates":[-11.53247,7.87698],"type":"Point"}
+}

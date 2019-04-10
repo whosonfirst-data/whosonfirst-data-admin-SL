@@ -1,0 +1,70 @@
+{
+  "id": 1327146051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.06952,7.58318,-12.06952,7.58318",
+    "geom:latitude":7.58318,
+    "geom:longitude":-12.06952,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Grima",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404874,
+    "gn:latitude":7.58318,
+    "gn:longitude":-12.06952,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Grima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngiyema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404874
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2adbb8d343eda125d6833900de3fcd4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1327146051,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327146051,
+    "wof:lastmodified":1537700510,
+    "wof:name":"Grima",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.06952,
+    7.58318,
+    -12.06952,
+    7.58318
+],
+  "geometry": {"coordinates":[-12.06952,7.58318],"type":"Point"}
+}

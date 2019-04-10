@@ -1,0 +1,70 @@
+{
+  "id": 1277088301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.99435,8.854,-10.99435,8.854",
+    "geom:latitude":8.854,
+    "geom:longitude":-10.99435,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kangbaro",
+    "gn:country_code":"SL",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408011,
+    "gn:latitude":8.854,
+    "gn:longitude":-10.99435,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kangbaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kangbaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408011
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"84db3c58afd08b7362bccbf66e0eaba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1277088301,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1277088301,
+    "wof:lastmodified":1537700613,
+    "wof:name":"Kangbaro",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.99435,
+    8.854,
+    -10.99435,
+    8.854
+],
+  "geometry": {"coordinates":[-10.99435,8.854],"type":"Point"}
+}

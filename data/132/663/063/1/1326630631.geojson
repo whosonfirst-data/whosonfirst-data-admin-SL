@@ -1,0 +1,67 @@
+{
+  "id": 1326630631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.16667,8.43333,-13.16667,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":-13.16667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Coldbath Town",
+    "gn:country_code":"SL",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409733,
+    "gn:latitude":8.43333,
+    "gn:longitude":-13.16667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Coldbath Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409733
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"839a904ba3b5330f701f4a8407a318fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1326630631,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1326630631,
+    "wof:lastmodified":1536841086,
+    "wof:name":"Coldbath Town",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.16667,
+    8.43333,
+    -13.16667,
+    8.43333
+],
+  "geometry": {"coordinates":[-13.16667,8.43333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225853503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.96774,9.07867,-12.96774,9.07867",
+    "geom:latitude":9.07867,
+    "geom:longitude":-12.96774,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makanka",
+    "gn:country_code":"SL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880575,
+    "gn:latitude":9.07867,
+    "gn:longitude":-12.96774,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Makanka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880575
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"89bd0184116ddcc37970d460901dd97d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1225853503,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1225853503,
+    "wof:lastmodified":1537700805,
+    "wof:name":"Makanka",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.96774,
+    9.07867,
+    -12.96774,
+    9.07867
+],
+  "geometry": {"coordinates":[-12.96774,9.07867],"type":"Point"}
+}

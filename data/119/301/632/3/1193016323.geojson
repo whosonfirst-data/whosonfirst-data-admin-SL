@@ -1,0 +1,71 @@
+{
+  "id": 1193016323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.07915,8.28187,-13.07915,8.28187",
+    "geom:latitude":8.28187,
+    "geom:longitude":-13.07915,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Macdonald",
+    "gn:country_code":"SL",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406774,
+    "gn:latitude":8.28187,
+    "gn:longitude":-13.07915,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Macdonald",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosso Town",
+        "Macdonald"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406774
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"98b48091b8a8ef5427b79785151b858c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1193016323,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1193016323,
+    "wof:lastmodified":1537700573,
+    "wof:name":"Macdonald",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.07915,
+    8.28187,
+    -13.07915,
+    8.28187
+],
+  "geometry": {"coordinates":[-13.07915,8.28187],"type":"Point"}
+}

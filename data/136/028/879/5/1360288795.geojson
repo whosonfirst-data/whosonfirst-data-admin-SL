@@ -1,0 +1,70 @@
+{
+  "id": 1360288795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.2007,8.56468,-12.2007,8.56468",
+    "geom:latitude":8.56468,
+    "geom:longitude":-12.2007,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makasi",
+    "gn:country_code":"SL",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10132189,
+    "gn:latitude":8.56468,
+    "gn:longitude":-12.2007,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Makasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10132189
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"cecb203ea8237971059aa19ee636b2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1360288795,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1360288795,
+    "wof:lastmodified":1537700935,
+    "wof:name":"Makasi",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.2007,
+    8.56468,
+    -12.2007,
+    8.56468
+],
+  "geometry": {"coordinates":[-12.2007,8.56468],"type":"Point"}
+}

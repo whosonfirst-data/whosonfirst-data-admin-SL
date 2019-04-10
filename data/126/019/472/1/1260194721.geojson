@@ -1,0 +1,73 @@
+{
+  "id": 1260194721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.40962,8.14835,-11.40962,8.14835",
+    "geom:latitude":8.14835,
+    "geom:longitude":-11.40962,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jelu",
+    "gn:country_code":"SL",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408419,
+    "gn:latitude":8.14835,
+    "gn:longitude":-11.40962,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Jelu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jelu"
+    ],
+    "name:und_x_variant":[
+        "Jeru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408419
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a4728e9628ef6bdc5852da1913e40c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1260194721,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1260194721,
+    "wof:lastmodified":1537700627,
+    "wof:name":"Jelu",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.40962,
+    8.14835,
+    -11.40962,
+    8.14835
+],
+  "geometry": {"coordinates":[-11.40962,8.14835],"type":"Point"}
+}

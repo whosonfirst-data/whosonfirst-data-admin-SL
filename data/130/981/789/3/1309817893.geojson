@@ -1,0 +1,70 @@
+{
+  "id": 1309817893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.58763,8.18168,-10.58763,8.18168",
+    "geom:latitude":8.18168,
+    "geom:longitude":-10.58763,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Namema",
+    "gn:country_code":"SL",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404910,
+    "gn:latitude":8.18168,
+    "gn:longitude":-10.58763,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Namema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Namema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404910
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ffd68f2f138be914d4ede9c3ab6727b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1309817893,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1309817893,
+    "wof:lastmodified":1537700511,
+    "wof:name":"Namema",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.58763,
+    8.18168,
+    -10.58763,
+    8.18168
+],
+  "geometry": {"coordinates":[-10.58763,8.18168],"type":"Point"}
+}

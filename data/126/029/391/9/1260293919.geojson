@@ -1,0 +1,70 @@
+{
+  "id": 1260293919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.00853,9.06022,-12.00853,9.06022",
+    "geom:latitude":9.06022,
+    "geom:longitude":-12.00853,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makuntiki",
+    "gn:country_code":"SL",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10133407,
+    "gn:latitude":9.06022,
+    "gn:longitude":-12.00853,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Makuntiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makuntiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10133407
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"428337680cfa8db6d723f4feba082cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1260293919,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1260293919,
+    "wof:lastmodified":1537700941,
+    "wof:name":"Makuntiki",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.00853,
+    9.06022,
+    -12.00853,
+    9.06022
+],
+  "geometry": {"coordinates":[-12.00853,9.06022],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209618311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.73989,9.38184,-12.73989,9.38184",
+    "geom:latitude":9.38184,
+    "geom:longitude":-12.73989,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bimbaiya",
+    "gn:country_code":"SL",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410097,
+    "gn:latitude":9.38184,
+    "gn:longitude":-12.73989,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bimbaiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bimbaya",
+        "Bimbaiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410097
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0737ea6511ac0a7488d481133acb55ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209618311
+        }
+    ],
+    "wof:id":1209618311,
+    "wof:lastmodified":1537700685,
+    "wof:name":"Bimbaiya",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.73989,
+    9.38184,
+    -12.73989,
+    9.38184
+],
+  "geometry": {"coordinates":[-12.73989,9.38184],"type":"Point"}
+}

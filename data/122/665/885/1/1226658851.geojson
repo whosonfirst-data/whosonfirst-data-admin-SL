@@ -1,0 +1,70 @@
+{
+  "id": 1226658851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.84463,9.25299,-12.84463,9.25299",
+    "geom:latitude":9.25299,
+    "geom:longitude":-12.84463,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gore",
+    "gn:country_code":"SL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880288,
+    "gn:latitude":9.25299,
+    "gn:longitude":-12.84463,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Gore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880288
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"df69b61d2950660b0394e7929abf3902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1226658851,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226658851,
+    "wof:lastmodified":1537700800,
+    "wof:name":"Gore",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.84463,
+    9.25299,
+    -12.84463,
+    9.25299
+],
+  "geometry": {"coordinates":[-12.84463,9.25299],"type":"Point"}
+}

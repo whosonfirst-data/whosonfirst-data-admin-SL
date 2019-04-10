@@ -1,0 +1,70 @@
+{
+  "id": 1276775971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.65751,8.92611,-12.65751,8.92611",
+    "geom:latitude":8.92611,
+    "geom:longitude":-12.65751,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbombana",
+    "gn:country_code":"SL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408978,
+    "gn:latitude":8.92611,
+    "gn:longitude":-12.65751,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Gbombana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbombana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408978
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"76495fb3f6f03aa0d3ca34568995571c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1276775971,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276775971,
+    "wof:lastmodified":1537700646,
+    "wof:name":"Gbombana",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.65751,
+    8.92611,
+    -12.65751,
+    8.92611
+],
+  "geometry": {"coordinates":[-12.65751,8.92611],"type":"Point"}
+}

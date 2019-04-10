@@ -1,0 +1,81 @@
+{
+  "id": 1125764725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.6,9.01667,-10.6,9.01667",
+    "geom:latitude":9.01667,
+    "geom:longitude":-10.6,
+    "gn:gn_country":"SL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2243,
+    "gn:population":2243,
+    "iso:country":"SL",
+    "lbl:latitude":9.01667,
+    "lbl:longitude":-10.6,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Seidu"
+    ],
+    "qs_pg:aaroncc":"SL",
+    "qs_pg:gn_country":"SL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2404036,
+    "qs_pg:gn_pop":2243,
+    "qs_pg:name":"Seidu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1035444,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404036,
+        "qs_pg:id":1035444
+    },
+    "wof:country":"SL",
+    "wof:created":1497289826,
+    "wof:geomhash":"88c8855056d2dedf3f592d013707184d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1125764725,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1125764725,
+    "wof:lastmodified":1509390621,
+    "wof:name":"Seidu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:population":2243,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.6,
+    9.01667,
+    -10.6,
+    9.01667
+],
+  "geometry": {"coordinates":[-10.6,9.01667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260091853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.04639,7.61444,-12.04639,7.61444",
+    "geom:latitude":7.61444,
+    "geom:longitude":-12.04639,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Motuo",
+    "gn:cc2":"SL",
+    "gn:country_code":"SL",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405028,
+    "gn:latitude":7.61444,
+    "gn:longitude":-12.04639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Motuo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Motaua",
+        "Motuwo",
+        "Motava",
+        "Motuo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405028
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fdfa17c3a37a82f4e724a6be9a63d24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1260091853,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1260091853,
+    "wof:lastmodified":1537700515,
+    "wof:name":"Motuo",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.04639,
+    7.61444,
+    -12.04639,
+    7.61444
+],
+  "geometry": {"coordinates":[-12.04639,7.61444],"type":"Point"}
+}

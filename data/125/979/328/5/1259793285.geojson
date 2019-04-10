@@ -1,0 +1,71 @@
+{
+  "id": 1259793285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.08326,7.99527,-11.08326,7.99527",
+    "geom:latitude":7.99527,
+    "geom:longitude":-11.08326,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Komaru",
+    "gn:country_code":"SL",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407617,
+    "gn:latitude":7.99527,
+    "gn:longitude":-11.08326,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Komaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konohun",
+        "Komaru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407617
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2313dee2ad21dab63b6c2a7c0938f9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1259793285,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1259793285,
+    "wof:lastmodified":1537700602,
+    "wof:name":"Komaru",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.08326,
+    7.99527,
+    -11.08326,
+    7.99527
+],
+  "geometry": {"coordinates":[-11.08326,7.99527],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225968481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.10877,8.35483,-13.10877,8.35483",
+    "geom:latitude":8.35483,
+    "geom:longitude":-13.10877,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Congo",
+    "gn:country_code":"SL",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566425,
+    "gn:latitude":8.35483,
+    "gn:longitude":-13.10877,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Congo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Congo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566425
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f403132fd83e17baaa6fa6d8eef73935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1225968481,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1225968481,
+    "wof:lastmodified":1537700708,
+    "wof:name":"Congo",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.10877,
+    8.35483,
+    -13.10877,
+    8.35483
+],
+  "geometry": {"coordinates":[-13.10877,8.35483],"type":"Point"}
+}

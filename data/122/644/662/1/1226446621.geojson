@@ -1,0 +1,70 @@
+{
+  "id": 1226446621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.8332,8.58634,-10.8332,8.58634",
+    "geom:latitude":8.58634,
+    "geom:longitude":-10.8332,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yokenyambadu",
+    "gn:country_code":"SL",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10009593,
+    "gn:latitude":8.58634,
+    "gn:longitude":-10.8332,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Yokenyambadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yokenyambadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10009593
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0e41c1f2a39226ff80bbdf070bb33e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1226446621,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226446621,
+    "wof:lastmodified":1537700910,
+    "wof:name":"Yokenyambadu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.8332,
+    8.58634,
+    -10.8332,
+    8.58634
+],
+  "geometry": {"coordinates":[-10.8332,8.58634],"type":"Point"}
+}

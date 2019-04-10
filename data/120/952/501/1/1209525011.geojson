@@ -1,0 +1,64 @@
+{
+  "id": 1209525011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.3076,8.29814,-10.3076,8.29814",
+    "geom:latitude":8.29814,
+    "geom:longitude":-10.3076,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dakaw",
+    "gn:country_code":"SL",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570143,
+    "gn:latitude":8.29814,
+    "gn:longitude":-10.3076,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Dakaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dakaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570143
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d4537fcf2ddf9f9f63768b4190ba2ea0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209525011
+        }
+    ],
+    "wof:id":1209525011,
+    "wof:lastmodified":1537700713,
+    "wof:name":"Dakaw",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.3076,
+    8.29814,
+    -10.3076,
+    8.29814
+],
+  "geometry": {"coordinates":[-10.3076,8.29814],"type":"Point"}
+}

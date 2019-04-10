@@ -1,0 +1,67 @@
+{
+  "id": 1209622551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.69567,8.13376,-12.69567,8.13376",
+    "geom:latitude":8.13376,
+    "geom:longitude":-12.69567,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lower Mobainchain",
+    "gn:country_code":"SL",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405288,
+    "gn:latitude":8.13376,
+    "gn:longitude":-12.69567,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Lower Mobainchain",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lower Mobainchain"
+    ],
+    "name:und_x_variant":[
+        "Mogbenje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405288
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bb7cb4f5a785489b3a4c12dfed8ec18a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209622551
+        }
+    ],
+    "wof:id":1209622551,
+    "wof:lastmodified":1537700525,
+    "wof:name":"Lower Mobainchain",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.69567,
+    8.13376,
+    -12.69567,
+    8.13376
+],
+  "geometry": {"coordinates":[-12.69567,8.13376],"type":"Point"}
+}

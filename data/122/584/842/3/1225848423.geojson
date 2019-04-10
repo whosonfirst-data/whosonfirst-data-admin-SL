@@ -1,0 +1,73 @@
+{
+  "id": 1225848423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.14174,8.92797,-13.14174,8.92797",
+    "geom:latitude":8.92797,
+    "geom:longitude":-13.14174,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kychom",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407101,
+    "gn:latitude":8.92797,
+    "gn:longitude":-13.14174,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kychom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kichum",
+        "Kichom",
+        "Kiehom",
+        "Kychom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407101
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e561f989377913a64a91fffbe0ef807e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1225848423,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1225848423,
+    "wof:lastmodified":1537700583,
+    "wof:name":"Kychom",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.14174,
+    8.92797,
+    -13.14174,
+    8.92797
+],
+  "geometry": {"coordinates":[-13.14174,8.92797],"type":"Point"}
+}

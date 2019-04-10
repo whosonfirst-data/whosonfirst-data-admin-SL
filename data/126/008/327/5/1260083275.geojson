@@ -1,0 +1,70 @@
+{
+  "id": 1260083275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.12376,9.7904,-11.12376,9.7904",
+    "geom:latitude":9.7904,
+    "geom:longitude":-11.12376,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Koba",
+    "gn:country_code":"SL",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407680,
+    "gn:latitude":9.7904,
+    "gn:longitude":-11.12376,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Koba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407680
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a63c65cf8182626dc748e6de63ed379c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1260083275,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1260083275,
+    "wof:lastmodified":1537700604,
+    "wof:name":"Koba",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.12376,
+    9.7904,
+    -11.12376,
+    9.7904
+],
+  "geometry": {"coordinates":[-11.12376,9.7904],"type":"Point"}
+}

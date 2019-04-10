@@ -1,0 +1,64 @@
+{
+  "id": 1209617131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.2708,8.14542,-12.2708,8.14542",
+    "geom:latitude":8.14542,
+    "geom:longitude":-12.2708,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mosori",
+    "gn:country_code":"SL",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893812,
+    "gn:latitude":8.14542,
+    "gn:longitude":-12.2708,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Mosori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mosori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893812
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b6398a6926c2288b555f994af75b6f41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209617131
+        }
+    ],
+    "wof:id":1209617131,
+    "wof:lastmodified":1537700841,
+    "wof:name":"Mosori",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.2708,
+    8.14542,
+    -12.2708,
+    8.14542
+],
+  "geometry": {"coordinates":[-12.2708,8.14542],"type":"Point"}
+}

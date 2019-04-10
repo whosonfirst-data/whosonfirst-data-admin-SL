@@ -1,0 +1,64 @@
+{
+  "id": 1209232387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.39695,8.27617,-10.39695,8.27617",
+    "geom:latitude":8.27617,
+    "geom:longitude":-10.39695,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pyoto",
+    "gn:country_code":"SL",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9892678,
+    "gn:latitude":8.27617,
+    "gn:longitude":-10.39695,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Pyoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pyoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9892678
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"527a9aade2fb5dd9065eb0469d88444a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209232387
+        }
+    ],
+    "wof:id":1209232387,
+    "wof:lastmodified":1537700820,
+    "wof:name":"Pyoto",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.39695,
+    8.27617,
+    -10.39695,
+    8.27617
+],
+  "geometry": {"coordinates":[-10.39695,8.27617],"type":"Point"}
+}

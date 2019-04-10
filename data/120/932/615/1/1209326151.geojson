@@ -1,0 +1,67 @@
+{
+  "id": 1209326151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.88552,7.85156,-12.88552,7.85156",
+    "geom:latitude":7.85156,
+    "geom:longitude":-12.88552,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Somway",
+    "gn:country_code":"SL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403759,
+    "gn:latitude":7.85156,
+    "gn:longitude":-12.88552,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Somway",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Somway"
+    ],
+    "name:und_x_variant":[
+        "Somwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403759
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b18a4ac6a4f68abb7269c445a19d3037",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209326151
+        }
+    ],
+    "wof:id":1209326151,
+    "wof:lastmodified":1537700473,
+    "wof:name":"Somway",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.88552,
+    7.85156,
+    -12.88552,
+    7.85156
+],
+  "geometry": {"coordinates":[-12.88552,7.85156],"type":"Point"}
+}

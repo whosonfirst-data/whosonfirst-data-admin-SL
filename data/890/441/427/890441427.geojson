@@ -1,0 +1,71 @@
+{
+  "id": 890441427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.03333,9.75,-12.03333,9.75",
+    "geom:latitude":9.75,
+    "geom:longitude":-12.03333,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":3435,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Loma"
+    ],
+    "qs:name":"Loma",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":137,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406963,
+        "gp:id":1513776,
+        "qs:id":278612,
+        "wk:page":"Loma"
+    },
+    "wof:country":"SL",
+    "wof:created":1469052323,
+    "wof:geomhash":"ec73974abe7f924c3f224614515ac9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":890441427,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":890441427,
+    "wof:lastmodified":1527727232,
+    "wof:name":"Loma",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:population":3435,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.03333,
+    9.75,
+    -12.03333,
+    9.75
+],
+  "geometry": {"coordinates":[-12.03333,9.75],"type":"Point"}
+}

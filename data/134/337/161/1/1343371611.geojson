@@ -1,0 +1,70 @@
+{
+  "id": 1343371611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.23361,8.67667,-13.23361,8.67667",
+    "geom:latitude":8.67667,
+    "geom:longitude":-13.23361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mapotee",
+    "gn:country_code":"SL",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566609,
+    "gn:latitude":8.67667,
+    "gn:longitude":-13.23361,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mapotee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mapotee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566609
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ddfbee07998003ed16d3a543e65c7469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1343371611,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343371611,
+    "wof:lastmodified":1537700712,
+    "wof:name":"Mapotee",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.23361,
+    8.67667,
+    -13.23361,
+    8.67667
+],
+  "geometry": {"coordinates":[-13.23361,8.67667],"type":"Point"}
+}

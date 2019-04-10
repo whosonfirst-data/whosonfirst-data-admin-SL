@@ -1,0 +1,70 @@
+{
+  "id": 1259987129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.19363,8.12609,-12.19363,8.12609",
+    "geom:latitude":8.12609,
+    "geom:longitude":-12.19363,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Majendu",
+    "gn:country_code":"SL",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9903207,
+    "gn:latitude":8.12609,
+    "gn:longitude":-12.19363,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Majendu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Majendu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9903207
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6ab7f131bddb8a1934e89ff4015232d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1259987129,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1259987129,
+    "wof:lastmodified":1537700846,
+    "wof:name":"Majendu",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.19363,
+    8.12609,
+    -12.19363,
+    8.12609
+],
+  "geometry": {"coordinates":[-12.19363,8.12609],"type":"Point"}
+}

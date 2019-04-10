@@ -1,0 +1,70 @@
+{
+  "id": 1259701349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.32206,8.432,-11.32206,8.432",
+    "geom:latitude":8.432,
+    "geom:longitude":-11.32206,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kogbwendehun",
+    "gn:country_code":"SL",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407662,
+    "gn:latitude":8.432,
+    "gn:longitude":-11.32206,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kogbwendehun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kogbwendehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407662
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4e00ad2f55ebec33606d267a14e0b507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1259701349,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1259701349,
+    "wof:lastmodified":1537700603,
+    "wof:name":"Kogbwendehun",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.32206,
+    8.432,
+    -11.32206,
+    8.432
+],
+  "geometry": {"coordinates":[-11.32206,8.432],"type":"Point"}
+}

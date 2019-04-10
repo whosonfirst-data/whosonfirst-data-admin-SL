@@ -1,0 +1,64 @@
+{
+  "id": 1209332387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.16904,7.89407,-11.16904,7.89407",
+    "geom:latitude":7.89407,
+    "geom:longitude":-11.16904,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gulaoma",
+    "gn:country_code":"SL",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875390,
+    "gn:latitude":7.89407,
+    "gn:longitude":-11.16904,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gulaoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gulaoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875390
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1f2b8cba82fc8565a7bceb27ecb5c238",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209332387
+        }
+    ],
+    "wof:id":1209332387,
+    "wof:lastmodified":1537700763,
+    "wof:name":"Gulaoma",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.16904,
+    7.89407,
+    -11.16904,
+    7.89407
+],
+  "geometry": {"coordinates":[-11.16904,7.89407],"type":"Point"}
+}

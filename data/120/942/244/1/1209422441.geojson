@@ -1,0 +1,66 @@
+{
+  "id": 1209422441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.19042,8.05217,-12.19042,8.05217",
+    "geom:latitude":8.05217,
+    "geom:longitude":-12.19042,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mogbasike",
+    "gn:country_code":"SL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405295,
+    "gn:latitude":8.05217,
+    "gn:longitude":-12.19042,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mogbasike",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mogbaseke",
+        "Mogbasiki",
+        "Mogbasike"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405295
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"544cdd053ec6e8830ee526be7ecf3886",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209422441
+        }
+    ],
+    "wof:id":1209422441,
+    "wof:lastmodified":1537700525,
+    "wof:name":"Mogbasike",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.19042,
+    8.05217,
+    -12.19042,
+    8.05217
+],
+  "geometry": {"coordinates":[-12.19042,8.05217],"type":"Point"}
+}

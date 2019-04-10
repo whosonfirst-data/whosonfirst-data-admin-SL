@@ -1,0 +1,64 @@
+{
+  "id": 1209417013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.45023,7.1068,-11.45023,7.1068",
+    "geom:latitude":7.1068,
+    "geom:longitude":-11.45023,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Njago",
+    "gn:country_code":"SL",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893244,
+    "gn:latitude":7.1068,
+    "gn:longitude":-11.45023,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Njago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Njago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893244
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2cd21bcb54ed2dabd727358cc50e8989",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209417013
+        }
+    ],
+    "wof:id":1209417013,
+    "wof:lastmodified":1537700833,
+    "wof:name":"Njago",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.45023,
+    7.1068,
+    -11.45023,
+    7.1068
+],
+  "geometry": {"coordinates":[-11.45023,7.1068],"type":"Point"}
+}

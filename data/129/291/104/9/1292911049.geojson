@@ -1,0 +1,70 @@
+{
+  "id": 1292911049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.63386,7.877,-12.63386,7.877",
+    "geom:latitude":7.877,
+    "geom:longitude":-12.63386,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mabonkise",
+    "gn:country_code":"SL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406806,
+    "gn:latitude":7.877,
+    "gn:longitude":-12.63386,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mabonkise",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mabonkise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406806
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8976bca2f15bb7ec21f8109d313cf2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1292911049,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1292911049,
+    "wof:lastmodified":1537700574,
+    "wof:name":"Mabonkise",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.63386,
+    7.877,
+    -12.63386,
+    7.877
+],
+  "geometry": {"coordinates":[-12.63386,7.877],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309725039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.10668,8.9042,-13.10668,8.9042",
+    "geom:latitude":8.9042,
+    "geom:longitude":-13.10668,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mankaia",
+    "gn:country_code":"SL",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406011,
+    "gn:latitude":8.9042,
+    "gn:longitude":-13.10668,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Mankaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mankaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406011
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a0f113104df37f4ad73c15f6c857efa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1309725039,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309725039,
+    "wof:lastmodified":1537700548,
+    "wof:name":"Mankaia",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.10668,
+    8.9042,
+    -13.10668,
+    8.9042
+],
+  "geometry": {"coordinates":[-13.10668,8.9042],"type":"Point"}
+}

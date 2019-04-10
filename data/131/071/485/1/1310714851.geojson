@@ -1,0 +1,70 @@
+{
+  "id": 1310714851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.88363,8.69731,-11.88363,8.69731",
+    "geom:latitude":8.69731,
+    "geom:longitude":-11.88363,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yemeri",
+    "gn:country_code":"SL",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402836,
+    "gn:latitude":8.69731,
+    "gn:longitude":-11.88363,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Yemeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yemeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402836
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"275a5b54367c97e59f6a6871deb1c559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1310714851,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310714851,
+    "wof:lastmodified":1537700444,
+    "wof:name":"Yemeri",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.88363,
+    8.69731,
+    -11.88363,
+    8.69731
+],
+  "geometry": {"coordinates":[-11.88363,8.69731],"type":"Point"}
+}

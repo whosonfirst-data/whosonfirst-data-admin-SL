@@ -1,0 +1,80 @@
+{
+  "id": 1343975651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.59023,8.94122,-10.59023,8.94122",
+    "geom:latitude":8.94122,
+    "geom:longitude":-10.59023,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sogboro",
+    "gn:country_code":"SL",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403784,
+    "gn:latitude":8.94122,
+    "gn:longitude":-10.59023,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Sogboro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sogboro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403784
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b3cc129e50a02caada8eca4826d477fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1343975651,
+            "region_id":85677133
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1343975651,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1343975651,
+    "wof:lastmodified":1537700474,
+    "wof:name":"Sogboro",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.59023,
+    8.94122,
+    -10.59023,
+    8.94122
+],
+  "geometry": {"coordinates":[-10.59023,8.94122],"type":"Point"}
+}

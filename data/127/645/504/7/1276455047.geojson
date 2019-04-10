@@ -1,0 +1,70 @@
+{
+  "id": 1276455047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.55782,7.93932,-12.55782,7.93932",
+    "geom:latitude":7.93932,
+    "geom:longitude":-12.55782,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nyama",
+    "gn:country_code":"SL",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9913704,
+    "gn:latitude":7.93932,
+    "gn:longitude":-12.55782,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Nyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9913704
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bcec3e8ce437fbfa36fb83ee6ab33a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1276455047,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276455047,
+    "wof:lastmodified":1537700859,
+    "wof:name":"Nyama",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.55782,
+    7.93932,
+    -12.55782,
+    7.93932
+],
+  "geometry": {"coordinates":[-12.55782,7.93932],"type":"Point"}
+}

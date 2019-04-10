@@ -1,0 +1,64 @@
+{
+  "id": 1209227371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.39488,9.51754,-11.39488,9.51754",
+    "geom:latitude":9.51754,
+    "geom:longitude":-11.39488,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dunduko",
+    "gn:country_code":"SL",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409557,
+    "gn:latitude":9.51754,
+    "gn:longitude":-11.39488,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Dunduko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dunduko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409557
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"846f704a816b35b1298446f98e94fd1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209227371
+        }
+    ],
+    "wof:id":1209227371,
+    "wof:lastmodified":1537700666,
+    "wof:name":"Dunduko",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.39488,
+    9.51754,
+    -11.39488,
+    9.51754
+],
+  "geometry": {"coordinates":[-11.39488,9.51754],"type":"Point"}
+}

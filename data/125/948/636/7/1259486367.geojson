@@ -1,0 +1,71 @@
+{
+  "id": 1259486367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.98029,8.95225,-11.98029,8.95225",
+    "geom:latitude":8.95225,
+    "geom:longitude":-11.98029,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Binkolo",
+    "gn:country_code":"SL",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410090,
+    "gn:latitude":8.95225,
+    "gn:longitude":-11.98029,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Binkolo",
+    "gn:population":13867,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410090,
+        "wk:page":"Binkolo"
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c413bb9a8f4b56ec919de4fcdbec4759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1259486367,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259486367,
+    "wof:lastmodified":1537573655,
+    "wof:name":"Binkolo",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:population":13867,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.98029,
+    8.95225,
+    -11.98029,
+    8.95225
+],
+  "geometry": {"coordinates":[-11.98029,8.95225],"type":"Point"}
+}

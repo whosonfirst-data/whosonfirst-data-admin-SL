@@ -1,0 +1,65 @@
+{
+  "id": 1209426689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.93455,7.47838,-11.93455,7.47838",
+    "geom:latitude":7.47838,
+    "geom:longitude":-11.93455,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moyia",
+    "gn:country_code":"SL",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404995,
+    "gn:latitude":7.47838,
+    "gn:longitude":-11.93455,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Moyia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moyawo",
+        "Moyia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404995
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9c6d24d828cba07086a823429d9e5650",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209426689
+        }
+    ],
+    "wof:id":1209426689,
+    "wof:lastmodified":1537700514,
+    "wof:name":"Moyia",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.93455,
+    7.47838,
+    -11.93455,
+    7.47838
+],
+  "geometry": {"coordinates":[-11.93455,7.47838],"type":"Point"}
+}

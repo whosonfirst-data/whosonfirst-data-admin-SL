@@ -1,0 +1,67 @@
+{
+  "id": 1193277383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.71667,8.16667,-11.71667,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":-11.71667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pondonga",
+    "gn:country_code":"SL",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404446,
+    "gn:latitude":8.16667,
+    "gn:longitude":-11.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pondonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404446
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ceb1cf46c56284a165faa4c8274793d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1193277383,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1193277383,
+    "wof:lastmodified":1536365037,
+    "wof:name":"Pondonga",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.71667,
+    8.16667,
+    -11.71667,
+    8.16667
+],
+  "geometry": {"coordinates":[-11.71667,8.16667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209618299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.20401,8.32852,-12.20401,8.32852",
+    "geom:latitude":8.32852,
+    "geom:longitude":-12.20401,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Moyambawo",
+    "gn:country_code":"SL",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875948,
+    "gn:latitude":8.32852,
+    "gn:longitude":-12.20401,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Moyambawo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moyambawo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875948
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7e3566f73c158079a3fc4c5e50c38f00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209618299
+        }
+    ],
+    "wof:id":1209618299,
+    "wof:lastmodified":1537700772,
+    "wof:name":"Moyambawo",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.20401,
+    8.32852,
+    -12.20401,
+    8.32852
+],
+  "geometry": {"coordinates":[-12.20401,8.32852],"type":"Point"}
+}

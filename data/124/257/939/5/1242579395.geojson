@@ -1,0 +1,67 @@
+{
+  "id": 1242579395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.2,7.25,-11.2,7.25",
+    "geom:latitude":7.25,
+    "geom:longitude":-11.2,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Njala",
+    "gn:country_code":"SL",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404853,
+    "gn:latitude":7.25,
+    "gn:longitude":-11.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Njala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404853
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e584415e44881719d65afcacffd3bdb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692983,
+            "locality_id":1242579395,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1242579395,
+    "wof:lastmodified":1537058508,
+    "wof:name":"Njala",
+    "wof:parent_id":1091692983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.2,
+    7.25,
+    -11.2,
+    7.25
+],
+  "geometry": {"coordinates":[-11.2,7.25],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209323437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.6705,9.92882,-11.6705,9.92882",
+    "geom:latitude":9.92882,
+    "geom:longitude":-11.6705,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Filna",
+    "gn:country_code":"SL",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409410,
+    "gn:latitude":9.92882,
+    "gn:longitude":-11.6705,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Filna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Filna"
+    ],
+    "name:und_x_variant":[
+        "Filina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409410
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2eb46c6f8e890eb9c868f7566445aedc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209323437
+        }
+    ],
+    "wof:id":1209323437,
+    "wof:lastmodified":1537700662,
+    "wof:name":"Filna",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.6705,
+    9.92882,
+    -11.6705,
+    9.92882
+],
+  "geometry": {"coordinates":[-11.6705,9.92882],"type":"Point"}
+}

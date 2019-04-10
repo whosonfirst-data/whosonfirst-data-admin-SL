@@ -1,0 +1,73 @@
+{
+  "id": 1293294509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.80799,8.07917,-12.80799,8.07917",
+    "geom:latitude":8.07917,
+    "geom:longitude":-12.80799,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mogbongboto",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408962,
+    "gn:latitude":8.07917,
+    "gn:longitude":-12.80799,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mogbongboto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mogbongboto"
+    ],
+    "name:und_x_variant":[
+        "Gbongboto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408962
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6678cd7e42232e2dc8ffe794f09c6385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1293294509,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293294509,
+    "wof:lastmodified":1537700645,
+    "wof:name":"Mogbongboto",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.80799,
+    8.07917,
+    -12.80799,
+    8.07917
+],
+  "geometry": {"coordinates":[-12.80799,8.07917],"type":"Point"}
+}

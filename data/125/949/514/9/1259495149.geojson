@@ -1,0 +1,70 @@
+{
+  "id": 1259495149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.40259,7.86361,-12.40259,7.86361",
+    "geom:latitude":7.86361,
+    "geom:longitude":-12.40259,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shimbekihun",
+    "gn:country_code":"SL",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904287,
+    "gn:latitude":7.86361,
+    "gn:longitude":-12.40259,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Shimbekihun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shimbekihun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904287
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f22e51bd4096a8bfe4ef1d21205dfbf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1259495149,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1259495149,
+    "wof:lastmodified":1537700851,
+    "wof:name":"Shimbekihun",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.40259,
+    7.86361,
+    -12.40259,
+    7.86361
+],
+  "geometry": {"coordinates":[-12.40259,7.86361],"type":"Point"}
+}

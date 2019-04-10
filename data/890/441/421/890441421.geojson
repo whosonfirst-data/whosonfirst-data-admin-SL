@@ -1,0 +1,72 @@
+{
+  "id": 890441421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.68333,8.08333,-11.68333,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":-11.68333,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":5201,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamboma"
+    ],
+    "qs:name":"Mamboma",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406142,
+        "gp:id":1512815,
+        "qs:id":278609,
+        "wd:id":"Q6745543",
+        "wk:page":"Mamboma"
+    },
+    "wof:country":"SL",
+    "wof:created":1469052323,
+    "wof:geomhash":"945d99961335a94b00fdd2bde20e0541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":890441421,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":890441421,
+    "wof:lastmodified":1527727232,
+    "wof:name":"Mamboma",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:population":5201,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.68333,
+    8.08333,
+    -11.68333,
+    8.08333
+],
+  "geometry": {"coordinates":[-11.68333,8.08333],"type":"Point"}
+}

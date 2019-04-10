@@ -1,0 +1,65 @@
+{
+  "id": 1209022079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.22165,7.97338,-11.22165,7.97338",
+    "geom:latitude":7.97338,
+    "geom:longitude":-11.22165,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kagbwama",
+    "gn:country_code":"SL",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408256,
+    "gn:latitude":7.97338,
+    "gn:longitude":-11.22165,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kagbwama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kagbwema",
+        "Kagbwama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408256
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5346b83db328a00509b64f87d61d53ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209022079
+        }
+    ],
+    "wof:id":1209022079,
+    "wof:lastmodified":1537700622,
+    "wof:name":"Kagbwama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.22165,
+    7.97338,
+    -11.22165,
+    7.97338
+],
+  "geometry": {"coordinates":[-11.22165,7.97338],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1310023397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.54354,8.78579,-10.54354,8.78579",
+    "geom:latitude":8.78579,
+    "geom:longitude":-10.54354,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kundondor",
+    "gn:country_code":"SL",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407183,
+    "gn:latitude":8.78579,
+    "gn:longitude":-10.54354,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kundondor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kundondor"
+    ],
+    "name:und_x_variant":[
+        "Kundundu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407183
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2a9bf5456fc5e350294c2bedad60b57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1310023397,
+            "region_id":85677133
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1310023397,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1310023397,
+    "wof:lastmodified":1537700586,
+    "wof:name":"Kundondor",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.54354,
+    8.78579,
+    -10.54354,
+    8.78579
+],
+  "geometry": {"coordinates":[-10.54354,8.78579],"type":"Point"}
+}

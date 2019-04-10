@@ -1,0 +1,70 @@
+{
+  "id": 1226354195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.80426,7.98004,-12.80426,7.98004",
+    "geom:latitude":7.98004,
+    "geom:longitude":-12.80426,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Madina",
+    "gn:country_code":"SL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406758,
+    "gn:latitude":7.98004,
+    "gn:longitude":-12.80426,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Madina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Madina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406758
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1c240da2cf4223ff1d041e46e0304dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226354195,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226354195,
+    "wof:lastmodified":1537700573,
+    "wof:name":"Madina",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.80426,
+    7.98004,
+    -12.80426,
+    7.98004
+],
+  "geometry": {"coordinates":[-12.80426,7.98004],"type":"Point"}
+}

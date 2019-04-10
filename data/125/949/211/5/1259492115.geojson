@@ -1,0 +1,73 @@
+{
+  "id": 1259492115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.1434,8.93058,-12.1434,8.93058",
+    "geom:latitude":8.93058,
+    "geom:longitude":-12.1434,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rundong",
+    "gn:country_code":"SL",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404386,
+    "gn:latitude":8.93058,
+    "gn:longitude":-12.1434,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Rundong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rundong"
+    ],
+    "name:und_x_variant":[
+        "Pundung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404386
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"db5c76ed84501cb8ca97415edbfcf8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1259492115,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259492115,
+    "wof:lastmodified":1537700493,
+    "wof:name":"Rundong",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.1434,
+    8.93058,
+    -12.1434,
+    8.93058
+],
+  "geometry": {"coordinates":[-12.1434,8.93058],"type":"Point"}
+}

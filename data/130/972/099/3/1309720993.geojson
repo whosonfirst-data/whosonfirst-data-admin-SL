@@ -1,0 +1,70 @@
+{
+  "id": 1309720993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.90949,9.24693,-12.90949,9.24693",
+    "geom:latitude":9.24693,
+    "geom:longitude":-12.90949,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kelifai",
+    "gn:country_code":"SL",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880630,
+    "gn:latitude":9.24693,
+    "gn:longitude":-12.90949,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Kelifai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kelifai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880630
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7f7f8dd8274bf3d180ca7311ac7a8b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1309720993,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309720993,
+    "wof:lastmodified":1537700806,
+    "wof:name":"Kelifai",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.90949,
+    9.24693,
+    -12.90949,
+    9.24693
+],
+  "geometry": {"coordinates":[-12.90949,9.24693],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209228755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.12526,8.01862,-11.12526,8.01862",
+    "geom:latitude":8.01862,
+    "geom:longitude":-11.12526,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sang",
+    "gn:country_code":"SL",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9915751,
+    "gn:latitude":8.01862,
+    "gn:longitude":-11.12526,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Sang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9915751
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"32b95477d8a7134a6f635fe898307dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209228755
+        }
+    ],
+    "wof:id":1209228755,
+    "wof:lastmodified":1537700864,
+    "wof:name":"Sang",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.12526,
+    8.01862,
+    -11.12526,
+    8.01862
+],
+  "geometry": {"coordinates":[-11.12526,8.01862],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209114987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.2446,8.97878,-13.2446,8.97878",
+    "geom:latitude":8.97878,
+    "geom:longitude":-13.2446,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yeligban",
+    "gn:country_code":"SL",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402859,
+    "gn:latitude":8.97878,
+    "gn:longitude":-13.2446,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Yeligban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yeligban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402859
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"745ba77c11f533720ace780bfcae5270",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209114987
+        }
+    ],
+    "wof:id":1209114987,
+    "wof:lastmodified":1537700445,
+    "wof:name":"Yeligban",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.2446,
+    8.97878,
+    -13.2446,
+    8.97878
+],
+  "geometry": {"coordinates":[-13.2446,8.97878],"type":"Point"}
+}

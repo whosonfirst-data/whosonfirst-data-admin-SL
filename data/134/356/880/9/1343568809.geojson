@@ -1,0 +1,70 @@
+{
+  "id": 1343568809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.99295,8.13955,-11.99295,8.13955",
+    "geom:latitude":8.13955,
+    "geom:longitude":-11.99295,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Benduma",
+    "gn:country_code":"SL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904395,
+    "gn:latitude":8.13955,
+    "gn:longitude":-11.99295,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Benduma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Benduma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904395
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f664bf154e5b204e83cb722c0c9f97cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1343568809,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343568809,
+    "wof:lastmodified":1537700853,
+    "wof:name":"Benduma",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.99295,
+    8.13955,
+    -11.99295,
+    8.13955
+],
+  "geometry": {"coordinates":[-11.99295,8.13955],"type":"Point"}
+}

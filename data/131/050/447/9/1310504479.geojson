@@ -1,0 +1,70 @@
+{
+  "id": 1310504479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.67019,8.37494,-12.67019,8.37494",
+    "geom:latitude":8.37494,
+    "geom:longitude":-12.67019,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fep",
+    "gn:country_code":"SL",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872798,
+    "gn:latitude":8.37494,
+    "gn:longitude":-12.67019,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Fep",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fep"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872798
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"57a5e751ed0f50815b7055642f8dee15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1310504479,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310504479,
+    "wof:lastmodified":1537700748,
+    "wof:name":"Fep",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.67019,
+    8.37494,
+    -12.67019,
+    8.37494
+],
+  "geometry": {"coordinates":[-12.67019,8.37494],"type":"Point"}
+}

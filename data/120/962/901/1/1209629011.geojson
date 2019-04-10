@@ -1,0 +1,64 @@
+{
+  "id": 1209629011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.01045,7.70878,-11.01045,7.70878",
+    "geom:latitude":7.70878,
+    "geom:longitude":-11.01045,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Magbwema",
+    "gn:country_code":"SL",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406571,
+    "gn:latitude":7.70878,
+    "gn:longitude":-11.01045,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Magbwema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magbwema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406571
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fb1db324fec72aa6199aacb4dbc24f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209629011
+        }
+    ],
+    "wof:id":1209629011,
+    "wof:lastmodified":1537700566,
+    "wof:name":"Magbwema",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.01045,
+    7.70878,
+    -11.01045,
+    7.70878
+],
+  "geometry": {"coordinates":[-11.01045,7.70878],"type":"Point"}
+}

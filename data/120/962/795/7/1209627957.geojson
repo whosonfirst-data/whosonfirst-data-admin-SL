@@ -1,0 +1,64 @@
+{
+  "id": 1209627957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.8774,8.9644,-11.8774,8.9644",
+    "geom:latitude":8.9644,
+    "geom:longitude":-11.8774,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mata",
+    "gn:country_code":"SL",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405660,
+    "gn:latitude":8.9644,
+    "gn:longitude":-11.8774,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Mata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405660
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bee0cca18a80155862078d411bd9470c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209627957
+        }
+    ],
+    "wof:id":1209627957,
+    "wof:lastmodified":1537700537,
+    "wof:name":"Mata",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.8774,
+    8.9644,
+    -11.8774,
+    8.9644
+],
+  "geometry": {"coordinates":[-11.8774,8.9644],"type":"Point"}
+}

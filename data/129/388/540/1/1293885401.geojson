@@ -1,0 +1,70 @@
+{
+  "id": 1293885401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.76461,7.72934,-11.76461,7.72934",
+    "geom:latitude":7.72934,
+    "geom:longitude":-11.76461,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jagbewema",
+    "gn:country_code":"SL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408521,
+    "gn:latitude":7.72934,
+    "gn:longitude":-11.76461,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Jagbewema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jagbwema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408521
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"cba5f5a37f82f716f5502061f4b3cad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1293885401,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293885401,
+    "wof:lastmodified":1537700631,
+    "wof:name":"Jagbewema",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.76461,
+    7.72934,
+    -11.76461,
+    7.72934
+],
+  "geometry": {"coordinates":[-11.76461,7.72934],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327346549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.84449,8.56044,-12.84449,8.56044",
+    "geom:latitude":8.56044,
+    "geom:longitude":-12.84449,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masengbe",
+    "gn:country_code":"SL",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9986584,
+    "gn:latitude":8.56044,
+    "gn:longitude":-12.84449,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Masengbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masengbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9986584
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"22c974d583235cd89ff246375188fdc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327346549,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327346549,
+    "wof:lastmodified":1537700889,
+    "wof:name":"Masengbe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.84449,
+    8.56044,
+    -12.84449,
+    8.56044
+],
+  "geometry": {"coordinates":[-12.84449,8.56044],"type":"Point"}
+}

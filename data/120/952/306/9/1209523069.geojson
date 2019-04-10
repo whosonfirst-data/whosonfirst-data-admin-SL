@@ -1,0 +1,64 @@
+{
+  "id": 1209523069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.15349,8.03716,-12.15349,8.03716",
+    "geom:latitude":8.03716,
+    "geom:longitude":-12.15349,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gogbebu",
+    "gn:country_code":"SL",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408762,
+    "gn:latitude":8.03716,
+    "gn:longitude":-12.15349,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gogbebu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gogbebu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408762
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0a49f8237a4c03b40d7dfe74ac02ceb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209523069
+        }
+    ],
+    "wof:id":1209523069,
+    "wof:lastmodified":1537700638,
+    "wof:name":"Gogbebu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.15349,
+    8.03716,
+    -12.15349,
+    8.03716
+],
+  "geometry": {"coordinates":[-12.15349,8.03716],"type":"Point"}
+}

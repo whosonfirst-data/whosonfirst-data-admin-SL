@@ -1,0 +1,67 @@
+{
+  "id": 1293896271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.95,9.46667,-11.95,9.46667",
+    "geom:latitude":9.46667,
+    "geom:longitude":-11.95,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kambana",
+    "gn:country_code":"SL",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408099,
+    "gn:latitude":9.46667,
+    "gn:longitude":-11.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kambana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408099
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6a2e283001985c2d84754ad885c674f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1293896271,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293896271,
+    "wof:lastmodified":1536695090,
+    "wof:name":"Kambana",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.95,
+    9.46667,
+    -11.95,
+    9.46667
+],
+  "geometry": {"coordinates":[-11.95,9.46667],"type":"Point"}
+}

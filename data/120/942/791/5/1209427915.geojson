@@ -1,0 +1,64 @@
+{
+  "id": 1209427915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.29355,9.0421,-13.29355,9.0421",
+    "geom:latitude":9.0421,
+    "geom:longitude":-13.29355,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Menkiadi",
+    "gn:country_code":"SL",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880440,
+    "gn:latitude":9.0421,
+    "gn:longitude":-13.29355,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Menkiadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Menkiadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880440
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f9ea60959ed055e8976718d9cdc523ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209427915
+        }
+    ],
+    "wof:id":1209427915,
+    "wof:lastmodified":1537700801,
+    "wof:name":"Menkiadi",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.29355,
+    9.0421,
+    -13.29355,
+    9.0421
+],
+  "geometry": {"coordinates":[-13.29355,9.0421],"type":"Point"}
+}

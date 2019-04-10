@@ -1,0 +1,69 @@
+{
+  "id": 890433373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.75111,7.99444,-10.75111,7.99444",
+    "geom:latitude":7.99444,
+    "geom:longitude":-10.75111,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":3441,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mobai"
+    ],
+    "qs:name":"Mobai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405347,
+        "gp:id":1512965,
+        "qs:id":139976
+    },
+    "wof:country":"SL",
+    "wof:created":1469051978,
+    "wof:geomhash":"8647f97af89eb26d9a59d89f1c1cfd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":890433373,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":890433373,
+    "wof:lastmodified":1505343535,
+    "wof:name":"Mobai",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:population":3441,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.75111,
+    7.99444,
+    -10.75111,
+    7.99444
+],
+  "geometry": {"coordinates":[-10.75111,7.99444],"type":"Point"}
+}

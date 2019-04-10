@@ -1,0 +1,70 @@
+{
+  "id": 1327141901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.08624,7.24622,-12.08624,7.24622",
+    "geom:latitude":7.24622,
+    "geom:longitude":-12.08624,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mano",
+    "gn:country_code":"SL",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405987,
+    "gn:latitude":7.24622,
+    "gn:longitude":-12.08624,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405987
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f1d11130aa02b4297a380d0df982b1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1327141901,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327141901,
+    "wof:lastmodified":1537700547,
+    "wof:name":"Mano",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.08624,
+    7.24622,
+    -12.08624,
+    7.24622
+],
+  "geometry": {"coordinates":[-12.08624,7.24622],"type":"Point"}
+}

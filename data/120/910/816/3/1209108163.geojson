@@ -1,0 +1,64 @@
+{
+  "id": 1209108163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.65613,8.24503,-12.65613,8.24503",
+    "geom:latitude":8.24503,
+    "geom:longitude":-12.65613,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gbane",
+    "gn:country_code":"SL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893144,
+    "gn:latitude":8.24503,
+    "gn:longitude":-12.65613,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Gbane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893144
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"794ff329a1602a0b71dfe619e05b5b5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209108163
+        }
+    ],
+    "wof:id":1209108163,
+    "wof:lastmodified":1537700830,
+    "wof:name":"Gbane",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.65613,
+    8.24503,
+    -12.65613,
+    8.24503
+],
+  "geometry": {"coordinates":[-12.65613,8.24503],"type":"Point"}
+}

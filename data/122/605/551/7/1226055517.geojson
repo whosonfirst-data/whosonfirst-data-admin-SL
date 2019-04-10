@@ -1,0 +1,73 @@
+{
+  "id": 1226055517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.91667,9.31667,-11.91667,9.31667",
+    "geom:latitude":9.31667,
+    "geom:longitude":-11.91667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dar-es-Salaam",
+    "gn:cc2":"SL",
+    "gn:country_code":"SL",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409668,
+    "gn:latitude":9.31667,
+    "gn:longitude":-11.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dar-es-Salaam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar-es-Selaam",
+        "Dar-es-Salam",
+        "Dar-es-Salaam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409668
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8d3a3de276db9e43d3381a10bfdedb6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1226055517,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226055517,
+    "wof:lastmodified":1537700670,
+    "wof:name":"Dar-es-Salaam",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.91667,
+    9.31667,
+    -11.91667,
+    9.31667
+],
+  "geometry": {"coordinates":[-11.91667,9.31667],"type":"Point"}
+}

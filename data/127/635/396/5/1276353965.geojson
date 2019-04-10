@@ -1,0 +1,70 @@
+{
+  "id": 1276353965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.01998,8.54825,-11.01998,8.54825",
+    "geom:latitude":8.54825,
+    "geom:longitude":-11.01998,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sawako",
+    "gn:country_code":"SL",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404066,
+    "gn:latitude":8.54825,
+    "gn:longitude":-11.01998,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Sawako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sawoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404066
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4d959177211b1422f3a32f12ca0d1e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1276353965,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1276353965,
+    "wof:lastmodified":1537700483,
+    "wof:name":"Sawako",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.01998,
+    8.54825,
+    -11.01998,
+    8.54825
+],
+  "geometry": {"coordinates":[-11.01998,8.54825],"type":"Point"}
+}

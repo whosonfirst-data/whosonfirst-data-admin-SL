@@ -1,0 +1,71 @@
+{
+  "id": 1343679801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.31068,7.95369,-11.31068,7.95369",
+    "geom:latitude":7.95369,
+    "geom:longitude":-11.31068,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sawula",
+    "gn:country_code":"SL",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404064,
+    "gn:latitude":7.95369,
+    "gn:longitude":-11.31068,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sawula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sawala",
+        "Sawula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404064
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"08d1bb0871e1eab1cc6d0a86e76e6e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1343679801,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1343679801,
+    "wof:lastmodified":1537700482,
+    "wof:name":"Sawula",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.31068,
+    7.95369,
+    -11.31068,
+    7.95369
+],
+  "geometry": {"coordinates":[-11.31068,7.95369],"type":"Point"}
+}

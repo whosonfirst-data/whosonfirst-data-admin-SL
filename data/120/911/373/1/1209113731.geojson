@@ -1,0 +1,64 @@
+{
+  "id": 1209113731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.52455,7.48808,-11.52455,7.48808",
+    "geom:latitude":7.48808,
+    "geom:longitude":-11.52455,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mema",
+    "gn:country_code":"SL",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570887,
+    "gn:latitude":7.48808,
+    "gn:longitude":-11.52455,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570887
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e5654f6911ab642c0ca138b9351a1203",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209113731
+        }
+    ],
+    "wof:id":1209113731,
+    "wof:lastmodified":1537700716,
+    "wof:name":"Mema",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.52455,
+    7.48808,
+    -11.52455,
+    7.48808
+],
+  "geometry": {"coordinates":[-11.52455,7.48808],"type":"Point"}
+}

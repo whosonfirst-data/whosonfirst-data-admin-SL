@@ -1,0 +1,70 @@
+{
+  "id": 1343770793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.566,9.49449,-12.566,9.49449",
+    "geom:latitude":9.49449,
+    "geom:longitude":-12.566,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sendakha",
+    "gn:country_code":"SL",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403960,
+    "gn:latitude":9.49449,
+    "gn:longitude":-12.566,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sendakha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sendakha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403960
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"eca0f6123e814c7afac9315e7be766ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1343770793,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343770793,
+    "wof:lastmodified":1537700479,
+    "wof:name":"Sendakha",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.566,
+    9.49449,
+    -12.566,
+    9.49449
+],
+  "geometry": {"coordinates":[-12.566,9.49449],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260287789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.76465,9.01906,-11.76465,9.01906",
+    "geom:latitude":9.01906,
+    "geom:longitude":-11.76465,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kabari",
+    "gn:country_code":"SL",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408325,
+    "gn:latitude":9.01906,
+    "gn:longitude":-11.76465,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kabari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaban",
+        "Kabari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408325
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"797bf4e8337e72ac7ee890d6778565cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1260287789,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1260287789,
+    "wof:lastmodified":1537700624,
+    "wof:name":"Kabari",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.76465,
+    9.01906,
+    -11.76465,
+    9.01906
+],
+  "geometry": {"coordinates":[-11.76465,9.01906],"type":"Point"}
+}

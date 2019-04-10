@@ -1,0 +1,70 @@
+{
+  "id": 1243075129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.45538,7.70058,-11.45538,7.70058",
+    "geom:latitude":7.70058,
+    "geom:longitude":-11.45538,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Njagbakahun",
+    "gn:country_code":"SL",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9879807,
+    "gn:latitude":7.70058,
+    "gn:longitude":-11.45538,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Njagbakahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Njagbakahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9879807
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9469d4a48a6c76ae543915166d0ee983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1243075129,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1243075129,
+    "wof:lastmodified":1537700795,
+    "wof:name":"Njagbakahun",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.45538,
+    7.70058,
+    -11.45538,
+    7.70058
+],
+  "geometry": {"coordinates":[-11.45538,7.70058],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327234769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.14901,8.95705,-13.14901,8.95705",
+    "geom:latitude":8.95705,
+    "geom:longitude":-13.14901,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bambaia",
+    "gn:country_code":"SL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593286,
+    "gn:latitude":8.95705,
+    "gn:longitude":-13.14901,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bambaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bambaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593286
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"317c68acf2e517ba72ac77fdbfbe454c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1327234769,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327234769,
+    "wof:lastmodified":1537700718,
+    "wof:name":"Bambaia",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.14901,
+    8.95705,
+    -13.14901,
+    8.95705
+],
+  "geometry": {"coordinates":[-13.14901,8.95705],"type":"Point"}
+}

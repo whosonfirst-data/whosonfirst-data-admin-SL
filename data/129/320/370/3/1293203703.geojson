@@ -1,0 +1,71 @@
+{
+  "id": 1293203703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.04731,9.46761,-12.04731,9.46761",
+    "geom:latitude":9.46761,
+    "geom:longitude":-12.04731,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kamrabai",
+    "gn:country_code":"SL",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408059,
+    "gn:latitude":9.46761,
+    "gn:longitude":-12.04731,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Kamrabai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kumrabai",
+        "Kamrabai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408059
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0a290bb53e1dd7e3635676d104593760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1293203703,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293203703,
+    "wof:lastmodified":1537700615,
+    "wof:name":"Kamrabai",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.04731,
+    9.46761,
+    -12.04731,
+    9.46761
+],
+  "geometry": {"coordinates":[-12.04731,9.46761],"type":"Point"}
+}

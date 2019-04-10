@@ -1,0 +1,70 @@
+{
+  "id": 1226651947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.99322,8.26267,-12.99322,8.26267",
+    "geom:latitude":8.26267,
+    "geom:longitude":-12.99322,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Salt Pan",
+    "gn:country_code":"SL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404169,
+    "gn:latitude":8.26267,
+    "gn:longitude":-12.99322,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Salt Pan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Salt Pan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404169
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5774f8e6384a356c1743e167cd4d9ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1226651947,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1226651947,
+    "wof:lastmodified":1537700486,
+    "wof:name":"Salt Pan",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.99322,
+    8.26267,
+    -12.99322,
+    8.26267
+],
+  "geometry": {"coordinates":[-12.99322,8.26267],"type":"Point"}
+}

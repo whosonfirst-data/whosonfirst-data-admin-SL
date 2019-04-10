@@ -1,0 +1,71 @@
+{
+  "id": 1344158779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.33416,8.31471,-12.33416,8.31471",
+    "geom:latitude":8.31471,
+    "geom:longitude":-12.33416,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kongo",
+    "gn:country_code":"SL",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407519,
+    "gn:latitude":8.31471,
+    "gn:longitude":-12.33416,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kungu",
+        "Kongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407519
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8fd98c39ca11900a7bc9cc0a65f93a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1344158779,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1344158779,
+    "wof:lastmodified":1537700599,
+    "wof:name":"Kongo",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.33416,
+    8.31471,
+    -12.33416,
+    8.31471
+],
+  "geometry": {"coordinates":[-12.33416,8.31471],"type":"Point"}
+}

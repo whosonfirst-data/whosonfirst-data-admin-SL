@@ -1,0 +1,70 @@
+{
+  "id": 1209927211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.26634,8.39969,-12.26634,8.39969",
+    "geom:latitude":8.39969,
+    "geom:longitude":-12.26634,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Roban",
+    "gn:country_code":"SL",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9874037,
+    "gn:latitude":8.39969,
+    "gn:longitude":-12.26634,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Roban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Roban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9874037
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a331b9db0b38ccd701519aacd04e3bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1209927211,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1209927211,
+    "wof:lastmodified":1537700758,
+    "wof:name":"Roban",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.26634,
+    8.39969,
+    -12.26634,
+    8.39969
+],
+  "geometry": {"coordinates":[-12.26634,8.39969],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226343925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.88602,8.04141,-12.88602,8.04141",
+    "geom:latitude":8.04141,
+    "geom:longitude":-12.88602,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Magbakan",
+    "gn:country_code":"SL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406660,
+    "gn:latitude":8.04141,
+    "gn:longitude":-12.88602,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Magbakan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magbakan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406660
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3aecbcf2058229c2b0641f58c729f2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226343925,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226343925,
+    "wof:lastmodified":1537700569,
+    "wof:name":"Magbakan",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.88602,
+    8.04141,
+    -12.88602,
+    8.04141
+],
+  "geometry": {"coordinates":[-12.88602,8.04141],"type":"Point"}
+}

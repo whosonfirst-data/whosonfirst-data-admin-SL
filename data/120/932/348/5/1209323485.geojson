@@ -1,0 +1,64 @@
+{
+  "id": 1209323485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.40639,8.63002,-12.40639,8.63002",
+    "geom:latitude":8.63002,
+    "geom:longitude":-12.40639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Magbonkaw",
+    "gn:country_code":"SL",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10132015,
+    "gn:latitude":8.63002,
+    "gn:longitude":-12.40639,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Magbonkaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magbonkaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10132015
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ec5e329990195fbff8c0fa61a2ae2d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209323485
+        }
+    ],
+    "wof:id":1209323485,
+    "wof:lastmodified":1537700932,
+    "wof:name":"Magbonkaw",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.40639,
+    8.63002,
+    -12.40639,
+    8.63002
+],
+  "geometry": {"coordinates":[-12.40639,8.63002],"type":"Point"}
+}

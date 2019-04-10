@@ -1,0 +1,64 @@
+{
+  "id": 1209622753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.34565,8.31022,-12.34565,8.31022",
+    "geom:latitude":8.31022,
+    "geom:longitude":-12.34565,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Semabu",
+    "gn:country_code":"SL",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404007,
+    "gn:latitude":8.31022,
+    "gn:longitude":-12.34565,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Semabu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Semabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404007
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0796d38807a01b8b53b951f6fcd7b252",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209622753
+        }
+    ],
+    "wof:id":1209622753,
+    "wof:lastmodified":1537700481,
+    "wof:name":"Semabu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.34565,
+    8.31022,
+    -12.34565,
+    8.31022
+],
+  "geometry": {"coordinates":[-12.34565,8.31022],"type":"Point"}
+}

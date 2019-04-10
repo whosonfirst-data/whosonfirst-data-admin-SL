@@ -1,0 +1,70 @@
+{
+  "id": 1293698307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.84594,7.78338,-11.84594,7.78338",
+    "geom:latitude":7.78338,
+    "geom:longitude":-11.84594,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Wolabahun",
+    "gn:country_code":"SL",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403044,
+    "gn:latitude":7.78338,
+    "gn:longitude":-11.84594,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Wolabahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wolabahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403044
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4c7b744e9fd698ebfedca42550a82170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1293698307,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293698307,
+    "wof:lastmodified":1537700451,
+    "wof:name":"Wolabahun",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.84594,
+    7.78338,
+    -11.84594,
+    7.78338
+],
+  "geometry": {"coordinates":[-11.84594,7.78338],"type":"Point"}
+}

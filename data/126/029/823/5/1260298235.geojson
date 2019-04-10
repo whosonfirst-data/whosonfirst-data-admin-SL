@@ -1,0 +1,70 @@
+{
+  "id": 1260298235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.72685,9.17271,-12.72685,9.17271",
+    "geom:latitude":9.17271,
+    "geom:longitude":-12.72685,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Magbapsa",
+    "gn:country_code":"SL",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880865,
+    "gn:latitude":9.17271,
+    "gn:longitude":-12.72685,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Magbapsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magbapsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880865
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"13944c4c2bcc2db4013be7ad2d042fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1260298235,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1260298235,
+    "wof:lastmodified":1537700813,
+    "wof:name":"Magbapsa",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.72685,
+    9.17271,
+    -12.72685,
+    9.17271
+],
+  "geometry": {"coordinates":[-12.72685,9.17271],"type":"Point"}
+}

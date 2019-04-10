@@ -1,0 +1,61 @@
+{
+  "id": 1209618215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.46667,9.66667,-11.46667,9.66667",
+    "geom:latitude":9.66667,
+    "geom:longitude":-11.46667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fadugu",
+    "gn:country_code":"SL",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409526,
+    "gn:latitude":9.66667,
+    "gn:longitude":-11.46667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Fadugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409526
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9328442ac8cdea0ac183b8ee90d15a59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209618215
+        }
+    ],
+    "wof:id":1209618215,
+    "wof:lastmodified":1536281612,
+    "wof:name":"Fadugu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.46667,
+    9.66667,
+    -11.46667,
+    9.66667
+],
+  "geometry": {"coordinates":[-11.46667,9.66667],"type":"Point"}
+}

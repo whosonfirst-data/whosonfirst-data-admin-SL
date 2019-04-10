@@ -1,0 +1,73 @@
+{
+  "id": 1310615335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.62343,8.78927,-10.62343,8.78927",
+    "geom:latitude":8.78927,
+    "geom:longitude":-10.62343,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Korkuma",
+    "gn:country_code":"SL",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407636,
+    "gn:latitude":8.78927,
+    "gn:longitude":-10.62343,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Korkuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Korkuma"
+    ],
+    "name:und_x_variant":[
+        "Kokoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407636
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8e74411c87025ff5a81378efc61e4e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1310615335,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1310615335,
+    "wof:lastmodified":1537700603,
+    "wof:name":"Korkuma",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.62343,
+    8.78927,
+    -10.62343,
+    8.78927
+],
+  "geometry": {"coordinates":[-10.62343,8.78927],"type":"Point"}
+}

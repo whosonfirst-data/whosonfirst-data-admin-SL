@@ -1,0 +1,70 @@
+{
+  "id": 1327034051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.4004,7.62317,-11.4004,7.62317",
+    "geom:latitude":7.62317,
+    "geom:longitude":-11.4004,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nongowa",
+    "gn:country_code":"SL",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404808,
+    "gn:latitude":7.62317,
+    "gn:longitude":-11.4004,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Nongowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nongowa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404808
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bce4e9f44b54224aea38e1539a23e254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1327034051,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1327034051,
+    "wof:lastmodified":1537700507,
+    "wof:name":"Nongowa",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.4004,
+    7.62317,
+    -11.4004,
+    7.62317
+],
+  "geometry": {"coordinates":[-11.4004,7.62317],"type":"Point"}
+}

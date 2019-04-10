@@ -1,0 +1,70 @@
+{
+  "id": 1260192391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.16478,7.5065,-11.16478,7.5065",
+    "geom:latitude":7.5065,
+    "geom:longitude":-11.16478,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Woroma",
+    "gn:country_code":"SL",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9879911,
+    "gn:latitude":7.5065,
+    "gn:longitude":-11.16478,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Woroma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Woroma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9879911
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9537b9401cb6114431b0bdf47042b981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1260192391,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1260192391,
+    "wof:lastmodified":1537700798,
+    "wof:name":"Woroma",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.16478,
+    7.5065,
+    -11.16478,
+    7.5065
+],
+  "geometry": {"coordinates":[-11.16478,7.5065],"type":"Point"}
+}

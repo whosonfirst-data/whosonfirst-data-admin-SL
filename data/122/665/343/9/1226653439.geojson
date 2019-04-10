@@ -1,0 +1,70 @@
+{
+  "id": 1226653439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.81623,8.32338,-12.81623,8.32338",
+    "geom:latitude":8.32338,
+    "geom:longitude":-12.81623,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bumpewo",
+    "gn:country_code":"SL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872199,
+    "gn:latitude":8.32338,
+    "gn:longitude":-12.81623,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Bumpewo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bumpewo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872199
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8961d5f0e215851169653a2365f562b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226653439,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226653439,
+    "wof:lastmodified":1537700743,
+    "wof:name":"Bumpewo",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.81623,
+    8.32338,
+    -12.81623,
+    8.32338
+],
+  "geometry": {"coordinates":[-12.81623,8.32338],"type":"Point"}
+}

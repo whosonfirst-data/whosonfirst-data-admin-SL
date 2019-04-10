@@ -1,0 +1,70 @@
+{
+  "id": 1343572769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.35367,7.38069,-12.35367,7.38069",
+    "geom:latitude":7.38069,
+    "geom:longitude":-12.35367,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mowilim",
+    "gn:country_code":"SL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876397,
+    "gn:latitude":7.38069,
+    "gn:longitude":-12.35367,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Mowilim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mowilim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876397
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3357afe1001ffef732cb77f2b78f4f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1343572769,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343572769,
+    "wof:lastmodified":1537700782,
+    "wof:name":"Mowilim",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.35367,
+    7.38069,
+    -12.35367,
+    7.38069
+],
+  "geometry": {"coordinates":[-12.35367,7.38069],"type":"Point"}
+}

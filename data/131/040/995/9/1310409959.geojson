@@ -1,0 +1,70 @@
+{
+  "id": 1310409959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.33618,7.85627,-11.33618,7.85627",
+    "geom:latitude":7.85627,
+    "geom:longitude":-11.33618,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yawuema",
+    "gn:country_code":"SL",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570737,
+    "gn:latitude":7.85627,
+    "gn:longitude":-11.33618,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yawuema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yawuema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570737
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f0e0ad8d09eb084ed570a03fe524fd9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1310409959,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1310409959,
+    "wof:lastmodified":1537700714,
+    "wof:name":"Yawuema",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.33618,
+    7.85627,
+    -11.33618,
+    7.85627
+],
+  "geometry": {"coordinates":[-11.33618,7.85627],"type":"Point"}
+}

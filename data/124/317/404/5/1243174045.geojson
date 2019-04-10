@@ -1,0 +1,67 @@
+{
+  "id": 1243174045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.07528,7.49917,-12.07528,7.49917",
+    "geom:latitude":7.49917,
+    "geom:longitude":-12.07528,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mosanjo",
+    "gn:country_code":"SL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405076,
+    "gn:latitude":7.49917,
+    "gn:longitude":-12.07528,
+    "gn:modification_date":"1999-12-14",
+    "gn:name":"Mosanjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405076
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0f30a64c469bd04378d97b7446e5279e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1243174045,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1243174045,
+    "wof:lastmodified":1536701570,
+    "wof:name":"Mosanjo",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.07528,
+    7.49917,
+    -12.07528,
+    7.49917
+],
+  "geometry": {"coordinates":[-12.07528,7.49917],"type":"Point"}
+}

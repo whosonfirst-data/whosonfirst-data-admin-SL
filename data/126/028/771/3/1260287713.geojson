@@ -1,0 +1,70 @@
+{
+  "id": 1260287713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.92327,9.46447,-10.92327,9.46447",
+    "geom:latitude":9.46447,
+    "geom:longitude":-10.92327,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Seria",
+    "gn:country_code":"SL",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403885,
+    "gn:latitude":9.46447,
+    "gn:longitude":-10.92327,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Seria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Seria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403885
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"badc2367166f025cca3140ff46e7843a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1260287713,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1260287713,
+    "wof:lastmodified":1537700477,
+    "wof:name":"Seria",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.92327,
+    9.46447,
+    -10.92327,
+    9.46447
+],
+  "geometry": {"coordinates":[-10.92327,9.46447],"type":"Point"}
+}

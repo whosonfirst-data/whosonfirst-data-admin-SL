@@ -1,0 +1,67 @@
+{
+  "id": 1209018575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.78731,8.31068,-10.78731,8.31068",
+    "geom:latitude":8.31068,
+    "geom:longitude":-10.78731,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"London",
+    "gn:country_code":"SL",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406961,
+    "gn:latitude":8.31068,
+    "gn:longitude":-10.78731,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"London",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "London"
+    ],
+    "name:und_x_variant":[
+        "Lomabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406961
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c2c798053777b9d52456b7a9334036a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209018575
+        }
+    ],
+    "wof:id":1209018575,
+    "wof:lastmodified":1537700579,
+    "wof:name":"London",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.78731,
+    8.31068,
+    -10.78731,
+    8.31068
+],
+  "geometry": {"coordinates":[-10.78731,8.31068],"type":"Point"}
+}

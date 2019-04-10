@@ -1,0 +1,64 @@
+{
+  "id": 1209515667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.06793,8.2415,-13.06793,8.2415",
+    "geom:latitude":8.2415,
+    "geom:longitude":-13.06793,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bokri Town",
+    "gn:country_code":"SL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9892935,
+    "gn:latitude":8.2415,
+    "gn:longitude":-13.06793,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Bokri Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bokri Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9892935
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b48c0cbee4ce3c486d686f85d3d9359e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209515667
+        }
+    ],
+    "wof:id":1209515667,
+    "wof:lastmodified":1537700824,
+    "wof:name":"Bokri Town",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.06793,
+    8.2415,
+    -13.06793,
+    8.2415
+],
+  "geometry": {"coordinates":[-13.06793,8.2415],"type":"Point"}
+}

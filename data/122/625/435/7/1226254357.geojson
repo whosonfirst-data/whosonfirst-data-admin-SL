@@ -1,0 +1,70 @@
+{
+  "id": 1226254357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.65568,8.29685,-12.65568,8.29685",
+    "geom:latitude":8.29685,
+    "geom:longitude":-12.65568,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Makanda",
+    "gn:country_code":"SL",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9873006,
+    "gn:latitude":8.29685,
+    "gn:longitude":-12.65568,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Makanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9873006
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"26a506b5b7327b5a9db72cb33a9d4a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226254357,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226254357,
+    "wof:lastmodified":1537700751,
+    "wof:name":"Makanda",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.65568,
+    8.29685,
+    -12.65568,
+    8.29685
+],
+  "geometry": {"coordinates":[-12.65568,8.29685],"type":"Point"}
+}

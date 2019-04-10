@@ -1,0 +1,64 @@
+{
+  "id": 1209528311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.64693,8.72685,-12.64693,8.72685",
+    "geom:latitude":8.72685,
+    "geom:longitude":-12.64693,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rogbese",
+    "gn:country_code":"SL",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9986950,
+    "gn:latitude":8.72685,
+    "gn:longitude":-12.64693,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Rogbese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rogbese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9986950
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0403c9b296ecdb07b89b87744c2d9028",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209528311
+        }
+    ],
+    "wof:id":1209528311,
+    "wof:lastmodified":1537700896,
+    "wof:name":"Rogbese",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.64693,
+    8.72685,
+    -12.64693,
+    8.72685
+],
+  "geometry": {"coordinates":[-12.64693,8.72685],"type":"Point"}
+}

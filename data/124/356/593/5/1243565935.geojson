@@ -1,0 +1,70 @@
+{
+  "id": 1243565935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.60717,7.99802,-11.60717,7.99802",
+    "geom:latitude":7.99802,
+    "geom:longitude":-11.60717,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baoma",
+    "gn:country_code":"SL",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410381,
+    "gn:latitude":7.99802,
+    "gn:longitude":-11.60717,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Baoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410381
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5f1b641f3265251e072f6526d27cca99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1243565935,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1243565935,
+    "wof:lastmodified":1537700694,
+    "wof:name":"Baoma",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.60717,
+    7.99802,
+    -11.60717,
+    7.99802
+],
+  "geometry": {"coordinates":[-11.60717,7.99802],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243273049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.04514,8.77609,-12.04514,8.77609",
+    "geom:latitude":8.77609,
+    "geom:longitude":-12.04514,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Manunko",
+    "gn:country_code":"SL",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10133274,
+    "gn:latitude":8.77609,
+    "gn:longitude":-12.04514,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Manunko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manunko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10133274
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c285898b3699fd829810ebde10eafa73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1243273049,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243273049,
+    "wof:lastmodified":1537700938,
+    "wof:name":"Manunko",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.04514,
+    8.77609,
+    -12.04514,
+    8.77609
+],
+  "geometry": {"coordinates":[-12.04514,8.77609],"type":"Point"}
+}

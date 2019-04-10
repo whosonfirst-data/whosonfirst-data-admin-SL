@@ -1,0 +1,73 @@
+{
+  "id": 1277081641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.3987,8.03949,-11.3987,8.03949",
+    "geom:latitude":8.03949,
+    "geom:longitude":-11.3987,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Matemei",
+    "gn:country_code":"SL",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405641,
+    "gn:latitude":8.03949,
+    "gn:longitude":-11.3987,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Matemei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matemei"
+    ],
+    "name:und_x_variant":[
+        "Matama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405641
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e3175db23ac60ba4468842f4ebd18234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1277081641,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1277081641,
+    "wof:lastmodified":1537700537,
+    "wof:name":"Matemei",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.3987,
+    8.03949,
+    -11.3987,
+    8.03949
+],
+  "geometry": {"coordinates":[-11.3987,8.03949],"type":"Point"}
+}

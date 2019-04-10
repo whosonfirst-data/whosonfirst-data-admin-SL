@@ -1,0 +1,64 @@
+{
+  "id": 1209623923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.79459,9.19126,-11.79459,9.19126",
+    "geom:latitude":9.19126,
+    "geom:longitude":-11.79459,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kasasi",
+    "gn:country_code":"SL",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407924,
+    "gn:latitude":9.19126,
+    "gn:longitude":-11.79459,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kasasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kasasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407924
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"df4ec753c655d0a762ea23a2bbe1fbb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209623923
+        }
+    ],
+    "wof:id":1209623923,
+    "wof:lastmodified":1537700611,
+    "wof:name":"Kasasi",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.79459,
+    9.19126,
+    -11.79459,
+    9.19126
+],
+  "geometry": {"coordinates":[-11.79459,9.19126],"type":"Point"}
+}

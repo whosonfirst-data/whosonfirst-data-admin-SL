@@ -1,0 +1,70 @@
+{
+  "id": 1343467495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.77197,8.46463,-12.77197,8.46463",
+    "geom:latitude":8.46463,
+    "geom:longitude":-12.77197,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masire",
+    "gn:country_code":"SL",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405720,
+    "gn:latitude":8.46463,
+    "gn:longitude":-12.77197,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Masire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405720
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4e956c6462940fb5752b2aaa0a26f1ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1343467495,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343467495,
+    "wof:lastmodified":1537700539,
+    "wof:name":"Masire",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.77197,
+    8.46463,
+    -12.77197,
+    8.46463
+],
+  "geometry": {"coordinates":[-12.77197,8.46463],"type":"Point"}
+}

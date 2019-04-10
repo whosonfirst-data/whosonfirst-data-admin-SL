@@ -1,0 +1,70 @@
+{
+  "id": 1293807907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.05565,8.28785,-13.05565,8.28785",
+    "geom:latitude":8.28785,
+    "geom:longitude":-13.05565,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Timmani Town",
+    "gn:country_code":"SL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566379,
+    "gn:latitude":8.28785,
+    "gn:longitude":-13.05565,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Timmani Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Timmani Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566379
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"11448776b71962d8c1fbc958178e0159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1293807907,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1293807907,
+    "wof:lastmodified":1537700706,
+    "wof:name":"Timmani Town",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.05565,
+    8.28785,
+    -13.05565,
+    8.28785
+],
+  "geometry": {"coordinates":[-13.05565,8.28785],"type":"Point"}
+}

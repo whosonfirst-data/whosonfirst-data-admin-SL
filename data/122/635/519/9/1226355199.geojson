@@ -1,0 +1,70 @@
+{
+  "id": 1226355199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.89835,8.99371,-12.89835,8.99371",
+    "geom:latitude":8.99371,
+    "geom:longitude":-12.89835,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Moribaia",
+    "gn:country_code":"SL",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405099,
+    "gn:latitude":8.99371,
+    "gn:longitude":-12.89835,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Moribaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moribaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405099
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9d3bce5259e6e9dd53a5ee63649daa3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1226355199,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226355199,
+    "wof:lastmodified":1537700518,
+    "wof:name":"Moribaia",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.89835,
+    8.99371,
+    -12.89835,
+    8.99371
+],
+  "geometry": {"coordinates":[-12.89835,8.99371],"type":"Point"}
+}

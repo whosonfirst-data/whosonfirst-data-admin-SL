@@ -1,0 +1,70 @@
+{
+  "id": 1209717425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.17833,7.87167,-12.17833,7.87167",
+    "geom:latitude":7.87167,
+    "geom:longitude":-12.17833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dogema",
+    "gn:country_code":"SL",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409597,
+    "gn:latitude":7.87167,
+    "gn:longitude":-12.17833,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Dogema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dogema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409597
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1d81b521c2407c0218ddfc42a88e6cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1209717425,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1209717425,
+    "wof:lastmodified":1537700668,
+    "wof:name":"Dogema",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.17833,
+    7.87167,
+    -12.17833,
+    7.87167
+],
+  "geometry": {"coordinates":[-12.17833,7.87167],"type":"Point"}
+}

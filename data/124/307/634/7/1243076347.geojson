@@ -1,0 +1,70 @@
+{
+  "id": 1243076347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.55239,8.76298,-12.55239,8.76298",
+    "geom:latitude":8.76298,
+    "geom:longitude":-12.55239,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Royel",
+    "gn:country_code":"SL",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404243,
+    "gn:latitude":8.76298,
+    "gn:longitude":-12.55239,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Royel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Royel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404243
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"cfd33109883fac2d84cba93ac56821df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1243076347,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243076347,
+    "wof:lastmodified":1537700488,
+    "wof:name":"Royel",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.55239,
+    8.76298,
+    -12.55239,
+    8.76298
+],
+  "geometry": {"coordinates":[-12.55239,8.76298],"type":"Point"}
+}

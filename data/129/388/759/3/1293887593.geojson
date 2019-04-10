@@ -1,0 +1,71 @@
+{
+  "id": 1293887593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.51498,8.68155,-10.51498,8.68155",
+    "geom:latitude":8.68155,
+    "geom:longitude":-10.51498,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kamiendo",
+    "gn:country_code":"SL",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408065,
+    "gn:latitude":8.68155,
+    "gn:longitude":-10.51498,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kamiendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamiendu",
+        "Kamiendo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408065
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3235791566d38429a92e1c876079a5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1293887593,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293887593,
+    "wof:lastmodified":1537700615,
+    "wof:name":"Kamiendo",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.51498,
+    8.68155,
+    -10.51498,
+    8.68155
+],
+  "geometry": {"coordinates":[-10.51498,8.68155],"type":"Point"}
+}

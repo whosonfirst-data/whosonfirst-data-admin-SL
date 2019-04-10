@@ -1,0 +1,67 @@
+{
+  "id": 1209222091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.69291,8.15865,-11.69291,8.15865",
+    "geom:latitude":8.15865,
+    "geom:longitude":-11.69291,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jaiama",
+    "gn:country_code":"SL",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408464,
+    "gn:latitude":8.15865,
+    "gn:longitude":-11.69291,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Jaiama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jaiama"
+    ],
+    "name:und_x_variant":[
+        "Jalwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408464
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"152a0eacf2d01f5db02d95dcc6bd8bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209222091
+        }
+    ],
+    "wof:id":1209222091,
+    "wof:lastmodified":1537700629,
+    "wof:name":"Jaiama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.69291,
+    8.15865,
+    -11.69291,
+    8.15865
+],
+  "geometry": {"coordinates":[-11.69291,8.15865],"type":"Point"}
+}

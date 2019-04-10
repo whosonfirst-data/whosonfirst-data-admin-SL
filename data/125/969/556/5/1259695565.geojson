@@ -1,0 +1,70 @@
+{
+  "id": 1259695565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.34929,8.04609,-11.34929,8.04609",
+    "geom:latitude":8.04609,
+    "geom:longitude":-11.34929,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gbahun",
+    "gn:country_code":"SL",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409168,
+    "gn:latitude":8.04609,
+    "gn:longitude":-11.34929,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gbahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409168
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"321d30daf68e1a315eb90f365bce3ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1259695565,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1259695565,
+    "wof:lastmodified":1537700653,
+    "wof:name":"Gbahun",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.34929,
+    8.04609,
+    -11.34929,
+    8.04609
+],
+  "geometry": {"coordinates":[-11.34929,8.04609],"type":"Point"}
+}

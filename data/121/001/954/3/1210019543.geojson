@@ -1,0 +1,70 @@
+{
+  "id": 1210019543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.49201,9.97094,-11.49201,9.97094",
+    "geom:latitude":9.97094,
+    "geom:longitude":-11.49201,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fulla Mansa",
+    "gn:country_code":"SL",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871860,
+    "gn:latitude":9.97094,
+    "gn:longitude":-11.49201,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Fulla Mansa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fulla Mansa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871860
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"aa257b7461a9cdbf29ab6e2b61e94e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1210019543,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1210019543,
+    "wof:lastmodified":1537700737,
+    "wof:name":"Fulla Mansa",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.49201,
+    9.97094,
+    -11.49201,
+    9.97094
+],
+  "geometry": {"coordinates":[-11.49201,9.97094],"type":"Point"}
+}

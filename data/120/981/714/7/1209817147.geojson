@@ -1,0 +1,70 @@
+{
+  "id": 1209817147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.65472,8.23457,-11.65472,8.23457",
+    "geom:latitude":8.23457,
+    "geom:longitude":-11.65472,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Koyama",
+    "gn:country_code":"SL",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904564,
+    "gn:latitude":8.23457,
+    "gn:longitude":-11.65472,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Koyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904564
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ccd908f40e6203247f35ea8e550857c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1209817147,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1209817147,
+    "wof:lastmodified":1537700855,
+    "wof:name":"Koyama",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.65472,
+    8.23457,
+    -11.65472,
+    8.23457
+],
+  "geometry": {"coordinates":[-11.65472,8.23457],"type":"Point"}
+}

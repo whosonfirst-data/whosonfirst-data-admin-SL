@@ -1,0 +1,64 @@
+{
+  "id": 1209017307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.03801,9.49639,-12.03801,9.49639",
+    "geom:latitude":9.49639,
+    "geom:longitude":-12.03801,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Matanke",
+    "gn:country_code":"SL",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10134854,
+    "gn:latitude":9.49639,
+    "gn:longitude":-12.03801,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Matanke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matanke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10134854
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"53ce5b4482128e70f81ff92870874576",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209017307
+        }
+    ],
+    "wof:id":1209017307,
+    "wof:lastmodified":1537700950,
+    "wof:name":"Matanke",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.03801,
+    9.49639,
+    -12.03801,
+    9.49639
+],
+  "geometry": {"coordinates":[-12.03801,9.49639],"type":"Point"}
+}

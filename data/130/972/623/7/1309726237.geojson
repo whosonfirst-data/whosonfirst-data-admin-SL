@@ -1,0 +1,70 @@
+{
+  "id": 1309726237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.57079,8.65338,-10.57079,8.65338",
+    "geom:latitude":8.65338,
+    "geom:longitude":-10.57079,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bamandu",
+    "gn:country_code":"SL",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410565,
+    "gn:latitude":8.65338,
+    "gn:longitude":-10.57079,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Bamandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bamandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410565
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7997909e4ed4a8c4a9e51ad3732eefea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1309726237,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1309726237,
+    "wof:lastmodified":1537700701,
+    "wof:name":"Bamandu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.57079,
+    8.65338,
+    -10.57079,
+    8.65338
+],
+  "geometry": {"coordinates":[-10.57079,8.65338],"type":"Point"}
+}

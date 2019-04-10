@@ -1,0 +1,68 @@
+{
+  "id": 1327038907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.7875,8.76667,-12.7875,8.76667",
+    "geom:latitude":8.76667,
+    "geom:longitude":-12.7875,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masiaka",
+    "gn:country_code":"SL",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8469050,
+    "gn:latitude":8.76667,
+    "gn:longitude":-12.7875,
+    "gn:modification_date":"2013-02-28",
+    "gn:name":"Masiaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469050,
+        "wk:page":"Masiaka"
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"012281dd955848c4296b54fa092666c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1327038907,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327038907,
+    "wof:lastmodified":1537573663,
+    "wof:name":"Masiaka",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.7875,
+    8.76667,
+    -12.7875,
+    8.76667
+],
+  "geometry": {"coordinates":[-12.7875,8.76667],"type":"Point"}
+}

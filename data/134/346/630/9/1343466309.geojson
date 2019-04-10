@@ -1,0 +1,70 @@
+{
+  "id": 1343466309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.85435,8.05728,-11.85435,8.05728",
+    "geom:latitude":8.05728,
+    "geom:longitude":-11.85435,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Golaia",
+    "gn:country_code":"SL",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904499,
+    "gn:latitude":8.05728,
+    "gn:longitude":-11.85435,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Golaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Golaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904499
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"201b300027f4de0a326f88a93811d08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1343466309,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343466309,
+    "wof:lastmodified":1537700854,
+    "wof:name":"Golaia",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.85435,
+    8.05728,
+    -11.85435,
+    8.05728
+],
+  "geometry": {"coordinates":[-11.85435,8.05728],"type":"Point"}
+}

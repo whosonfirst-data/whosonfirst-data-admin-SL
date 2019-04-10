@@ -1,0 +1,70 @@
+{
+  "id": 1226351397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.24648,9.43168,-12.24648,9.43168",
+    "geom:latitude":9.43168,
+    "geom:longitude":-12.24648,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maruka",
+    "gn:country_code":"SL",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10134737,
+    "gn:latitude":9.43168,
+    "gn:longitude":-12.24648,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Maruka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maruka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10134737
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1bd469fbdfd09a0d05e674d1cf7a3d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1226351397,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226351397,
+    "wof:lastmodified":1537700947,
+    "wof:name":"Maruka",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.24648,
+    9.43168,
+    -12.24648,
+    9.43168
+],
+  "geometry": {"coordinates":[-12.24648,9.43168],"type":"Point"}
+}

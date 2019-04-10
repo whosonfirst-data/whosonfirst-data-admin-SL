@@ -1,0 +1,70 @@
+{
+  "id": 1327033257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.62045,8.97909,-11.62045,8.97909",
+    "geom:latitude":8.97909,
+    "geom:longitude":-11.62045,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Farataw",
+    "gn:country_code":"SL",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409444,
+    "gn:latitude":8.97909,
+    "gn:longitude":-11.62045,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Farataw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Farataw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409444
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"09d528b2ace31967de0ad2f60ac99ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1327033257,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327033257,
+    "wof:lastmodified":1537700663,
+    "wof:name":"Farataw",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.62045,
+    8.97909,
+    -11.62045,
+    8.97909
+],
+  "geometry": {"coordinates":[-11.62045,8.97909],"type":"Point"}
+}

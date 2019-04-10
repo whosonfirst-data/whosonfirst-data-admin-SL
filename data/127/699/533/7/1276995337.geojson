@@ -1,0 +1,70 @@
+{
+  "id": 1276995337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.04009,7.87573,-11.04009,7.87573",
+    "geom:latitude":7.87573,
+    "geom:longitude":-11.04009,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Danjuma",
+    "gn:country_code":"SL",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875424,
+    "gn:latitude":7.87573,
+    "gn:longitude":-11.04009,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Danjuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Danjuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875424
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"936ce7d6e92309da993d9b977037e718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1276995337,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1276995337,
+    "wof:lastmodified":1537700764,
+    "wof:name":"Danjuma",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.04009,
+    7.87573,
+    -11.04009,
+    7.87573
+],
+  "geometry": {"coordinates":[-11.04009,7.87573],"type":"Point"}
+}

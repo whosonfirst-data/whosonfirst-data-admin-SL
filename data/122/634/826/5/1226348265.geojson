@@ -1,0 +1,70 @@
+{
+  "id": 1226348265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.06188,8.23912,-13.06188,8.23912",
+    "geom:latitude":8.23912,
+    "geom:longitude":-13.06188,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tissana",
+    "gn:country_code":"SL",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403390,
+    "gn:latitude":8.23912,
+    "gn:longitude":-13.06188,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Tissana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tissana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403390
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3b5770b59dfb9a1a40ab32f1266c6fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1226348265,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1226348265,
+    "wof:lastmodified":1537700461,
+    "wof:name":"Tissana",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.06188,
+    8.23912,
+    -13.06188,
+    8.23912
+],
+  "geometry": {"coordinates":[-13.06188,8.23912],"type":"Point"}
+}

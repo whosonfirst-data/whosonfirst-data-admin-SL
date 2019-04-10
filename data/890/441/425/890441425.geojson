@@ -1,0 +1,69 @@
+{
+  "id": 890441425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.66667,8.63333,-11.66667,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":-11.66667,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":3550,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makali"
+    ],
+    "qs:name":"Makali",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406473,
+        "gp:id":1422154,
+        "qs:id":278611
+    },
+    "wof:country":"SL",
+    "wof:created":1469052323,
+    "wof:geomhash":"e6ff00c2730ce97f39c1169ff6a88d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":890441425,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":890441425,
+    "wof:lastmodified":1505343582,
+    "wof:name":"Makali",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:population":3550,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.66667,
+    8.63333,
+    -11.66667,
+    8.63333
+],
+  "geometry": {"coordinates":[-11.66667,8.63333],"type":"Point"}
+}

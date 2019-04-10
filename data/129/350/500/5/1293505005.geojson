@@ -1,0 +1,70 @@
+{
+  "id": 1293505005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.89116,8.02235,-10.89116,8.02235",
+    "geom:latitude":8.02235,
+    "geom:longitude":-10.89116,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gbayala",
+    "gn:country_code":"SL",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9920408,
+    "gn:latitude":8.02235,
+    "gn:longitude":-10.89116,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Gbayala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbayala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9920408
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"04cf816b25007cc07045f15770758934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1293505005,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293505005,
+    "wof:lastmodified":1537700868,
+    "wof:name":"Gbayala",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.89116,
+    8.02235,
+    -10.89116,
+    8.02235
+],
+  "geometry": {"coordinates":[-10.89116,8.02235],"type":"Point"}
+}

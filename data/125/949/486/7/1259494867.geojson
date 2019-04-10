@@ -1,0 +1,70 @@
+{
+  "id": 1259494867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.49189,8.0254,-11.49189,8.0254",
+    "geom:latitude":8.0254,
+    "geom:longitude":-11.49189,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nyanahun",
+    "gn:country_code":"SL",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9914942,
+    "gn:latitude":8.0254,
+    "gn:longitude":-11.49189,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Nyanahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyanahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9914942
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6f30d1e3afbf9bd62bc9c663387b38b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1259494867,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1259494867,
+    "wof:lastmodified":1537700861,
+    "wof:name":"Nyanahun",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.49189,
+    8.0254,
+    -11.49189,
+    8.0254
+],
+  "geometry": {"coordinates":[-11.49189,8.0254],"type":"Point"}
+}

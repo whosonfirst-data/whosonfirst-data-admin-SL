@@ -1,0 +1,70 @@
+{
+  "id": 1327032925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.13735,8.65866,-13.13735,8.65866",
+    "geom:latitude":8.65866,
+    "geom:longitude":-13.13735,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rosar",
+    "gn:country_code":"SL",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404276,
+    "gn:latitude":8.65866,
+    "gn:longitude":-13.13735,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Rosar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rosar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404276
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d58da3bbffa19306c8cc60e44c4ee6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1327032925,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327032925,
+    "wof:lastmodified":1537700490,
+    "wof:name":"Rosar",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.13735,
+    8.65866,
+    -13.13735,
+    8.65866
+],
+  "geometry": {"coordinates":[-13.13735,8.65866],"type":"Point"}
+}

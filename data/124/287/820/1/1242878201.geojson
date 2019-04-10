@@ -1,0 +1,67 @@
+{
+  "id": 1242878201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.35,8.51667,-11.35,8.51667",
+    "geom:latitude":8.51667,
+    "geom:longitude":-11.35,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yiye",
+    "gn:country_code":"SL",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9180306,
+    "gn:latitude":8.51667,
+    "gn:longitude":-11.35,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Yiye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9180306
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d8097eb0374f3adb16980e2fcb1842ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1242878201,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1242878201,
+    "wof:lastmodified":1536628963,
+    "wof:name":"Yiye",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.35,
+    8.51667,
+    -11.35,
+    8.51667
+],
+  "geometry": {"coordinates":[-11.35,8.51667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343361057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.57654,6.96861,-11.57654,6.96861",
+    "geom:latitude":6.96861,
+    "geom:longitude":-11.57654,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sulima",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403720,
+    "gn:latitude":6.96861,
+    "gn:longitude":-11.57654,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Sulima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403720,
+        "wk:page":"Sulima%2C_Sierra_Leone"
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8c901b3219d82b13b3af7a71b6747f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779069,
+            "locality_id":1343361057,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343361057,
+    "wof:lastmodified":1537573617,
+    "wof:name":"Sulima",
+    "wof:parent_id":1108779069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.57654,
+    6.96861,
+    -11.57654,
+    6.96861
+],
+  "geometry": {"coordinates":[-11.57654,6.96861],"type":"Point"}
+}

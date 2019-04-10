@@ -1,0 +1,70 @@
+{
+  "id": 1343274955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.00326,9.54139,-12.00326,9.54139",
+    "geom:latitude":9.54139,
+    "geom:longitude":-12.00326,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sontana",
+    "gn:country_code":"SL",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875667,
+    "gn:latitude":9.54139,
+    "gn:longitude":-12.00326,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Sontana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sontana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875667
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c264b9d746b6bcd81a4a9298c0680254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1343274955,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343274955,
+    "wof:lastmodified":1537700768,
+    "wof:name":"Sontana",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.00326,
+    9.54139,
+    -12.00326,
+    9.54139
+],
+  "geometry": {"coordinates":[-12.00326,9.54139],"type":"Point"}
+}

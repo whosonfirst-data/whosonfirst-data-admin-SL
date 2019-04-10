@@ -1,0 +1,80 @@
+{
+  "id": 1226451313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.96616,9.16017,-12.96616,9.16017",
+    "geom:latitude":9.16017,
+    "geom:longitude":-12.96616,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Walibana",
+    "gn:country_code":"SL",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403137,
+    "gn:latitude":9.16017,
+    "gn:longitude":-12.96616,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Walibana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Walibana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403137
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8df2c67618502d4614d1cc1ea5de9208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1226451313,
+            "region_id":85671403
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1226451313,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226451313,
+    "wof:lastmodified":1537700453,
+    "wof:name":"Walibana",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.96616,
+    9.16017,
+    -12.96616,
+    9.16017
+],
+  "geometry": {"coordinates":[-12.96616,9.16017],"type":"Point"}
+}

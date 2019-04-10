@@ -1,0 +1,103 @@
+{
+  "id": 1125869365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.7,8.1,-10.7,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":-10.7,
+    "gn:gn_country":"SL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8780,
+    "gn:population":8780,
+    "iso:country":"SL",
+    "lbl:latitude":8.1,
+    "lbl:longitude":-10.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u043d\u0434\u0435\u043c\u0431\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Pendembu"
+    ],
+    "name:eng_x_preferred":[
+        "Pendembu"
+    ],
+    "name:fin_x_preferred":[
+        "Pendembu"
+    ],
+    "name:fre_x_preferred":[
+        "Pendembu"
+    ],
+    "name:pol_x_preferred":[
+        "Pendembu"
+    ],
+    "name:por_x_preferred":[
+        "Pendembu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043d\u0434\u0435\u043c\u0431\u0443"
+    ],
+    "qs_pg:aaroncc":"SL",
+    "qs_pg:gn_country":"SL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2404614,
+    "qs_pg:gn_pop":8780,
+    "qs_pg:name":"Pendembu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":139963,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404614,
+        "qs_pg:id":139963,
+        "wd:id":"Q2913209"
+    },
+    "wof:country":"SL",
+    "wof:created":1497294212,
+    "wof:geomhash":"9d77b9cd87f8cef3908ae0c8d2864ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1125869365,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1125869365,
+    "wof:lastmodified":1514505436,
+    "wof:name":"Pendembu",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:population":8780,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.7,
+    8.1,
+    -10.7,
+    8.1
+],
+  "geometry": {"coordinates":[-10.7,8.1],"type":"Point"}
+}

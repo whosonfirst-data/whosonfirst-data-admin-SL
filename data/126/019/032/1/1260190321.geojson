@@ -1,0 +1,70 @@
+{
+  "id": 1260190321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.23224,7.47006,-12.23224,7.47006",
+    "geom:latitude":7.47006,
+    "geom:longitude":-12.23224,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mokoligbe",
+    "gn:country_code":"SL",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876538,
+    "gn:latitude":7.47006,
+    "gn:longitude":-12.23224,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Mokoligbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mokoligbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876538
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"77cdfed3c735d3ac0ef19b32fbc625f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1260190321,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1260190321,
+    "wof:lastmodified":1537700783,
+    "wof:name":"Mokoligbe",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.23224,
+    7.47006,
+    -12.23224,
+    7.47006
+],
+  "geometry": {"coordinates":[-12.23224,7.47006],"type":"Point"}
+}

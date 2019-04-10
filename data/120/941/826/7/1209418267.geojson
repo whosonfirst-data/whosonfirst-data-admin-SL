@@ -1,0 +1,64 @@
+{
+  "id": 1209418267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.95569,8.36008,-12.95569,8.36008",
+    "geom:latitude":8.36008,
+    "geom:longitude":-12.95569,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Konno Town",
+    "gn:country_code":"SL",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407470,
+    "gn:latitude":8.36008,
+    "gn:longitude":-12.95569,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Konno Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Konno Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407470
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e9a8ca7588a723fc0dab531c9f67db6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209418267
+        }
+    ],
+    "wof:id":1209418267,
+    "wof:lastmodified":1537700597,
+    "wof:name":"Konno Town",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.95569,
+    8.36008,
+    -12.95569,
+    8.36008
+],
+  "geometry": {"coordinates":[-12.95569,8.36008],"type":"Point"}
+}

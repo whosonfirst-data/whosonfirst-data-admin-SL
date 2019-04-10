@@ -1,0 +1,70 @@
+{
+  "id": 1310608693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.61904,7.55253,-12.61904,7.55253",
+    "geom:latitude":7.55253,
+    "geom:longitude":-12.61904,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lipalai",
+    "gn:country_code":"SL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870997,
+    "gn:latitude":7.55253,
+    "gn:longitude":-12.61904,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Lipalai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lipalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870997
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"398e5ef8f62b47d4fc2029f588ee37b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1310608693,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310608693,
+    "wof:lastmodified":1537700730,
+    "wof:name":"Lipalai",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.61904,
+    7.55253,
+    -12.61904,
+    7.55253
+],
+  "geometry": {"coordinates":[-12.61904,7.55253],"type":"Point"}
+}

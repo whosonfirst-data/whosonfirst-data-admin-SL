@@ -1,0 +1,64 @@
+{
+  "id": 1209424003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.9615,8.60661,-12.9615,8.60661",
+    "geom:latitude":8.60661,
+    "geom:longitude":-12.9615,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Malap",
+    "gn:country_code":"SL",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406232,
+    "gn:latitude":8.60661,
+    "gn:longitude":-12.9615,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Malap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406232
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"770781af3fe13e5424d7269f0f872cf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209424003
+        }
+    ],
+    "wof:id":1209424003,
+    "wof:lastmodified":1537700555,
+    "wof:name":"Malap",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.9615,
+    8.60661,
+    -12.9615,
+    8.60661
+],
+  "geometry": {"coordinates":[-12.9615,8.60661],"type":"Point"}
+}

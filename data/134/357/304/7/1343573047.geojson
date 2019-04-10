@@ -1,0 +1,70 @@
+{
+  "id": 1343573047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.59662,7.83609,-12.59662,7.83609",
+    "geom:latitude":7.83609,
+    "geom:longitude":-12.59662,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Suehen",
+    "gn:country_code":"SL",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9913732,
+    "gn:latitude":7.83609,
+    "gn:longitude":-12.59662,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Suehen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Suehen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9913732
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c8fc1ee13e3d74e0dd77d5d1a20a3d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1343573047,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343573047,
+    "wof:lastmodified":1537700860,
+    "wof:name":"Suehen",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.59662,
+    7.83609,
+    -12.59662,
+    7.83609
+],
+  "geometry": {"coordinates":[-12.59662,7.83609],"type":"Point"}
+}

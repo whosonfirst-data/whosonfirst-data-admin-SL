@@ -1,0 +1,70 @@
+{
+  "id": 1210023923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.9244,8.06587,-11.9244,8.06587",
+    "geom:latitude":8.06587,
+    "geom:longitude":-11.9244,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Saluibu",
+    "gn:country_code":"SL",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904483,
+    "gn:latitude":8.06587,
+    "gn:longitude":-11.9244,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Saluibu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saluibu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904483
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b14713e4b530aef2753202a26a8b2862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1210023923,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1210023923,
+    "wof:lastmodified":1537700853,
+    "wof:name":"Saluibu",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.9244,
+    8.06587,
+    -11.9244,
+    8.06587
+],
+  "geometry": {"coordinates":[-11.9244,8.06587],"type":"Point"}
+}

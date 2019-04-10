@@ -1,0 +1,70 @@
+{
+  "id": 1327136245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.83124,8.06667,-11.83124,8.06667",
+    "geom:latitude":8.06667,
+    "geom:longitude":-11.83124,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mokebi",
+    "gn:country_code":"SL",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904488,
+    "gn:latitude":8.06667,
+    "gn:longitude":-11.83124,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Mokebi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mokebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904488
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"eac5174915dce901f7dc8f9e3ab2dbd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1327136245,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327136245,
+    "wof:lastmodified":1537700854,
+    "wof:name":"Mokebi",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.83124,
+    8.06667,
+    -11.83124,
+    8.06667
+],
+  "geometry": {"coordinates":[-11.83124,8.06667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310714623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.07857,9.00959,-13.07857,9.00959",
+    "geom:latitude":9.00959,
+    "geom:longitude":-13.07857,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Matisaw",
+    "gn:country_code":"SL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405580,
+    "gn:latitude":9.00959,
+    "gn:longitude":-13.07857,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Matisaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matisaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405580
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"23f0fc85422040e26366ba823607f40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1310714623,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310714623,
+    "wof:lastmodified":1537700535,
+    "wof:name":"Matisaw",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.07857,
+    9.00959,
+    -13.07857,
+    9.00959
+],
+  "geometry": {"coordinates":[-13.07857,9.00959],"type":"Point"}
+}

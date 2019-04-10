@@ -1,0 +1,80 @@
+{
+  "id": 1242787431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.28314,8.4785,-10.28314,8.4785",
+    "geom:latitude":8.4785,
+    "geom:longitude":-10.28314,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gbumalo",
+    "gn:country_code":"SL",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9891760,
+    "gn:latitude":8.4785,
+    "gn:longitude":-10.28314,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Gbumalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbumalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693663,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9891760
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"65d841325e9f1801115fca392f01a63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693663,
+            "locality_id":1242787431,
+            "region_id":85673539
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1242787431,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1242787431,
+    "wof:lastmodified":1537700817,
+    "wof:name":"Gbumalo",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.28314,
+    8.4785,
+    -10.28314,
+    8.4785
+],
+  "geometry": {"coordinates":[-10.28314,8.4785],"type":"Point"}
+}

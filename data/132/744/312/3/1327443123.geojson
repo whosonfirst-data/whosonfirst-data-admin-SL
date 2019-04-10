@@ -1,0 +1,70 @@
+{
+  "id": 1327443123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.18738,7.62459,-12.18738,7.62459",
+    "geom:latitude":7.62459,
+    "geom:longitude":-12.18738,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mosele",
+    "gn:country_code":"SL",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876159,
+    "gn:latitude":7.62459,
+    "gn:longitude":-12.18738,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Mosele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mosele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876159
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4e9bc95d9f063d1129f8fd28bc90ebb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1327443123,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327443123,
+    "wof:lastmodified":1537700776,
+    "wof:name":"Mosele",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.18738,
+    7.62459,
+    -12.18738,
+    7.62459
+],
+  "geometry": {"coordinates":[-12.18738,7.62459],"type":"Point"}
+}

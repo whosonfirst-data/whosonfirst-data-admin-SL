@@ -1,0 +1,64 @@
+{
+  "id": 1209018151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.61447,8.2776,-10.61447,8.2776",
+    "geom:latitude":8.2776,
+    "geom:longitude":-10.61447,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kpendema",
+    "gn:country_code":"SL",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9879904,
+    "gn:latitude":8.2776,
+    "gn:longitude":-10.61447,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Kpendema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpendema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9879904
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f9f1fda6760ca5752b07162813bfcfdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209018151
+        }
+    ],
+    "wof:id":1209018151,
+    "wof:lastmodified":1537700798,
+    "wof:name":"Kpendema",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.61447,
+    8.2776,
+    -10.61447,
+    8.2776
+],
+  "geometry": {"coordinates":[-10.61447,8.2776],"type":"Point"}
+}

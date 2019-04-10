@@ -1,0 +1,64 @@
+{
+  "id": 1209518591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.77194,8.41665,-11.77194,8.41665",
+    "geom:latitude":8.41665,
+    "geom:longitude":-11.77194,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mapotka",
+    "gn:country_code":"SL",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876103,
+    "gn:latitude":8.41665,
+    "gn:longitude":-11.77194,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Mapotka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mapotka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876103
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"752705d594ec4d5ec8e171889e7db6d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209518591
+        }
+    ],
+    "wof:id":1209518591,
+    "wof:lastmodified":1537700774,
+    "wof:name":"Mapotka",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.77194,
+    8.41665,
+    -11.77194,
+    8.41665
+],
+  "geometry": {"coordinates":[-11.77194,8.41665],"type":"Point"}
+}

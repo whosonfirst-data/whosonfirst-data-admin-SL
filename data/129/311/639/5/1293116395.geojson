@@ -1,0 +1,73 @@
+{
+  "id": 1293116395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.88993,8.78984,-10.88993,8.78984",
+    "geom:latitude":8.78984,
+    "geom:longitude":-10.88993,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kangarma",
+    "gn:country_code":"SL",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408017,
+    "gn:latitude":8.78984,
+    "gn:longitude":-10.88993,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kangarma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kangarma"
+    ],
+    "name:und_x_variant":[
+        "Kangama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408017
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"84ba2711d027166244f79e2f205e00b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1293116395,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293116395,
+    "wof:lastmodified":1537700614,
+    "wof:name":"Kangarma",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.88993,
+    8.78984,
+    -10.88993,
+    8.78984
+],
+  "geometry": {"coordinates":[-10.88993,8.78984],"type":"Point"}
+}

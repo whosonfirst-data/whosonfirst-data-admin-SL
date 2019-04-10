@@ -1,0 +1,70 @@
+{
+  "id": 1210019723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.64735,9.94198,-11.64735,9.94198",
+    "geom:latitude":9.94198,
+    "geom:longitude":-11.64735,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbentu",
+    "gn:country_code":"SL",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870730,
+    "gn:latitude":9.94198,
+    "gn:longitude":-11.64735,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gbentu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbentu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870730
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"860f9f37ff696f60c9c9a29e56a7d5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1210019723,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1210019723,
+    "wof:lastmodified":1537700727,
+    "wof:name":"Gbentu",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.64735,
+    9.94198,
+    -11.64735,
+    9.94198
+],
+  "geometry": {"coordinates":[-11.64735,9.94198],"type":"Point"}
+}

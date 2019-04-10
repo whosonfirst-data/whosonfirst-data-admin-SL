@@ -1,0 +1,64 @@
+{
+  "id": 1209423851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.00242,9.57255,-12.00242,9.57255",
+    "geom:latitude":9.57255,
+    "geom:longitude":-12.00242,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Selekoro",
+    "gn:country_code":"SL",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404027,
+    "gn:latitude":9.57255,
+    "gn:longitude":-12.00242,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Selekoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Selekoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404027
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"96647f575d7fb41535f90571e8aa0b4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209423851
+        }
+    ],
+    "wof:id":1209423851,
+    "wof:lastmodified":1537700481,
+    "wof:name":"Selekoro",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.00242,
+    9.57255,
+    -12.00242,
+    9.57255
+],
+  "geometry": {"coordinates":[-12.00242,9.57255],"type":"Point"}
+}

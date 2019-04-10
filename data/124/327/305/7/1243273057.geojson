@@ -1,0 +1,70 @@
+{
+  "id": 1243273057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.17307,9.81851,-11.17307,9.81851",
+    "geom:latitude":9.81851,
+    "geom:longitude":-11.17307,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Biribaia",
+    "gn:country_code":"SL",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410087,
+    "gn:latitude":9.81851,
+    "gn:longitude":-11.17307,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Biribaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Biribaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410087
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"da3c059a5cd64143ab066212dfe6fbbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1243273057,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243273057,
+    "wof:lastmodified":1537700685,
+    "wof:name":"Biribaia",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.17307,
+    9.81851,
+    -11.17307,
+    9.81851
+],
+  "geometry": {"coordinates":[-11.17307,9.81851],"type":"Point"}
+}

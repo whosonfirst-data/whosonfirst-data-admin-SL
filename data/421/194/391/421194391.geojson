@@ -1,0 +1,94 @@
+{
+  "id": 421194391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.30611,7.31528,-11.30611,7.31528",
+    "geom:latitude":7.31528,
+    "geom:longitude":-11.30611,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0417\u0438\u043c\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Zimmi"
+    ],
+    "name:eng_x_preferred":[
+        "Zimmi"
+    ],
+    "name:unk_x_variant":[
+        "Zimi"
+    ],
+    "qs:gn_country":"SL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2402689,
+    "qs:gn_pop":4796,
+    "qs:name":"Zimmi",
+    "qs:name_adm0":"Sierra Leone",
+    "qs:name_adm1":"Southern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1089783,
+    "qs:woe_adm0":23424946,
+    "qs:woe_id":1424837,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402689,
+        "gp:id":1424837,
+        "qs:id":1089783,
+        "wd:id":"Q8072148",
+        "wk:page":"Zimmi, Sierra Leone"
+    },
+    "wof:country":"SL",
+    "wof:created":1459009804,
+    "wof:geomhash":"46f5d35466365729a3b7aac63798acbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779069,
+            "locality_id":421194391,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":421194391,
+    "wof:lastmodified":1527716127,
+    "wof:name":"Zimmi",
+    "wof:parent_id":1108779069,
+    "wof:placetype":"locality",
+    "wof:population":4796,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.30611,
+    7.31528,
+    -11.30611,
+    7.31528
+],
+  "geometry": {"coordinates":[-11.30611,7.31528],"type":"Point"}
+}

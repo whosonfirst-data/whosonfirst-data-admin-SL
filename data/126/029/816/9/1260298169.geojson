@@ -1,0 +1,70 @@
+{
+  "id": 1260298169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.69659,9.76914,-11.69659,9.76914",
+    "geom:latitude":9.76914,
+    "geom:longitude":-11.69659,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Magbengbe",
+    "gn:country_code":"SL",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406627,
+    "gn:latitude":9.76914,
+    "gn:longitude":-11.69659,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Magbengbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magbengbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406627
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a1e7553150b42a6f50c569d6f2cd5062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1260298169,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1260298169,
+    "wof:lastmodified":1537700568,
+    "wof:name":"Magbengbe",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.69659,
+    9.76914,
+    -11.69659,
+    9.76914
+],
+  "geometry": {"coordinates":[-11.69659,9.76914],"type":"Point"}
+}

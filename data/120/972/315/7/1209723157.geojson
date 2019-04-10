@@ -1,0 +1,73 @@
+{
+  "id": 1209723157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.04079,8.09925,-12.04079,8.09925",
+    "geom:latitude":8.09925,
+    "geom:longitude":-12.04079,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gbesebu",
+    "gn:country_code":"SL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409008,
+    "gn:latitude":8.09925,
+    "gn:longitude":-12.04079,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gbesebu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbesebu"
+    ],
+    "name:und_x_variant":[
+        "Gbesibu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409008
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0f33b9e966bea9d15832549d06a31cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1209723157,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1209723157,
+    "wof:lastmodified":1537700647,
+    "wof:name":"Gbesebu",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.04079,
+    8.09925,
+    -12.04079,
+    8.09925
+],
+  "geometry": {"coordinates":[-12.04079,8.09925],"type":"Point"}
+}

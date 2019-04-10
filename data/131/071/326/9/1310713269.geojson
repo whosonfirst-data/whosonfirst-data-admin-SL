@@ -1,0 +1,70 @@
+{
+  "id": 1310713269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.81021,8.01144,-11.81021,8.01144",
+    "geom:latitude":8.01144,
+    "geom:longitude":-11.81021,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bandafaima",
+    "gn:country_code":"SL",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904532,
+    "gn:latitude":8.01144,
+    "gn:longitude":-11.81021,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Bandafaima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bandafaima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904532
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8bc1faaa22cf84d1df54092a9016b261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1310713269,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310713269,
+    "wof:lastmodified":1537700855,
+    "wof:name":"Bandafaima",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.81021,
+    8.01144,
+    -11.81021,
+    8.01144
+],
+  "geometry": {"coordinates":[-11.81021,8.01144],"type":"Point"}
+}

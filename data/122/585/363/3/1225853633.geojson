@@ -1,0 +1,70 @@
+{
+  "id": 1225853633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.71402,9.29317,-10.71402,9.29317",
+    "geom:latitude":9.29317,
+    "geom:longitude":-10.71402,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Birimba",
+    "gn:country_code":"SL",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410086,
+    "gn:latitude":9.29317,
+    "gn:longitude":-10.71402,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Birimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Birimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410086
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"725a4a53bf66ad38fac265d5acaf56bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1225853633,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1225853633,
+    "wof:lastmodified":1537700685,
+    "wof:name":"Birimba",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.71402,
+    9.29317,
+    -10.71402,
+    9.29317
+],
+  "geometry": {"coordinates":[-10.71402,9.29317],"type":"Point"}
+}

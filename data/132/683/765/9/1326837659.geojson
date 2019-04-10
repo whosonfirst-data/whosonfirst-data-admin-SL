@@ -1,0 +1,70 @@
+{
+  "id": 1326837659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.99282,8.36542,-11.99282,8.36542",
+    "geom:latitude":8.36542,
+    "geom:longitude":-11.99282,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pipo",
+    "gn:country_code":"SL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404464,
+    "gn:latitude":8.36542,
+    "gn:longitude":-11.99282,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Pipo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pipo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404464
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"acb07e3e97e6ccb45eca5e8867d318f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1326837659,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1326837659,
+    "wof:lastmodified":1537700496,
+    "wof:name":"Pipo",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.99282,
+    8.36542,
+    -11.99282,
+    8.36542
+],
+  "geometry": {"coordinates":[-11.99282,8.36542],"type":"Point"}
+}

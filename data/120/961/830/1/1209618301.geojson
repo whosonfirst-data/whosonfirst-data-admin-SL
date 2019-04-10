@@ -1,0 +1,64 @@
+{
+  "id": 1209618301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.261,8.78095,-12.261,8.78095",
+    "geom:latitude":8.78095,
+    "geom:longitude":-12.261,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kepu",
+    "gn:country_code":"SL",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2407764,
+    "gn:latitude":8.78095,
+    "gn:longitude":-12.261,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Kepu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kepu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407764
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c2ba711a4e724e72867ccd8ffe96c4f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209618301
+        }
+    ],
+    "wof:id":1209618301,
+    "wof:lastmodified":1537700606,
+    "wof:name":"Kepu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.261,
+    8.78095,
+    -12.261,
+    8.78095
+],
+  "geometry": {"coordinates":[-12.261,8.78095],"type":"Point"}
+}

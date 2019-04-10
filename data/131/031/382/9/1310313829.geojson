@@ -1,0 +1,70 @@
+{
+  "id": 1310313829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.33568,8.91342,-12.33568,8.91342",
+    "geom:latitude":8.91342,
+    "geom:longitude":-12.33568,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makalimu",
+    "gn:country_code":"SL",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2406471,
+    "gn:latitude":8.91342,
+    "gn:longitude":-12.33568,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Makalimu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Makalimu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406471
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3c92c225ae8826bcb411fff7c99aa488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1310313829,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310313829,
+    "wof:lastmodified":1537700563,
+    "wof:name":"Makalimu",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.33568,
+    8.91342,
+    -12.33568,
+    8.91342
+],
+  "geometry": {"coordinates":[-12.33568,8.91342],"type":"Point"}
+}

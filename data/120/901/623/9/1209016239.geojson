@@ -1,0 +1,64 @@
+{
+  "id": 1209016239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.56679,7.50372,-12.56679,7.50372",
+    "geom:latitude":7.50372,
+    "geom:longitude":-12.56679,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mambo",
+    "gn:country_code":"SL",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871036,
+    "gn:latitude":7.50372,
+    "gn:longitude":-12.56679,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Mambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871036
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a947baccb40011dd47fe412c09010699",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209016239
+        }
+    ],
+    "wof:id":1209016239,
+    "wof:lastmodified":1537700731,
+    "wof:name":"Mambo",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.56679,
+    7.50372,
+    -12.56679,
+    7.50372
+],
+  "geometry": {"coordinates":[-12.56679,7.50372],"type":"Point"}
+}

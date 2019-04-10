@@ -1,0 +1,70 @@
+{
+  "id": 1193145787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.01622,8.86294,-13.01622,8.86294",
+    "geom:latitude":8.86294,
+    "geom:longitude":-13.01622,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mahela",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593288,
+    "gn:latitude":8.86294,
+    "gn:longitude":-13.01622,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Mahela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mahela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593288
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0b3e223dccfd70c1648e33e975372e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1193145787,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1193145787,
+    "wof:lastmodified":1537700718,
+    "wof:name":"Mahela",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.01622,
+    8.86294,
+    -13.01622,
+    8.86294
+],
+  "geometry": {"coordinates":[-13.01622,8.86294],"type":"Point"}
+}

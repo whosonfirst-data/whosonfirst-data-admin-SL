@@ -1,0 +1,70 @@
+{
+  "id": 1343971123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4115,9.8451,-12.4115,9.8451",
+    "geom:latitude":9.8451,
+    "geom:longitude":-12.4115,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sulimania",
+    "gn:country_code":"SL",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9868175,
+    "gn:latitude":9.8451,
+    "gn:longitude":-12.4115,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Sulimania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sulimania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9868175
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"19272c0c48dc44a36a6662a394affdd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1343971123,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343971123,
+    "wof:lastmodified":1537700726,
+    "wof:name":"Sulimania",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4115,
+    9.8451,
+    -12.4115,
+    9.8451
+],
+  "geometry": {"coordinates":[-12.4115,9.8451],"type":"Point"}
+}

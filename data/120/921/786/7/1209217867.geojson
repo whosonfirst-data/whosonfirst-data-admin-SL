@@ -1,0 +1,64 @@
+{
+  "id": 1209217867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.44707,8.33511,-12.44707,8.33511",
+    "geom:latitude":8.33511,
+    "geom:longitude":-12.44707,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Batbana",
+    "gn:country_code":"SL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410289,
+    "gn:latitude":8.33511,
+    "gn:longitude":-12.44707,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Batbana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Batbana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410289
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c1ce676b4c4e1f4164622f1040e15973",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209217867
+        }
+    ],
+    "wof:id":1209217867,
+    "wof:lastmodified":1537700691,
+    "wof:name":"Batbana",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.44707,
+    8.33511,
+    -12.44707,
+    8.33511
+],
+  "geometry": {"coordinates":[-12.44707,8.33511],"type":"Point"}
+}

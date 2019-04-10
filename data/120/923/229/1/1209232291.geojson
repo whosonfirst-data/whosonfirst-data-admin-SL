@@ -1,0 +1,64 @@
+{
+  "id": 1209232291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.36621,7.76263,-11.36621,7.76263",
+    "geom:latitude":7.76263,
+    "geom:longitude":-11.36621,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gbandawo",
+    "gn:country_code":"SL",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409138,
+    "gn:latitude":7.76263,
+    "gn:longitude":-11.36621,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gbandawo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbandawo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409138
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a608c803905be506879f2bf2b2bb7bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209232291
+        }
+    ],
+    "wof:id":1209232291,
+    "wof:lastmodified":1537700652,
+    "wof:name":"Gbandawo",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.36621,
+    7.76263,
+    -11.36621,
+    7.76263
+],
+  "geometry": {"coordinates":[-11.36621,7.76263],"type":"Point"}
+}

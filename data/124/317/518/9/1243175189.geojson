@@ -1,0 +1,70 @@
+{
+  "id": 1243175189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.48859,8.69976,-12.48859,8.69976",
+    "geom:latitude":8.69976,
+    "geom:longitude":-12.48859,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Matinkani",
+    "gn:country_code":"SL",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10132076,
+    "gn:latitude":8.69976,
+    "gn:longitude":-12.48859,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Matinkani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matinkani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10132076
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6a671360978b8eca4a85a1adb547f743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1243175189,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243175189,
+    "wof:lastmodified":1537700934,
+    "wof:name":"Matinkani",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.48859,
+    8.69976,
+    -12.48859,
+    8.69976
+],
+  "geometry": {"coordinates":[-12.48859,8.69976],"type":"Point"}
+}

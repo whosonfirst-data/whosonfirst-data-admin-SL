@@ -1,0 +1,70 @@
+{
+  "id": 1193140193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.17051,8.80824,-13.17051,8.80824",
+    "geom:latitude":8.80824,
+    "geom:longitude":-13.17051,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maton",
+    "gn:country_code":"SL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405564,
+    "gn:latitude":8.80824,
+    "gn:longitude":-13.17051,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Maton",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405564
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"229e78b890db0e7bd3c1f30bc5ac55ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1193140193,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1193140193,
+    "wof:lastmodified":1537700534,
+    "wof:name":"Maton",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.17051,
+    8.80824,
+    -13.17051,
+    8.80824
+],
+  "geometry": {"coordinates":[-13.17051,8.80824],"type":"Point"}
+}

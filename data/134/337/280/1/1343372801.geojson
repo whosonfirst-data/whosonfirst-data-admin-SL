@@ -1,0 +1,70 @@
+{
+  "id": 1343372801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.96381,8.18336,-10.96381,8.18336",
+    "geom:latitude":8.18336,
+    "geom:longitude":-10.96381,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jujuma",
+    "gn:country_code":"SL",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408350,
+    "gn:latitude":8.18336,
+    "gn:longitude":-10.96381,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Jujuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jujuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408350
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f486212aa51febd80c4ba66f5e245517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1343372801,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1343372801,
+    "wof:lastmodified":1537700625,
+    "wof:name":"Jujuma",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.96381,
+    8.18336,
+    -10.96381,
+    8.18336
+],
+  "geometry": {"coordinates":[-10.96381,8.18336],"type":"Point"}
+}

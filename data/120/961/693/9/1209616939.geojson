@@ -1,0 +1,64 @@
+{
+  "id": 1209616939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.3069,7.29619,-11.3069,7.29619",
+    "geom:latitude":7.29619,
+    "geom:longitude":-11.3069,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jabama",
+    "gn:country_code":"SL",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893003,
+    "gn:latitude":7.29619,
+    "gn:longitude":-11.3069,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Jabama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jabama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893003
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"987e0444f0dd0d938f3e13209acf4513",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209616939
+        }
+    ],
+    "wof:id":1209616939,
+    "wof:lastmodified":1537700826,
+    "wof:name":"Jabama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.3069,
+    7.29619,
+    -11.3069,
+    7.29619
+],
+  "geometry": {"coordinates":[-11.3069,7.29619],"type":"Point"}
+}

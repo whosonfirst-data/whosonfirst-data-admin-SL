@@ -1,0 +1,73 @@
+{
+  "id": 1293102737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.06917,8.74119,-11.06917,8.74119",
+    "geom:latitude":8.74119,
+    "geom:longitude":-11.06917,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yardu Seneor",
+    "gn:country_code":"SL",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402973,
+    "gn:latitude":8.74119,
+    "gn:longitude":-11.06917,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Yardu Seneor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yardu Seneor"
+    ],
+    "name:und_x_variant":[
+        "Yadusinero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402973
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"770481cc3615deb69b65496fce8d7970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1293102737,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293102737,
+    "wof:lastmodified":1537700449,
+    "wof:name":"Yardu Seneor",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.06917,
+    8.74119,
+    -11.06917,
+    8.74119
+],
+  "geometry": {"coordinates":[-11.06917,8.74119],"type":"Point"}
+}

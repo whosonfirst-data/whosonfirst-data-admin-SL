@@ -1,0 +1,70 @@
+{
+  "id": 1277081795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.74599,8.2465,-11.74599,8.2465",
+    "geom:latitude":8.2465,
+    "geom:longitude":-11.74599,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jawonga",
+    "gn:country_code":"SL",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904538,
+    "gn:latitude":8.2465,
+    "gn:longitude":-11.74599,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Jawonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jawonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904538
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"cfe4708538df418f7bc3f3bdd5f7d652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1277081795,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1277081795,
+    "wof:lastmodified":1537700855,
+    "wof:name":"Jawonga",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.74599,
+    8.2465,
+    -11.74599,
+    8.2465
+],
+  "geometry": {"coordinates":[-11.74599,8.2465],"type":"Point"}
+}

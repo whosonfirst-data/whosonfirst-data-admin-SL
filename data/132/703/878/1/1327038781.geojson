@@ -1,0 +1,70 @@
+{
+  "id": 1327038781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.55406,9.08592,-12.55406,9.08592",
+    "geom:latitude":9.08592,
+    "geom:longitude":-12.55406,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rolip",
+    "gn:country_code":"SL",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880973,
+    "gn:latitude":9.08592,
+    "gn:longitude":-12.55406,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Rolip",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rolip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880973
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4091c334f1fd4a396e149d0167561ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1327038781,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327038781,
+    "wof:lastmodified":1537700816,
+    "wof:name":"Rolip",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.55406,
+    9.08592,
+    -12.55406,
+    9.08592
+],
+  "geometry": {"coordinates":[-12.55406,9.08592],"type":"Point"}
+}

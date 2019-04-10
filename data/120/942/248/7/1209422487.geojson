@@ -1,0 +1,64 @@
+{
+  "id": 1209422487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.89552,7.89296,-12.89552,7.89296",
+    "geom:latitude":7.89296,
+    "geom:longitude":-12.89552,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bandasuma",
+    "gn:country_code":"SL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410464,
+    "gn:latitude":7.89296,
+    "gn:longitude":-12.89552,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Bandasuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bandasuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410464
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"65f6c499da37cb27e81b071b3f701dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209422487
+        }
+    ],
+    "wof:id":1209422487,
+    "wof:lastmodified":1537700697,
+    "wof:name":"Bandasuma",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.89552,
+    7.89296,
+    -12.89552,
+    7.89296
+],
+  "geometry": {"coordinates":[-12.89552,7.89296],"type":"Point"}
+}

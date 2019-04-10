@@ -1,0 +1,73 @@
+{
+  "id": 1310120137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.07074,8.86605,-11.07074,8.86605",
+    "geom:latitude":8.86605,
+    "geom:longitude":-11.07074,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kuiya",
+    "gn:country_code":"SL",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407369,
+    "gn:latitude":8.86605,
+    "gn:longitude":-11.07074,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kuiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuiya"
+    ],
+    "name:und_x_variant":[
+        "Koya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407369
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"57c7f9e6b37e4b2f65d89e6ca7810ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1310120137,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1310120137,
+    "wof:lastmodified":1537700593,
+    "wof:name":"Kuiya",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.07074,
+    8.86605,
+    -11.07074,
+    8.86605
+],
+  "geometry": {"coordinates":[-11.07074,8.86605],"type":"Point"}
+}

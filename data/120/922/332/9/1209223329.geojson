@@ -1,0 +1,64 @@
+{
+  "id": 1209223329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.18491,8.96997,-11.18491,8.96997",
+    "geom:latitude":8.96997,
+    "geom:longitude":-11.18491,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kaia",
+    "gn:country_code":"SL",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408254,
+    "gn:latitude":8.96997,
+    "gn:longitude":-11.18491,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408254
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"dd40f64516a1f780172c256e6c36de24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209223329
+        }
+    ],
+    "wof:id":1209223329,
+    "wof:lastmodified":1537700622,
+    "wof:name":"Kaia",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.18491,
+    8.96997,
+    -11.18491,
+    8.96997
+],
+  "geometry": {"coordinates":[-11.18491,8.96997],"type":"Point"}
+}

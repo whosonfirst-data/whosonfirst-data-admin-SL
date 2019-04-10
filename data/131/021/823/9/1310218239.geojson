@@ -1,0 +1,70 @@
+{
+  "id": 1310218239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.05302,8.85442,-13.05302,8.85442",
+    "geom:latitude":8.85442,
+    "geom:longitude":-13.05302,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tenbana",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403486,
+    "gn:latitude":8.85442,
+    "gn:longitude":-13.05302,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Tenbana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tenbana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403486
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3bb8730087952d3e20950011edd5aee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1310218239,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310218239,
+    "wof:lastmodified":1537700464,
+    "wof:name":"Tenbana",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.05302,
+    8.85442,
+    -13.05302,
+    8.85442
+],
+  "geometry": {"coordinates":[-13.05302,8.85442],"type":"Point"}
+}

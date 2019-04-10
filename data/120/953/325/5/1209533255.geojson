@@ -1,0 +1,67 @@
+{
+  "id": 1209533255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.90051,8.73238,-10.90051,8.73238",
+    "geom:latitude":8.73238,
+    "geom:longitude":-10.90051,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gbukuma",
+    "gn:country_code":"SL",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409868,
+    "gn:latitude":8.73238,
+    "gn:longitude":-10.90051,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Gbukuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbukuma"
+    ],
+    "name:und_x_variant":[
+        "Buguma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409868
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"649de1082a5e15078185e1749b690347",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209533255
+        }
+    ],
+    "wof:id":1209533255,
+    "wof:lastmodified":1537700677,
+    "wof:name":"Gbukuma",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.90051,
+    8.73238,
+    -10.90051,
+    8.73238
+],
+  "geometry": {"coordinates":[-10.90051,8.73238],"type":"Point"}
+}

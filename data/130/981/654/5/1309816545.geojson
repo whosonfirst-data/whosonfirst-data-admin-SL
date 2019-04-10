@@ -1,0 +1,70 @@
+{
+  "id": 1309816545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.56457,9.46227,-12.56457,9.46227",
+    "geom:latitude":9.46227,
+    "geom:longitude":-12.56457,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Susudara",
+    "gn:country_code":"SL",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403667,
+    "gn:latitude":9.46227,
+    "gn:longitude":-12.56457,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Susudara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Susudara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403667
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e4e547c1b89a4663523a360dd87811cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1309816545,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309816545,
+    "wof:lastmodified":1537700470,
+    "wof:name":"Susudara",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.56457,
+    9.46227,
+    -12.56457,
+    9.46227
+],
+  "geometry": {"coordinates":[-12.56457,9.46227],"type":"Point"}
+}

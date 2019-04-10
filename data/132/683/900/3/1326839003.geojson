@@ -1,0 +1,70 @@
+{
+  "id": 1326839003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.93588,8.9775,-12.93588,8.9775",
+    "geom:latitude":8.9775,
+    "geom:longitude":-12.93588,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbengofi",
+    "gn:country_code":"SL",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9985198,
+    "gn:latitude":8.9775,
+    "gn:longitude":-12.93588,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Gbengofi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbengofi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9985198
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fdc76cf5515048094c5c93ce4f3a8634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1326839003,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1326839003,
+    "wof:lastmodified":1537700875,
+    "wof:name":"Gbengofi",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.93588,
+    8.9775,
+    -12.93588,
+    8.9775
+],
+  "geometry": {"coordinates":[-12.93588,8.9775],"type":"Point"}
+}

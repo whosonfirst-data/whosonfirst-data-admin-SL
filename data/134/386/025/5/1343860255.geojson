@@ -1,0 +1,70 @@
+{
+  "id": 1343860255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.64722,7.6448,-11.64722,7.6448",
+    "geom:latitude":7.6448,
+    "geom:longitude":-11.64722,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yanihun",
+    "gn:country_code":"SL",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402923,
+    "gn:latitude":7.6448,
+    "gn:longitude":-11.64722,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yanihun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yandehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402923
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9df822a0e2028ad65fd5118b5c8ebafd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1343860255,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343860255,
+    "wof:lastmodified":1537700447,
+    "wof:name":"Yanihun",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.64722,
+    7.6448,
+    -11.64722,
+    7.6448
+],
+  "geometry": {"coordinates":[-11.64722,7.6448],"type":"Point"}
+}

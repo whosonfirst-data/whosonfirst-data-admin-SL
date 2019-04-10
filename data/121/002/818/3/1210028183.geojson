@@ -1,0 +1,70 @@
+{
+  "id": 1210028183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.62041,8.24978,-11.62041,8.24978",
+    "geom:latitude":8.24978,
+    "geom:longitude":-11.62041,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dambalawa",
+    "gn:country_code":"SL",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904541,
+    "gn:latitude":8.24978,
+    "gn:longitude":-11.62041,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Dambalawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dambalawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904541
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b44bd015acef556351961de3f25e2f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1210028183,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1210028183,
+    "wof:lastmodified":1537700855,
+    "wof:name":"Dambalawa",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.62041,
+    8.24978,
+    -11.62041,
+    8.24978
+],
+  "geometry": {"coordinates":[-11.62041,8.24978],"type":"Point"}
+}

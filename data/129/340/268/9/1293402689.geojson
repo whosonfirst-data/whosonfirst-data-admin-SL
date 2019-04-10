@@ -1,0 +1,70 @@
+{
+  "id": 1293402689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.54886,9.70878,-11.54886,9.70878",
+    "geom:latitude":9.70878,
+    "geom:longitude":-11.54886,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dogoloya",
+    "gn:country_code":"SL",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870908,
+    "gn:latitude":9.70878,
+    "gn:longitude":-11.54886,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Dogoloya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dogoloya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870908
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d8546f6795c2743167140d54f239b07a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1293402689,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293402689,
+    "wof:lastmodified":1537700728,
+    "wof:name":"Dogoloya",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.54886,
+    9.70878,
+    -11.54886,
+    9.70878
+],
+  "geometry": {"coordinates":[-11.54886,9.70878],"type":"Point"}
+}

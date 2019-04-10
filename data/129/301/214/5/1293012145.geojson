@@ -1,0 +1,70 @@
+{
+  "id": 1293012145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.35105,8.05563,-11.35105,8.05563",
+    "geom:latitude":8.05563,
+    "geom:longitude":-11.35105,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hagbahun",
+    "gn:country_code":"SL",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408594,
+    "gn:latitude":8.05563,
+    "gn:longitude":-11.35105,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Hagbahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hagbahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408594
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9e1fea9afae6ad55bcd2a2d54fb0be00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1293012145,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293012145,
+    "wof:lastmodified":1537700633,
+    "wof:name":"Hagbahun",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.35105,
+    8.05563,
+    -11.35105,
+    8.05563
+],
+  "geometry": {"coordinates":[-11.35105,8.05563],"type":"Point"}
+}

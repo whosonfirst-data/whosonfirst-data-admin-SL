@@ -1,0 +1,94 @@
+{
+  "id": 421167685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.33333,8.18333,-11.33333,8.18333",
+    "geom:latitude":8.18333,
+    "geom:longitude":-11.33333,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Boajibu"
+    ],
+    "name:eng_x_preferred":[
+        "Boajibu"
+    ],
+    "name:fra_x_preferred":[
+        "Boajibu"
+    ],
+    "name:fre_x_preferred":[
+        "Boajibu"
+    ],
+    "qs:gn_country":"SL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2410040,
+    "qs:gn_pop":7384,
+    "qs:name":"Boajibu",
+    "qs:name_adm0":"Sierra Leone",
+    "qs:name_adm1":"Eastern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":139993,
+    "qs:woe_adm0":23424946,
+    "qs:woe_id":56123196,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410040,
+        "gp:id":56123196,
+        "qs:id":139993,
+        "wd:id":"Q4931229",
+        "wk:page":"Boajibu"
+    },
+    "wof:country":"SL",
+    "wof:created":1459008740,
+    "wof:geomhash":"5d990390d83135bfbfe396114a6ff1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":421167685,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":421167685,
+    "wof:lastmodified":1527716159,
+    "wof:name":"Boajibu",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:population":7384,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.33333,
+    8.18333,
+    -11.33333,
+    8.18333
+],
+  "geometry": {"coordinates":[-11.33333,8.18333],"type":"Point"}
+}

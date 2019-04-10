@@ -1,0 +1,72 @@
+{
+  "id": 1277086097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.19659,7.82882,-12.19659,7.82882",
+    "geom:latitude":7.82882,
+    "geom:longitude":-12.19659,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Wubange",
+    "gn:country_code":"SL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404236,
+    "gn:latitude":7.82882,
+    "gn:longitude":-12.19659,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Wubange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rubange",
+        "Rubgnge",
+        "Wubange"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404236
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"28b9fe865611696fe161afd0bcf6263e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1277086097,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1277086097,
+    "wof:lastmodified":1537700488,
+    "wof:name":"Wubange",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.19659,
+    7.82882,
+    -12.19659,
+    7.82882
+],
+  "geometry": {"coordinates":[-12.19659,7.82882],"type":"Point"}
+}

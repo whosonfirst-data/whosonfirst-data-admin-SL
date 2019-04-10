@@ -1,0 +1,73 @@
+{
+  "id": 1226154389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.71667,8.16422,-12.71667,8.16422",
+    "geom:latitude":8.16422,
+    "geom:longitude":-12.71667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Palai",
+    "gn:country_code":"SL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404696,
+    "gn:latitude":8.16422,
+    "gn:longitude":-12.71667,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Palai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Palai"
+    ],
+    "name:und_x_variant":[
+        "Palahai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404696
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f5353c844c1f14d2aa84ea957233c8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226154389,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226154389,
+    "wof:lastmodified":1537700503,
+    "wof:name":"Palai",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.71667,
+    8.16422,
+    -12.71667,
+    8.16422
+],
+  "geometry": {"coordinates":[-12.71667,8.16422],"type":"Point"}
+}

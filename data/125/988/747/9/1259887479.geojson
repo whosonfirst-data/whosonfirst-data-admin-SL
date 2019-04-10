@@ -1,0 +1,70 @@
+{
+  "id": 1259887479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.41066,8.00343,-12.41066,8.00343",
+    "geom:latitude":8.00343,
+    "geom:longitude":-12.41066,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mokasi",
+    "gn:country_code":"SL",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405235,
+    "gn:latitude":8.00343,
+    "gn:longitude":-12.41066,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mokasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mokasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405235
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"eaeda8b958752a18df9bb7509ea61b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1259887479,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1259887479,
+    "wof:lastmodified":1537700523,
+    "wof:name":"Mokasi",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.41066,
+    8.00343,
+    -12.41066,
+    8.00343
+],
+  "geometry": {"coordinates":[-12.41066,8.00343],"type":"Point"}
+}

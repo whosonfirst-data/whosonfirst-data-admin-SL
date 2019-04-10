@@ -1,0 +1,70 @@
+{
+  "id": 1242883259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.44658,8.67369,-12.44658,8.67369",
+    "geom:latitude":8.67369,
+    "geom:longitude":-12.44658,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mamila",
+    "gn:country_code":"SL",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10132066,
+    "gn:latitude":8.67369,
+    "gn:longitude":-12.44658,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Mamila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10132066
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7bbb4bb3c769346676439ac986f7a498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1242883259,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1242883259,
+    "wof:lastmodified":1537700934,
+    "wof:name":"Mamila",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.44658,
+    8.67369,
+    -12.44658,
+    8.67369
+],
+  "geometry": {"coordinates":[-12.44658,8.67369],"type":"Point"}
+}

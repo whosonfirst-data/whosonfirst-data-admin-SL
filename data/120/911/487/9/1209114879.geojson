@@ -1,0 +1,64 @@
+{
+  "id": 1209114879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.16015,8.68111,-13.16015,8.68111",
+    "geom:latitude":8.68111,
+    "geom:longitude":-13.16015,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kigbal",
+    "gn:country_code":"SL",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407739,
+    "gn:latitude":8.68111,
+    "gn:longitude":-13.16015,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kigbal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kigbal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407739
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"920ba86716b97477e2d76e84b5136f8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209114879
+        }
+    ],
+    "wof:id":1209114879,
+    "wof:lastmodified":1537700605,
+    "wof:name":"Kigbal",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.16015,
+    8.68111,
+    -13.16015,
+    8.68111
+],
+  "geometry": {"coordinates":[-13.16015,8.68111],"type":"Point"}
+}

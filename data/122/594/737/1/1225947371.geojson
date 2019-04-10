@@ -1,0 +1,70 @@
+{
+  "id": 1225947371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.40623,9.135,-12.40623,9.135",
+    "geom:latitude":9.135,
+    "geom:longitude":-12.40623,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bom",
+    "gn:country_code":"SL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131320,
+    "gn:latitude":9.135,
+    "gn:longitude":-12.40623,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Bom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131320
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7ce87c25f5550f9dfdd2a468b130a531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1225947371,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1225947371,
+    "wof:lastmodified":1537700924,
+    "wof:name":"Bom",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.40623,
+    9.135,
+    -12.40623,
+    9.135
+],
+  "geometry": {"coordinates":[-12.40623,9.135],"type":"Point"}
+}

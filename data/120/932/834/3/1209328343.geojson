@@ -1,0 +1,64 @@
+{
+  "id": 1209328343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.50415,8.7022,-10.50415,8.7022",
+    "geom:latitude":8.7022,
+    "geom:longitude":-10.50415,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mara",
+    "gn:country_code":"SL",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405898,
+    "gn:latitude":8.7022,
+    "gn:longitude":-10.50415,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Mara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405898
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9b7f0cfe13032867f8c740043f905a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209328343
+        }
+    ],
+    "wof:id":1209328343,
+    "wof:lastmodified":1537700545,
+    "wof:name":"Mara",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.50415,
+    8.7022,
+    -10.50415,
+    8.7022
+],
+  "geometry": {"coordinates":[-10.50415,8.7022],"type":"Point"}
+}

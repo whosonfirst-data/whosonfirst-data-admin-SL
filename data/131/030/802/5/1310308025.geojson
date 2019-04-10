@@ -1,0 +1,70 @@
+{
+  "id": 1310308025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.18071,9.02802,-12.18071,9.02802",
+    "geom:latitude":9.02802,
+    "geom:longitude":-12.18071,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Matogo",
+    "gn:country_code":"SL",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405576,
+    "gn:latitude":9.02802,
+    "gn:longitude":-12.18071,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Matogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405576
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"05d79b382221eb917b359bca4ae87bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1310308025,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310308025,
+    "wof:lastmodified":1537700534,
+    "wof:name":"Matogo",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.18071,
+    9.02802,
+    -12.18071,
+    9.02802
+],
+  "geometry": {"coordinates":[-12.18071,9.02802],"type":"Point"}
+}

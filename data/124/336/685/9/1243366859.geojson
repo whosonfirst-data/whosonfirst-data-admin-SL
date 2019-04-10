@@ -1,0 +1,70 @@
+{
+  "id": 1243366859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.0632,9.02501,-13.0632,9.02501",
+    "geom:latitude":9.02501,
+    "geom:longitude":-13.0632,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bubuya",
+    "gn:country_code":"SL",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409874,
+    "gn:latitude":9.02501,
+    "gn:longitude":-13.0632,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bubuya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bubuya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409874
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"83659a48e9de308fafcd5793a557ea8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1243366859,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243366859,
+    "wof:lastmodified":1537700677,
+    "wof:name":"Bubuya",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.0632,
+    9.02501,
+    -13.0632,
+    9.02501
+],
+  "geometry": {"coordinates":[-13.0632,9.02501],"type":"Point"}
+}

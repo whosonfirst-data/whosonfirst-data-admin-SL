@@ -1,0 +1,70 @@
+{
+  "id": 1309918485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.88308,9.81592,-11.88308,9.81592",
+    "geom:latitude":9.81592,
+    "geom:longitude":-11.88308,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sinkuya",
+    "gn:country_code":"SL",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403803,
+    "gn:latitude":9.81592,
+    "gn:longitude":-11.88308,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sinkuya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sinkuya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403803
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"789c652b2595f6011011634f4312f4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1309918485,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309918485,
+    "wof:lastmodified":1537700474,
+    "wof:name":"Sinkuya",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.88308,
+    9.81592,
+    -11.88308,
+    9.81592
+],
+  "geometry": {"coordinates":[-11.88308,9.81592],"type":"Point"}
+}

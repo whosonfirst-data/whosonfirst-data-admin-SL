@@ -1,0 +1,70 @@
+{
+  "id": 1276666341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.39481,9.51257,-12.39481,9.51257",
+    "geom:latitude":9.51257,
+    "geom:longitude":-12.39481,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Samaia",
+    "gn:country_code":"SL",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404163,
+    "gn:latitude":9.51257,
+    "gn:longitude":-12.39481,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Samaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Samaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404163
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b0f604bd595dbe9211fc655b90d719db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1276666341,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276666341,
+    "wof:lastmodified":1537700486,
+    "wof:name":"Samaia",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.39481,
+    9.51257,
+    -12.39481,
+    9.51257
+],
+  "geometry": {"coordinates":[-12.39481,9.51257],"type":"Point"}
+}

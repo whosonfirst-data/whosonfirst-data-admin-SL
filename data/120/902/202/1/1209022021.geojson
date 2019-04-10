@@ -1,0 +1,64 @@
+{
+  "id": 1209022021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.91716,8.24852,-10.91716,8.24852",
+    "geom:latitude":8.24852,
+    "geom:longitude":-10.91716,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mosundo",
+    "gn:country_code":"SL",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9916018,
+    "gn:latitude":8.24852,
+    "gn:longitude":-10.91716,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Mosundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mosundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9916018
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"daf27591119c82a837fb8aa060c1e19d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209022021
+        }
+    ],
+    "wof:id":1209022021,
+    "wof:lastmodified":1537700864,
+    "wof:name":"Mosundo",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.91716,
+    8.24852,
+    -10.91716,
+    8.24852
+],
+  "geometry": {"coordinates":[-10.91716,8.24852],"type":"Point"}
+}

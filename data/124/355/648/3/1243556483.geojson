@@ -1,0 +1,70 @@
+{
+  "id": 1243556483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.83793,8.27162,-11.83793,8.27162",
+    "geom:latitude":8.27162,
+    "geom:longitude":-11.83793,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gpatema",
+    "gn:country_code":"SL",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876467,
+    "gn:latitude":8.27162,
+    "gn:longitude":-11.83793,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gpatema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gpatema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876467
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d611ed8e489cafc858ca0fef33333485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1243556483,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1243556483,
+    "wof:lastmodified":1537700782,
+    "wof:name":"Gpatema",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.83793,
+    8.27162,
+    -11.83793,
+    8.27162
+],
+  "geometry": {"coordinates":[-11.83793,8.27162],"type":"Point"}
+}

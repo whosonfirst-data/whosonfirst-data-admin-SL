@@ -1,0 +1,70 @@
+{
+  "id": 1343859953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.68114,7.96891,-12.68114,7.96891",
+    "geom:latitude":7.96891,
+    "geom:longitude":-12.68114,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mogbato",
+    "gn:country_code":"SL",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9913676,
+    "gn:latitude":7.96891,
+    "gn:longitude":-12.68114,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Mogbato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mogbato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9913676
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"df61860a8871768ea0707dc02e3fcfe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1343859953,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343859953,
+    "wof:lastmodified":1537700858,
+    "wof:name":"Mogbato",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.68114,
+    7.96891,
+    -12.68114,
+    7.96891
+],
+  "geometry": {"coordinates":[-12.68114,7.96891],"type":"Point"}
+}

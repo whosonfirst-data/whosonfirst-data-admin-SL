@@ -1,0 +1,70 @@
+{
+  "id": 1226046579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.90772,8.4838,-10.90772,8.4838",
+    "geom:latitude":8.4838,
+    "geom:longitude":-10.90772,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kendema",
+    "gn:country_code":"SL",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9878725,
+    "gn:latitude":8.4838,
+    "gn:longitude":-10.90772,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Kendema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kendema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9878725
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2af9e72efe517aa370755c7ed90ab992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1226046579,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226046579,
+    "wof:lastmodified":1537700792,
+    "wof:name":"Kendema",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.90772,
+    8.4838,
+    -10.90772,
+    8.4838
+],
+  "geometry": {"coordinates":[-10.90772,8.4838],"type":"Point"}
+}

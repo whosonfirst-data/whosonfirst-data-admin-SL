@@ -1,0 +1,70 @@
+{
+  "id": 1310218235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.99668,8.40236,-12.99668,8.40236",
+    "geom:latitude":8.40236,
+    "geom:longitude":-12.99668,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mafile",
+    "gn:country_code":"SL",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406707,
+    "gn:latitude":8.40236,
+    "gn:longitude":-12.99668,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mafile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mafile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406707
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fb6a430514f538f9bf6fc13c400a7b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1310218235,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310218235,
+    "wof:lastmodified":1537700571,
+    "wof:name":"Mafile",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.99668,
+    8.40236,
+    -12.99668,
+    8.40236
+],
+  "geometry": {"coordinates":[-12.99668,8.40236],"type":"Point"}
+}

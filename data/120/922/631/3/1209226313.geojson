@@ -1,0 +1,64 @@
+{
+  "id": 1209226313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.60693,7.84132,-12.60693,7.84132",
+    "geom:latitude":7.84132,
+    "geom:longitude":-12.60693,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mobeki",
+    "gn:country_code":"SL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9913734,
+    "gn:latitude":7.84132,
+    "gn:longitude":-12.60693,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Mobeki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mobeki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9913734
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7f96f61b7f8b45c406a2e2ec29aa35cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209226313
+        }
+    ],
+    "wof:id":1209226313,
+    "wof:lastmodified":1537700860,
+    "wof:name":"Mobeki",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.60693,
+    7.84132,
+    -12.60693,
+    7.84132
+],
+  "geometry": {"coordinates":[-12.60693,7.84132],"type":"Point"}
+}

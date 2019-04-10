@@ -1,0 +1,70 @@
+{
+  "id": 1243079329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.45049,8.17286,-12.45049,8.17286",
+    "geom:latitude":8.17286,
+    "geom:longitude":-12.45049,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Njabama",
+    "gn:country_code":"SL",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893796,
+    "gn:latitude":8.17286,
+    "gn:longitude":-12.45049,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Njabama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Njabama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893796
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"289f406180e5d99632b3d84fd546fc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1243079329,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1243079329,
+    "wof:lastmodified":1537700841,
+    "wof:name":"Njabama",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.45049,
+    8.17286,
+    -12.45049,
+    8.17286
+],
+  "geometry": {"coordinates":[-12.45049,8.17286],"type":"Point"}
+}

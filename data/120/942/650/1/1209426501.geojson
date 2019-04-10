@@ -1,0 +1,64 @@
+{
+  "id": 1209426501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.7923,7.22708,-11.7923,7.22708",
+    "geom:latitude":7.22708,
+    "geom:longitude":-11.7923,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gondama",
+    "gn:country_code":"SL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871344,
+    "gn:latitude":7.22708,
+    "gn:longitude":-11.7923,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gondama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gondama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871344
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ab768af4e8cafd9b910e00dd363c48cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209426501
+        }
+    ],
+    "wof:id":1209426501,
+    "wof:lastmodified":1537700735,
+    "wof:name":"Gondama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.7923,
+    7.22708,
+    -11.7923,
+    7.22708
+],
+  "geometry": {"coordinates":[-11.7923,7.22708],"type":"Point"}
+}

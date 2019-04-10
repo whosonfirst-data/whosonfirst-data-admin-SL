@@ -1,0 +1,71 @@
+{
+  "id": 1360294437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.69636,8.59665,-12.69636,8.59665",
+    "geom:latitude":8.59665,
+    "geom:longitude":-12.69636,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Magbile",
+    "gn:country_code":"SL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406610,
+    "gn:latitude":8.59665,
+    "gn:longitude":-12.69636,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Magbile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabil\u00e9",
+        "Magbile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406610
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"baee61fcd067a2cd7d56db6e0644dc98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1360294437,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1360294437,
+    "wof:lastmodified":1537700568,
+    "wof:name":"Magbile",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.69636,
+    8.59665,
+    -12.69636,
+    8.59665
+],
+  "geometry": {"coordinates":[-12.69636,8.59665],"type":"Point"}
+}

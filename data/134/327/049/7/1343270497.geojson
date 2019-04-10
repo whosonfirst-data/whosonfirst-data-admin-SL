@@ -1,0 +1,70 @@
+{
+  "id": 1343270497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.69308,9.19426,-12.69308,9.19426",
+    "geom:latitude":9.19426,
+    "geom:longitude":-12.69308,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mafafla",
+    "gn:country_code":"SL",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880872,
+    "gn:latitude":9.19426,
+    "gn:longitude":-12.69308,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Mafafla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mafafla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880872
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"18cfaa9c50c6cb496c1fd4dd2aca3369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1343270497,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343270497,
+    "wof:lastmodified":1537700813,
+    "wof:name":"Mafafla",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.69308,
+    9.19426,
+    -12.69308,
+    9.19426
+],
+  "geometry": {"coordinates":[-12.69308,9.19426],"type":"Point"}
+}

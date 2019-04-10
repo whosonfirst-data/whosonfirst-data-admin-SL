@@ -1,0 +1,65 @@
+{
+  "id": 1209326017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.34,7.82479,-12.34,7.82479",
+    "geom:latitude":7.82479,
+    "geom:longitude":-12.34,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Patema",
+    "gn:country_code":"SL",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404649,
+    "gn:latitude":7.82479,
+    "gn:longitude":-12.34,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Patema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petema",
+        "Patema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404649
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"93de4b984d413e0557062896a589bdff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209326017
+        }
+    ],
+    "wof:id":1209326017,
+    "wof:lastmodified":1537700502,
+    "wof:name":"Patema",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.34,
+    7.82479,
+    -12.34,
+    7.82479
+],
+  "geometry": {"coordinates":[-12.34,7.82479],"type":"Point"}
+}

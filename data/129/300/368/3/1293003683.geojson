@@ -1,0 +1,70 @@
+{
+  "id": 1293003683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.47852,9.00981,-12.47852,9.00981",
+    "geom:latitude":9.00981,
+    "geom:longitude":-12.47852,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Magbumbu",
+    "gn:country_code":"SL",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131392,
+    "gn:latitude":9.00981,
+    "gn:longitude":-12.47852,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Magbumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magbumbu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131392
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"84d07f31e38861f703851405cfa43cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1293003683,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293003683,
+    "wof:lastmodified":1537700925,
+    "wof:name":"Magbumbu",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.47852,
+    9.00981,
+    -12.47852,
+    9.00981
+],
+  "geometry": {"coordinates":[-12.47852,9.00981],"type":"Point"}
+}

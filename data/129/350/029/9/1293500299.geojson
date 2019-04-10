@@ -1,0 +1,70 @@
+{
+  "id": 1293500299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.60378,8.91003,-12.60378,8.91003",
+    "geom:latitude":8.91003,
+    "geom:longitude":-12.60378,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Punkpunk",
+    "gn:country_code":"SL",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9986185,
+    "gn:latitude":8.91003,
+    "gn:longitude":-12.60378,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Punkpunk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Punkpunk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9986185
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"dfcb8bca44e8b87201a1b49da8784c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1293500299,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293500299,
+    "wof:lastmodified":1537700884,
+    "wof:name":"Punkpunk",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.60378,
+    8.91003,
+    -12.60378,
+    8.91003
+],
+  "geometry": {"coordinates":[-12.60378,8.91003],"type":"Point"}
+}

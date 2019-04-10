@@ -1,0 +1,64 @@
+{
+  "id": 1209115685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.52873,8.21733,-10.52873,8.21733",
+    "geom:latitude":8.21733,
+    "geom:longitude":-10.52873,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gaigo",
+    "gn:country_code":"SL",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409240,
+    "gn:latitude":8.21733,
+    "gn:longitude":-10.52873,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gaigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gaigo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409240
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"348bb525703d410033a1371c177987f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209115685
+        }
+    ],
+    "wof:id":1209115685,
+    "wof:lastmodified":1537700655,
+    "wof:name":"Gaigo",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.52873,
+    8.21733,
+    -10.52873,
+    8.21733
+],
+  "geometry": {"coordinates":[-10.52873,8.21733],"type":"Point"}
+}

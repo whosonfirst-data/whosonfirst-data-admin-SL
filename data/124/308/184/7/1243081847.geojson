@@ -1,0 +1,70 @@
+{
+  "id": 1243081847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.27667,8.29574,-11.27667,8.29574",
+    "geom:latitude":8.29574,
+    "geom:longitude":-11.27667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bandajuma",
+    "gn:country_code":"SL",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410489,
+    "gn:latitude":8.29574,
+    "gn:longitude":-11.27667,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bandajuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bandajuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410489
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"298c733406bd6f17411b9da1226b93a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1243081847,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1243081847,
+    "wof:lastmodified":1537700698,
+    "wof:name":"Bandajuma",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.27667,
+    8.29574,
+    -11.27667,
+    8.29574
+],
+  "geometry": {"coordinates":[-11.27667,8.29574],"type":"Point"}
+}

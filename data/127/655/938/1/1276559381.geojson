@@ -1,0 +1,71 @@
+{
+  "id": 1276559381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.48065,6.93262,-11.48065,6.93262",
+    "geom:latitude":6.93262,
+    "geom:longitude":-11.48065,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mano-Kpende",
+    "gn:country_code":"SL",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405960,
+    "gn:latitude":6.93262,
+    "gn:longitude":-11.48065,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mano-Kpende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mano Pende",
+        "Mano-Kpende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405960
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a5154c13d1acb1ed9a1a57e1a6796889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779069,
+            "locality_id":1276559381,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276559381,
+    "wof:lastmodified":1537700546,
+    "wof:name":"Mano-Kpende",
+    "wof:parent_id":1108779069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.48065,
+    6.93262,
+    -11.48065,
+    6.93262
+],
+  "geometry": {"coordinates":[-11.48065,6.93262],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 890451655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.9025,7.89194,-11.9025,7.89194",
+    "geom:latitude":7.89194,
+    "geom:longitude":-11.9025,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":13580,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bumpe"
+    ],
+    "name:eng_x_preferred":[
+        "Bumpe"
+    ],
+    "name:fre_x_preferred":[
+        "Bumpe"
+    ],
+    "name:pol_x_preferred":[
+        "Bumpe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043c\u043f\u0435"
+    ],
+    "qs:name":"Bumpe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":111,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409823,
+        "gp:id":56618631,
+        "qs:id":139982,
+        "wd:id":"Q2946676",
+        "wk:page":"Bumpe"
+    },
+    "wof:country":"SL",
+    "wof:created":1469052788,
+    "wof:geomhash":"10ee7e69ce8083629316b67eecfc0edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":890451655,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":890451655,
+    "wof:lastmodified":1527792940,
+    "wof:name":"Bumpe",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:population":13580,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.9025,
+    7.89194,
+    -11.9025,
+    7.89194
+],
+  "geometry": {"coordinates":[-11.9025,7.89194],"type":"Point"}
+}

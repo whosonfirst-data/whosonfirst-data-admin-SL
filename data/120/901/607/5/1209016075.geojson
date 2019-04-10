@@ -1,0 +1,64 @@
+{
+  "id": 1209016075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.83596,7.14618,-11.83596,7.14618",
+    "geom:latitude":7.14618,
+    "geom:longitude":-11.83596,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kakama",
+    "gn:country_code":"SL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408233,
+    "gn:latitude":7.14618,
+    "gn:longitude":-11.83596,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kakama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kakama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408233
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"937bae62c6ef343115dc98e098f337dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209016075
+        }
+    ],
+    "wof:id":1209016075,
+    "wof:lastmodified":1537700621,
+    "wof:name":"Kakama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.83596,
+    7.14618,
+    -11.83596,
+    7.14618
+],
+  "geometry": {"coordinates":[-11.83596,7.14618],"type":"Point"}
+}

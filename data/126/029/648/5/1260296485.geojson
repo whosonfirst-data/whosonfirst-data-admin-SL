@@ -1,0 +1,73 @@
+{
+  "id": 1260296485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.50893,8.04009,-11.50893,8.04009",
+    "geom:latitude":8.04009,
+    "geom:longitude":-11.50893,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yangabu",
+    "gn:country_code":"SL",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402906,
+    "gn:latitude":8.04009,
+    "gn:longitude":-11.50893,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Yangabu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yangabu"
+    ],
+    "name:und_x_variant":[
+        "Yankabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402906
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"755047c8fe894c0d1b7cee9a8bde62b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1260296485,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1260296485,
+    "wof:lastmodified":1537700446,
+    "wof:name":"Yangabu",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.50893,
+    8.04009,
+    -11.50893,
+    8.04009
+],
+  "geometry": {"coordinates":[-11.50893,8.04009],"type":"Point"}
+}

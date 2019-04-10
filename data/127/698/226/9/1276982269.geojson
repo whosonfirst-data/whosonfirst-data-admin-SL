@@ -1,0 +1,70 @@
+{
+  "id": 1276982269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.89556,7.96758,-11.89556,7.96758",
+    "geom:latitude":7.96758,
+    "geom:longitude":-11.89556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Banda",
+    "gn:country_code":"SL",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410521,
+    "gn:latitude":7.96758,
+    "gn:longitude":-11.89556,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Banda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Banda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410521
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"53efba2c20e2b3b0a3f1f1c90ec64372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1276982269,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276982269,
+    "wof:lastmodified":1537700699,
+    "wof:name":"Banda",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.89556,
+    7.96758,
+    -11.89556,
+    7.96758
+],
+  "geometry": {"coordinates":[-11.89556,7.96758],"type":"Point"}
+}

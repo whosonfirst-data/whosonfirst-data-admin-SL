@@ -1,0 +1,70 @@
+{
+  "id": 1276455011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.52951,7.95444,-12.52951,7.95444",
+    "geom:latitude":7.95444,
+    "geom:longitude":-12.52951,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kongonani",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9913695,
+    "gn:latitude":7.95444,
+    "gn:longitude":-12.52951,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Kongonani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kongonani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9913695
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ddd9af2837f551fbadcfcab3ab28d859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1276455011,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276455011,
+    "wof:lastmodified":1537700859,
+    "wof:name":"Kongonani",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.52951,
+    7.95444,
+    -12.52951,
+    7.95444
+],
+  "geometry": {"coordinates":[-12.52951,7.95444],"type":"Point"}
+}

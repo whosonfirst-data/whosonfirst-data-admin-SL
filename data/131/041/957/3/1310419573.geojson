@@ -1,0 +1,73 @@
+{
+  "id": 1310419573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.93771,8.11846,-10.93771,8.11846",
+    "geom:latitude":8.11846,
+    "geom:longitude":-10.93771,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Masau",
+    "gn:country_code":"SL",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405832,
+    "gn:latitude":8.11846,
+    "gn:longitude":-10.93771,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Masau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masau"
+    ],
+    "name:und_x_variant":[
+        "Masalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405832
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a2304afede97335b8f32faaa83492e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1310419573,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1310419573,
+    "wof:lastmodified":1537700543,
+    "wof:name":"Masau",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.93771,
+    8.11846,
+    -10.93771,
+    8.11846
+],
+  "geometry": {"coordinates":[-10.93771,8.11846],"type":"Point"}
+}

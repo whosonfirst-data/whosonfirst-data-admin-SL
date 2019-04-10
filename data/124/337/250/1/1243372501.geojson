@@ -1,0 +1,71 @@
+{
+  "id": 1243372501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.64219,9.50682,-12.64219,9.50682",
+    "geom:latitude":9.50682,
+    "geom:longitude":-12.64219,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yomboro Konta",
+    "gn:country_code":"SL",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402734,
+    "gn:latitude":9.50682,
+    "gn:longitude":-12.64219,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yomboro Konta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yomboro",
+        "Yomboro Konta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402734
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9213ee3c37dbe8a174dd32504351f9cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1243372501,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243372501,
+    "wof:lastmodified":1537700441,
+    "wof:name":"Yomboro Konta",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.64219,
+    9.50682,
+    -12.64219,
+    9.50682
+],
+  "geometry": {"coordinates":[-12.64219,9.50682],"type":"Point"}
+}

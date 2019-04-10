@@ -1,0 +1,70 @@
+{
+  "id": 1343572657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.2137,7.85234,-12.2137,7.85234",
+    "geom:latitude":7.85234,
+    "geom:longitude":-12.2137,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mofindo",
+    "gn:country_code":"SL",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405314,
+    "gn:latitude":7.85234,
+    "gn:longitude":-12.2137,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mofindo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mofindo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405314
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8d3c8b19e6e9ec1a1f7aca7254a16f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1343572657,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343572657,
+    "wof:lastmodified":1537700526,
+    "wof:name":"Mofindo",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.2137,
+    7.85234,
+    -12.2137,
+    7.85234
+],
+  "geometry": {"coordinates":[-12.2137,7.85234],"type":"Point"}
+}

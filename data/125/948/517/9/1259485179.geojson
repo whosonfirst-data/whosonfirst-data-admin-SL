@@ -1,0 +1,70 @@
+{
+  "id": 1259485179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.66782,8.02635,-12.66782,8.02635",
+    "geom:latitude":8.02635,
+    "geom:longitude":-12.66782,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moyemi",
+    "gn:country_code":"SL",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404998,
+    "gn:latitude":8.02635,
+    "gn:longitude":-12.66782,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Moyemi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moyemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404998
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0830d02d86615f45d41b48312d6a7fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1259485179,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1259485179,
+    "wof:lastmodified":1537700514,
+    "wof:name":"Moyemi",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.66782,
+    8.02635,
+    -12.66782,
+    8.02635
+],
+  "geometry": {"coordinates":[-12.66782,8.02635],"type":"Point"}
+}

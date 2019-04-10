@@ -1,0 +1,67 @@
+{
+  "id": 1226342541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.2526,8.47619,-13.2526,8.47619",
+    "geom:latitude":8.47619,
+    "geom:longitude":-13.2526,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Madongo Town",
+    "gn:country_code":"SL",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205636,
+    "gn:latitude":8.47619,
+    "gn:longitude":-13.2526,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Madongo Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205636
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"aa6bda9b7ce824f30fdb98dbd23d9af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1226342541,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1226342541,
+    "wof:lastmodified":1536794358,
+    "wof:name":"Madongo Town",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.2526,
+    8.47619,
+    -13.2526,
+    8.47619
+],
+  "geometry": {"coordinates":[-13.2526,8.47619],"type":"Point"}
+}

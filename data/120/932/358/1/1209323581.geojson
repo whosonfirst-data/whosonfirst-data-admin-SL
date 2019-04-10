@@ -1,0 +1,64 @@
+{
+  "id": 1209323581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.99363,8.4994,-12.99363,8.4994",
+    "geom:latitude":8.4994,
+    "geom:longitude":-12.99363,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mamana",
+    "gn:country_code":"SL",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406180,
+    "gn:latitude":8.4994,
+    "gn:longitude":-12.99363,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mamana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406180
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"251a447aadc96509f25293895ac45915",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209323581
+        }
+    ],
+    "wof:id":1209323581,
+    "wof:lastmodified":1537700553,
+    "wof:name":"Mamana",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.99363,
+    8.4994,
+    -12.99363,
+    8.4994
+],
+  "geometry": {"coordinates":[-12.99363,8.4994],"type":"Point"}
+}

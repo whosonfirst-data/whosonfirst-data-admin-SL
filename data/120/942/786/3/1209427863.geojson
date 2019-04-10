@@ -1,0 +1,64 @@
+{
+  "id": 1209427863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.68298,8.90057,-12.68298,8.90057",
+    "geom:latitude":8.90057,
+    "geom:longitude":-12.68298,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Magboronga",
+    "gn:country_code":"SL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406588,
+    "gn:latitude":8.90057,
+    "gn:longitude":-12.68298,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Magboronga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magboronga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406588
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3254c7d15e415de27fb622feb97d8831",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209427863
+        }
+    ],
+    "wof:id":1209427863,
+    "wof:lastmodified":1537700567,
+    "wof:name":"Magboronga",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.68298,
+    8.90057,
+    -12.68298,
+    8.90057
+],
+  "geometry": {"coordinates":[-12.68298,8.90057],"type":"Point"}
+}

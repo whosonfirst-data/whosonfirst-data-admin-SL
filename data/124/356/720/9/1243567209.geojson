@@ -1,0 +1,70 @@
+{
+  "id": 1243567209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.73968,9.21921,-12.73968,9.21921",
+    "geom:latitude":9.21921,
+    "geom:longitude":-12.73968,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dalu",
+    "gn:country_code":"SL",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880883,
+    "gn:latitude":9.21921,
+    "gn:longitude":-12.73968,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Dalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880883
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e091c6409fdb2d1f5c9e3498c74e3775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1243567209,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243567209,
+    "wof:lastmodified":1537700814,
+    "wof:name":"Dalu",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.73968,
+    9.21921,
+    -12.73968,
+    9.21921
+],
+  "geometry": {"coordinates":[-12.73968,9.21921],"type":"Point"}
+}

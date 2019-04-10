@@ -1,0 +1,64 @@
+{
+  "id": 1209417979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.60467,8.43764,-12.60467,8.43764",
+    "geom:latitude":8.43764,
+    "geom:longitude":-12.60467,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mamusa",
+    "gn:country_code":"SL",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872459,
+    "gn:latitude":8.43764,
+    "gn:longitude":-12.60467,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Mamusa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamusa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872459
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3d94423bc7a8041f91d26a3c8cdcf8ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209417979
+        }
+    ],
+    "wof:id":1209417979,
+    "wof:lastmodified":1537700746,
+    "wof:name":"Mamusa",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.60467,
+    8.43764,
+    -12.60467,
+    8.43764
+],
+  "geometry": {"coordinates":[-12.60467,8.43764],"type":"Point"}
+}

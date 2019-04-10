@@ -1,0 +1,67 @@
+{
+  "id": 1309821209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.3,8.3,-10.3,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":-10.3,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Baradu",
+    "gn:country_code":"SL",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410339,
+    "gn:latitude":8.3,
+    "gn:longitude":-10.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Baradu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410339
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fb452c34c776139c0cc48f10b4823977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693663,
+            "locality_id":1309821209,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1309821209,
+    "wof:lastmodified":1536909178,
+    "wof:name":"Baradu",
+    "wof:parent_id":1091693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.3,
+    8.3,
+    -10.3,
+    8.3
+],
+  "geometry": {"coordinates":[-10.3,8.3],"type":"Point"}
+}

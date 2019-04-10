@@ -1,0 +1,70 @@
+{
+  "id": 1276550537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.16519,9.30395,-12.16519,9.30395",
+    "geom:latitude":9.30395,
+    "geom:longitude":-12.16519,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makaranki",
+    "gn:country_code":"SL",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10134770,
+    "gn:latitude":9.30395,
+    "gn:longitude":-12.16519,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Makaranki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makaranki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10134770
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e39b249dc8c6467b23af41ae5ac439e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1276550537,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276550537,
+    "wof:lastmodified":1537700948,
+    "wof:name":"Makaranki",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.16519,
+    9.30395,
+    -12.16519,
+    9.30395
+],
+  "geometry": {"coordinates":[-12.16519,9.30395],"type":"Point"}
+}

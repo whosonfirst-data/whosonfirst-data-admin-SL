@@ -1,0 +1,68 @@
+{
+  "id": 1259980183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.28493,8.49117,-13.28493,8.49117",
+    "geom:latitude":8.49117,
+    "geom:longitude":-13.28493,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aberdeen",
+    "gn:country_code":"SL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410712,
+    "gn:latitude":8.49117,
+    "gn:longitude":-13.28493,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Aberdeen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410712,
+        "wk:page":"Aberdeen%2C_Sierra_Leone"
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7887a1fba370e309da6cb13234e78a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1259980183,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1259980183,
+    "wof:lastmodified":1537573659,
+    "wof:name":"Aberdeen",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.28493,
+    8.49117,
+    -13.28493,
+    8.49117
+],
+  "geometry": {"coordinates":[-13.28493,8.49117],"type":"Point"}
+}

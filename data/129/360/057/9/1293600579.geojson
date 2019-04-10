@@ -1,0 +1,73 @@
+{
+  "id": 1293600579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.4976,8.22371,-11.4976,8.22371",
+    "geom:latitude":8.22371,
+    "geom:longitude":-11.4976,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Njawoh",
+    "gn:country_code":"SL",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408447,
+    "gn:latitude":8.22371,
+    "gn:longitude":-11.4976,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Njawoh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Njawoh"
+    ],
+    "name:und_x_variant":[
+        "Jawor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408447
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ffec7ace2da93e8683ebff53656dd7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1293600579,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293600579,
+    "wof:lastmodified":1537700628,
+    "wof:name":"Njawoh",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.4976,
+    8.22371,
+    -11.4976,
+    8.22371
+],
+  "geometry": {"coordinates":[-11.4976,8.22371],"type":"Point"}
+}

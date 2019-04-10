@@ -1,0 +1,64 @@
+{
+  "id": 1209317635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.9433,9.03263,-12.9433,9.03263",
+    "geom:latitude":9.03263,
+    "geom:longitude":-12.9433,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maforobe",
+    "gn:country_code":"SL",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880643,
+    "gn:latitude":9.03263,
+    "gn:longitude":-12.9433,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Maforobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maforobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880643
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"affcd296d00a32c00e6f6a14bf5b3737",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209317635
+        }
+    ],
+    "wof:id":1209317635,
+    "wof:lastmodified":1537700807,
+    "wof:name":"Maforobe",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.9433,
+    9.03263,
+    -12.9433,
+    9.03263
+],
+  "geometry": {"coordinates":[-12.9433,9.03263],"type":"Point"}
+}

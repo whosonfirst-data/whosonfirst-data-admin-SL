@@ -1,0 +1,73 @@
+{
+  "id": 1226551341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.2991,8.09743,-12.2991,8.09743",
+    "geom:latitude":8.09743,
+    "geom:longitude":-12.2991,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kpatema",
+    "gn:country_code":"SL",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404546,
+    "gn:latitude":8.09743,
+    "gn:longitude":-12.2991,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kpatema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpatema"
+    ],
+    "name:und_x_variant":[
+        "Petema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404546
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f7fc168f7909975e560aee0319716427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226551341,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226551341,
+    "wof:lastmodified":1537700498,
+    "wof:name":"Kpatema",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.2991,
+    8.09743,
+    -12.2991,
+    8.09743
+],
+  "geometry": {"coordinates":[-12.2991,8.09743],"type":"Point"}
+}

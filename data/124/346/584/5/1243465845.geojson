@@ -1,0 +1,70 @@
+{
+  "id": 1243465845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.38474,8.18627,-12.38474,8.18627",
+    "geom:latitude":8.18627,
+    "geom:longitude":-12.38474,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kubahun",
+    "gn:country_code":"SL",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893792,
+    "gn:latitude":8.18627,
+    "gn:longitude":-12.38474,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Kubahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kubahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893792
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e3c6f080dfd13860af970e8e8db3dfc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1243465845,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1243465845,
+    "wof:lastmodified":1537700841,
+    "wof:name":"Kubahun",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.38474,
+    8.18627,
+    -12.38474,
+    8.18627
+],
+  "geometry": {"coordinates":[-12.38474,8.18627],"type":"Point"}
+}

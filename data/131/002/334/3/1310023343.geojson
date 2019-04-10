@@ -1,0 +1,67 @@
+{
+  "id": 1310023343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.28333,8.76667,-11.28333,8.76667",
+    "geom:latitude":8.76667,
+    "geom:longitude":-11.28333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lero",
+    "gn:country_code":"SL",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407004,
+    "gn:latitude":8.76667,
+    "gn:longitude":-11.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Lero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407004
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ed909c9e1769e9643dbf54e18d56ead6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1310023343,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1310023343,
+    "wof:lastmodified":1536615209,
+    "wof:name":"Lero",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.28333,
+    8.76667,
+    -11.28333,
+    8.76667
+],
+  "geometry": {"coordinates":[-11.28333,8.76667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343871227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.84928,8.73817,-12.84928,8.73817",
+    "geom:latitude":8.73817,
+    "geom:longitude":-12.84928,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sino",
+    "gn:country_code":"SL",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9986555,
+    "gn:latitude":8.73817,
+    "gn:longitude":-12.84928,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Sino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9986555
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"18f12e843c56ee68c8f43e89b0e09f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1343871227,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343871227,
+    "wof:lastmodified":1537700888,
+    "wof:name":"Sino",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.84928,
+    8.73817,
+    -12.84928,
+    8.73817
+],
+  "geometry": {"coordinates":[-12.84928,8.73817],"type":"Point"}
+}

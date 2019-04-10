@@ -1,0 +1,70 @@
+{
+  "id": 1259797373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.27549,8.59832,-11.27549,8.59832",
+    "geom:latitude":8.59832,
+    "geom:longitude":-11.27549,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Fandehun",
+    "gn:country_code":"SL",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409469,
+    "gn:latitude":8.59832,
+    "gn:longitude":-11.27549,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Fandehun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fandehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409469
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"955cc85496cac79f31b4d4a0c22c0a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1259797373,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1259797373,
+    "wof:lastmodified":1537700664,
+    "wof:name":"Fandehun",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.27549,
+    8.59832,
+    -11.27549,
+    8.59832
+],
+  "geometry": {"coordinates":[-11.27549,8.59832],"type":"Point"}
+}

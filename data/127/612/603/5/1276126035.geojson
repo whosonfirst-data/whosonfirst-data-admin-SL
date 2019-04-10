@@ -1,0 +1,70 @@
+{
+  "id": 1276126035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.81813,8.0981,-12.81813,8.0981",
+    "geom:latitude":8.0981,
+    "geom:longitude":-12.81813,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lower Moyamba",
+    "gn:country_code":"SL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406942,
+    "gn:latitude":8.0981,
+    "gn:longitude":-12.81813,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Lower Moyamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lower Moyamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406942
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ba9ec5856adec83c5bca3d93272d767d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1276126035,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276126035,
+    "wof:lastmodified":1537700578,
+    "wof:name":"Lower Moyamba",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.81813,
+    8.0981,
+    -12.81813,
+    8.0981
+],
+  "geometry": {"coordinates":[-12.81813,8.0981],"type":"Point"}
+}

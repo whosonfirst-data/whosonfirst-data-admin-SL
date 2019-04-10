@@ -1,0 +1,67 @@
+{
+  "id": 1243180933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.46667,8.73333,-11.46667,8.73333",
+    "geom:latitude":8.73333,
+    "geom:longitude":-11.46667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Robek",
+    "gn:country_code":"SL",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404362,
+    "gn:latitude":8.73333,
+    "gn:longitude":-11.46667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Robek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404362
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"29cdccf0751f894be7cad6717d6e4830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1243180933,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243180933,
+    "wof:lastmodified":1536691421,
+    "wof:name":"Robek",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.46667,
+    8.73333,
+    -11.46667,
+    8.73333
+],
+  "geometry": {"coordinates":[-11.46667,8.73333],"type":"Point"}
+}

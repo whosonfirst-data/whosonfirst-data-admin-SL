@@ -1,0 +1,71 @@
+{
+  "id": 1293401417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.39237,7.87228,-12.39237,7.87228",
+    "geom:latitude":7.87228,
+    "geom:longitude":-12.39237,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mogbambo",
+    "gn:country_code":"SL",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405301,
+    "gn:latitude":7.87228,
+    "gn:longitude":-12.39237,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mogbambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mogbembu",
+        "Mogbambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405301
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"98f5c7c2bb5f08d078b682939ee80d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1293401417,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293401417,
+    "wof:lastmodified":1537700525,
+    "wof:name":"Mogbambo",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.39237,
+    7.87228,
+    -12.39237,
+    7.87228
+],
+  "geometry": {"coordinates":[-12.39237,7.87228],"type":"Point"}
+}

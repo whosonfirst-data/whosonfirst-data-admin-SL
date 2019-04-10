@@ -1,0 +1,70 @@
+{
+  "id": 1259586425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.09362,9.41429,-11.09362,9.41429",
+    "geom:latitude":9.41429,
+    "geom:longitude":-11.09362,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tilikoro",
+    "gn:country_code":"SL",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403431,
+    "gn:latitude":9.41429,
+    "gn:longitude":-11.09362,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Tilikoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tilikoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403431
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6c6b1381eadb3873fd76c16db6ea45a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1259586425,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259586425,
+    "wof:lastmodified":1537700462,
+    "wof:name":"Tilikoro",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.09362,
+    9.41429,
+    -11.09362,
+    9.41429
+],
+  "geometry": {"coordinates":[-11.09362,9.41429],"type":"Point"}
+}

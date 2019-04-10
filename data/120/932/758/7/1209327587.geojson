@@ -1,0 +1,64 @@
+{
+  "id": 1209327587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.00162,9.11675,-11.00162,9.11675",
+    "geom:latitude":9.11675,
+    "geom:longitude":-11.00162,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kania",
+    "gn:country_code":"SL",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408002,
+    "gn:latitude":9.11675,
+    "gn:longitude":-11.00162,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408002
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5eb770d82e30c4ef5f9e5e9c4750e522",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209327587
+        }
+    ],
+    "wof:id":1209327587,
+    "wof:lastmodified":1537700613,
+    "wof:name":"Kania",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.00162,
+    9.11675,
+    -11.00162,
+    9.11675
+],
+  "geometry": {"coordinates":[-11.00162,9.11675],"type":"Point"}
+}

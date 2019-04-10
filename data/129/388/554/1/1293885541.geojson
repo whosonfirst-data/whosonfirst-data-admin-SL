@@ -1,0 +1,70 @@
+{
+  "id": 1293885541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.08835,7.7969,-12.08835,7.7969",
+    "geom:latitude":7.7969,
+    "geom:longitude":-12.08835,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Goap",
+    "gn:country_code":"SL",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409085,
+    "gn:latitude":7.7969,
+    "gn:longitude":-12.08835,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Goap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409085
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9af740d136ac5b965f6061c9e2b56557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1293885541,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293885541,
+    "wof:lastmodified":1537700650,
+    "wof:name":"Goap",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.08835,
+    7.7969,
+    -12.08835,
+    7.7969
+],
+  "geometry": {"coordinates":[-12.08835,7.7969],"type":"Point"}
+}

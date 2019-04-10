@@ -1,0 +1,70 @@
+{
+  "id": 1243366609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.80658,9.06892,-11.80658,9.06892",
+    "geom:latitude":9.06892,
+    "geom:longitude":-11.80658,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbungbuna",
+    "gn:country_code":"SL",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408923,
+    "gn:latitude":9.06892,
+    "gn:longitude":-11.80658,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Gbungbuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbungbuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408923
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"95d1d5f3867b068b3198d24e792df75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1243366609,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243366609,
+    "wof:lastmodified":1537700644,
+    "wof:name":"Gbungbuna",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.80658,
+    9.06892,
+    -11.80658,
+    9.06892
+],
+  "geometry": {"coordinates":[-11.80658,9.06892],"type":"Point"}
+}

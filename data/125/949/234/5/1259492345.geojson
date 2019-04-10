@@ -1,0 +1,70 @@
+{
+  "id": 1259492345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.44197,9.8241,-12.44197,9.8241",
+    "geom:latitude":9.8241,
+    "geom:longitude":-12.44197,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bonkofoton",
+    "gn:country_code":"SL",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409918,
+    "gn:latitude":9.8241,
+    "gn:longitude":-12.44197,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bonkofoton",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bonkofoton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409918
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ec79ed5c9acfedb0f96c1a725a7c3b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1259492345,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259492345,
+    "wof:lastmodified":1537700679,
+    "wof:name":"Bonkofoton",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.44197,
+    9.8241,
+    -12.44197,
+    9.8241
+],
+  "geometry": {"coordinates":[-12.44197,9.8241],"type":"Point"}
+}

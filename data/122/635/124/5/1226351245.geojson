@@ -1,0 +1,70 @@
+{
+  "id": 1226351245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.18907,8.57747,-13.18907,8.57747",
+    "geom:latitude":8.57747,
+    "geom:longitude":-13.18907,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rogbanti",
+    "gn:country_code":"SL",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566512,
+    "gn:latitude":8.57747,
+    "gn:longitude":-13.18907,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Rogbanti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rogbanti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566512
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d8ea5cb61068a31fe071865bf06de85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1226351245,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226351245,
+    "wof:lastmodified":1537700710,
+    "wof:name":"Rogbanti",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.18907,
+    8.57747,
+    -13.18907,
+    8.57747
+],
+  "geometry": {"coordinates":[-13.18907,8.57747],"type":"Point"}
+}

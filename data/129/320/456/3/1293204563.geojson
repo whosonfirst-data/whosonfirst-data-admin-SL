@@ -1,0 +1,73 @@
+{
+  "id": 1293204563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.16039,8.85136,-11.16039,8.85136",
+    "geom:latitude":8.85136,
+    "geom:longitude":-11.16039,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Siwaia",
+    "gn:country_code":"SL",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403744,
+    "gn:latitude":8.85136,
+    "gn:longitude":-11.16039,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Siwaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Siwaia"
+    ],
+    "name:und_x_variant":[
+        "Sowaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403744
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3f0e3aea9e2d5ccfa234b690dca8ede0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1293204563,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293204563,
+    "wof:lastmodified":1537700472,
+    "wof:name":"Siwaia",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.16039,
+    8.85136,
+    -11.16039,
+    8.85136
+],
+  "geometry": {"coordinates":[-11.16039,8.85136],"type":"Point"}
+}

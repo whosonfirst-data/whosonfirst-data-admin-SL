@@ -1,0 +1,64 @@
+{
+  "id": 1209217939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.18419,8.64813,-13.18419,8.64813",
+    "geom:latitude":8.64813,
+    "geom:longitude":-13.18419,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ponka",
+    "gn:country_code":"SL",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566543,
+    "gn:latitude":8.64813,
+    "gn:longitude":-13.18419,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Ponka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ponka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566543
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5555d289e7a823462f0fab92324d844b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209217939
+        }
+    ],
+    "wof:id":1209217939,
+    "wof:lastmodified":1537700710,
+    "wof:name":"Ponka",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.18419,
+    8.64813,
+    -13.18419,
+    8.64813
+],
+  "geometry": {"coordinates":[-13.18419,8.64813],"type":"Point"}
+}

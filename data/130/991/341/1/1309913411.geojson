@@ -1,0 +1,70 @@
+{
+  "id": 1309913411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.76611,8.09728,-11.76611,8.09728",
+    "geom:latitude":8.09728,
+    "geom:longitude":-11.76611,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sembehun",
+    "gn:country_code":"SL",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904455,
+    "gn:latitude":8.09728,
+    "gn:longitude":-11.76611,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Sembehun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sembehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904455
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"20b7d06afd699329bbcd37105e2f4650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1309913411,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1309913411,
+    "wof:lastmodified":1537700853,
+    "wof:name":"Sembehun",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.76611,
+    8.09728,
+    -11.76611,
+    8.09728
+],
+  "geometry": {"coordinates":[-11.76611,8.09728],"type":"Point"}
+}

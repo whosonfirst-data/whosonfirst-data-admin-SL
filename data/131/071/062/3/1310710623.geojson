@@ -1,0 +1,70 @@
+{
+  "id": 1310710623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.1744,8.94783,-12.1744,8.94783",
+    "geom:latitude":8.94783,
+    "geom:longitude":-12.1744,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maburagwa",
+    "gn:country_code":"SL",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406785,
+    "gn:latitude":8.94783,
+    "gn:longitude":-12.1744,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Maburagwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maburagwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406785
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8a722d7cd112798b3cd7fc82832da326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1310710623,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310710623,
+    "wof:lastmodified":1537700573,
+    "wof:name":"Maburagwa",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.1744,
+    8.94783,
+    -12.1744,
+    8.94783
+],
+  "geometry": {"coordinates":[-12.1744,8.94783],"type":"Point"}
+}

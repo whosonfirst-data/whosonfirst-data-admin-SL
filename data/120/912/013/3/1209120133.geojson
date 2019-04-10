@@ -1,0 +1,65 @@
+{
+  "id": 1209120133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.03839,8.21803,-11.03839,8.21803",
+    "geom:latitude":8.21803,
+    "geom:longitude":-11.03839,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gehama",
+    "gn:country_code":"SL",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408913,
+    "gn:latitude":8.21803,
+    "gn:longitude":-11.03839,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gehama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Geliama",
+        "Gehama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408913
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3eb8fa62b91c7f844f3518f849a5f42e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209120133
+        }
+    ],
+    "wof:id":1209120133,
+    "wof:lastmodified":1537700643,
+    "wof:name":"Gehama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.03839,
+    8.21803,
+    -11.03839,
+    8.21803
+],
+  "geometry": {"coordinates":[-11.03839,8.21803],"type":"Point"}
+}

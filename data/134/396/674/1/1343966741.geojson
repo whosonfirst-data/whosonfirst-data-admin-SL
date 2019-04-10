@@ -1,0 +1,67 @@
+{
+  "id": 1343966741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.08333,9.6,-11.08333,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":-11.08333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bokaria",
+    "gn:country_code":"SL",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410009,
+    "gn:latitude":9.6,
+    "gn:longitude":-11.08333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bokaria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410009
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2a271b492c289d6a108afbbf3c7ca8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1343966741,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343966741,
+    "wof:lastmodified":1537010150,
+    "wof:name":"Bokaria",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.08333,
+    9.6,
+    -11.08333,
+    9.6
+],
+  "geometry": {"coordinates":[-11.08333,9.6],"type":"Point"}
+}

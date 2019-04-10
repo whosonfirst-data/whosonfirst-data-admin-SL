@@ -1,0 +1,73 @@
+{
+  "id": 1226256695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.02942,8.7264,-11.02942,8.7264",
+    "geom:latitude":8.7264,
+    "geom:longitude":-11.02942,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nemesedu",
+    "gn:country_code":"SL",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404911,
+    "gn:latitude":8.7264,
+    "gn:longitude":-11.02942,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Nemesedu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nemesedu"
+    ],
+    "name:und_x_variant":[
+        "Namasaidu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404911
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"365d9603b73e3720f4d7e9fc47ebf5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1226256695,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226256695,
+    "wof:lastmodified":1537700511,
+    "wof:name":"Nemesedu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.02942,
+    8.7264,
+    -11.02942,
+    8.7264
+],
+  "geometry": {"coordinates":[-11.02942,8.7264],"type":"Point"}
+}

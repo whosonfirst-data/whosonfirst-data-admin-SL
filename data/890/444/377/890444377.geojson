@@ -1,0 +1,72 @@
+{
+  "id": 890444377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.21667,8.7,-11.21667,8.7",
+    "geom:latitude":8.7,
+    "geom:longitude":-11.21667,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":3544,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tefeya"
+    ],
+    "name:unk_x_variant":[
+        "Tefee"
+    ],
+    "qs:name":"Tefea",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403513,
+        "gp:id":1515866,
+        "qs:id":1035434
+    },
+    "wof:country":"SL",
+    "wof:created":1469052466,
+    "wof:geomhash":"9f81559375ef893a2e13d7608ccd72ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":890444377,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":890444377,
+    "wof:lastmodified":1505343599,
+    "wof:name":"Tefea",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:population":3544,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.21667,
+    8.7,
+    -11.21667,
+    8.7
+],
+  "geometry": {"coordinates":[-11.21667,8.7],"type":"Point"}
+}

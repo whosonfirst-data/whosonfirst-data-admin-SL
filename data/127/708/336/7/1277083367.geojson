@@ -1,0 +1,70 @@
+{
+  "id": 1277083367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.78797,9.18632,-11.78797,9.18632",
+    "geom:latitude":9.18632,
+    "geom:longitude":-11.78797,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kagbanka",
+    "gn:country_code":"SL",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408278,
+    "gn:latitude":9.18632,
+    "gn:longitude":-11.78797,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kagbanka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kagbanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408278
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1a6f4a2e0655fe7a5ded28ff8feea1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1277083367,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1277083367,
+    "wof:lastmodified":1537700622,
+    "wof:name":"Kagbanka",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.78797,
+    9.18632,
+    -11.78797,
+    9.18632
+],
+  "geometry": {"coordinates":[-11.78797,9.18632],"type":"Point"}
+}

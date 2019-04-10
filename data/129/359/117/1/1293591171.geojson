@@ -1,0 +1,70 @@
+{
+  "id": 1293591171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.24517,7.69676,-12.24517,7.69676",
+    "geom:latitude":7.69676,
+    "geom:longitude":-12.24517,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bandavualhun",
+    "gn:country_code":"SL",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876153,
+    "gn:latitude":7.69676,
+    "gn:longitude":-12.24517,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Bandavualhun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bandavualhun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876153
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"47ddf47a3ddb29397401a2a4714e0616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1293591171,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293591171,
+    "wof:lastmodified":1537700775,
+    "wof:name":"Bandavualhun",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.24517,
+    7.69676,
+    -12.24517,
+    7.69676
+],
+  "geometry": {"coordinates":[-12.24517,7.69676],"type":"Point"}
+}

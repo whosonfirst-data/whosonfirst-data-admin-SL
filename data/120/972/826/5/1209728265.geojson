@@ -1,0 +1,70 @@
+{
+  "id": 1209728265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.60198,8.65032,-12.60198,8.65032",
+    "geom:latitude":8.65032,
+    "geom:longitude":-12.60198,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Balinia",
+    "gn:country_code":"SL",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410577,
+    "gn:latitude":8.65032,
+    "gn:longitude":-12.60198,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Balinia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Balinia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410577
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"29ab9eba3170e7f830e5f8dae0f2be1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1209728265,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1209728265,
+    "wof:lastmodified":1537700702,
+    "wof:name":"Balinia",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.60198,
+    8.65032,
+    -12.60198,
+    8.65032
+],
+  "geometry": {"coordinates":[-12.60198,8.65032],"type":"Point"}
+}

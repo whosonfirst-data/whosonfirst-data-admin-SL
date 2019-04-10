@@ -1,0 +1,64 @@
+{
+  "id": 1209013441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.9592,9.07899,-12.9592,9.07899",
+    "geom:latitude":9.07899,
+    "geom:longitude":-12.9592,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rotun",
+    "gn:country_code":"SL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880653,
+    "gn:latitude":9.07899,
+    "gn:longitude":-12.9592,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Rotun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rotun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880653
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b22f6e48347d862dbd1cf5366e073211",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209013441
+        }
+    ],
+    "wof:id":1209013441,
+    "wof:lastmodified":1537700807,
+    "wof:name":"Rotun",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.9592,
+    9.07899,
+    -12.9592,
+    9.07899
+],
+  "geometry": {"coordinates":[-12.9592,9.07899],"type":"Point"}
+}

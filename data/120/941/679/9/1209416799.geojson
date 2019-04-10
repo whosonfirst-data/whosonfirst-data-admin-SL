@@ -1,0 +1,67 @@
+{
+  "id": 1209416799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.42868,7.88819,-12.42868,7.88819",
+    "geom:latitude":7.88819,
+    "geom:longitude":-12.42868,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moyasa",
+    "gn:country_code":"SL",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404993,
+    "gn:latitude":7.88819,
+    "gn:longitude":-12.42868,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Moyasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moyasa"
+    ],
+    "name:und_x_variant":[
+        "Moyirasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404993
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"53f66d80515a91a946eaaa207e97aafc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209416799
+        }
+    ],
+    "wof:id":1209416799,
+    "wof:lastmodified":1537700514,
+    "wof:name":"Moyasa",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.42868,
+    7.88819,
+    -12.42868,
+    7.88819
+],
+  "geometry": {"coordinates":[-12.42868,7.88819],"type":"Point"}
+}

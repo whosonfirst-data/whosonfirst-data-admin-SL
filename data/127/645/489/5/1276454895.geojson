@@ -1,0 +1,70 @@
+{
+  "id": 1276454895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.08669,7.70291,-12.08669,7.70291",
+    "geom:latitude":7.70291,
+    "geom:longitude":-12.08669,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Manoma",
+    "gn:country_code":"SL",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876143,
+    "gn:latitude":7.70291,
+    "gn:longitude":-12.08669,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Manoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876143
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"87a6f60bf3ba48870ad88f9a7572f798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1276454895,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276454895,
+    "wof:lastmodified":1537700775,
+    "wof:name":"Manoma",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.08669,
+    7.70291,
+    -12.08669,
+    7.70291
+],
+  "geometry": {"coordinates":[-12.08669,7.70291],"type":"Point"}
+}

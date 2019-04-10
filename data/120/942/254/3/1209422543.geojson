@@ -1,0 +1,64 @@
+{
+  "id": 1209422543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.55121,7.37798,-11.55121,7.37798",
+    "geom:latitude":7.37798,
+    "geom:longitude":-11.55121,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Walima",
+    "gn:country_code":"SL",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403132,
+    "gn:latitude":7.37798,
+    "gn:longitude":-11.55121,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Walima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Walima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403132
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"74046fd700df467e7d64ea5eee315c94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209422543
+        }
+    ],
+    "wof:id":1209422543,
+    "wof:lastmodified":1537700453,
+    "wof:name":"Walima",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.55121,
+    7.37798,
+    -11.55121,
+    7.37798
+],
+  "geometry": {"coordinates":[-11.55121,7.37798],"type":"Point"}
+}

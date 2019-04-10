@@ -1,0 +1,71 @@
+{
+  "id": 1293496247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.73712,9.34777,-12.73712,9.34777",
+    "geom:latitude":9.34777,
+    "geom:longitude":-12.73712,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbulun",
+    "gn:country_code":"SL",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408925,
+    "gn:latitude":9.34777,
+    "gn:longitude":-12.73712,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gbulun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbulum",
+        "Gbulun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408925
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e6602a8123cb8258cf376e2a40f43e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1293496247,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293496247,
+    "wof:lastmodified":1537700644,
+    "wof:name":"Gbulun",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.73712,
+    9.34777,
+    -12.73712,
+    9.34777
+],
+  "geometry": {"coordinates":[-12.73712,9.34777],"type":"Point"}
+}

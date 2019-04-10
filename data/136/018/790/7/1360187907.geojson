@@ -1,0 +1,70 @@
+{
+  "id": 1360187907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.66597,9.03613,-12.66597,9.03613",
+    "geom:latitude":9.03613,
+    "geom:longitude":-12.66597,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rosint",
+    "gn:country_code":"SL",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880926,
+    "gn:latitude":9.03613,
+    "gn:longitude":-12.66597,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Rosint",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rosint"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880926
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"21a29cb7b68b71be7c2db13da9e8e8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1360187907,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1360187907,
+    "wof:lastmodified":1537700815,
+    "wof:name":"Rosint",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.66597,
+    9.03613,
+    -12.66597,
+    9.03613
+],
+  "geometry": {"coordinates":[-12.66597,9.03613],"type":"Point"}
+}

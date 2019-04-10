@@ -1,0 +1,70 @@
+{
+  "id": 1243079257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.02004,7.67727,-12.02004,7.67727",
+    "geom:latitude":7.67727,
+    "geom:longitude":-12.02004,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mogbevo",
+    "gn:country_code":"SL",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593546,
+    "gn:latitude":7.67727,
+    "gn:longitude":-12.02004,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mogbevo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mogbevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593546
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c1f9544040afdf673ed0d54948bd4aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1243079257,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1243079257,
+    "wof:lastmodified":1537700720,
+    "wof:name":"Mogbevo",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.02004,
+    7.67727,
+    -12.02004,
+    7.67727
+],
+  "geometry": {"coordinates":[-12.02004,7.67727],"type":"Point"}
+}

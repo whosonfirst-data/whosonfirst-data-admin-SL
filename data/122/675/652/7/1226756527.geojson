@@ -1,0 +1,70 @@
+{
+  "id": 1226756527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.64937,9.63936,-11.64937,9.63936",
+    "geom:latitude":9.63936,
+    "geom:longitude":-11.64937,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Siamamaia",
+    "gn:country_code":"SL",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403852,
+    "gn:latitude":9.63936,
+    "gn:longitude":-11.64937,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Siamamaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Siamamaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403852
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"909b2705dc6d0c982cdc7345a65ccf35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1226756527,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226756527,
+    "wof:lastmodified":1537700476,
+    "wof:name":"Siamamaia",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.64937,
+    9.63936,
+    -11.64937,
+    9.63936
+],
+  "geometry": {"coordinates":[-11.64937,9.63936],"type":"Point"}
+}

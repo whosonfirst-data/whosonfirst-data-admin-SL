@@ -1,0 +1,70 @@
+{
+  "id": 1243272925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.03434,9.41851,-12.03434,9.41851",
+    "geom:latitude":9.41851,
+    "geom:longitude":-12.03434,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sihun",
+    "gn:country_code":"SL",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403840,
+    "gn:latitude":9.41851,
+    "gn:longitude":-12.03434,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Sihun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sihun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403840
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"84a16ee9d9661881d4a52ff1857b058b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1243272925,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243272925,
+    "wof:lastmodified":1537700476,
+    "wof:name":"Sihun",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.03434,
+    9.41851,
+    -12.03434,
+    9.41851
+],
+  "geometry": {"coordinates":[-12.03434,9.41851],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276982141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.61497,8.2194,-12.61497,8.2194",
+    "geom:latitude":8.2194,
+    "geom:longitude":-12.61497,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Woyama",
+    "gn:country_code":"SL",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893199,
+    "gn:latitude":8.2194,
+    "gn:longitude":-12.61497,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Woyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Woyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893199
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6f1c505fccfb73245e39a4893fba6a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1276982141,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276982141,
+    "wof:lastmodified":1537700831,
+    "wof:name":"Woyama",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.61497,
+    8.2194,
+    -12.61497,
+    8.2194
+],
+  "geometry": {"coordinates":[-12.61497,8.2194],"type":"Point"}
+}

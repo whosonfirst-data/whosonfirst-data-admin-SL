@@ -1,0 +1,64 @@
+{
+  "id": 1209119183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.08116,8.8084,-12.08116,8.8084",
+    "geom:latitude":8.8084,
+    "geom:longitude":-12.08116,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masuba",
+    "gn:country_code":"SL",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10133339,
+    "gn:latitude":8.8084,
+    "gn:longitude":-12.08116,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Masuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10133339
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9bf2b236e7724bd00039931b96e4a709",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209119183
+        }
+    ],
+    "wof:id":1209119183,
+    "wof:lastmodified":1537700940,
+    "wof:name":"Masuba",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.08116,
+    8.8084,
+    -12.08116,
+    8.8084
+],
+  "geometry": {"coordinates":[-12.08116,8.8084],"type":"Point"}
+}

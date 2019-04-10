@@ -1,0 +1,70 @@
+{
+  "id": 1343959903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.90789,8.15903,-11.90789,8.15903",
+    "geom:latitude":8.15903,
+    "geom:longitude":-11.90789,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Fala",
+    "gn:country_code":"SL",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409494,
+    "gn:latitude":8.15903,
+    "gn:longitude":-11.90789,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Fala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409494
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"74641a3fd2ec539969b44920f65335d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1343959903,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343959903,
+    "wof:lastmodified":1537700665,
+    "wof:name":"Fala",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.90789,
+    8.15903,
+    -11.90789,
+    8.15903
+],
+  "geometry": {"coordinates":[-11.90789,8.15903],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276886311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.17982,8.60399,-13.17982,8.60399",
+    "geom:latitude":8.60399,
+    "geom:longitude":-13.17982,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rotifunk",
+    "gn:country_code":"SL",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404252,
+    "gn:latitude":8.60399,
+    "gn:longitude":-13.17982,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Rotifunk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rotifunk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404252
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"58efb63c07f5cd8c2062da2fe63e7f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1276886311,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276886311,
+    "wof:lastmodified":1537700489,
+    "wof:name":"Rotifunk",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.17982,
+    8.60399,
+    -13.17982,
+    8.60399
+],
+  "geometry": {"coordinates":[-13.17982,8.60399],"type":"Point"}
+}

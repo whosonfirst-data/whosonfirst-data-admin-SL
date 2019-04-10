@@ -1,0 +1,64 @@
+{
+  "id": 1209622839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.66378,8.27539,-12.66378,8.27539",
+    "geom:latitude":8.27539,
+    "geom:longitude":-12.66378,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moyenken",
+    "gn:country_code":"SL",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404997,
+    "gn:latitude":8.27539,
+    "gn:longitude":-12.66378,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Moyenken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moyenken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404997
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"778abcc1ae10a4489e101e18bb443718",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209622839
+        }
+    ],
+    "wof:id":1209622839,
+    "wof:lastmodified":1537700514,
+    "wof:name":"Moyenken",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.66378,
+    8.27539,
+    -12.66378,
+    8.27539
+],
+  "geometry": {"coordinates":[-12.66378,8.27539],"type":"Point"}
+}

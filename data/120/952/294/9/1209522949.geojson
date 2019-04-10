@@ -1,0 +1,64 @@
+{
+  "id": 1209522949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.44156,7.96877,-12.44156,7.96877",
+    "geom:latitude":7.96877,
+    "geom:longitude":-12.44156,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kindigboma",
+    "gn:country_code":"SL",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904189,
+    "gn:latitude":7.96877,
+    "gn:longitude":-12.44156,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Kindigboma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kindigboma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904189
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a6ef7a0829b452106621e7cb1d702f1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209522949
+        }
+    ],
+    "wof:id":1209522949,
+    "wof:lastmodified":1537700848,
+    "wof:name":"Kindigboma",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.44156,
+    7.96877,
+    -12.44156,
+    7.96877
+],
+  "geometry": {"coordinates":[-12.44156,7.96877],"type":"Point"}
+}

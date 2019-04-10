@@ -1,0 +1,64 @@
+{
+  "id": 1209423755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.55648,8.50291,-12.55648,8.50291",
+    "geom:latitude":8.50291,
+    "geom:longitude":-12.55648,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makonkubo",
+    "gn:country_code":"SL",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406323,
+    "gn:latitude":8.50291,
+    "gn:longitude":-12.55648,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Makonkubo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makonkubo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406323
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8eb213caa25e53e706870ac4286efe86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209423755
+        }
+    ],
+    "wof:id":1209423755,
+    "wof:lastmodified":1537700558,
+    "wof:name":"Makonkubo",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.55648,
+    8.50291,
+    -12.55648,
+    8.50291
+],
+  "geometry": {"coordinates":[-12.55648,8.50291],"type":"Point"}
+}

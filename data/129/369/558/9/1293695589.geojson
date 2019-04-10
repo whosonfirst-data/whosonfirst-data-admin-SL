@@ -1,0 +1,70 @@
+{
+  "id": 1293695589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.24267,8.75387,-13.24267,8.75387",
+    "geom:latitude":8.75387,
+    "geom:longitude":-13.24267,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yurika Wharf",
+    "gn:country_code":"SL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402692,
+    "gn:latitude":8.75387,
+    "gn:longitude":-13.24267,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Yurika Wharf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yurika Wharf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402692
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d18a090af724022d7a7e31bc3d8c9be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1293695589,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293695589,
+    "wof:lastmodified":1537700440,
+    "wof:name":"Yurika Wharf",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.24267,
+    8.75387,
+    -13.24267,
+    8.75387
+],
+  "geometry": {"coordinates":[-13.24267,8.75387],"type":"Point"}
+}

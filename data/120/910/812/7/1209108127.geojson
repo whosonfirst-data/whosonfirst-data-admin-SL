@@ -1,0 +1,65 @@
+{
+  "id": 1209108127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.21415,7.70181,-12.21415,7.70181",
+    "geom:latitude":7.70181,
+    "geom:longitude":-12.21415,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mongeriwo",
+    "gn:country_code":"SL",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405130,
+    "gn:latitude":7.70181,
+    "gn:longitude":-12.21415,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mongeriwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mongeriworo",
+        "Mongeriwo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405130
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7f6b2b8964c4f0c96d8d1cd64a070674",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209108127
+        }
+    ],
+    "wof:id":1209108127,
+    "wof:lastmodified":1537700519,
+    "wof:name":"Mongeriwo",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.21415,
+    7.70181,
+    -12.21415,
+    7.70181
+],
+  "geometry": {"coordinates":[-12.21415,7.70181],"type":"Point"}
+}

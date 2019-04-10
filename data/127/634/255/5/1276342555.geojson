@@ -1,0 +1,70 @@
+{
+  "id": 1276342555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.05754,8.208,-12.05754,8.208",
+    "geom:latitude":8.208,
+    "geom:longitude":-12.05754,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mokoli",
+    "gn:country_code":"SL",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405201,
+    "gn:latitude":8.208,
+    "gn:longitude":-12.05754,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mokoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mokoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405201
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b10feb687d0bfd013e96834904426cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1276342555,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276342555,
+    "wof:lastmodified":1537700522,
+    "wof:name":"Mokoli",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.05754,
+    8.208,
+    -12.05754,
+    8.208
+],
+  "geometry": {"coordinates":[-12.05754,8.208],"type":"Point"}
+}

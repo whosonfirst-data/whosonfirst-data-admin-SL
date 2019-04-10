@@ -1,0 +1,73 @@
+{
+  "id": 1260286295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.4687,8.11566,-11.4687,8.11566",
+    "geom:latitude":8.11566,
+    "geom:longitude":-11.4687,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ndaambu",
+    "gn:country_code":"SL",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409661,
+    "gn:latitude":8.11566,
+    "gn:longitude":-11.4687,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Ndaambu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ndaambu"
+    ],
+    "name:und_x_variant":[
+        "Dawambu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409661
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8abd90b78b58fbbee2c06e7bcb3fdd45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1260286295,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1260286295,
+    "wof:lastmodified":1537700670,
+    "wof:name":"Ndaambu",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.4687,
+    8.11566,
+    -11.4687,
+    8.11566
+],
+  "geometry": {"coordinates":[-11.4687,8.11566],"type":"Point"}
+}

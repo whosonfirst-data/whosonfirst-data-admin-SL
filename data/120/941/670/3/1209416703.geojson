@@ -1,0 +1,64 @@
+{
+  "id": 1209416703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.72993,7.34528,-11.72993,7.34528",
+    "geom:latitude":7.34528,
+    "geom:longitude":-11.72993,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tikonko",
+    "gn:country_code":"SL",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9892791,
+    "gn:latitude":7.34528,
+    "gn:longitude":-11.72993,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Tikonko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tikonko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9892791
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1cc52b831eafb440fafa55769ecb9ba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209416703
+        }
+    ],
+    "wof:id":1209416703,
+    "wof:lastmodified":1537700823,
+    "wof:name":"Tikonko",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.72993,
+    7.34528,
+    -11.72993,
+    7.34528
+],
+  "geometry": {"coordinates":[-11.72993,7.34528],"type":"Point"}
+}

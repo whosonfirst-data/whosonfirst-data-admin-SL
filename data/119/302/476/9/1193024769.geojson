@@ -1,0 +1,70 @@
+{
+  "id": 1193024769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.02087,8.92154,-13.02087,8.92154",
+    "geom:latitude":8.92154,
+    "geom:longitude":-13.02087,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Wolaw",
+    "gn:country_code":"SL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403043,
+    "gn:latitude":8.92154,
+    "gn:longitude":-13.02087,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Wolaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wolaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403043
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"99ddc1a1b983c851cceb6d288ae77674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1193024769,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1193024769,
+    "wof:lastmodified":1537700451,
+    "wof:name":"Wolaw",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.02087,
+    8.92154,
+    -13.02087,
+    8.92154
+],
+  "geometry": {"coordinates":[-13.02087,8.92154],"type":"Point"}
+}

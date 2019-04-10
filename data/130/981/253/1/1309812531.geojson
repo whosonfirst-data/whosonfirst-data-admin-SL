@@ -1,0 +1,70 @@
+{
+  "id": 1309812531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.98807,8.56292,-11.98807,8.56292",
+    "geom:latitude":8.56292,
+    "geom:longitude":-11.98807,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Magboke",
+    "gn:country_code":"SL",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406600,
+    "gn:latitude":8.56292,
+    "gn:longitude":-11.98807,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Magboke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magboke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406600
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b551c2840773a0df910446fc9a1548a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1309812531,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309812531,
+    "wof:lastmodified":1537700568,
+    "wof:name":"Magboke",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.98807,
+    8.56292,
+    -11.98807,
+    8.56292
+],
+  "geometry": {"coordinates":[-11.98807,8.56292],"type":"Point"}
+}

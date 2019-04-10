@@ -1,0 +1,64 @@
+{
+  "id": 1209427977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.21834,9.58365,-12.21834,9.58365",
+    "geom:latitude":9.58365,
+    "geom:longitude":-12.21834,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mawono",
+    "gn:country_code":"SL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405516,
+    "gn:latitude":9.58365,
+    "gn:longitude":-12.21834,
+    "gn:modification_date":"2015-07-22",
+    "gn:name":"Mawono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mawono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405516
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a5a12d4ff64fdf842b830a4e2c0bc9b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209427977
+        }
+    ],
+    "wof:id":1209427977,
+    "wof:lastmodified":1537700532,
+    "wof:name":"Mawono",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.21834,
+    9.58365,
+    -12.21834,
+    9.58365
+],
+  "geometry": {"coordinates":[-12.21834,9.58365],"type":"Point"}
+}

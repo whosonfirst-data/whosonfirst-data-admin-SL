@@ -1,0 +1,70 @@
+{
+  "id": 1226444557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.29104,7.32029,-11.29104,7.32029",
+    "geom:latitude":7.32029,
+    "geom:longitude":-11.29104,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jago",
+    "gn:country_code":"SL",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9892984,
+    "gn:latitude":7.32029,
+    "gn:longitude":-11.29104,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Jago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9892984
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a49b5adef1100bf9c598e715cc6ee431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779069,
+            "locality_id":1226444557,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226444557,
+    "wof:lastmodified":1537700826,
+    "wof:name":"Jago",
+    "wof:parent_id":1108779069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.29104,
+    7.32029,
+    -11.29104,
+    7.32029
+],
+  "geometry": {"coordinates":[-11.29104,7.32029],"type":"Point"}
+}

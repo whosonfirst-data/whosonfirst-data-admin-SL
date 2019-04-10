@@ -1,0 +1,70 @@
+{
+  "id": 1259786507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.21227,9.61339,-12.21227,9.61339",
+    "geom:latitude":9.61339,
+    "geom:longitude":-12.21227,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nyamba",
+    "gn:country_code":"SL",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404779,
+    "gn:latitude":9.61339,
+    "gn:longitude":-12.21227,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Nyamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404779
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3aa86bfb212fd5283658608366529622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1259786507,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259786507,
+    "wof:lastmodified":1537700506,
+    "wof:name":"Nyamba",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.21227,
+    9.61339,
+    -12.21227,
+    9.61339
+],
+  "geometry": {"coordinates":[-12.21227,9.61339],"type":"Point"}
+}

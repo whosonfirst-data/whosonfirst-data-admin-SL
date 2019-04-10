@@ -1,0 +1,64 @@
+{
+  "id": 1209427831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.48507,9.17259,-11.48507,9.17259",
+    "geom:latitude":9.17259,
+    "geom:longitude":-11.48507,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Herako",
+    "gn:country_code":"SL",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408570,
+    "gn:latitude":9.17259,
+    "gn:longitude":-11.48507,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Herako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Herako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408570
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f6ea1aac632bc6c821b8c6cc302bc0b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209427831
+        }
+    ],
+    "wof:id":1209427831,
+    "wof:lastmodified":1537700632,
+    "wof:name":"Herako",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.48507,
+    9.17259,
+    -11.48507,
+    9.17259
+],
+  "geometry": {"coordinates":[-11.48507,9.17259],"type":"Point"}
+}

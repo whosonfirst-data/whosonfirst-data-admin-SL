@@ -1,0 +1,70 @@
+{
+  "id": 1260087697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.48884,7.5359,-11.48884,7.5359",
+    "geom:latitude":7.5359,
+    "geom:longitude":-11.48884,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Felegoma",
+    "gn:country_code":"SL",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9879799,
+    "gn:latitude":7.5359,
+    "gn:longitude":-11.48884,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Felegoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Felegoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9879799
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e8488b0d6e0f74ae41fc65a3ca87a266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1260087697,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1260087697,
+    "wof:lastmodified":1537700795,
+    "wof:name":"Felegoma",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.48884,
+    7.5359,
+    -11.48884,
+    7.5359
+],
+  "geometry": {"coordinates":[-11.48884,7.5359],"type":"Point"}
+}

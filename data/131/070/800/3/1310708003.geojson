@@ -1,0 +1,70 @@
+{
+  "id": 1310708003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.21919,8.46038,-13.21919,8.46038",
+    "geom:latitude":8.46038,
+    "geom:longitude":-13.21919,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Leicester",
+    "gn:country_code":"SL",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407021,
+    "gn:latitude":8.46038,
+    "gn:longitude":-13.21919,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Leicester",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Leicester"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407021
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a125e2a910ab5b41c65d6916abee9c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1310708003,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1310708003,
+    "wof:lastmodified":1537700581,
+    "wof:name":"Leicester",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.21919,
+    8.46038,
+    -13.21919,
+    8.46038
+],
+  "geometry": {"coordinates":[-13.21919,8.46038],"type":"Point"}
+}

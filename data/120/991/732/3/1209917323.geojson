@@ -1,0 +1,70 @@
+{
+  "id": 1209917323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.60207,9.30306,-12.60207,9.30306",
+    "geom:latitude":9.30306,
+    "geom:longitude":-12.60207,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yibaia",
+    "gn:country_code":"SL",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402793,
+    "gn:latitude":9.30306,
+    "gn:longitude":-12.60207,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yibaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yibaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402793
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ce4b8ecb2f7dbb3161e6aedb2e7be87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1209917323,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1209917323,
+    "wof:lastmodified":1537700443,
+    "wof:name":"Yibaia",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.60207,
+    9.30306,
+    -12.60207,
+    9.30306
+],
+  "geometry": {"coordinates":[-12.60207,9.30306],"type":"Point"}
+}

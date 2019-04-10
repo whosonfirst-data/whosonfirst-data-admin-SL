@@ -1,0 +1,70 @@
+{
+  "id": 1276772683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.03802,8.13486,-11.03802,8.13486",
+    "geom:latitude":8.13486,
+    "geom:longitude":-11.03802,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hegbwema",
+    "gn:country_code":"SL",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9915531,
+    "gn:latitude":8.13486,
+    "gn:longitude":-11.03802,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Hegbwema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hegbwema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9915531
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"505677d54ab1fc9b1ae93fb2fa1a12d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1276772683,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1276772683,
+    "wof:lastmodified":1537700863,
+    "wof:name":"Hegbwema",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.03802,
+    8.13486,
+    -11.03802,
+    8.13486
+],
+  "geometry": {"coordinates":[-11.03802,8.13486],"type":"Point"}
+}

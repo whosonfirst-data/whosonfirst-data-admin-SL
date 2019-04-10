@@ -1,0 +1,70 @@
+{
+  "id": 1310308289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.67603,8.53419,-12.67603,8.53419",
+    "geom:latitude":8.53419,
+    "geom:longitude":-12.67603,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yema",
+    "gn:country_code":"SL",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402852,
+    "gn:latitude":8.53419,
+    "gn:longitude":-12.67603,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Yema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402852
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fe5a8b7c1fb0cf422059b6e511d02b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1310308289,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310308289,
+    "wof:lastmodified":1537700445,
+    "wof:name":"Yema",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.67603,
+    8.53419,
+    -12.67603,
+    8.53419
+],
+  "geometry": {"coordinates":[-12.67603,8.53419],"type":"Point"}
+}

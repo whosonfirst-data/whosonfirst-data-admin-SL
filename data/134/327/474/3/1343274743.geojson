@@ -1,0 +1,70 @@
+{
+  "id": 1343274743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.81667,9.5,-11.81667,9.5",
+    "geom:latitude":9.5,
+    "geom:longitude":-11.81667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kakoya",
+    "gn:country_code":"SL",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408215,
+    "gn:latitude":9.5,
+    "gn:longitude":-11.81667,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kakoya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kakoya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408215
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"79f3277a3c0c0d6c5d7e0191a6c21f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1343274743,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343274743,
+    "wof:lastmodified":1537700620,
+    "wof:name":"Kakoya",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.81667,
+    9.5,
+    -11.81667,
+    9.5
+],
+  "geometry": {"coordinates":[-11.81667,9.5],"type":"Point"}
+}

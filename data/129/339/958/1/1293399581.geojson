@@ -1,0 +1,70 @@
+{
+  "id": 1293399581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.51319,8.66169,-10.51319,8.66169",
+    "geom:latitude":8.66169,
+    "geom:longitude":-10.51319,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Fandu",
+    "gn:country_code":"SL",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409466,
+    "gn:latitude":8.66169,
+    "gn:longitude":-10.51319,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Fandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409466
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"202811dd69d5c9a2fd5336f92bbc2ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1293399581,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293399581,
+    "wof:lastmodified":1537700663,
+    "wof:name":"Fandu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.51319,
+    8.66169,
+    -10.51319,
+    8.66169
+],
+  "geometry": {"coordinates":[-10.51319,8.66169],"type":"Point"}
+}

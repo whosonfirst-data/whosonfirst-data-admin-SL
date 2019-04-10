@@ -1,0 +1,64 @@
+{
+  "id": 1209107905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.81433,7.22097,-11.81433,7.22097",
+    "geom:latitude":7.22097,
+    "geom:longitude":-11.81433,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bopo",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409909,
+    "gn:latitude":7.22097,
+    "gn:longitude":-11.81433,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bopo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409909
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"cb1ab05c8d87a5f5e170c80523576c65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209107905
+        }
+    ],
+    "wof:id":1209107905,
+    "wof:lastmodified":1537700679,
+    "wof:name":"Bopo",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.81433,
+    7.22097,
+    -11.81433,
+    7.22097
+],
+  "geometry": {"coordinates":[-11.81433,7.22097],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293600597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.64507,8.09861,-12.64507,8.09861",
+    "geom:latitude":8.09861,
+    "geom:longitude":-12.64507,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Komende",
+    "gn:country_code":"SL",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893575,
+    "gn:latitude":8.09861,
+    "gn:longitude":-12.64507,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Komende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Komende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893575
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6baa747ef517b19ad98a7b0564a55c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1293600597,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293600597,
+    "wof:lastmodified":1537700836,
+    "wof:name":"Komende",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.64507,
+    8.09861,
+    -12.64507,
+    8.09861
+],
+  "geometry": {"coordinates":[-12.64507,8.09861],"type":"Point"}
+}

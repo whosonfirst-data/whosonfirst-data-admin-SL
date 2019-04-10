@@ -1,0 +1,70 @@
+{
+  "id": 1259592131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.22312,9.02421,-13.22312,9.02421",
+    "geom:latitude":9.02421,
+    "geom:longitude":-13.22312,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pamaro",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404684,
+    "gn:latitude":9.02421,
+    "gn:longitude":-13.22312,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Pamaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pamaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404684
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7f247c96c5f379de396a2bbd8ccc8516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1259592131,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259592131,
+    "wof:lastmodified":1537700503,
+    "wof:name":"Pamaro",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.22312,
+    9.02421,
+    -13.22312,
+    9.02421
+],
+  "geometry": {"coordinates":[-13.22312,9.02421],"type":"Point"}
+}

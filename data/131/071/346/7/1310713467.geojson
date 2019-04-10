@@ -1,0 +1,70 @@
+{
+  "id": 1310713467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.87575,8.04875,-12.87575,8.04875",
+    "geom:latitude":8.04875,
+    "geom:longitude":-12.87575,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mayankan",
+    "gn:country_code":"SL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893062,
+    "gn:latitude":8.04875,
+    "gn:longitude":-12.87575,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Mayankan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mayankan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893062
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"989449d9d6795b3c059bd07d549c34db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1310713467,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310713467,
+    "wof:lastmodified":1537700828,
+    "wof:name":"Mayankan",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.87575,
+    8.04875,
+    -12.87575,
+    8.04875
+],
+  "geometry": {"coordinates":[-12.87575,8.04875],"type":"Point"}
+}

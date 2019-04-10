@@ -1,0 +1,70 @@
+{
+  "id": 1293116381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.06843,8.25429,-11.06843,8.25429",
+    "geom:latitude":8.25429,
+    "geom:longitude":-11.06843,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Limayema",
+    "gn:country_code":"SL",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406974,
+    "gn:latitude":8.25429,
+    "gn:longitude":-11.06843,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Limayema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Limayema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406974
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"285dad6f06fb54bea3ebe28faa996a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1293116381,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293116381,
+    "wof:lastmodified":1537700579,
+    "wof:name":"Limayema",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.06843,
+    8.25429,
+    -11.06843,
+    8.25429
+],
+  "geometry": {"coordinates":[-11.06843,8.25429],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327148477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9879,8.05687,-10.9879,8.05687",
+    "geom:latitude":8.05687,
+    "geom:longitude":-10.9879,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yangahun",
+    "gn:country_code":"SL",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402911,
+    "gn:latitude":8.05687,
+    "gn:longitude":-10.9879,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Yangahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yangahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402911
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"83bfac49b6d74f21da50f073bcaa0364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1327148477,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1327148477,
+    "wof:lastmodified":1537700446,
+    "wof:name":"Yangahun",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9879,
+    8.05687,
+    -10.9879,
+    8.05687
+],
+  "geometry": {"coordinates":[-10.9879,8.05687],"type":"Point"}
+}

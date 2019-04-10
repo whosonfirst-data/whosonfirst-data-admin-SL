@@ -1,0 +1,70 @@
+{
+  "id": 1226648099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.98984,8.02462,-11.98984,8.02462",
+    "geom:latitude":8.02462,
+    "geom:longitude":-11.98984,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Moyogbo",
+    "gn:country_code":"SL",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404989,
+    "gn:latitude":8.02462,
+    "gn:longitude":-11.98984,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Moyogbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moyogbu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404989
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"cff5808467dc17f65bf3244a41efee24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226648099,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226648099,
+    "wof:lastmodified":1537700514,
+    "wof:name":"Moyogbo",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.98984,
+    8.02462,
+    -11.98984,
+    8.02462
+],
+  "geometry": {"coordinates":[-11.98984,8.02462],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310316915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.11832,8.21288,-12.11832,8.21288",
+    "geom:latitude":8.21288,
+    "geom:longitude":-12.11832,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ndambawugbuila",
+    "gn:country_code":"SL",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9901341,
+    "gn:latitude":8.21288,
+    "gn:longitude":-12.11832,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Ndambawugbuila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ndambawugbuila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9901341
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e50059cb7bf157aa6875ddb48603bc09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1310316915,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310316915,
+    "wof:lastmodified":1537700844,
+    "wof:name":"Ndambawugbuila",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.11832,
+    8.21288,
+    -12.11832,
+    8.21288
+],
+  "geometry": {"coordinates":[-12.11832,8.21288],"type":"Point"}
+}

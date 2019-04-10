@@ -1,0 +1,70 @@
+{
+  "id": 1243265897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.64565,7.52741,-12.64565,7.52741",
+    "geom:latitude":7.52741,
+    "geom:longitude":-12.64565,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chokolo",
+    "gn:country_code":"SL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871059,
+    "gn:latitude":7.52741,
+    "gn:longitude":-12.64565,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Chokolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chokolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871059
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5d5cc0bb8be567335cb8174dd024f9de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1243265897,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1243265897,
+    "wof:lastmodified":1537700732,
+    "wof:name":"Chokolo",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.64565,
+    7.52741,
+    -12.64565,
+    7.52741
+],
+  "geometry": {"coordinates":[-12.64565,7.52741],"type":"Point"}
+}

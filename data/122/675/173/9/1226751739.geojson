@@ -1,0 +1,73 @@
+{
+  "id": 1226751739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.67075,8.58802,-10.67075,8.58802",
+    "geom:latitude":8.58802,
+    "geom:longitude":-10.67075,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nyamaor",
+    "gn:country_code":"SL",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402941,
+    "gn:latitude":8.58802,
+    "gn:longitude":-10.67075,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Nyamaor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyamaor"
+    ],
+    "name:und_x_variant":[
+        "Yamaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402941
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0693bf0dbfa29888fa41609e69f1c65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1226751739,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226751739,
+    "wof:lastmodified":1537700448,
+    "wof:name":"Nyamaor",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.67075,
+    8.58802,
+    -10.67075,
+    8.58802
+],
+  "geometry": {"coordinates":[-10.67075,8.58802],"type":"Point"}
+}

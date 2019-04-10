@@ -1,0 +1,64 @@
+{
+  "id": 1209624153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.45521,9.27535,-11.45521,9.27535",
+    "geom:latitude":9.27535,
+    "geom:longitude":-11.45521,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dondoya",
+    "gn:country_code":"SL",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10026673,
+    "gn:latitude":9.27535,
+    "gn:longitude":-11.45521,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Dondoya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dondoya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10026673
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1286cc3181dc4d2c6bc46c5f75815ad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209624153
+        }
+    ],
+    "wof:id":1209624153,
+    "wof:lastmodified":1537700912,
+    "wof:name":"Dondoya",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.45521,
+    9.27535,
+    -11.45521,
+    9.27535
+],
+  "geometry": {"coordinates":[-11.45521,9.27535],"type":"Point"}
+}

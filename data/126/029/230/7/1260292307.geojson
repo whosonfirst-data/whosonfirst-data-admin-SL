@@ -1,0 +1,70 @@
+{
+  "id": 1260292307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.80982,8.03434,-11.80982,8.03434",
+    "geom:latitude":8.03434,
+    "geom:longitude":-11.80982,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dandabu",
+    "gn:country_code":"SL",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904521,
+    "gn:latitude":8.03434,
+    "gn:longitude":-11.80982,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Dandabu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dandabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904521
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a94316113b2b2107f5e2bca3269e051f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1260292307,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1260292307,
+    "wof:lastmodified":1537700855,
+    "wof:name":"Dandabu",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.80982,
+    8.03434,
+    -11.80982,
+    8.03434
+],
+  "geometry": {"coordinates":[-11.80982,8.03434],"type":"Point"}
+}

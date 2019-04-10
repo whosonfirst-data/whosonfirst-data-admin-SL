@@ -1,0 +1,73 @@
+{
+  "id": 1343273443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.73932,7.89906,-12.73932,7.89906",
+    "geom:latitude":7.89906,
+    "geom:longitude":-12.73932,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Small Mobureh",
+    "gn:country_code":"SL",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406798,
+    "gn:latitude":7.89906,
+    "gn:longitude":-12.73932,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Small Mobureh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Small Mobureh"
+    ],
+    "name:und_x_variant":[
+        "Mabua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406798
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"46bf1c5e88b6737be3fc55b50b407ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1343273443,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343273443,
+    "wof:lastmodified":1537700574,
+    "wof:name":"Small Mobureh",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.73932,
+    7.89906,
+    -12.73932,
+    7.89906
+],
+  "geometry": {"coordinates":[-12.73932,7.89906],"type":"Point"}
+}

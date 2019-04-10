@@ -1,0 +1,70 @@
+{
+  "id": 1226660035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.91315,8.70886,-10.91315,8.70886",
+    "geom:latitude":8.70886,
+    "geom:longitude":-10.91315,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dandando",
+    "gn:country_code":"SL",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409687,
+    "gn:latitude":8.70886,
+    "gn:longitude":-10.91315,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Dandando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dandando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409687
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"54dfe943a9aba4a21f917883c57701ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1226660035,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226660035,
+    "wof:lastmodified":1537700671,
+    "wof:name":"Dandando",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.91315,
+    8.70886,
+    -10.91315,
+    8.70886
+],
+  "geometry": {"coordinates":[-10.91315,8.70886],"type":"Point"}
+}

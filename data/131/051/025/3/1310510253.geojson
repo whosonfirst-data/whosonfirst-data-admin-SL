@@ -1,0 +1,70 @@
+{
+  "id": 1310510253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.43619,9.29935,-12.43619,9.29935",
+    "geom:latitude":9.29935,
+    "geom:longitude":-12.43619,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Danten",
+    "gn:country_code":"SL",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131088,
+    "gn:latitude":9.29935,
+    "gn:longitude":-12.43619,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Danten",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Danten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131088
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"098d168249b2f1e1ea9d06e783ebd19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1310510253,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310510253,
+    "wof:lastmodified":1537700921,
+    "wof:name":"Danten",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.43619,
+    9.29935,
+    -12.43619,
+    9.29935
+],
+  "geometry": {"coordinates":[-12.43619,9.29935],"type":"Point"}
+}

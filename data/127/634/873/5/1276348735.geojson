@@ -1,0 +1,70 @@
+{
+  "id": 1276348735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.66395,9.07549,-12.66395,9.07549",
+    "geom:latitude":9.07549,
+    "geom:longitude":-12.66395,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Malumpri",
+    "gn:country_code":"SL",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880925,
+    "gn:latitude":9.07549,
+    "gn:longitude":-12.66395,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Malumpri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malumpri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880925
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7dbfab2a666f46d9cdc6618891a0dc3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1276348735,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276348735,
+    "wof:lastmodified":1537700815,
+    "wof:name":"Malumpri",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.66395,
+    9.07549,
+    -12.66395,
+    9.07549
+],
+  "geometry": {"coordinates":[-12.66395,9.07549],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226451491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.36955,8.45486,-12.36955,8.45486",
+    "geom:latitude":8.45486,
+    "geom:longitude":-12.36955,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mapamant",
+    "gn:country_code":"SL",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405931,
+    "gn:latitude":8.45486,
+    "gn:longitude":-12.36955,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mapamant",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mapamant"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405931
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d9d89ebab0ac4d26054b9d01b1adc55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1226451491,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226451491,
+    "wof:lastmodified":1537700546,
+    "wof:name":"Mapamant",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.36955,
+    8.45486,
+    -12.36955,
+    8.45486
+],
+  "geometry": {"coordinates":[-12.36955,8.45486],"type":"Point"}
+}

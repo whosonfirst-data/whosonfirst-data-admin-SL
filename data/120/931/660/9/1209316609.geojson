@@ -1,0 +1,64 @@
+{
+  "id": 1209316609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.34525,7.08333,-11.34525,7.08333",
+    "geom:latitude":7.08333,
+    "geom:longitude":-11.34525,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dia",
+    "gn:country_code":"SL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409634,
+    "gn:latitude":7.08333,
+    "gn:longitude":-11.34525,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Dia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409634
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fddc52bc5a5f8498534ad177490dff7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209316609
+        }
+    ],
+    "wof:id":1209316609,
+    "wof:lastmodified":1537700669,
+    "wof:name":"Dia",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.34525,
+    7.08333,
+    -11.34525,
+    7.08333
+],
+  "geometry": {"coordinates":[-11.34525,7.08333],"type":"Point"}
+}

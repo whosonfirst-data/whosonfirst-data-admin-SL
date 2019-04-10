@@ -1,0 +1,70 @@
+{
+  "id": 1210019763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.28627,9.68433,-12.28627,9.68433",
+    "geom:latitude":9.68433,
+    "geom:longitude":-12.28627,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kumunkhuri",
+    "gn:country_code":"SL",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407219,
+    "gn:latitude":9.68433,
+    "gn:longitude":-12.28627,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kumunkhuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kumunkhuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407219
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"3216b0983774566db20c89b44e34d0ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1210019763,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1210019763,
+    "wof:lastmodified":1537700588,
+    "wof:name":"Kumunkhuri",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.28627,
+    9.68433,
+    -12.28627,
+    9.68433
+],
+  "geometry": {"coordinates":[-12.28627,9.68433],"type":"Point"}
+}

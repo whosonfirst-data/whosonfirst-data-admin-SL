@@ -1,0 +1,64 @@
+{
+  "id": 1209325993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.60759,8.23573,-12.60759,8.23573",
+    "geom:latitude":8.23573,
+    "geom:longitude":-12.60759,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kweiu",
+    "gn:country_code":"SL",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893153,
+    "gn:latitude":8.23573,
+    "gn:longitude":-12.60759,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Kweiu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kweiu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893153
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f4ea25afca3c208e84baa7418c2b51cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209325993
+        }
+    ],
+    "wof:id":1209325993,
+    "wof:lastmodified":1537700830,
+    "wof:name":"Kweiu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.60759,
+    8.23573,
+    -12.60759,
+    8.23573
+],
+  "geometry": {"coordinates":[-12.60759,8.23573],"type":"Point"}
+}

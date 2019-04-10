@@ -1,0 +1,70 @@
+{
+  "id": 1260287745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.6576,9.24666,-12.6576,9.24666",
+    "geom:latitude":9.24666,
+    "geom:longitude":-12.6576,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Borea",
+    "gn:country_code":"SL",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880896,
+    "gn:latitude":9.24666,
+    "gn:longitude":-12.6576,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Borea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Borea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880896
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ecb148ae60b16b4624e89264fee1edb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1260287745,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1260287745,
+    "wof:lastmodified":1537700814,
+    "wof:name":"Borea",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.6576,
+    9.24666,
+    -12.6576,
+    9.24666
+],
+  "geometry": {"coordinates":[-12.6576,9.24666],"type":"Point"}
+}

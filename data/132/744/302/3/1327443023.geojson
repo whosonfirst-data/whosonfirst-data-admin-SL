@@ -1,0 +1,70 @@
+{
+  "id": 1327443023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.00293,7.65137,-12.00293,7.65137",
+    "geom:latitude":7.65137,
+    "geom:longitude":-12.00293,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"London",
+    "gn:country_code":"SL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876172,
+    "gn:latitude":7.65137,
+    "gn:longitude":-12.00293,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"London",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "London"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876172
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fb4e9ae6ab4444911974462f6880d8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1327443023,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327443023,
+    "wof:lastmodified":1537700776,
+    "wof:name":"London",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.00293,
+    7.65137,
+    -12.00293,
+    7.65137
+],
+  "geometry": {"coordinates":[-12.00293,7.65137],"type":"Point"}
+}

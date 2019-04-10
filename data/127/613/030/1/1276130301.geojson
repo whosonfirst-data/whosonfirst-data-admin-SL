@@ -1,0 +1,70 @@
+{
+  "id": 1276130301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.57338,7.87328,-12.57338,7.87328",
+    "geom:latitude":7.87328,
+    "geom:longitude":-12.57338,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Funkia",
+    "gn:country_code":"SL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409268,
+    "gn:latitude":7.87328,
+    "gn:longitude":-12.57338,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Funkia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Funkia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409268
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"55790670efc3c53434865642898223be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1276130301,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276130301,
+    "wof:lastmodified":1537700657,
+    "wof:name":"Funkia",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.57338,
+    7.87328,
+    -12.57338,
+    7.87328
+],
+  "geometry": {"coordinates":[-12.57338,7.87328],"type":"Point"}
+}

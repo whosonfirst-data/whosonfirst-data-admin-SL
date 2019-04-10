@@ -1,0 +1,70 @@
+{
+  "id": 1343765015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.19805,9.2103,-12.19805,9.2103",
+    "geom:latitude":9.2103,
+    "geom:longitude":-12.19805,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbitan",
+    "gn:country_code":"SL",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10133367,
+    "gn:latitude":9.2103,
+    "gn:longitude":-12.19805,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Gbitan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbitan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10133367
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"13c9bcb7ae9dba364bdc554761d7b554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1343765015,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343765015,
+    "wof:lastmodified":1537700940,
+    "wof:name":"Gbitan",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.19805,
+    9.2103,
+    -12.19805,
+    9.2103
+],
+  "geometry": {"coordinates":[-12.19805,9.2103],"type":"Point"}
+}

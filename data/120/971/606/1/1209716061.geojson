@@ -1,0 +1,70 @@
+{
+  "id": 1209716061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.11092,8.39286,-13.11092,8.39286",
+    "geom:latitude":8.39286,
+    "geom:longitude":-13.11092,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yams Farm",
+    "gn:country_code":"SL",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566448,
+    "gn:latitude":8.39286,
+    "gn:longitude":-13.11092,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Yams Farm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yams Farm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566448
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c28542d9d2cc2c0ce8372e3024325ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1209716061,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1209716061,
+    "wof:lastmodified":1537700708,
+    "wof:name":"Yams Farm",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.11092,
+    8.39286,
+    -13.11092,
+    8.39286
+],
+  "geometry": {"coordinates":[-13.11092,8.39286],"type":"Point"}
+}

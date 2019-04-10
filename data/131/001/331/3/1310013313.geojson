@@ -1,0 +1,70 @@
+{
+  "id": 1310013313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.01548,7.73981,-12.01548,7.73981",
+    "geom:latitude":7.73981,
+    "geom:longitude":-12.01548,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wunde",
+    "gn:country_code":"SL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876127,
+    "gn:latitude":7.73981,
+    "gn:longitude":-12.01548,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Wunde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wunde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876127
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"658f3c0b77f3d0d858e44bd5c6f0b6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1310013313,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310013313,
+    "wof:lastmodified":1537700775,
+    "wof:name":"Wunde",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.01548,
+    7.73981,
+    -12.01548,
+    7.73981
+],
+  "geometry": {"coordinates":[-12.01548,7.73981],"type":"Point"}
+}

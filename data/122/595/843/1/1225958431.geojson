@@ -1,0 +1,70 @@
+{
+  "id": 1225958431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.61937,8.91215,-10.61937,8.91215",
+    "geom:latitude":8.91215,
+    "geom:longitude":-10.61937,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dalaba",
+    "gn:country_code":"SL",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10007186,
+    "gn:latitude":8.91215,
+    "gn:longitude":-10.61937,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Dalaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dalaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10007186
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"aa2e987db1a4e20508cb6973143b012b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1225958431,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1225958431,
+    "wof:lastmodified":1537700909,
+    "wof:name":"Dalaba",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.61937,
+    8.91215,
+    -10.61937,
+    8.91215
+],
+  "geometry": {"coordinates":[-10.61937,8.91215],"type":"Point"}
+}

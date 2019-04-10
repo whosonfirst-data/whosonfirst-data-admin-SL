@@ -1,0 +1,83 @@
+{
+  "id": 1326944417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.30529,8.3091,-10.30529,8.3091",
+    "geom:latitude":8.3091,
+    "geom:longitude":-10.30529,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sadupampo",
+    "gn:country_code":"SL",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404223,
+    "gn:latitude":8.3091,
+    "gn:longitude":-10.30529,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Sadupampo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sadupampo"
+    ],
+    "name:und_x_variant":[
+        "Sadupompo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693663,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404223
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"973272a092ed36f9cedca1f1a3e4ff0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693663,
+            "locality_id":1326944417,
+            "region_id":85673539
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1326944417,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1326944417,
+    "wof:lastmodified":1537700488,
+    "wof:name":"Sadupampo",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.30529,
+    8.3091,
+    -10.30529,
+    8.3091
+],
+  "geometry": {"coordinates":[-10.30529,8.3091],"type":"Point"}
+}

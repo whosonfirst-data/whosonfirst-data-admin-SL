@@ -1,0 +1,70 @@
+{
+  "id": 1310705043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.00988,8.92284,-13.00988,8.92284",
+    "geom:latitude":8.92284,
+    "geom:longitude":-13.00988,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makot",
+    "gn:country_code":"SL",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406308,
+    "gn:latitude":8.92284,
+    "gn:longitude":-13.00988,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Makot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406308
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d1b6d9a2cfdd2d1d6c8eced90ecdab8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1310705043,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310705043,
+    "wof:lastmodified":1537700558,
+    "wof:name":"Makot",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.00988,
+    8.92284,
+    -13.00988,
+    8.92284
+],
+  "geometry": {"coordinates":[-13.00988,8.92284],"type":"Point"}
+}

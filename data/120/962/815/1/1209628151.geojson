@@ -1,0 +1,64 @@
+{
+  "id": 1209628151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.60745,9.23306,-12.60745,9.23306",
+    "geom:latitude":9.23306,
+    "geom:longitude":-12.60745,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bangoro",
+    "gn:country_code":"SL",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880888,
+    "gn:latitude":9.23306,
+    "gn:longitude":-12.60745,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Bangoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bangoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880888
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"612823583cd889469dc35483b5bbc2f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209628151
+        }
+    ],
+    "wof:id":1209628151,
+    "wof:lastmodified":1537700814,
+    "wof:name":"Bangoro",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.60745,
+    9.23306,
+    -12.60745,
+    9.23306
+],
+  "geometry": {"coordinates":[-12.60745,9.23306],"type":"Point"}
+}

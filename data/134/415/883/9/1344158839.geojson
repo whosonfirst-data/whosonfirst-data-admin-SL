@@ -1,0 +1,71 @@
+{
+  "id": 1344158839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.55936,8.19527,-12.55936,8.19527",
+    "geom:latitude":8.19527,
+    "geom:longitude":-12.55936,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gibina",
+    "gn:country_code":"SL",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408865,
+    "gn:latitude":8.19527,
+    "gn:longitude":-12.55936,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gibina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gihina",
+        "Gibina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408865
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a10abb7be4addb037f9046eba7a9b2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1344158839,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1344158839,
+    "wof:lastmodified":1537700642,
+    "wof:name":"Gibina",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.55936,
+    8.19527,
+    -12.55936,
+    8.19527
+],
+  "geometry": {"coordinates":[-12.55936,8.19527],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226154543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.68909,8.15549,-12.68909,8.15549",
+    "geom:latitude":8.15549,
+    "geom:longitude":-12.68909,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mobamba",
+    "gn:country_code":"SL",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893525,
+    "gn:latitude":8.15549,
+    "gn:longitude":-12.68909,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Mobamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mobamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893525
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7e84c0b537dcbaa80d9f4d45a570a657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226154543,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226154543,
+    "wof:lastmodified":1537700835,
+    "wof:name":"Mobamba",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.68909,
+    8.15549,
+    -12.68909,
+    8.15549
+],
+  "geometry": {"coordinates":[-12.68909,8.15549],"type":"Point"}
+}

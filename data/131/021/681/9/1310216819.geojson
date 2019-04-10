@@ -1,0 +1,74 @@
+{
+  "id": 1310216819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.11796,7.57712,-12.11796,7.57712",
+    "geom:latitude":7.57712,
+    "geom:longitude":-12.11796,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Karleh",
+    "gn:country_code":"SL",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408196,
+    "gn:latitude":7.57712,
+    "gn:longitude":-12.11796,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Karleh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karleh"
+    ],
+    "name:und_x_variant":[
+        "Kali",
+        "Kale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408196
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a4addd9ac50e213558c5896cf1a81ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1310216819,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310216819,
+    "wof:lastmodified":1537700620,
+    "wof:name":"Karleh",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.11796,
+    7.57712,
+    -12.11796,
+    7.57712
+],
+  "geometry": {"coordinates":[-12.11796,7.57712],"type":"Point"}
+}

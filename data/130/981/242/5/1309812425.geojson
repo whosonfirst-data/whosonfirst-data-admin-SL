@@ -1,0 +1,70 @@
+{
+  "id": 1309812425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.99271,9.46995,-11.99271,9.46995",
+    "geom:latitude":9.46995,
+    "geom:longitude":-11.99271,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kindia",
+    "gn:country_code":"SL",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407724,
+    "gn:latitude":9.46995,
+    "gn:longitude":-11.99271,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kindia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kindia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407724
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"74689bdaa5c54b0c4e9139efb057b626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1309812425,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309812425,
+    "wof:lastmodified":1537700605,
+    "wof:name":"Kindia",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.99271,
+    9.46995,
+    -11.99271,
+    9.46995
+],
+  "geometry": {"coordinates":[-11.99271,9.46995],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327038797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.51103,9.60253,-11.51103,9.60253",
+    "geom:latitude":9.60253,
+    "geom:longitude":-11.51103,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yanfurandor",
+    "gn:country_code":"SL",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870965,
+    "gn:latitude":9.60253,
+    "gn:longitude":-11.51103,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Yanfurandor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yanfurandor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870965
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1e28e80d4a0200a02976f2536604bf7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1327038797,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327038797,
+    "wof:lastmodified":1537700729,
+    "wof:name":"Yanfurandor",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.51103,
+    9.60253,
+    -11.51103,
+    9.60253
+],
+  "geometry": {"coordinates":[-11.51103,9.60253],"type":"Point"}
+}

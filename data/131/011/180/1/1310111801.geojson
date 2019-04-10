@@ -1,0 +1,67 @@
+{
+  "id": 1310111801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.06667,8.33333,-13.06667,8.33333",
+    "geom:latitude":8.33333,
+    "geom:longitude":-13.06667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tombo",
+    "gn:country_code":"SL",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9191809,
+    "gn:latitude":8.33333,
+    "gn:longitude":-13.06667,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Tombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9191809
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b151ddc2b97c4cbe4ecc8423e755d43d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1310111801,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1310111801,
+    "wof:lastmodified":1536986545,
+    "wof:name":"Tombo",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.06667,
+    8.33333,
+    -13.06667,
+    8.33333
+],
+  "geometry": {"coordinates":[-13.06667,8.33333],"type":"Point"}
+}

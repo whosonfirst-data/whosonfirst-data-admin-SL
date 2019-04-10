@@ -1,0 +1,70 @@
+{
+  "id": 1209927037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.18314,8.99411,-12.18314,8.99411",
+    "geom:latitude":8.99411,
+    "geom:longitude":-12.18314,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tanehun",
+    "gn:country_code":"SL",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403596,
+    "gn:latitude":8.99411,
+    "gn:longitude":-12.18314,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Tanehun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tanehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403596
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ab7fa5caf20f0a34b04dd89c40a18c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1209927037,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1209927037,
+    "wof:lastmodified":1537700468,
+    "wof:name":"Tanehun",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.18314,
+    8.99411,
+    -12.18314,
+    8.99411
+],
+  "geometry": {"coordinates":[-12.18314,8.99411],"type":"Point"}
+}

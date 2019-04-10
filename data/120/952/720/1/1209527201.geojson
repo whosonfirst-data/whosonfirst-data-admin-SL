@@ -1,0 +1,64 @@
+{
+  "id": 1209527201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.67124,7.56005,-12.67124,7.56005",
+    "geom:latitude":7.56005,
+    "geom:longitude":-12.67124,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Balalo",
+    "gn:country_code":"SL",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593503,
+    "gn:latitude":7.56005,
+    "gn:longitude":-12.67124,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Balalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Balalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593503
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f806340f3bc671304c6eb672085b313c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209527201
+        }
+    ],
+    "wof:id":1209527201,
+    "wof:lastmodified":1537700718,
+    "wof:name":"Balalo",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.67124,
+    7.56005,
+    -12.67124,
+    7.56005
+],
+  "geometry": {"coordinates":[-12.67124,7.56005],"type":"Point"}
+}

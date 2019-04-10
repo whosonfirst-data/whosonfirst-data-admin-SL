@@ -1,0 +1,70 @@
+{
+  "id": 1243265783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.34421,8.11555,-11.34421,8.11555",
+    "geom:latitude":8.11555,
+    "geom:longitude":-11.34421,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pendembu",
+    "gn:country_code":"SL",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9913407,
+    "gn:latitude":8.11555,
+    "gn:longitude":-11.34421,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Pendembu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pendembu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9913407
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e35ec8d76e4968e906f81f90d0ca5846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1243265783,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1243265783,
+    "wof:lastmodified":1537700857,
+    "wof:name":"Pendembu",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.34421,
+    8.11555,
+    -11.34421,
+    8.11555
+],
+  "geometry": {"coordinates":[-11.34421,8.11555],"type":"Point"}
+}

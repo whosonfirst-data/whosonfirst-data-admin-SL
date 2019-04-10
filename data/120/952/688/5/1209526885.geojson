@@ -1,0 +1,65 @@
+{
+  "id": 1209526885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.1901,8.28231,-12.1901,8.28231",
+    "geom:latitude":8.28231,
+    "geom:longitude":-12.1901,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gbogonma",
+    "gn:country_code":"SL",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408988,
+    "gn:latitude":8.28231,
+    "gn:longitude":-12.1901,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gbogonma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bongama",
+        "Gbogonma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408988
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"727e9a38e0101394b04a16cf88d460f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209526885
+        }
+    ],
+    "wof:id":1209526885,
+    "wof:lastmodified":1537700646,
+    "wof:name":"Gbogonma",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.1901,
+    8.28231,
+    -12.1901,
+    8.28231
+],
+  "geometry": {"coordinates":[-12.1901,8.28231],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242695647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.50189,8.76088,-10.50189,8.76088",
+    "geom:latitude":8.76088,
+    "geom:longitude":-10.50189,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sagbawali",
+    "gn:country_code":"SL",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404220,
+    "gn:latitude":8.76088,
+    "gn:longitude":-10.50189,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Sagbawali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sagbawali"
+    ],
+    "name:und_x_variant":[
+        "Sagbawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404220
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5af79067e2321891fe177f0a2a4b1f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1242695647,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1242695647,
+    "wof:lastmodified":1537700488,
+    "wof:name":"Sagbawali",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.50189,
+    8.76088,
+    -10.50189,
+    8.76088
+],
+  "geometry": {"coordinates":[-10.50189,8.76088],"type":"Point"}
+}

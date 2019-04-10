@@ -1,0 +1,70 @@
+{
+  "id": 1209718609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.95903,8.83177,-12.95903,8.83177",
+    "geom:latitude":8.83177,
+    "geom:longitude":-12.95903,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Katoma",
+    "gn:country_code":"SL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407860,
+    "gn:latitude":8.83177,
+    "gn:longitude":-12.95903,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Katoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Katoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407860
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5c44e8f6754b7066ce3c94e7045d6881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1209718609,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1209718609,
+    "wof:lastmodified":1537700609,
+    "wof:name":"Katoma",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.95903,
+    8.83177,
+    -12.95903,
+    8.83177
+],
+  "geometry": {"coordinates":[-12.95903,8.83177],"type":"Point"}
+}

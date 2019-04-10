@@ -1,0 +1,70 @@
+{
+  "id": 1226649329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.25213,8.41343,-12.25213,8.41343",
+    "geom:latitude":8.41343,
+    "geom:longitude":-12.25213,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Magbeika",
+    "gn:country_code":"SL",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9873569,
+    "gn:latitude":8.41343,
+    "gn:longitude":-12.25213,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Magbeika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magbeika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9873569
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6e1fbcf54d26d783e2c748d392ff3afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1226649329,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226649329,
+    "wof:lastmodified":1537700757,
+    "wof:name":"Magbeika",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.25213,
+    8.41343,
+    -12.25213,
+    8.41343
+],
+  "geometry": {"coordinates":[-12.25213,8.41343],"type":"Point"}
+}

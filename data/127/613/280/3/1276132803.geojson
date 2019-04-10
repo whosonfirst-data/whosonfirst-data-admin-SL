@@ -1,0 +1,70 @@
+{
+  "id": 1276132803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9967,8.76133,-10.9967,8.76133",
+    "geom:latitude":8.76133,
+    "geom:longitude":-10.9967,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gbangbaro",
+    "gn:country_code":"SL",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409100,
+    "gn:latitude":8.76133,
+    "gn:longitude":-10.9967,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Gbangbaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbangbaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409100
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"98299367d226ebf81ce665b8262aeb9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1276132803,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1276132803,
+    "wof:lastmodified":1537700650,
+    "wof:name":"Gbangbaro",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9967,
+    8.76133,
+    -10.9967,
+    8.76133
+],
+  "geometry": {"coordinates":[-10.9967,8.76133],"type":"Point"}
+}

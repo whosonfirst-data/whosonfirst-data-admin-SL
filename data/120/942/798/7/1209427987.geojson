@@ -1,0 +1,68 @@
+{
+  "id": 1209427987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.17445,8.36522,-12.17445,8.36522",
+    "geom:latitude":8.36522,
+    "geom:longitude":-12.17445,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbonkolali",
+    "gn:country_code":"SL",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408943,
+    "gn:latitude":8.36522,
+    "gn:longitude":-12.17445,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gbonkolali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbonkolali"
+    ],
+    "name:und_x_variant":[
+        "Gbonkolal",
+        "Gbonkolah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408943
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6724a5660560cc355e80d61e33cd8764",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209427987
+        }
+    ],
+    "wof:id":1209427987,
+    "wof:lastmodified":1537700645,
+    "wof:name":"Gbonkolali",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.17445,
+    8.36522,
+    -12.17445,
+    8.36522
+],
+  "geometry": {"coordinates":[-12.17445,8.36522],"type":"Point"}
+}

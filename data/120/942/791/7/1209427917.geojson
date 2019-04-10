@@ -1,0 +1,65 @@
+{
+  "id": 1209427917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.89694,8.65482,-12.89694,8.65482",
+    "geom:latitude":8.65482,
+    "geom:longitude":-12.89694,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Benkia",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410137,
+    "gn:latitude":8.65482,
+    "gn:longitude":-12.89694,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Benkia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Benkai",
+        "Benkia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410137
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"720425f60b887003c04401edb140f2c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209427917
+        }
+    ],
+    "wof:id":1209427917,
+    "wof:lastmodified":1537700687,
+    "wof:name":"Benkia",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.89694,
+    8.65482,
+    -12.89694,
+    8.65482
+],
+  "geometry": {"coordinates":[-12.89694,8.65482],"type":"Point"}
+}

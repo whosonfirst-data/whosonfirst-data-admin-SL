@@ -1,0 +1,73 @@
+{
+  "id": 1293116421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.98993,8.26319,-10.98993,8.26319",
+    "geom:latitude":8.26319,
+    "geom:longitude":-10.98993,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gorlama",
+    "gn:country_code":"SL",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408662,
+    "gn:latitude":8.26319,
+    "gn:longitude":-10.98993,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gorlama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gorlama"
+    ],
+    "name:und_x_variant":[
+        "Goriama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408662
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b1adf5ab03ce967f66c8fe4647367564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1293116421,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293116421,
+    "wof:lastmodified":1537700635,
+    "wof:name":"Gorlama",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.98993,
+    8.26319,
+    -10.98993,
+    8.26319
+],
+  "geometry": {"coordinates":[-10.98993,8.26319],"type":"Point"}
+}

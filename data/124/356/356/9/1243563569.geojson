@@ -1,0 +1,67 @@
+{
+  "id": 1243563569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.99182,8.36615,-12.99182,8.36615",
+    "geom:latitude":8.36615,
+    "geom:longitude":-12.99182,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ma-tankla",
+    "gn:country_code":"SL",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872128,
+    "gn:latitude":8.36615,
+    "gn:longitude":-12.99182,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ma-tankla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872128
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"46ce4b333e516cf8d7066ddba400960f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1243563569,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1243563569,
+    "wof:lastmodified":1536635409,
+    "wof:name":"Ma-tankla",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.99182,
+    8.36615,
+    -12.99182,
+    8.36615
+],
+  "geometry": {"coordinates":[-12.99182,8.36615],"type":"Point"}
+}

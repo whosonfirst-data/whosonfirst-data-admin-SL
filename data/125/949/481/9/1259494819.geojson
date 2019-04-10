@@ -1,0 +1,73 @@
+{
+  "id": 1259494819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.83274,7.99084,-11.83274,7.99084",
+    "geom:latitude":7.99084,
+    "geom:longitude":-11.83274,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Maboyama",
+    "gn:country_code":"SL",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570777,
+    "gn:latitude":7.99084,
+    "gn:longitude":-11.83274,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Maboyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maboyama"
+    ],
+    "name:und_x_variant":[
+        "Meboyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570777
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"34619e8183d8f403098d85140d4e7892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1259494819,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1259494819,
+    "wof:lastmodified":1537700715,
+    "wof:name":"Maboyama",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.83274,
+    7.99084,
+    -11.83274,
+    7.99084
+],
+  "geometry": {"coordinates":[-11.83274,7.99084],"type":"Point"}
+}

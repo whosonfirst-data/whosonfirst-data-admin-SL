@@ -1,0 +1,70 @@
+{
+  "id": 1276992905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.75269,7.74355,-11.75269,7.74355",
+    "geom:latitude":7.74355,
+    "geom:longitude":-11.75269,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tikonkowo",
+    "gn:country_code":"SL",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403435,
+    "gn:latitude":7.74355,
+    "gn:longitude":-11.75269,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tikonkowo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tikonkoworo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403435
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b25897c882a7dd55c7dfbac759de9a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1276992905,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276992905,
+    "wof:lastmodified":1537700462,
+    "wof:name":"Tikonkowo",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.75269,
+    7.74355,
+    -11.75269,
+    7.74355
+],
+  "geometry": {"coordinates":[-11.75269,7.74355],"type":"Point"}
+}

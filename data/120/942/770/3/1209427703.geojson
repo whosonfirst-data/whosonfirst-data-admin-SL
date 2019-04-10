@@ -1,0 +1,64 @@
+{
+  "id": 1209427703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.19434,9.00995,-13.19434,9.00995",
+    "geom:latitude":9.00995,
+    "geom:longitude":-13.19434,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kila",
+    "gn:country_code":"SL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407735,
+    "gn:latitude":9.00995,
+    "gn:longitude":-13.19434,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407735
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"056dbd73163815f3ddd5fb19437a502e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209427703
+        }
+    ],
+    "wof:id":1209427703,
+    "wof:lastmodified":1537700605,
+    "wof:name":"Kila",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.19434,
+    9.00995,
+    -13.19434,
+    9.00995
+],
+  "geometry": {"coordinates":[-13.19434,9.00995],"type":"Point"}
+}

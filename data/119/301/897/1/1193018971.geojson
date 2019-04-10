@@ -1,0 +1,70 @@
+{
+  "id": 1193018971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.61497,8.34316,-12.61497,8.34316",
+    "geom:latitude":8.34316,
+    "geom:longitude":-12.61497,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mamu",
+    "gn:country_code":"SL",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872903,
+    "gn:latitude":8.34316,
+    "gn:longitude":-12.61497,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Mamu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872903
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8b1c538de507219f7109f5380ab69760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1193018971,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1193018971,
+    "wof:lastmodified":1537700749,
+    "wof:name":"Mamu",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.61497,
+    8.34316,
+    -12.61497,
+    8.34316
+],
+  "geometry": {"coordinates":[-12.61497,8.34316],"type":"Point"}
+}

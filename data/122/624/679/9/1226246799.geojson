@@ -1,0 +1,70 @@
+{
+  "id": 1226246799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.13952,8.3398,-11.13952,8.3398",
+    "geom:latitude":8.3398,
+    "geom:longitude":-11.13952,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gpowobu",
+    "gn:country_code":"SL",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408645,
+    "gn:latitude":8.3398,
+    "gn:longitude":-11.13952,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gpowobu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gpowobu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408645
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9d22b9c9530340ac1aab6e341662eb39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1226246799,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226246799,
+    "wof:lastmodified":1537700635,
+    "wof:name":"Gpowobu",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.13952,
+    8.3398,
+    -11.13952,
+    8.3398
+],
+  "geometry": {"coordinates":[-11.13952,8.3398],"type":"Point"}
+}

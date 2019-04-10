@@ -1,0 +1,70 @@
+{
+  "id": 1209728433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.20185,9.67513,-12.20185,9.67513",
+    "geom:latitude":9.67513,
+    "geom:longitude":-12.20185,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Simbaria",
+    "gn:country_code":"SL",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403827,
+    "gn:latitude":9.67513,
+    "gn:longitude":-12.20185,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Simbaria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Simbaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403827
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9d359f5d62d1c0006a3366c40650942b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1209728433,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1209728433,
+    "wof:lastmodified":1537700475,
+    "wof:name":"Simbaria",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.20185,
+    9.67513,
+    -12.20185,
+    9.67513
+],
+  "geometry": {"coordinates":[-12.20185,9.67513],"type":"Point"}
+}

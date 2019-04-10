@@ -1,0 +1,124 @@
+{
+  "id": 421199059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.53333,8.68333,-12.53333,8.68333",
+    "geom:latitude":8.68333,
+    "geom:longitude":-12.53333,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041b\u0443\u043d\u0441\u0430\u0440"
+    ],
+    "name:dan_x_preferred":[
+        "Lunsar"
+    ],
+    "name:deu_x_preferred":[
+        "Lunsar"
+    ],
+    "name:dut_x_preferred":[
+        "Lunsar"
+    ],
+    "name:eng_x_preferred":[
+        "Lunsar"
+    ],
+    "name:fin_x_preferred":[
+        "Lunsar"
+    ],
+    "name:fra_x_preferred":[
+        "Lunsar"
+    ],
+    "name:fre_x_preferred":[
+        "Lunsar"
+    ],
+    "name:ger_x_preferred":[
+        "Lunsar"
+    ],
+    "name:pol_x_preferred":[
+        "Lunsar"
+    ],
+    "name:por_x_preferred":[
+        "Lunsar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043d\u0441\u0430\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0443\u043d\u0441\u0430\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Lansar"
+    ],
+    "qs:gn_country":"SL",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2406916,
+    "qs:gn_pop":22461,
+    "qs:name":"Lunsar",
+    "qs:name_adm0":"Sierra Leone",
+    "qs:name_adm1":"Northern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":188971,
+    "qs:woe_adm0":23424946,
+    "qs:woe_id":1421065,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":191,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406916,
+        "gp:id":1421065,
+        "qs:id":188971,
+        "wd:id":"Q995392",
+        "wk:page":"Lunsar"
+    },
+    "wof:country":"SL",
+    "wof:created":1459009976,
+    "wof:geomhash":"4a1df87542d0d75b02354be026689978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":421199059,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":421199059,
+    "wof:lastmodified":1527716418,
+    "wof:name":"Lunsar",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:population":22461,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.53333,
+    8.68333,
+    -12.53333,
+    8.68333
+],
+  "geometry": {"coordinates":[-12.53333,8.68333],"type":"Point"}
+}

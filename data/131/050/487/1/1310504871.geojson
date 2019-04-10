@@ -1,0 +1,70 @@
+{
+  "id": 1310504871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.94831,9.23326,-12.94831,9.23326",
+    "geom:latitude":9.23326,
+    "geom:longitude":-12.94831,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kambiadi",
+    "gn:country_code":"SL",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880624,
+    "gn:latitude":9.23326,
+    "gn:longitude":-12.94831,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Kambiadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kambiadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880624
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c8e8ac456698f467c15b4873f699efa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1310504871,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310504871,
+    "wof:lastmodified":1537700806,
+    "wof:name":"Kambiadi",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.94831,
+    9.23326,
+    -12.94831,
+    9.23326
+],
+  "geometry": {"coordinates":[-12.94831,9.23326],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226056859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.76806,8.73841,-10.76806,8.73841",
+    "geom:latitude":8.73841,
+    "geom:longitude":-10.76806,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Wadu",
+    "gn:country_code":"SL",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403162,
+    "gn:latitude":8.73841,
+    "gn:longitude":-10.76806,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Wadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403162
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9b077ebb41e530d3f1f3e4b0a03d793d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1226056859,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226056859,
+    "wof:lastmodified":1537700454,
+    "wof:name":"Wadu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.76806,
+    8.73841,
+    -10.76806,
+    8.73841
+],
+  "geometry": {"coordinates":[-10.76806,8.73841],"type":"Point"}
+}

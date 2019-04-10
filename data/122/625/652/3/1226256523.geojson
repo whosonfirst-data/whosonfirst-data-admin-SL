@@ -1,0 +1,73 @@
+{
+  "id": 1226256523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.09928,8.44618,-11.09928,8.44618",
+    "geom:latitude":8.44618,
+    "geom:longitude":-11.09928,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Senjekoro",
+    "gn:country_code":"SL",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402738,
+    "gn:latitude":8.44618,
+    "gn:longitude":-11.09928,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Senjekoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Senjekoro"
+    ],
+    "name:und_x_variant":[
+        "Yomboia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402738
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a2c76f58d7a39f09254d97a680a488db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1226256523,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226256523,
+    "wof:lastmodified":1537700441,
+    "wof:name":"Senjekoro",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.09928,
+    8.44618,
+    -11.09928,
+    8.44618
+],
+  "geometry": {"coordinates":[-11.09928,8.44618],"type":"Point"}
+}

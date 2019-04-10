@@ -1,0 +1,70 @@
+{
+  "id": 1293602205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.94809,9.06475,-12.94809,9.06475",
+    "geom:latitude":9.06475,
+    "geom:longitude":-12.94809,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mafika",
+    "gn:country_code":"SL",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880649,
+    "gn:latitude":9.06475,
+    "gn:longitude":-12.94809,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Mafika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mafika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880649
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"80b53e8b8c29a901dfb55fce1b1c0fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1293602205,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293602205,
+    "wof:lastmodified":1537700807,
+    "wof:name":"Mafika",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.94809,
+    9.06475,
+    -12.94809,
+    9.06475
+],
+  "geometry": {"coordinates":[-12.94809,9.06475],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209629433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.20685,7.47652,-11.20685,7.47652",
+    "geom:latitude":7.47652,
+    "geom:longitude":-11.20685,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jembe",
+    "gn:country_code":"SL",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893099,
+    "gn:latitude":7.47652,
+    "gn:longitude":-11.20685,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Jembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893099
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"cd9a03cab4494ee15b97553f668c99fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209629433
+        }
+    ],
+    "wof:id":1209629433,
+    "wof:lastmodified":1537700828,
+    "wof:name":"Jembe",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.20685,
+    7.47652,
+    -11.20685,
+    7.47652
+],
+  "geometry": {"coordinates":[-11.20685,7.47652],"type":"Point"}
+}

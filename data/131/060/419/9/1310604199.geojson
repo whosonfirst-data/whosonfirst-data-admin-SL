@@ -1,0 +1,70 @@
+{
+  "id": 1310604199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.72668,9.27608,-12.72668,9.27608",
+    "geom:latitude":9.27608,
+    "geom:longitude":-12.72668,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mabanda",
+    "gn:country_code":"SL",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406883,
+    "gn:latitude":9.27608,
+    "gn:longitude":-12.72668,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mabanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mabanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406883
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1fb1e1c034a63618f81517c37992538f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1310604199,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310604199,
+    "wof:lastmodified":1537700577,
+    "wof:name":"Mabanda",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.72668,
+    9.27608,
+    -12.72668,
+    9.27608
+],
+  "geometry": {"coordinates":[-12.72668,9.27608],"type":"Point"}
+}

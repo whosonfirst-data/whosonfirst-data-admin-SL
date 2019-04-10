@@ -1,0 +1,67 @@
+{
+  "id": 1209016195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.74268,7.76184,-11.74268,7.76184",
+    "geom:latitude":7.76184,
+    "geom:longitude":-11.74268,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yandiama",
+    "gn:country_code":"SL",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402927,
+    "gn:latitude":7.76184,
+    "gn:longitude":-11.74268,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yandiama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yandiama"
+    ],
+    "name:und_x_variant":[
+        "Yandama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402927
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"12c724ab5600a88d43c68e3ff4605769",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209016195
+        }
+    ],
+    "wof:id":1209016195,
+    "wof:lastmodified":1537700447,
+    "wof:name":"Yandiama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.74268,
+    7.76184,
+    -11.74268,
+    7.76184
+],
+  "geometry": {"coordinates":[-11.74268,7.76184],"type":"Point"}
+}

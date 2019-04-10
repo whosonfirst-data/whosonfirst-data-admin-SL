@@ -1,0 +1,70 @@
+{
+  "id": 1242590701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.73728,9.34426,-12.73728,9.34426",
+    "geom:latitude":9.34426,
+    "geom:longitude":-12.73728,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tambingkhuri",
+    "gn:country_code":"SL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880524,
+    "gn:latitude":9.34426,
+    "gn:longitude":-12.73728,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Tambingkhuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tambingkhuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880524
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"69fc933c412f4304c9e61e158c9af864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1242590701,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1242590701,
+    "wof:lastmodified":1537700804,
+    "wof:name":"Tambingkhuri",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.73728,
+    9.34426,
+    -12.73728,
+    9.34426
+],
+  "geometry": {"coordinates":[-12.73728,9.34426],"type":"Point"}
+}

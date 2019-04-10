@@ -1,0 +1,70 @@
+{
+  "id": 1360296841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.3799,7.8305,-12.3799,7.8305",
+    "geom:latitude":7.8305,
+    "geom:longitude":-12.3799,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pambamawa",
+    "gn:country_code":"SL",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904309,
+    "gn:latitude":7.8305,
+    "gn:longitude":-12.3799,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Pambamawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pambamawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904309
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ab5143ad637ce9b82c7be42626e4f24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1360296841,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1360296841,
+    "wof:lastmodified":1537700851,
+    "wof:name":"Pambamawa",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.3799,
+    7.8305,
+    -12.3799,
+    7.8305
+],
+  "geometry": {"coordinates":[-12.3799,7.8305],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259585067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.57993,8.20947,-11.57993,8.20947",
+    "geom:latitude":8.20947,
+    "geom:longitude":-11.57993,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kotumahun",
+    "gn:country_code":"SL",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407393,
+    "gn:latitude":8.20947,
+    "gn:longitude":-11.57993,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kotumahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kotumahun"
+    ],
+    "name:und_x_variant":[
+        "Katomahun",
+        "Kotomahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407393
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"dc087578f2d93d2ad60492e9598d0c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1259585067,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1259585067,
+    "wof:lastmodified":1537700594,
+    "wof:name":"Kotumahun",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.57993,
+    8.20947,
+    -11.57993,
+    8.20947
+],
+  "geometry": {"coordinates":[-11.57993,8.20947],"type":"Point"}
+}

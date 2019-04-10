@@ -1,0 +1,67 @@
+{
+  "id": 1293204599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.63333,8.08333,-10.63333,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":-10.63333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yowema",
+    "gn:country_code":"SL",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402705,
+    "gn:latitude":8.08333,
+    "gn:longitude":-10.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Yowema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402705
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7b5c74826e039789d73030429fe1418e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1293204599,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293204599,
+    "wof:lastmodified":1536698107,
+    "wof:name":"Yowema",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.63333,
+    8.08333,
+    -10.63333,
+    8.08333
+],
+  "geometry": {"coordinates":[-10.63333,8.08333],"type":"Point"}
+}

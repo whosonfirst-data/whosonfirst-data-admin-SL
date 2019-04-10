@@ -1,0 +1,64 @@
+{
+  "id": 1209113593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.69679,8.08465,-12.69679,8.08465",
+    "geom:latitude":8.08465,
+    "geom:longitude":-12.69679,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mokaba",
+    "gn:country_code":"SL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893631,
+    "gn:latitude":8.08465,
+    "gn:longitude":-12.69679,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Mokaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mokaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893631
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8e82b03f6e65ae4a9ee48390fda6bf34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209113593
+        }
+    ],
+    "wof:id":1209113593,
+    "wof:lastmodified":1537700838,
+    "wof:name":"Mokaba",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.69679,
+    8.08465,
+    -12.69679,
+    8.08465
+],
+  "geometry": {"coordinates":[-12.69679,8.08465],"type":"Point"}
+}

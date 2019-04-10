@@ -1,0 +1,64 @@
+{
+  "id": 1209518331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.61752,9.46653,-12.61752,9.46653",
+    "geom:latitude":9.46653,
+    "geom:longitude":-12.61752,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Konika",
+    "gn:country_code":"SL",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880484,
+    "gn:latitude":9.46653,
+    "gn:longitude":-12.61752,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Konika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Konika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880484
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"79f349d794c18c8c147f8571f48cd582",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209518331
+        }
+    ],
+    "wof:id":1209518331,
+    "wof:lastmodified":1537700803,
+    "wof:name":"Konika",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.61752,
+    9.46653,
+    -12.61752,
+    9.46653
+],
+  "geometry": {"coordinates":[-12.61752,9.46653],"type":"Point"}
+}

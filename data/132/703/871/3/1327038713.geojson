@@ -1,0 +1,70 @@
+{
+  "id": 1327038713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.19871,8.64401,-13.19871,8.64401",
+    "geom:latitude":8.64401,
+    "geom:longitude":-13.19871,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kurankoya",
+    "gn:country_code":"SL",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566544,
+    "gn:latitude":8.64401,
+    "gn:longitude":-13.19871,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kurankoya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kurankoya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566544
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a0d98c65edc53319f0c462110833c173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1327038713,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327038713,
+    "wof:lastmodified":1537700710,
+    "wof:name":"Kurankoya",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.19871,
+    8.64401,
+    -13.19871,
+    8.64401
+],
+  "geometry": {"coordinates":[-13.19871,8.64401],"type":"Point"}
+}

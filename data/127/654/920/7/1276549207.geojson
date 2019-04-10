@@ -1,0 +1,70 @@
+{
+  "id": 1276549207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.94951,7.28502,-11.94951,7.28502",
+    "geom:latitude":7.28502,
+    "geom:longitude":-11.94951,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bolei",
+    "gn:country_code":"SL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9878190,
+    "gn:latitude":7.28502,
+    "gn:longitude":-11.94951,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Bolei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bolei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9878190
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a9dd4d4222e2b8f932bca4e36a35367f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1276549207,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276549207,
+    "wof:lastmodified":1537700789,
+    "wof:name":"Bolei",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.94951,
+    7.28502,
+    -11.94951,
+    7.28502
+],
+  "geometry": {"coordinates":[-11.94951,7.28502],"type":"Point"}
+}

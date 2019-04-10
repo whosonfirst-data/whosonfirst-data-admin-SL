@@ -1,0 +1,73 @@
+{
+  "id": 1327238959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.46594,7.92479,-12.46594,7.92479",
+    "geom:latitude":7.92479,
+    "geom:longitude":-12.46594,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ngiyebu",
+    "gn:country_code":"SL",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593519,
+    "gn:latitude":7.92479,
+    "gn:longitude":-12.46594,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Ngiyebu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ngiyebu"
+    ],
+    "name:und_x_variant":[
+        "Ngeihehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593519
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"92af86d09164f8b6d587ea1843f3b12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1327238959,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327238959,
+    "wof:lastmodified":1537700719,
+    "wof:name":"Ngiyebu",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.46594,
+    7.92479,
+    -12.46594,
+    7.92479
+],
+  "geometry": {"coordinates":[-12.46594,7.92479],"type":"Point"}
+}

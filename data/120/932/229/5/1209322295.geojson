@@ -1,0 +1,64 @@
+{
+  "id": 1209322295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.42615,7.45019,-12.42615,7.45019",
+    "geom:latitude":7.45019,
+    "geom:longitude":-12.42615,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kengesi",
+    "gn:country_code":"SL",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593615,
+    "gn:latitude":7.45019,
+    "gn:longitude":-12.42615,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kengesi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kengesi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593615
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"60bcb46a501008835078345691c98761",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209322295
+        }
+    ],
+    "wof:id":1209322295,
+    "wof:lastmodified":1537700722,
+    "wof:name":"Kengesi",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.42615,
+    7.45019,
+    -12.42615,
+    7.45019
+],
+  "geometry": {"coordinates":[-12.42615,7.45019],"type":"Point"}
+}

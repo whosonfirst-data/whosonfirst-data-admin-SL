@@ -1,0 +1,70 @@
+{
+  "id": 1343662093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.06297,8.27797,-13.06297,8.27797",
+    "geom:latitude":8.27797,
+    "geom:longitude":-13.06297,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kani",
+    "gn:country_code":"SL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566380,
+    "gn:latitude":8.27797,
+    "gn:longitude":-13.06297,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Kani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566380
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"87926a18c6a5e4c7032a1a64cc9619b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1343662093,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1343662093,
+    "wof:lastmodified":1537700706,
+    "wof:name":"Kani",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.06297,
+    8.27797,
+    -13.06297,
+    8.27797
+],
+  "geometry": {"coordinates":[-13.06297,8.27797],"type":"Point"}
+}

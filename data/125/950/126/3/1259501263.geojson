@@ -1,0 +1,71 @@
+{
+  "id": 1259501263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.61657,7.94631,-10.61657,7.94631",
+    "geom:latitude":7.94631,
+    "geom:longitude":-10.61657,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Wumoima",
+    "gn:country_code":"SL",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2402996,
+    "gn:latitude":7.94631,
+    "gn:longitude":-10.61657,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Wumoima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Niewoma",
+        "Wumoima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402996
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"af4d5f0e855c5825540845a0e3cc3736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1259501263,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1259501263,
+    "wof:lastmodified":1537700450,
+    "wof:name":"Wumoima",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.61657,
+    7.94631,
+    -10.61657,
+    7.94631
+],
+  "geometry": {"coordinates":[-10.61657,7.94631],"type":"Point"}
+}

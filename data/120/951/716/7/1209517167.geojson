@@ -1,0 +1,65 @@
+{
+  "id": 1209517167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.58481,7.95569,-11.58481,7.95569",
+    "geom:latitude":7.95569,
+    "geom:longitude":-11.58481,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jaluahun",
+    "gn:country_code":"SL",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408476,
+    "gn:latitude":7.95569,
+    "gn:longitude":-11.58481,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Jaluahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juluahun",
+        "Jaluahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408476
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b00f695808e27887ed94ed8164209079",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209517167
+        }
+    ],
+    "wof:id":1209517167,
+    "wof:lastmodified":1537700629,
+    "wof:name":"Jaluahun",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.58481,
+    7.95569,
+    -11.58481,
+    7.95569
+],
+  "geometry": {"coordinates":[-11.58481,7.95569],"type":"Point"}
+}

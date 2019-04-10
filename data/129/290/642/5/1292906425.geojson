@@ -1,0 +1,70 @@
+{
+  "id": 1292906425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.81014,8.64598,-11.81014,8.64598",
+    "geom:latitude":8.64598,
+    "geom:longitude":-11.81014,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makrugbe",
+    "gn:country_code":"SL",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406294,
+    "gn:latitude":8.64598,
+    "gn:longitude":-11.81014,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Makrugbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makrugbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406294
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"90c3bafff28fd5eb1bb67b7b47e1a075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1292906425,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1292906425,
+    "wof:lastmodified":1537700557,
+    "wof:name":"Makrugbe",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.81014,
+    8.64598,
+    -11.81014,
+    8.64598
+],
+  "geometry": {"coordinates":[-11.81014,8.64598],"type":"Point"}
+}

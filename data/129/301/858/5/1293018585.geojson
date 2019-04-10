@@ -1,0 +1,73 @@
+{
+  "id": 1293018585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.66459,8.72337,-10.66459,8.72337",
+    "geom:latitude":8.72337,
+    "geom:longitude":-10.66459,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kumando",
+    "gn:country_code":"SL",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407245,
+    "gn:latitude":8.72337,
+    "gn:longitude":-10.66459,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kumando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kumando"
+    ],
+    "name:und_x_variant":[
+        "Kumandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407245
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4da6cf9240433d1c62668698af28adf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1293018585,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293018585,
+    "wof:lastmodified":1537700589,
+    "wof:name":"Kumando",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.66459,
+    8.72337,
+    -10.66459,
+    8.72337
+],
+  "geometry": {"coordinates":[-10.66459,8.72337],"type":"Point"}
+}

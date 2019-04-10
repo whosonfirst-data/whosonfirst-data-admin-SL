@@ -1,0 +1,71 @@
+{
+  "id": 1326833353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.49791,8.7527,-12.49791,8.7527",
+    "geom:latitude":8.7527,
+    "geom:longitude":-12.49791,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Foredugu",
+    "gn:country_code":"SL",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409352,
+    "gn:latitude":8.7527,
+    "gn:longitude":-12.49791,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Foredugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Forodugu",
+        "Foredugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409352
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5ae52d6ff8c3e3a885856be041d9abef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1326833353,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1326833353,
+    "wof:lastmodified":1537700660,
+    "wof:name":"Foredugu",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.49791,
+    8.7527,
+    -12.49791,
+    8.7527
+],
+  "geometry": {"coordinates":[-12.49791,8.7527],"type":"Point"}
+}

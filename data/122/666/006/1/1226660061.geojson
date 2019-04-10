@@ -1,0 +1,70 @@
+{
+  "id": 1226660061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.94108,8.66025,-10.94108,8.66025",
+    "geom:latitude":8.66025,
+    "geom:longitude":-10.94108,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kaidu",
+    "gn:country_code":"SL",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10009647,
+    "gn:latitude":8.66025,
+    "gn:longitude":-10.94108,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Kaidu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaidu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10009647
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0c49dda2de03f1376d62e0f4ae1b95c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1226660061,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1226660061,
+    "wof:lastmodified":1537700911,
+    "wof:name":"Kaidu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.94108,
+    8.66025,
+    -10.94108,
+    8.66025
+],
+  "geometry": {"coordinates":[-10.94108,8.66025],"type":"Point"}
+}

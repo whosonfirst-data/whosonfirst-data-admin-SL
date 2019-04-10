@@ -1,0 +1,70 @@
+{
+  "id": 1293111361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.46268,8.95547,-11.46268,8.95547",
+    "geom:latitude":8.95547,
+    "geom:longitude":-11.46268,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bamaia",
+    "gn:country_code":"SL",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410566,
+    "gn:latitude":8.95547,
+    "gn:longitude":-11.46268,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Bamaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bamaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410566
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"409d3a92df33dfd74b6dfc6c29ed0384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1293111361,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293111361,
+    "wof:lastmodified":1537700701,
+    "wof:name":"Bamaia",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.46268,
+    8.95547,
+    -11.46268,
+    8.95547
+],
+  "geometry": {"coordinates":[-11.46268,8.95547],"type":"Point"}
+}

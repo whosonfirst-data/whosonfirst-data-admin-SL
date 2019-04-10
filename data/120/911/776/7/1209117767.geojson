@@ -1,0 +1,64 @@
+{
+  "id": 1209117767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.13314,8.17779,-12.13314,8.17779",
+    "geom:latitude":8.17779,
+    "geom:longitude":-12.13314,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jaiahun",
+    "gn:country_code":"SL",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408498,
+    "gn:latitude":8.17779,
+    "gn:longitude":-12.13314,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Jaiahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jaiahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408498
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d3013b63d7697e7600ba5a3e8b5a8b34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209117767
+        }
+    ],
+    "wof:id":1209117767,
+    "wof:lastmodified":1537700630,
+    "wof:name":"Jaiahun",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.13314,
+    8.17779,
+    -12.13314,
+    8.17779
+],
+  "geometry": {"coordinates":[-12.13314,8.17779],"type":"Point"}
+}

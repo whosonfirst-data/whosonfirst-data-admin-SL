@@ -1,0 +1,64 @@
+{
+  "id": 1209627935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.84484,9.96725,-11.84484,9.96725",
+    "geom:latitude":9.96725,
+    "geom:longitude":-11.84484,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Songo",
+    "gn:country_code":"SL",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403752,
+    "gn:latitude":9.96725,
+    "gn:longitude":-11.84484,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Songo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Songo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403752
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"08ede140242f6fc7fd0336bee30f67fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209627935
+        }
+    ],
+    "wof:id":1209627935,
+    "wof:lastmodified":1537700473,
+    "wof:name":"Songo",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.84484,
+    9.96725,
+    -11.84484,
+    9.96725
+],
+  "geometry": {"coordinates":[-11.84484,9.96725],"type":"Point"}
+}

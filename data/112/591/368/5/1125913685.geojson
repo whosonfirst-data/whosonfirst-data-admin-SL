@@ -1,0 +1,81 @@
+{
+  "id": 1125913685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.73333,8.53333,-10.73333,8.53333",
+    "geom:latitude":8.53333,
+    "geom:longitude":-10.73333,
+    "gn:gn_country":"SL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4005,
+    "gn:population":4005,
+    "iso:country":"SL",
+    "lbl:latitude":8.53333,
+    "lbl:longitude":-10.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Tombu"
+    ],
+    "qs_pg:aaroncc":"SL",
+    "qs_pg:gn_country":"SL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2403322,
+    "qs_pg:gn_pop":4005,
+    "qs_pg:name":"Tombu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1035431,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403322,
+        "qs_pg:id":1035431
+    },
+    "wof:country":"SL",
+    "wof:created":1497296245,
+    "wof:geomhash":"bc1a4f83bcc8fcdaf8495dd512b6d0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1125913685,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1125913685,
+    "wof:lastmodified":1509400366,
+    "wof:name":"Tombu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:population":4005,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.73333,
+    8.53333,
+    -10.73333,
+    8.53333
+],
+  "geometry": {"coordinates":[-10.73333,8.53333],"type":"Point"}
+}

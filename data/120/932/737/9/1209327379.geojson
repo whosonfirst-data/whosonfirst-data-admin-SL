@@ -1,0 +1,64 @@
+{
+  "id": 1209327379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.9348,8.90201,-12.9348,8.90201",
+    "geom:latitude":8.90201,
+    "geom:longitude":-12.9348,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mayaki",
+    "gn:country_code":"SL",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405496,
+    "gn:latitude":8.90201,
+    "gn:longitude":-12.9348,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Mayaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mayaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405496
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ba617647a0d97348e913cab4f8ccb6df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209327379
+        }
+    ],
+    "wof:id":1209327379,
+    "wof:lastmodified":1537700532,
+    "wof:name":"Mayaki",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.9348,
+    8.90201,
+    -12.9348,
+    8.90201
+],
+  "geometry": {"coordinates":[-12.9348,8.90201],"type":"Point"}
+}

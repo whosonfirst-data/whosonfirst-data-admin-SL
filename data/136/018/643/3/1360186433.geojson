@@ -1,0 +1,73 @@
+{
+  "id": 1360186433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.31776,7.50998,-12.31776,7.50998",
+    "geom:latitude":7.50998,
+    "geom:longitude":-12.31776,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gbahan",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410662,
+    "gn:latitude":7.50998,
+    "gn:longitude":-12.31776,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gbahan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbahan"
+    ],
+    "name:und_x_variant":[
+        "Baha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410662
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"72c0ad9f6c22385160f28f4972c1f666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1360186433,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1360186433,
+    "wof:lastmodified":1537700705,
+    "wof:name":"Gbahan",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.31776,
+    7.50998,
+    -12.31776,
+    7.50998
+],
+  "geometry": {"coordinates":[-12.31776,7.50998],"type":"Point"}
+}

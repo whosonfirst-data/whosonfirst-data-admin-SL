@@ -1,0 +1,73 @@
+{
+  "id": 1293302287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.96017,8.36058,-10.96017,8.36058",
+    "geom:latitude":8.36058,
+    "geom:longitude":-10.96017,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Foniama",
+    "gn:country_code":"SL",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409355,
+    "gn:latitude":8.36058,
+    "gn:longitude":-10.96017,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Foniama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Foniama"
+    ],
+    "name:und_x_variant":[
+        "Fonima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409355
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1c6d873db2f7c815b3536e5736a66710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1293302287,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293302287,
+    "wof:lastmodified":1537700660,
+    "wof:name":"Foniama",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.96017,
+    8.36058,
+    -10.96017,
+    8.36058
+],
+  "geometry": {"coordinates":[-10.96017,8.36058],"type":"Point"}
+}

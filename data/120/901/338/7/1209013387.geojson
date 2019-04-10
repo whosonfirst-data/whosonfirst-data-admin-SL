@@ -1,0 +1,64 @@
+{
+  "id": 1209013387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.2822,8.98133,-11.2822,8.98133",
+    "geom:latitude":8.98133,
+    "geom:longitude":-11.2822,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yibe",
+    "gn:country_code":"SL",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402791,
+    "gn:latitude":8.98133,
+    "gn:longitude":-11.2822,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Yibe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yibe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402791
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"68d327637c90b7d633e5603993a3a04f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209013387
+        }
+    ],
+    "wof:id":1209013387,
+    "wof:lastmodified":1537700443,
+    "wof:name":"Yibe",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.2822,
+    8.98133,
+    -11.2822,
+    8.98133
+],
+  "geometry": {"coordinates":[-11.2822,8.98133],"type":"Point"}
+}

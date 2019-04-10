@@ -1,0 +1,64 @@
+{
+  "id": 1209224191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.7678,8.18276,-10.7678,8.18276",
+    "geom:latitude":8.18276,
+    "geom:longitude":-10.7678,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kpendagama",
+    "gn:country_code":"SL",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9920193,
+    "gn:latitude":8.18276,
+    "gn:longitude":-10.7678,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Kpendagama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpendagama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9920193
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"03d320120029eb49486e135c6782ac5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209224191
+        }
+    ],
+    "wof:id":1209224191,
+    "wof:lastmodified":1537700866,
+    "wof:name":"Kpendagama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.7678,
+    8.18276,
+    -10.7678,
+    8.18276
+],
+  "geometry": {"coordinates":[-10.7678,8.18276],"type":"Point"}
+}

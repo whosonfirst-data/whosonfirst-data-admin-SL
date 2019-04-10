@@ -1,0 +1,70 @@
+{
+  "id": 1309719679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.54414,7.90582,-11.54414,7.90582",
+    "geom:latitude":7.90582,
+    "geom:longitude":-11.54414,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Golu",
+    "gn:country_code":"SL",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408735,
+    "gn:latitude":7.90582,
+    "gn:longitude":-11.54414,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Golu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Golu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408735
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f968f5a273f12f59bb3570dc66c17ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1309719679,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1309719679,
+    "wof:lastmodified":1537700638,
+    "wof:name":"Golu",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.54414,
+    7.90582,
+    -11.54414,
+    7.90582
+],
+  "geometry": {"coordinates":[-11.54414,7.90582],"type":"Point"}
+}

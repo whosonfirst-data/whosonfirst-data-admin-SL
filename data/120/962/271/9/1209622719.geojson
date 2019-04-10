@@ -1,0 +1,64 @@
+{
+  "id": 1209622719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.83718,8.30642,-11.83718,8.30642",
+    "geom:latitude":8.30642,
+    "geom:longitude":-11.83718,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yerima",
+    "gn:country_code":"SL",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402798,
+    "gn:latitude":8.30642,
+    "gn:longitude":-11.83718,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yerima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yerima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402798
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"60d07a9c93009ab961ed6c427e8553fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209622719
+        }
+    ],
+    "wof:id":1209622719,
+    "wof:lastmodified":1537700443,
+    "wof:name":"Yerima",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.83718,
+    8.30642,
+    -11.83718,
+    8.30642
+],
+  "geometry": {"coordinates":[-11.83718,8.30642],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209622875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.36682,7.3876,-12.36682,7.3876",
+    "geom:latitude":7.3876,
+    "geom:longitude":-12.36682,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mobe",
+    "gn:country_code":"SL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405342,
+    "gn:latitude":7.3876,
+    "gn:longitude":-12.36682,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405342
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"11b9ab289123383850cff30509afdaed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209622875
+        }
+    ],
+    "wof:id":1209622875,
+    "wof:lastmodified":1537700527,
+    "wof:name":"Mobe",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.36682,
+    7.3876,
+    -12.36682,
+    7.3876
+],
+  "geometry": {"coordinates":[-12.36682,7.3876],"type":"Point"}
+}

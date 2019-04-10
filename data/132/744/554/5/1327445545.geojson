@@ -1,0 +1,70 @@
+{
+  "id": 1327445545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.04565,8.52791,-11.04565,8.52791",
+    "geom:latitude":8.52791,
+    "geom:longitude":-11.04565,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tingbao",
+    "gn:country_code":"SL",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10046479,
+    "gn:latitude":8.52791,
+    "gn:longitude":-11.04565,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Tingbao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tingbao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10046479
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c329329ceb1248e8f6b29a6bf4cee269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1327445545,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1327445545,
+    "wof:lastmodified":1537700921,
+    "wof:name":"Tingbao",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.04565,
+    8.52791,
+    -11.04565,
+    8.52791
+],
+  "geometry": {"coordinates":[-11.04565,8.52791],"type":"Point"}
+}

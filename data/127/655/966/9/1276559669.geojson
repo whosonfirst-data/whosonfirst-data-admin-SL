@@ -1,0 +1,73 @@
+{
+  "id": 1276559669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.90134,7.87825,-12.90134,7.87825",
+    "geom:latitude":7.87825,
+    "geom:longitude":-12.90134,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mobureh",
+    "gn:country_code":"SL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409774,
+    "gn:latitude":7.87825,
+    "gn:longitude":-12.90134,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mobureh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mobureh"
+    ],
+    "name:und_x_variant":[
+        "Bure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409774
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fed44da1c93e1f3c755c72edf1a77394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1276559669,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1276559669,
+    "wof:lastmodified":1537700674,
+    "wof:name":"Mobureh",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.90134,
+    7.87825,
+    -12.90134,
+    7.87825
+],
+  "geometry": {"coordinates":[-12.90134,7.87825],"type":"Point"}
+}

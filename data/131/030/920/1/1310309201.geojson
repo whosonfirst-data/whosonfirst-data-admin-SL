@@ -1,0 +1,70 @@
+{
+  "id": 1310309201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.12268,7.98846,-11.12268,7.98846",
+    "geom:latitude":7.98846,
+    "geom:longitude":-11.12268,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bumu",
+    "gn:country_code":"SL",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875348,
+    "gn:latitude":7.98846,
+    "gn:longitude":-11.12268,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Bumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bumu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875348
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"25b0507ea6eabbbc64f9054c2a33b869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1310309201,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1310309201,
+    "wof:lastmodified":1537700762,
+    "wof:name":"Bumu",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.12268,
+    7.98846,
+    -11.12268,
+    7.98846
+],
+  "geometry": {"coordinates":[-11.12268,7.98846],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293897507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.1196,7.45389,-11.1196,7.45389",
+    "geom:latitude":7.45389,
+    "geom:longitude":-11.1196,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tigbema",
+    "gn:country_code":"SL",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403446,
+    "gn:latitude":7.45389,
+    "gn:longitude":-11.1196,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Tigbema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tigbema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403446
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b5ca10b726d4484b1ce86a59e0a30e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1293897507,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293897507,
+    "wof:lastmodified":1537700463,
+    "wof:name":"Tigbema",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.1196,
+    7.45389,
+    -11.1196,
+    7.45389
+],
+  "geometry": {"coordinates":[-11.1196,7.45389],"type":"Point"}
+}

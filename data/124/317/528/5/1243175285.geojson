@@ -1,0 +1,70 @@
+{
+  "id": 1243175285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.18703,8.83164,-13.18703,8.83164",
+    "geom:latitude":8.83164,
+    "geom:longitude":-13.18703,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makawbo",
+    "gn:country_code":"SL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9979507,
+    "gn:latitude":8.83164,
+    "gn:longitude":-13.18703,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Makawbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makawbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9979507
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f1456bceceb0c75d237cb6a10c1e2f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1243175285,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243175285,
+    "wof:lastmodified":1537700874,
+    "wof:name":"Makawbo",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.18703,
+    8.83164,
+    -13.18703,
+    8.83164
+],
+  "geometry": {"coordinates":[-13.18703,8.83164],"type":"Point"}
+}

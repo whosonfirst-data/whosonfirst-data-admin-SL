@@ -1,0 +1,67 @@
+{
+  "id": 1209110261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.33306,8.41937,-10.33306,8.41937",
+    "geom:latitude":8.41937,
+    "geom:longitude":-10.33306,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yendeh",
+    "gn:country_code":"SL",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402834,
+    "gn:latitude":8.41937,
+    "gn:longitude":-10.33306,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Yendeh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yendeh"
+    ],
+    "name:und_x_variant":[
+        "Yende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402834
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"57bde9c25f40b42fb437c4b9fb61747f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209110261
+        }
+    ],
+    "wof:id":1209110261,
+    "wof:lastmodified":1537700444,
+    "wof:name":"Yendeh",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.33306,
+    8.41937,
+    -10.33306,
+    8.41937
+],
+  "geometry": {"coordinates":[-10.33306,8.41937],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209416781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.5838,8.02023,-11.5838,8.02023",
+    "geom:latitude":8.02023,
+    "geom:longitude":-11.5838,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bari",
+    "gn:country_code":"SL",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410322,
+    "gn:latitude":8.02023,
+    "gn:longitude":-11.5838,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Bari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410322
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7b355f10a2294f32700552ea99875d36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209416781
+        }
+    ],
+    "wof:id":1209416781,
+    "wof:lastmodified":1537700692,
+    "wof:name":"Bari",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.5838,
+    8.02023,
+    -11.5838,
+    8.02023
+],
+  "geometry": {"coordinates":[-11.5838,8.02023],"type":"Point"}
+}

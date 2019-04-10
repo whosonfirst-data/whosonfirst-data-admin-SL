@@ -1,0 +1,70 @@
+{
+  "id": 1343394005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.95474,8.30656,-12.95474,8.30656",
+    "geom:latitude":8.30656,
+    "geom:longitude":-12.95474,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ma-bangba",
+    "gn:country_code":"SL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406879,
+    "gn:latitude":8.30656,
+    "gn:longitude":-12.95474,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ma-bangba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ma-bangba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406879
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c6f05a3b4d9f72558513bb82bcccd9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1343394005,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1343394005,
+    "wof:lastmodified":1537700577,
+    "wof:name":"Ma-bangba",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.95474,
+    8.30656,
+    -12.95474,
+    8.30656
+],
+  "geometry": {"coordinates":[-12.95474,8.30656],"type":"Point"}
+}

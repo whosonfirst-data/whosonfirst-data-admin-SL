@@ -1,0 +1,72 @@
+{
+  "id": 890451653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.85,8.91667,-12.85,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":-12.85,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":3339,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mange"
+    ],
+    "qs:name":"Mange",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1418,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406067,
+        "gp:id":1514488,
+        "qs:id":139980,
+        "wd:id":"Q1358140",
+        "wk:page":"Mange"
+    },
+    "wof:country":"SL",
+    "wof:created":1469052788,
+    "wof:geomhash":"276c8dd8529b0c6da5ba60f7c3b70bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":890451653,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":890451653,
+    "wof:lastmodified":1527792941,
+    "wof:name":"Mange",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:population":3339,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.85,
+    8.91667,
+    -12.85,
+    8.91667
+],
+  "geometry": {"coordinates":[-12.85,8.91667],"type":"Point"}
+}

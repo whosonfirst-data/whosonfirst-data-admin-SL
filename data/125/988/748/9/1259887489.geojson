@@ -1,0 +1,71 @@
+{
+  "id": 1259887489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.2301,8.05669,-12.2301,8.05669",
+    "geom:latitude":8.05669,
+    "geom:longitude":-12.2301,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Taninahun",
+    "gn:country_code":"SL",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403567,
+    "gn:latitude":8.05669,
+    "gn:longitude":-12.2301,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Taninahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taninabur",
+        "Taninahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403567
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bfa4523c0d1763bba1bf47aa721cf20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1259887489,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1259887489,
+    "wof:lastmodified":1537700467,
+    "wof:name":"Taninahun",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.2301,
+    8.05669,
+    -12.2301,
+    8.05669
+],
+  "geometry": {"coordinates":[-12.2301,8.05669],"type":"Point"}
+}

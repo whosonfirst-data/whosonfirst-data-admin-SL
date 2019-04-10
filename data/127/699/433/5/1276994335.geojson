@@ -1,0 +1,71 @@
+{
+  "id": 1276994335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.95801,9.38159,-11.95801,9.38159",
+    "geom:latitude":9.38159,
+    "geom:longitude":-11.95801,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Warakasona",
+    "gn:country_code":"SL",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403113,
+    "gn:latitude":9.38159,
+    "gn:longitude":-11.95801,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Warakasona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Warakasonia",
+        "Warakasona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403113
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1e806fcb33a670eaf25dad436a4bd225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1276994335,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276994335,
+    "wof:lastmodified":1537700453,
+    "wof:name":"Warakasona",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.95801,
+    9.38159,
+    -11.95801,
+    9.38159
+],
+  "geometry": {"coordinates":[-11.95801,9.38159],"type":"Point"}
+}

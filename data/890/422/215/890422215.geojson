@@ -1,0 +1,84 @@
+{
+  "id": 890422215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.83333,7.5,-11.83333,7.5",
+    "geom:latitude":7.5,
+    "geom:longitude":-11.83333,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":10678,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gandorhun"
+    ],
+    "name:eng_x_preferred":[
+        "Gandorhun"
+    ],
+    "name:fre_x_preferred":[
+        "Gandorhun"
+    ],
+    "name:rum_x_preferred":[
+        "Gandorhun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u0434\u043e\u0440\u0445\u0443\u043d"
+    ],
+    "qs:name":"Gandorhun",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409215,
+        "gp:id":1419835,
+        "qs:id":1035465,
+        "wd:id":"Q3012892",
+        "wk:page":"Gandorhun"
+    },
+    "wof:country":"SL",
+    "wof:created":1469051433,
+    "wof:geomhash":"b7cc88223dcbb92bce958a368d9e8955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779069,
+            "locality_id":890422215,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":890422215,
+    "wof:lastmodified":1527727163,
+    "wof:name":"Gandorhun",
+    "wof:parent_id":1108779069,
+    "wof:placetype":"locality",
+    "wof:population":10678,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.83333,
+    7.5,
+    -11.83333,
+    7.5
+],
+  "geometry": {"coordinates":[-11.83333,7.5],"type":"Point"}
+}

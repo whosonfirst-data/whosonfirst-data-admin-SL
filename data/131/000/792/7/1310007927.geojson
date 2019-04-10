@@ -1,0 +1,70 @@
+{
+  "id": 1310007927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.60445,8.18848,-12.60445,8.18848",
+    "geom:latitude":8.18848,
+    "geom:longitude":-12.60445,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Julema",
+    "gn:country_code":"SL",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893503,
+    "gn:latitude":8.18848,
+    "gn:longitude":-12.60445,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Julema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Julema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893503
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"42f6c9fc4f63fecf4134c9e0725acaaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1310007927,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310007927,
+    "wof:lastmodified":1537700834,
+    "wof:name":"Julema",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.60445,
+    8.18848,
+    -12.60445,
+    8.18848
+],
+  "geometry": {"coordinates":[-12.60445,8.18848],"type":"Point"}
+}

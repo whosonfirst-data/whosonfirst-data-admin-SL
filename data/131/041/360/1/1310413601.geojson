@@ -1,0 +1,70 @@
+{
+  "id": 1310413601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.40194,7.79291,-12.40194,7.79291",
+    "geom:latitude":7.79291,
+    "geom:longitude":-12.40194,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bondehun",
+    "gn:country_code":"SL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904328,
+    "gn:latitude":7.79291,
+    "gn:longitude":-12.40194,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Bondehun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bondehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904328
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"62039001a01b5edbb1a1466451fc2ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1310413601,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310413601,
+    "wof:lastmodified":1537700852,
+    "wof:name":"Bondehun",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.40194,
+    7.79291,
+    -12.40194,
+    7.79291
+],
+  "geometry": {"coordinates":[-12.40194,7.79291],"type":"Point"}
+}

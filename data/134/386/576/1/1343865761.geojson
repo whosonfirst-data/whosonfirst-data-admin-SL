@@ -1,0 +1,70 @@
+{
+  "id": 1343865761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.64586,8.02106,-11.64586,8.02106",
+    "geom:latitude":8.02106,
+    "geom:longitude":-11.64586,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kenyema",
+    "gn:country_code":"SL",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407767,
+    "gn:latitude":8.02106,
+    "gn:longitude":-11.64586,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kenyema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kenyema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407767
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"22e3d2b1f18f8d25c161b28f45734637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1343865761,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343865761,
+    "wof:lastmodified":1537700606,
+    "wof:name":"Kenyema",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.64586,
+    8.02106,
+    -11.64586,
+    8.02106
+],
+  "geometry": {"coordinates":[-11.64586,8.02106],"type":"Point"}
+}

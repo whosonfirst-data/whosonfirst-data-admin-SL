@@ -1,0 +1,70 @@
+{
+  "id": 1293403935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.05525,8.10443,-11.05525,8.10443",
+    "geom:latitude":8.10443,
+    "geom:longitude":-11.05525,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Foindu",
+    "gn:country_code":"SL",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409379,
+    "gn:latitude":8.10443,
+    "gn:longitude":-11.05525,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Foindu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Foindu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409379
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a93e5f9c0cce6d29dd520e2f633ff4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1293403935,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293403935,
+    "wof:lastmodified":1537700661,
+    "wof:name":"Foindu",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.05525,
+    8.10443,
+    -11.05525,
+    8.10443
+],
+  "geometry": {"coordinates":[-11.05525,8.10443],"type":"Point"}
+}

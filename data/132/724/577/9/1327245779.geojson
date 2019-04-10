@@ -1,0 +1,73 @@
+{
+  "id": 1327245779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.55783,8.61874,-10.55783,8.61874",
+    "geom:latitude":8.61874,
+    "geom:longitude":-10.55783,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kpekor",
+    "gn:country_code":"SL",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407311,
+    "gn:latitude":8.61874,
+    "gn:longitude":-10.55783,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kpekor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpekor"
+    ],
+    "name:und_x_variant":[
+        "Kpeko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407311
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6b95efc91ec3762db9a32efc2ff9198c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1327245779,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1327245779,
+    "wof:lastmodified":1537700591,
+    "wof:name":"Kpekor",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.55783,
+    8.61874,
+    -10.55783,
+    8.61874
+],
+  "geometry": {"coordinates":[-10.55783,8.61874],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226755131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.86384,8.06216,-12.86384,8.06216",
+    "geom:latitude":8.06216,
+    "geom:longitude":-12.86384,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Makakamor",
+    "gn:country_code":"SL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406482,
+    "gn:latitude":8.06216,
+    "gn:longitude":-12.86384,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Makakamor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makakmor",
+        "Makakamor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406482
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b2425d328a79634e90e1d9787d007fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226755131,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226755131,
+    "wof:lastmodified":1537700564,
+    "wof:name":"Makakamor",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.86384,
+    8.06216,
+    -12.86384,
+    8.06216
+],
+  "geometry": {"coordinates":[-12.86384,8.06216],"type":"Point"}
+}

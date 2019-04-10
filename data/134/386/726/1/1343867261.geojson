@@ -1,0 +1,70 @@
+{
+  "id": 1343867261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.02265,8.79511,-12.02265,8.79511",
+    "geom:latitude":8.79511,
+    "geom:longitude":-12.02265,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tene",
+    "gn:country_code":"SL",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10133213,
+    "gn:latitude":8.79511,
+    "gn:longitude":-12.02265,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Tene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10133213
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"22d6c404650db049c91f3b25679c1c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1343867261,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343867261,
+    "wof:lastmodified":1537700936,
+    "wof:name":"Tene",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.02265,
+    8.79511,
+    -12.02265,
+    8.79511
+],
+  "geometry": {"coordinates":[-12.02265,8.79511],"type":"Point"}
+}

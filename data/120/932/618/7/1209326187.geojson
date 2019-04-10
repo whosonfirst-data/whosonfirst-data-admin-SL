@@ -1,0 +1,64 @@
+{
+  "id": 1209326187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.21437,7.52507,-12.21437,7.52507",
+    "geom:latitude":7.52507,
+    "geom:longitude":-12.21437,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Poneh",
+    "gn:country_code":"SL",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876247,
+    "gn:latitude":7.52507,
+    "gn:longitude":-12.21437,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Poneh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Poneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876247
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"005eac8dcbae0dc30392dac1a3573558",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209326187
+        }
+    ],
+    "wof:id":1209326187,
+    "wof:lastmodified":1537700778,
+    "wof:name":"Poneh",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.21437,
+    7.52507,
+    -12.21437,
+    7.52507
+],
+  "geometry": {"coordinates":[-12.21437,7.52507],"type":"Point"}
+}

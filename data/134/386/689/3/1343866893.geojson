@@ -1,0 +1,70 @@
+{
+  "id": 1343866893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.21628,9.05732,-13.21628,9.05732",
+    "geom:latitude":9.05732,
+    "geom:longitude":-13.21628,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Suribulomia",
+    "gn:country_code":"SL",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403674,
+    "gn:latitude":9.05732,
+    "gn:longitude":-13.21628,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Suribulomia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Suribulomia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403674
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4fbafa77d823b318546ae7d9b76d8391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1343866893,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343866893,
+    "wof:lastmodified":1537700470,
+    "wof:name":"Suribulomia",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.21628,
+    9.05732,
+    -13.21628,
+    9.05732
+],
+  "geometry": {"coordinates":[-13.21628,9.05732],"type":"Point"}
+}

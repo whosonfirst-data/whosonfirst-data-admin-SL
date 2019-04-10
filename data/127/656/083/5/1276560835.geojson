@@ -1,0 +1,70 @@
+{
+  "id": 1276560835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.87475,8.93703,-11.87475,8.93703",
+    "geom:latitude":8.93703,
+    "geom:longitude":-11.87475,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bare",
+    "gn:country_code":"SL",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410328,
+    "gn:latitude":8.93703,
+    "gn:longitude":-11.87475,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Bare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410328
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ce320bcc733f9fa70fcb7234912c7ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1276560835,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276560835,
+    "wof:lastmodified":1537700693,
+    "wof:name":"Bare",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.87475,
+    8.93703,
+    -11.87475,
+    8.93703
+],
+  "geometry": {"coordinates":[-11.87475,8.93703],"type":"Point"}
+}

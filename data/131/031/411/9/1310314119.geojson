@@ -1,0 +1,70 @@
+{
+  "id": 1310314119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.26915,9.31807,-12.26915,9.31807",
+    "geom:latitude":9.31807,
+    "geom:longitude":-12.26915,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbinti",
+    "gn:country_code":"SL",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131116,
+    "gn:latitude":9.31807,
+    "gn:longitude":-12.26915,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Gbinti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbinti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131116
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"77e8df36a053a0f101a405c1c2bba81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1310314119,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310314119,
+    "wof:lastmodified":1537700922,
+    "wof:name":"Gbinti",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.26915,
+    9.31807,
+    -12.26915,
+    9.31807
+],
+  "geometry": {"coordinates":[-12.26915,9.31807],"type":"Point"}
+}

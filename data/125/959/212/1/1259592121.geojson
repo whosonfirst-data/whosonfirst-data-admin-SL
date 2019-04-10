@@ -1,0 +1,70 @@
+{
+  "id": 1259592121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.05627,8.43424,-13.05627,8.43424",
+    "geom:latitude":8.43424,
+    "geom:longitude":-13.05627,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sumbuya",
+    "gn:country_code":"SL",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403695,
+    "gn:latitude":8.43424,
+    "gn:longitude":-13.05627,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Sumbuya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sumbuya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403695
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0d4fd60bc206fa3d4125da833ea72b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1259592121,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259592121,
+    "wof:lastmodified":1537700471,
+    "wof:name":"Sumbuya",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.05627,
+    8.43424,
+    -13.05627,
+    8.43424
+],
+  "geometry": {"coordinates":[-13.05627,8.43424],"type":"Point"}
+}

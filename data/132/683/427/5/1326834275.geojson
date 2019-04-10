@@ -1,0 +1,70 @@
+{
+  "id": 1326834275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.29866,7.98005,-11.29866,7.98005",
+    "geom:latitude":7.98005,
+    "geom:longitude":-11.29866,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Misila",
+    "gn:country_code":"SL",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875148,
+    "gn:latitude":7.98005,
+    "gn:longitude":-11.29866,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Misila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Misila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875148
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7f3b7ed341e20865b3ad210aaf7c2969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1326834275,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1326834275,
+    "wof:lastmodified":1537700759,
+    "wof:name":"Misila",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.29866,
+    7.98005,
+    -11.29866,
+    7.98005
+],
+  "geometry": {"coordinates":[-11.29866,7.98005],"type":"Point"}
+}

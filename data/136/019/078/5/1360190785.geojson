@@ -1,0 +1,70 @@
+{
+  "id": 1360190785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.9971,8.3086,-12.9971,8.3086",
+    "geom:latitude":8.3086,
+    "geom:longitude":-12.9971,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ro-gberri",
+    "gn:country_code":"SL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404331,
+    "gn:latitude":8.3086,
+    "gn:longitude":-12.9971,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ro-gberri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ro-gberri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404331
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7bc6aa4fd74e2f20b5aea50997474ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1360190785,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1360190785,
+    "wof:lastmodified":1537700491,
+    "wof:name":"Ro-gberri",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.9971,
+    8.3086,
+    -12.9971,
+    8.3086
+],
+  "geometry": {"coordinates":[-12.9971,8.3086],"type":"Point"}
+}

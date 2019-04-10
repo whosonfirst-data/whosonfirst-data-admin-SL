@@ -1,0 +1,64 @@
+{
+  "id": 1209316247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.60614,8.03944,-12.60614,8.03944",
+    "geom:latitude":8.03944,
+    "geom:longitude":-12.60614,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Buyama",
+    "gn:country_code":"SL",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893671,
+    "gn:latitude":8.03944,
+    "gn:longitude":-12.60614,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Buyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893671
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"296841317b6ae520614b438c89df1d7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209316247
+        }
+    ],
+    "wof:id":1209316247,
+    "wof:lastmodified":1537700838,
+    "wof:name":"Buyama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.60614,
+    8.03944,
+    -12.60614,
+    8.03944
+],
+  "geometry": {"coordinates":[-12.60614,8.03944],"type":"Point"}
+}

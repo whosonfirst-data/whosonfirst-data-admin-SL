@@ -1,0 +1,65 @@
+{
+  "id": 1209416953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.43348,7.24383,-11.43348,7.24383",
+    "geom:latitude":7.24383,
+    "geom:longitude":-11.43348,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gbomei",
+    "gn:country_code":"SL",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408975,
+    "gn:latitude":7.24383,
+    "gn:longitude":-11.43348,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gbomei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bomi",
+        "Gbomei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408975
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8362da9803e1a2143baff0ada311052d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209416953
+        }
+    ],
+    "wof:id":1209416953,
+    "wof:lastmodified":1537700646,
+    "wof:name":"Gbomei",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.43348,
+    7.24383,
+    -11.43348,
+    7.24383
+],
+  "geometry": {"coordinates":[-11.43348,7.24383],"type":"Point"}
+}

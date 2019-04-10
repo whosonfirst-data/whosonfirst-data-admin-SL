@@ -1,0 +1,70 @@
+{
+  "id": 1276338813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.81858,8.31346,-10.81858,8.31346",
+    "geom:latitude":8.31346,
+    "geom:longitude":-10.81858,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bendu",
+    "gn:country_code":"SL",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410196,
+    "gn:latitude":8.31346,
+    "gn:longitude":-10.81858,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bendu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bendu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410196
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0be1d3a9982cfd01957979875b1b7d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1276338813,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1276338813,
+    "wof:lastmodified":1537700689,
+    "wof:name":"Bendu",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.81858,
+    8.31346,
+    -10.81858,
+    8.31346
+],
+  "geometry": {"coordinates":[-10.81858,8.31346],"type":"Point"}
+}

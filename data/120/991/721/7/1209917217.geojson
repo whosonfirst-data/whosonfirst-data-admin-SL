@@ -1,0 +1,73 @@
+{
+  "id": 1209917217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.77724,9.07059,-10.77724,9.07059",
+    "geom:latitude":9.07059,
+    "geom:longitude":-10.77724,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sendio",
+    "gn:country_code":"SL",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403957,
+    "gn:latitude":9.07059,
+    "gn:longitude":-10.77724,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Sendio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sendio"
+    ],
+    "name:und_x_variant":[
+        "Sendia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403957
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"35c029b837bb6bbb2d5189d4c6ae2579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1209917217,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1209917217,
+    "wof:lastmodified":1537700479,
+    "wof:name":"Sendio",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.77724,
+    9.07059,
+    -10.77724,
+    9.07059
+],
+  "geometry": {"coordinates":[-10.77724,9.07059],"type":"Point"}
+}

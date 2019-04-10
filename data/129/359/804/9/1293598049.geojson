@@ -1,0 +1,70 @@
+{
+  "id": 1293598049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.11006,9.01902,-12.11006,9.01902",
+    "geom:latitude":9.01902,
+    "geom:longitude":-12.11006,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbalan",
+    "gn:country_code":"SL",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10133419,
+    "gn:latitude":9.01902,
+    "gn:longitude":-12.11006,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Gbalan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10133419
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9e40851bfa944678ad93901a5e400f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1293598049,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293598049,
+    "wof:lastmodified":1537700941,
+    "wof:name":"Gbalan",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.11006,
+    9.01902,
+    -12.11006,
+    9.01902
+],
+  "geometry": {"coordinates":[-12.11006,9.01902],"type":"Point"}
+}

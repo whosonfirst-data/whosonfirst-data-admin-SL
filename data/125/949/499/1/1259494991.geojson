@@ -1,0 +1,68 @@
+{
+  "id": 1259494991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.74652,8.29421,-12.74652,8.29421",
+    "geom:latitude":8.29421,
+    "geom:longitude":-12.74652,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bradford",
+    "gn:country_code":"SL",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409882,
+    "gn:latitude":8.29421,
+    "gn:longitude":-12.74652,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bradford",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409882,
+        "wk:page":"Bradford%2C_Sierra_Leone"
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c3a1199f61055da5457290df0a05cbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1259494991,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1259494991,
+    "wof:lastmodified":1537573654,
+    "wof:name":"Bradford",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.74652,
+    8.29421,
+    -12.74652,
+    8.29421
+],
+  "geometry": {"coordinates":[-12.74652,8.29421],"type":"Point"}
+}

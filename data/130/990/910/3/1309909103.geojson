@@ -1,0 +1,71 @@
+{
+  "id": 1309909103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.95261,8.96603,-12.95261,8.96603",
+    "geom:latitude":8.96603,
+    "geom:longitude":-12.95261,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gbonkomipere",
+    "gn:country_code":"SL",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408938,
+    "gn:latitude":8.96603,
+    "gn:longitude":-12.95261,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Gbonkomipere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbonkompere",
+        "Gbonkomipere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408938
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1de135be3c7dc315c8841b222933dc00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1309909103,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309909103,
+    "wof:lastmodified":1537700644,
+    "wof:name":"Gbonkomipere",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.95261,
+    8.96603,
+    -12.95261,
+    8.96603
+],
+  "geometry": {"coordinates":[-12.95261,8.96603],"type":"Point"}
+}

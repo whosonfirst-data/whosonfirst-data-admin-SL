@@ -1,0 +1,64 @@
+{
+  "id": 1209622657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.98374,7.35066,-11.98374,7.35066",
+    "geom:latitude":7.35066,
+    "geom:longitude":-11.98374,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kpandemei",
+    "gn:country_code":"SL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9878156,
+    "gn:latitude":7.35066,
+    "gn:longitude":-11.98374,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Kpandemei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpandemei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9878156
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d7696dbeea30ee11e1c3fcf84778baed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209622657
+        }
+    ],
+    "wof:id":1209622657,
+    "wof:lastmodified":1537700788,
+    "wof:name":"Kpandemei",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.98374,
+    7.35066,
+    -11.98374,
+    7.35066
+],
+  "geometry": {"coordinates":[-11.98374,7.35066],"type":"Point"}
+}

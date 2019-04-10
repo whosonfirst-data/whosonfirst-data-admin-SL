@@ -1,0 +1,69 @@
+{
+  "id": 890435453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.37194,8.28028,-10.37194,8.28028",
+    "geom:latitude":8.28028,
+    "geom:longitude":-10.37194,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":5412,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Buedu"
+    ],
+    "qs:name":"Bwedu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409751,
+        "gp:id":1419205,
+        "qs:id":1035468
+    },
+    "wof:country":"SL",
+    "wof:created":1469052068,
+    "wof:geomhash":"fa047d8c0fa866cb2cdfc30be969658d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":890435453,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":890435453,
+    "wof:lastmodified":1505343547,
+    "wof:name":"Bwedu",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:population":5412,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.37194,
+    8.28028,
+    -10.37194,
+    8.28028
+],
+  "geometry": {"coordinates":[-10.37194,8.28028],"type":"Point"}
+}

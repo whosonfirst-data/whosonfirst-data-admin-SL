@@ -1,0 +1,70 @@
+{
+  "id": 1225853553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.93257,9.41289,-11.93257,9.41289",
+    "geom:latitude":9.41289,
+    "geom:longitude":-11.93257,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kolifa",
+    "gn:country_code":"SL",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407628,
+    "gn:latitude":9.41289,
+    "gn:longitude":-11.93257,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kolifa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kolifa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407628
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0ddfb0609695e2563ebd9dd1a6ec9a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1225853553,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1225853553,
+    "wof:lastmodified":1537700602,
+    "wof:name":"Kolifa",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.93257,
+    9.41289,
+    -11.93257,
+    9.41289
+],
+  "geometry": {"coordinates":[-11.93257,9.41289],"type":"Point"}
+}

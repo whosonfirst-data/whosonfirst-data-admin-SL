@@ -1,0 +1,70 @@
+{
+  "id": 1293108323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.71637,8.33567,-10.71637,8.33567",
+    "geom:latitude":8.33567,
+    "geom:longitude":-10.71637,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kanjalu",
+    "gn:country_code":"SL",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407990,
+    "gn:latitude":8.33567,
+    "gn:longitude":-10.71637,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kanjalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kanjalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407990
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b9ae8ef842b4df927281f981505aedaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421475,
+            "locality_id":1293108323,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293108323,
+    "wof:lastmodified":1537700613,
+    "wof:name":"Kanjalu",
+    "wof:parent_id":890421475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.71637,
+    8.33567,
+    -10.71637,
+    8.33567
+],
+  "geometry": {"coordinates":[-10.71637,8.33567],"type":"Point"}
+}

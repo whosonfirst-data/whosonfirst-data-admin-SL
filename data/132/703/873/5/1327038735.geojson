@@ -1,0 +1,70 @@
+{
+  "id": 1327038735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.44623,9.03231,-12.44623,9.03231",
+    "geom:latitude":9.03231,
+    "geom:longitude":-12.44623,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makao",
+    "gn:country_code":"SL",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131398,
+    "gn:latitude":9.03231,
+    "gn:longitude":-12.44623,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Makao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131398
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"e6e7a6b0feffb9fe89799b64a802ee52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1327038735,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327038735,
+    "wof:lastmodified":1537700925,
+    "wof:name":"Makao",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.44623,
+    9.03231,
+    -12.44623,
+    9.03231
+],
+  "geometry": {"coordinates":[-12.44623,9.03231],"type":"Point"}
+}

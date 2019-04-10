@@ -1,0 +1,70 @@
+{
+  "id": 1293596821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.15173,7.57273,-12.15173,7.57273",
+    "geom:latitude":7.57273,
+    "geom:longitude":-12.15173,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Blama",
+    "gn:country_code":"SL",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410068,
+    "gn:latitude":7.57273,
+    "gn:longitude":-12.15173,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Blama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Blama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410068
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2f0318cee9a2ae7408e3ee2dfb1b5035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1293596821,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293596821,
+    "wof:lastmodified":1537700684,
+    "wof:name":"Blama",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.15173,
+    7.57273,
+    -12.15173,
+    7.57273
+],
+  "geometry": {"coordinates":[-12.15173,7.57273],"type":"Point"}
+}

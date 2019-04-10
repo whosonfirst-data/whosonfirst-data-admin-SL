@@ -1,0 +1,73 @@
+{
+  "id": 1293010077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.06396,9.02694,-11.06396,9.02694",
+    "geom:latitude":9.02694,
+    "geom:longitude":-11.06396,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Serakoro",
+    "gn:country_code":"SL",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409556,
+    "gn:latitude":9.02694,
+    "gn:longitude":-11.06396,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Serakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Serakoro"
+    ],
+    "name:und_x_variant":[
+        "Dunduwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409556
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5f985de3c103bef333cb7224d9a25892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1293010077,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293010077,
+    "wof:lastmodified":1537700666,
+    "wof:name":"Serakoro",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.06396,
+    9.02694,
+    -11.06396,
+    9.02694
+],
+  "geometry": {"coordinates":[-11.06396,9.02694],"type":"Point"}
+}

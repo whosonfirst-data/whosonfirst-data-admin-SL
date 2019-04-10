@@ -1,0 +1,64 @@
+{
+  "id": 1209326325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.7772,7.48285,-11.7772,7.48285",
+    "geom:latitude":7.48285,
+    "geom:longitude":-11.7772,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kotuwa",
+    "gn:country_code":"SL",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9878118,
+    "gn:latitude":7.48285,
+    "gn:longitude":-11.7772,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Kotuwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kotuwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9878118
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"97998abdf18c209276b5c9b5bf0cfc17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209326325
+        }
+    ],
+    "wof:id":1209326325,
+    "wof:lastmodified":1537700787,
+    "wof:name":"Kotuwa",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.7772,
+    7.48285,
+    -11.7772,
+    7.48285
+],
+  "geometry": {"coordinates":[-11.7772,7.48285],"type":"Point"}
+}

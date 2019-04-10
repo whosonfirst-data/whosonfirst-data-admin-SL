@@ -1,0 +1,70 @@
+{
+  "id": 1326932443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.49364,7.30573,-11.49364,7.30573",
+    "geom:latitude":7.30573,
+    "geom:longitude":-11.49364,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Golahun",
+    "gn:country_code":"SL",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408684,
+    "gn:latitude":7.30573,
+    "gn:longitude":-11.49364,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Golahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408684
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fb46608107dda1578f7cb3ff014c76ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779069,
+            "locality_id":1326932443,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1326932443,
+    "wof:lastmodified":1537700636,
+    "wof:name":"Golahun",
+    "wof:parent_id":1108779069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.49364,
+    7.30573,
+    -11.49364,
+    7.30573
+],
+  "geometry": {"coordinates":[-11.49364,7.30573],"type":"Point"}
+}

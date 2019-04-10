@@ -1,0 +1,70 @@
+{
+  "id": 1209818415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.17059,9.18069,-12.17059,9.18069",
+    "geom:latitude":9.18069,
+    "geom:longitude":-12.17059,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masiba",
+    "gn:country_code":"SL",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10133372,
+    "gn:latitude":9.18069,
+    "gn:longitude":-12.17059,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Masiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10133372
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7201761c25178537541a217fca932bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1209818415,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1209818415,
+    "wof:lastmodified":1537700940,
+    "wof:name":"Masiba",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.17059,
+    9.18069,
+    -12.17059,
+    9.18069
+],
+  "geometry": {"coordinates":[-12.17059,9.18069],"type":"Point"}
+}

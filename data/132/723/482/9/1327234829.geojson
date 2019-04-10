@@ -1,0 +1,70 @@
+{
+  "id": 1327234829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.84555,9.16999,-11.84555,9.16999",
+    "geom:latitude":9.16999,
+    "geom:longitude":-11.84555,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kambaya",
+    "gn:country_code":"SL",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408097,
+    "gn:latitude":9.16999,
+    "gn:longitude":-11.84555,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kambaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kambaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408097
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9ebd744646dbbc9102a37ec65eccf361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1327234829,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327234829,
+    "wof:lastmodified":1537700616,
+    "wof:name":"Kambaya",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.84555,
+    9.16999,
+    -11.84555,
+    9.16999
+],
+  "geometry": {"coordinates":[-11.84555,9.16999],"type":"Point"}
+}

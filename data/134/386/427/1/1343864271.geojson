@@ -1,0 +1,71 @@
+{
+  "id": 1343864271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.26386,8.41208,-13.26386,8.41208",
+    "geom:latitude":8.41208,
+    "geom:longitude":-13.26386,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Angola Town",
+    "gn:country_code":"SL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410704,
+    "gn:latitude":8.41208,
+    "gn:longitude":-13.26386,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Angola Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angola",
+        "Angola Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410704
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0fe13065120cbe401ef6ea238b3c5c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1343864271,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1343864271,
+    "wof:lastmodified":1537700706,
+    "wof:name":"Angola Town",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.26386,
+    8.41208,
+    -13.26386,
+    8.41208
+],
+  "geometry": {"coordinates":[-13.26386,8.41208],"type":"Point"}
+}

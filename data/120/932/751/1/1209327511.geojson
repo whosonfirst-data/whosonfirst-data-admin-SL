@@ -1,0 +1,64 @@
+{
+  "id": 1209327511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.73421,9.68315,-11.73421,9.68315",
+    "geom:latitude":9.68315,
+    "geom:longitude":-11.73421,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bafodia",
+    "gn:country_code":"SL",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410675,
+    "gn:latitude":9.68315,
+    "gn:longitude":-11.73421,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bafodia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bafodia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410675
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8aca6a19e055ebb63e2c8456865cae2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209327511
+        }
+    ],
+    "wof:id":1209327511,
+    "wof:lastmodified":1537700705,
+    "wof:name":"Bafodia",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.73421,
+    9.68315,
+    -11.73421,
+    9.68315
+],
+  "geometry": {"coordinates":[-11.73421,9.68315],"type":"Point"}
+}

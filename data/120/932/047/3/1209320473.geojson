@@ -1,0 +1,64 @@
+{
+  "id": 1209320473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.06521,8.32546,-13.06521,8.32546",
+    "geom:latitude":8.32546,
+    "geom:longitude":-13.06521,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bassu Town",
+    "gn:country_code":"SL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566411,
+    "gn:latitude":8.32546,
+    "gn:longitude":-13.06521,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Bassu Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bassu Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566411
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1053c5ffa50cea3a21cb331569d58f0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209320473
+        }
+    ],
+    "wof:id":1209320473,
+    "wof:lastmodified":1537700707,
+    "wof:name":"Bassu Town",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.06521,
+    8.32546,
+    -13.06521,
+    8.32546
+],
+  "geometry": {"coordinates":[-13.06521,8.32546],"type":"Point"}
+}

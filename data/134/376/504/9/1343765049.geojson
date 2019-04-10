@@ -1,0 +1,70 @@
+{
+  "id": 1343765049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.5485,8.53915,-12.5485,8.53915",
+    "geom:latitude":8.53915,
+    "geom:longitude":-12.5485,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Marenkaw",
+    "gn:country_code":"SL",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405886,
+    "gn:latitude":8.53915,
+    "gn:longitude":-12.5485,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Marenkaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Marenkaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405886
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"04bf1ab7c6dc1db1d478ea25689bb528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1343765049,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343765049,
+    "wof:lastmodified":1537700544,
+    "wof:name":"Marenkaw",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.5485,
+    8.53915,
+    -12.5485,
+    8.53915
+],
+  "geometry": {"coordinates":[-12.5485,8.53915],"type":"Point"}
+}

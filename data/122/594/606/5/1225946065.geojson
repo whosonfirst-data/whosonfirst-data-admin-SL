@@ -1,0 +1,70 @@
+{
+  "id": 1225946065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.30641,7.37091,-11.30641,7.37091",
+    "geom:latitude":7.37091,
+    "geom:longitude":-11.30641,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nyeyama",
+    "gn:country_code":"SL",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570894,
+    "gn:latitude":7.37091,
+    "gn:longitude":-11.30641,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Nyeyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyeyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570894
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f6c5a2262c1dcd5d544bc4fbb485a782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779069,
+            "locality_id":1225946065,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1225946065,
+    "wof:lastmodified":1537700716,
+    "wof:name":"Nyeyama",
+    "wof:parent_id":1108779069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.30641,
+    7.37091,
+    -11.30641,
+    7.37091
+],
+  "geometry": {"coordinates":[-11.30641,7.37091],"type":"Point"}
+}

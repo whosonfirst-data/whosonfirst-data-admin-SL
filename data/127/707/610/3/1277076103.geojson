@@ -1,0 +1,73 @@
+{
+  "id": 1277076103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.53181,8.08884,-12.53181,8.08884",
+    "geom:latitude":8.08884,
+    "geom:longitude":-12.53181,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Masongela",
+    "gn:country_code":"SL",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405052,
+    "gn:latitude":8.08884,
+    "gn:longitude":-12.53181,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Masongela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masongela"
+    ],
+    "name:und_x_variant":[
+        "Mosunkara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405052
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0abf635d42d98d61815d4857bcfcd092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1277076103,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1277076103,
+    "wof:lastmodified":1537700516,
+    "wof:name":"Masongela",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.53181,
+    8.08884,
+    -12.53181,
+    8.08884
+],
+  "geometry": {"coordinates":[-12.53181,8.08884],"type":"Point"}
+}

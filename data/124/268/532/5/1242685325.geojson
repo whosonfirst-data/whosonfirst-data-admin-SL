@@ -1,0 +1,70 @@
+{
+  "id": 1242685325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.14718,7.79408,-12.14718,7.79408",
+    "geom:latitude":7.79408,
+    "geom:longitude":-12.14718,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Golala",
+    "gn:country_code":"SL",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408748,
+    "gn:latitude":7.79408,
+    "gn:longitude":-12.14718,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Golala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Golala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408748
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0b5e4fe1a4980ebe3d7b1599aef51d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1242685325,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1242685325,
+    "wof:lastmodified":1537700638,
+    "wof:name":"Golala",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.14718,
+    7.79408,
+    -12.14718,
+    7.79408
+],
+  "geometry": {"coordinates":[-12.14718,7.79408],"type":"Point"}
+}

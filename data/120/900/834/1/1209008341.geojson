@@ -1,0 +1,64 @@
+{
+  "id": 1209008341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.60902,7.96934,-10.60902,7.96934",
+    "geom:latitude":7.96934,
+    "geom:longitude":-10.60902,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bafehun",
+    "gn:country_code":"SL",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893589,
+    "gn:latitude":7.96934,
+    "gn:longitude":-10.60902,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Bafehun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bafehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893589
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f3b2530245f8df19a7dbb837c34100fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209008341
+        }
+    ],
+    "wof:id":1209008341,
+    "wof:lastmodified":1537700837,
+    "wof:name":"Bafehun",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.60902,
+    7.96934,
+    -10.60902,
+    7.96934
+],
+  "geometry": {"coordinates":[-10.60902,7.96934],"type":"Point"}
+}

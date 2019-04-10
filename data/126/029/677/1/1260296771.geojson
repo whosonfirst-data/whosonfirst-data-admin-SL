@@ -1,0 +1,70 @@
+{
+  "id": 1260296771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.63141,8.25194,-12.63141,8.25194",
+    "geom:latitude":8.25194,
+    "geom:longitude":-12.63141,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mosengo",
+    "gn:country_code":"SL",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405064,
+    "gn:latitude":8.25194,
+    "gn:longitude":-12.63141,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mosengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mosengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405064
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"26cc9ca4160b8f419c25bddd36845c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1260296771,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1260296771,
+    "wof:lastmodified":1537700517,
+    "wof:name":"Mosengo",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.63141,
+    8.25194,
+    -12.63141,
+    8.25194
+],
+  "geometry": {"coordinates":[-12.63141,8.25194],"type":"Point"}
+}

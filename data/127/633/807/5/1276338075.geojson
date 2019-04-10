@@ -1,0 +1,70 @@
+{
+  "id": 1276338075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.61224,8.46521,-12.61224,8.46521",
+    "geom:latitude":8.46521,
+    "geom:longitude":-12.61224,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Balbandle",
+    "gn:country_code":"SL",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872447,
+    "gn:latitude":8.46521,
+    "gn:longitude":-12.61224,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Balbandle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Balbandle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872447
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"eab0c920516a2015eb8ebb5f122b7034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1276338075,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276338075,
+    "wof:lastmodified":1537700746,
+    "wof:name":"Balbandle",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.61224,
+    8.46521,
+    -12.61224,
+    8.46521
+],
+  "geometry": {"coordinates":[-12.61224,8.46521],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226548817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.25928,9.20307,-12.25928,9.20307",
+    "geom:latitude":9.20307,
+    "geom:longitude":-12.25928,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Robat",
+    "gn:country_code":"SL",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131373,
+    "gn:latitude":9.20307,
+    "gn:longitude":-12.25928,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Robat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Robat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131373
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ca712e2aeae9de75d5b1be4cc7fe179f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1226548817,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226548817,
+    "wof:lastmodified":1537700925,
+    "wof:name":"Robat",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.25928,
+    9.20307,
+    -12.25928,
+    9.20307
+],
+  "geometry": {"coordinates":[-12.25928,9.20307],"type":"Point"}
+}

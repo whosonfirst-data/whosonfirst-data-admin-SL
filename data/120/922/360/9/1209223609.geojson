@@ -1,0 +1,64 @@
+{
+  "id": 1209223609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.4463,9.48306,-11.4463,9.48306",
+    "geom:latitude":9.48306,
+    "geom:longitude":-11.4463,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Farandugu",
+    "gn:country_code":"SL",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409447,
+    "gn:latitude":9.48306,
+    "gn:longitude":-11.4463,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Farandugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Farandugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409447
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a3074d4325dca997ab545c44df5184f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209223609
+        }
+    ],
+    "wof:id":1209223609,
+    "wof:lastmodified":1537700663,
+    "wof:name":"Farandugu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.4463,
+    9.48306,
+    -11.4463,
+    9.48306
+],
+  "geometry": {"coordinates":[-11.4463,9.48306],"type":"Point"}
+}

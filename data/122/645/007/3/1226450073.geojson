@@ -1,0 +1,70 @@
+{
+  "id": 1226450073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.63277,7.87853,-12.63277,7.87853",
+    "geom:latitude":7.87853,
+    "geom:longitude":-12.63277,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mabambi",
+    "gn:country_code":"SL",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406886,
+    "gn:latitude":7.87853,
+    "gn:longitude":-12.63277,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mabambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mabambi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406886
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6a3abfef253e305373c3c256e27315b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226450073,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226450073,
+    "wof:lastmodified":1537700577,
+    "wof:name":"Mabambi",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.63277,
+    7.87853,
+    -12.63277,
+    7.87853
+],
+  "geometry": {"coordinates":[-12.63277,7.87853],"type":"Point"}
+}

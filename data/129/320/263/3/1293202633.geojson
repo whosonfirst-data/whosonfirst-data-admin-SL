@@ -1,0 +1,70 @@
+{
+  "id": 1293202633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.87915,8.06894,-12.87915,8.06894",
+    "geom:latitude":8.06894,
+    "geom:longitude":-12.87915,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Magbamusu",
+    "gn:country_code":"SL",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893056,
+    "gn:latitude":8.06894,
+    "gn:longitude":-12.87915,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Magbamusu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magbamusu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893056
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7ac5a75a2b1bbf0f8791d58e26dab51b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1293202633,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293202633,
+    "wof:lastmodified":1537700828,
+    "wof:name":"Magbamusu",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.87915,
+    8.06894,
+    -12.87915,
+    8.06894
+],
+  "geometry": {"coordinates":[-12.87915,8.06894],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293896571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.87156,9.18122,-12.87156,9.18122",
+    "geom:latitude":9.18122,
+    "geom:longitude":-12.87156,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mambui",
+    "gn:country_code":"SL",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880748,
+    "gn:latitude":9.18122,
+    "gn:longitude":-12.87156,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Mambui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mambui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880748
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7a685486d7e56f1660fd34ea04d42e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1293896571,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293896571,
+    "wof:lastmodified":1537700810,
+    "wof:name":"Mambui",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.87156,
+    9.18122,
+    -12.87156,
+    9.18122
+],
+  "geometry": {"coordinates":[-12.87156,9.18122],"type":"Point"}
+}

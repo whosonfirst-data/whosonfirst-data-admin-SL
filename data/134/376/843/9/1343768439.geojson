@@ -1,0 +1,70 @@
+{
+  "id": 1343768439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.14723,8.38678,-13.14723,8.38678",
+    "geom:latitude":8.38678,
+    "geom:longitude":-13.14723,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kosso Town",
+    "gn:country_code":"SL",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407412,
+    "gn:latitude":8.38678,
+    "gn:longitude":-13.14723,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Kosso Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kosso Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407412
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"36664638edc9db76b4920af8f2a3021d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1343768439,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1343768439,
+    "wof:lastmodified":1537700595,
+    "wof:name":"Kosso Town",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.14723,
+    8.38678,
+    -13.14723,
+    8.38678
+],
+  "geometry": {"coordinates":[-13.14723,8.38678],"type":"Point"}
+}

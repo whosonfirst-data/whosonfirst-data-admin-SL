@@ -1,0 +1,74 @@
+{
+  "id": 1310216601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.55576,8.4133,-11.55576,8.4133",
+    "geom:latitude":8.4133,
+    "geom:longitude":-11.55576,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Konima",
+    "gn:country_code":"SL",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408775,
+    "gn:latitude":8.4133,
+    "gn:longitude":-11.55576,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Konima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Konima"
+    ],
+    "name:und_x_variant":[
+        "Guabu",
+        "Goabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408775
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"78af02bb91b49f87ed79e707a96e2590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1310216601,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1310216601,
+    "wof:lastmodified":1537700639,
+    "wof:name":"Konima",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.55576,
+    8.4133,
+    -11.55576,
+    8.4133
+],
+  "geometry": {"coordinates":[-11.55576,8.4133],"type":"Point"}
+}

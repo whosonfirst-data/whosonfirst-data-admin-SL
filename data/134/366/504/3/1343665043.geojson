@@ -1,0 +1,70 @@
+{
+  "id": 1343665043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.80819,9.07488,-12.80819,9.07488",
+    "geom:latitude":9.07488,
+    "geom:longitude":-12.80819,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kamasunu",
+    "gn:country_code":"SL",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880737,
+    "gn:latitude":9.07488,
+    "gn:longitude":-12.80819,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Kamasunu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kamasunu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880737
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7ac0361be1283f093bce084cd92ec69f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1343665043,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343665043,
+    "wof:lastmodified":1537700810,
+    "wof:name":"Kamasunu",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.80819,
+    9.07488,
+    -12.80819,
+    9.07488
+],
+  "geometry": {"coordinates":[-12.80819,9.07488],"type":"Point"}
+}

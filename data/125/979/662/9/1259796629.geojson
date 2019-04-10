@@ -1,0 +1,70 @@
+{
+  "id": 1259796629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.98825,9.40952,-10.98825,9.40952",
+    "geom:latitude":9.40952,
+    "geom:longitude":-10.98825,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Siraninkoro",
+    "gn:country_code":"SL",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403795,
+    "gn:latitude":9.40952,
+    "gn:longitude":-10.98825,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Siraninkoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Siraninkoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403795
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"efc8f7d63d7b30cf8ad72e8b8f8a8f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1259796629,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259796629,
+    "wof:lastmodified":1537700474,
+    "wof:name":"Siraninkoro",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.98825,
+    9.40952,
+    -10.98825,
+    9.40952
+],
+  "geometry": {"coordinates":[-10.98825,9.40952],"type":"Point"}
+}

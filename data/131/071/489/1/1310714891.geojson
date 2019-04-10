@@ -1,0 +1,70 @@
+{
+  "id": 1310714891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.89484,8.95678,-12.89484,8.95678",
+    "geom:latitude":8.95678,
+    "geom:longitude":-12.89484,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mafuri",
+    "gn:country_code":"SL",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406672,
+    "gn:latitude":8.95678,
+    "gn:longitude":-12.89484,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Mafuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mafuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406672
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"be34eba93c469cbf388943e5dbf70f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1310714891,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1310714891,
+    "wof:lastmodified":1537700570,
+    "wof:name":"Mafuri",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.89484,
+    8.95678,
+    -12.89484,
+    8.95678
+],
+  "geometry": {"coordinates":[-12.89484,8.95678],"type":"Point"}
+}

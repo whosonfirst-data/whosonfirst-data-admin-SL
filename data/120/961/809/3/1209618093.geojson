@@ -1,0 +1,64 @@
+{
+  "id": 1209618093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.8007,9.77017,-11.8007,9.77017",
+    "geom:latitude":9.77017,
+    "geom:longitude":-11.8007,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Matugutera",
+    "gn:country_code":"SL",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405546,
+    "gn:latitude":9.77017,
+    "gn:longitude":-11.8007,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Matugutera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matugutera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405546
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a2427aa96d954bec447303b919974d13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209618093
+        }
+    ],
+    "wof:id":1209618093,
+    "wof:lastmodified":1537700533,
+    "wof:name":"Matugutera",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.8007,
+    9.77017,
+    -11.8007,
+    9.77017
+],
+  "geometry": {"coordinates":[-11.8007,9.77017],"type":"Point"}
+}

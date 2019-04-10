@@ -1,0 +1,66 @@
+{
+  "id": 1343263663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.74083,7.62472,-12.74083,7.62472",
+    "geom:latitude":7.62472,
+    "geom:longitude":-12.74083,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Delken",
+    "gn:cc2":"SL",
+    "gn:country_code":"SL",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409652,
+    "gn:latitude":7.62472,
+    "gn:longitude":-12.74083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Delken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Delkin",
+        "Delken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409652
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"df8b7e5435bd939529c0261764b40e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343263663,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343263663,
+    "wof:lastmodified":1537700670,
+    "wof:name":"Delken",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.74083,
+    7.62472,
+    -12.74083,
+    7.62472
+],
+  "geometry": {"coordinates":[-12.74083,7.62472],"type":"Point"}
+}

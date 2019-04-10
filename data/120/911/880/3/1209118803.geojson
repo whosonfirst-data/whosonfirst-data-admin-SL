@@ -1,0 +1,64 @@
+{
+  "id": 1209118803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.22371,8.35266,-12.22371,8.35266",
+    "geom:latitude":8.35266,
+    "geom:longitude":-12.22371,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Matam",
+    "gn:country_code":"SL",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875869,
+    "gn:latitude":8.35266,
+    "gn:longitude":-12.22371,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Matam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875869
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ed1b27a59906e03d65e6fb6ade874426",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209118803
+        }
+    ],
+    "wof:id":1209118803,
+    "wof:lastmodified":1537700770,
+    "wof:name":"Matam",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.22371,
+    8.35266,
+    -12.22371,
+    8.35266
+],
+  "geometry": {"coordinates":[-12.22371,8.35266],"type":"Point"}
+}

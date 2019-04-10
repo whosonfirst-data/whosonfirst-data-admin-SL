@@ -1,0 +1,70 @@
+{
+  "id": 1360087971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.57415,9.10995,-12.57415,9.10995",
+    "geom:latitude":9.10995,
+    "geom:longitude":-12.57415,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Konta",
+    "gn:country_code":"SL",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880967,
+    "gn:latitude":9.10995,
+    "gn:longitude":-12.57415,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Konta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Konta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880967
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7f449c43c82c89576b8393355cee4547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1360087971,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1360087971,
+    "wof:lastmodified":1537700816,
+    "wof:name":"Konta",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.57415,
+    9.10995,
+    -12.57415,
+    9.10995
+],
+  "geometry": {"coordinates":[-12.57415,9.10995],"type":"Point"}
+}

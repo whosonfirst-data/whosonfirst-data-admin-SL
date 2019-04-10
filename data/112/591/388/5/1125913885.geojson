@@ -1,0 +1,81 @@
+{
+  "id": 1125913885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.14,7.94111,-11.14,7.94111",
+    "geom:latitude":7.94111,
+    "geom:longitude":-11.14,
+    "gn:gn_country":"SL",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5007,
+    "gn:population":5007,
+    "iso:country":"SL",
+    "lbl:latitude":7.94111,
+    "lbl:longitude":-11.14,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Hangha"
+    ],
+    "qs_pg:aaroncc":"SL",
+    "qs_pg:gn_country":"SL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2408585,
+    "qs_pg:gn_pop":5007,
+    "qs_pg:name":"Hangha",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1035460,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408585,
+        "qs_pg:id":1035460
+    },
+    "wof:country":"SL",
+    "wof:created":1497296250,
+    "wof:geomhash":"6d6d52862b0e6fd10c16a10e498ab44e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1125913885,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1125913885,
+    "wof:lastmodified":1509400379,
+    "wof:name":"Hangha",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:population":5007,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.14,
+    7.94111,
+    -11.14,
+    7.94111
+],
+  "geometry": {"coordinates":[-11.14,7.94111],"type":"Point"}
+}

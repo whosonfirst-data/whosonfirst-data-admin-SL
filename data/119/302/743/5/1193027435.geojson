@@ -1,0 +1,70 @@
+{
+  "id": 1193027435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.25475,8.0074,-12.25475,8.0074",
+    "geom:latitude":8.0074,
+    "geom:longitude":-12.25475,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nyandeyama",
+    "gn:country_code":"SL",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9901214,
+    "gn:latitude":8.0074,
+    "gn:longitude":-12.25475,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Nyandeyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyandeyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9901214
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8b07fc4b65d8c17436ddf55b968a7178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1193027435,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1193027435,
+    "wof:lastmodified":1537700844,
+    "wof:name":"Nyandeyama",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.25475,
+    8.0074,
+    -12.25475,
+    8.0074
+],
+  "geometry": {"coordinates":[-12.25475,8.0074],"type":"Point"}
+}

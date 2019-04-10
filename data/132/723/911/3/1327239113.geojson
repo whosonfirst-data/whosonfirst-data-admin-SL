@@ -1,0 +1,73 @@
+{
+  "id": 1327239113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.6982,7.87814,-12.6982,7.87814",
+    "geom:latitude":7.87814,
+    "geom:longitude":-12.6982,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Motimpeh",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405033,
+    "gn:latitude":7.87814,
+    "gn:longitude":-12.6982,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Motimpeh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Motimpeh"
+    ],
+    "name:und_x_variant":[
+        "Motimbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405033
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bfba44641294daf95373fe4aabc41105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1327239113,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327239113,
+    "wof:lastmodified":1537700515,
+    "wof:name":"Motimpeh",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.6982,
+    7.87814,
+    -12.6982,
+    7.87814
+],
+  "geometry": {"coordinates":[-12.6982,7.87814],"type":"Point"}
+}

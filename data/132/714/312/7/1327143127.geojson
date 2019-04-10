@@ -1,0 +1,70 @@
+{
+  "id": 1327143127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.12298,9.38217,-12.12298,9.38217",
+    "geom:latitude":9.38217,
+    "geom:longitude":-12.12298,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masumba",
+    "gn:country_code":"SL",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405684,
+    "gn:latitude":9.38217,
+    "gn:longitude":-12.12298,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Masumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405684
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"8409da3d8b148bcaf19bda5f7894adc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1327143127,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1327143127,
+    "wof:lastmodified":1537700538,
+    "wof:name":"Masumba",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.12298,
+    9.38217,
+    -12.12298,
+    9.38217
+],
+  "geometry": {"coordinates":[-12.12298,9.38217],"type":"Point"}
+}

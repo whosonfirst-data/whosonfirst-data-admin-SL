@@ -1,0 +1,64 @@
+{
+  "id": 1209418261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.96733,8.43601,-12.96733,8.43601",
+    "geom:latitude":8.43601,
+    "geom:longitude":-12.96733,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Malegbe",
+    "gn:country_code":"SL",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871888,
+    "gn:latitude":8.43601,
+    "gn:longitude":-12.96733,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Malegbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malegbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871888
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7ba777434784220eba38d8c9c5b3214f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209418261
+        }
+    ],
+    "wof:id":1209418261,
+    "wof:lastmodified":1537700738,
+    "wof:name":"Malegbe",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.96733,
+    8.43601,
+    -12.96733,
+    8.43601
+],
+  "geometry": {"coordinates":[-12.96733,8.43601],"type":"Point"}
+}

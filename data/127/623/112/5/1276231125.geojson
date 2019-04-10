@@ -1,0 +1,70 @@
+{
+  "id": 1276231125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.65532,9.07024,-10.65532,9.07024",
+    "geom:latitude":9.07024,
+    "geom:longitude":-10.65532,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mondaia",
+    "gn:country_code":"SL",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9998200,
+    "gn:latitude":9.07024,
+    "gn:longitude":-10.65532,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Mondaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mondaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9998200
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"26a5ad99ad82c1844b97ce2eb25011fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1276231125,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276231125,
+    "wof:lastmodified":1537700905,
+    "wof:name":"Mondaia",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.65532,
+    9.07024,
+    -10.65532,
+    9.07024
+],
+  "geometry": {"coordinates":[-10.65532,9.07024],"type":"Point"}
+}

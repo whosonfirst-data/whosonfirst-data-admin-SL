@@ -1,0 +1,70 @@
+{
+  "id": 1243557857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.73999,8.67569,-12.73999,8.67569",
+    "geom:latitude":8.67569,
+    "geom:longitude":-12.73999,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makapr",
+    "gn:country_code":"SL",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9986885,
+    "gn:latitude":8.67569,
+    "gn:longitude":-12.73999,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Makapr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makapr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9986885
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"390ba6efbc8399f42f3cdf73807f7da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1243557857,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243557857,
+    "wof:lastmodified":1537700895,
+    "wof:name":"Makapr",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.73999,
+    8.67569,
+    -12.73999,
+    8.67569
+],
+  "geometry": {"coordinates":[-12.73999,8.67569],"type":"Point"}
+}

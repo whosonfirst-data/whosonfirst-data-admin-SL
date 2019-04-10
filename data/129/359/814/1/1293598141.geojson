@@ -1,0 +1,80 @@
+{
+  "id": 1293598141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.81948,9.28059,-12.81948,9.28059",
+    "geom:latitude":9.28059,
+    "geom:longitude":-12.81948,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sisaria",
+    "gn:country_code":"SL",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880281,
+    "gn:latitude":9.28059,
+    "gn:longitude":-12.81948,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Sisaria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sisaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880281
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c0ce7779006e9c356170ccda0b94b6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1293598141,
+            "region_id":85671403
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1293598141,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293598141,
+    "wof:lastmodified":1537700799,
+    "wof:name":"Sisaria",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.81948,
+    9.28059,
+    -12.81948,
+    9.28059
+],
+  "geometry": {"coordinates":[-12.81948,9.28059],"type":"Point"}
+}

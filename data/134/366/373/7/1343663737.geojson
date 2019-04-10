@@ -1,0 +1,70 @@
+{
+  "id": 1343663737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.77629,8.2186,-12.77629,8.2186",
+    "geom:latitude":8.2186,
+    "geom:longitude":-12.77629,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sengema",
+    "gn:country_code":"SL",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403916,
+    "gn:latitude":8.2186,
+    "gn:longitude":-12.77629,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Sengema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sengema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403916
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7e042a7d02bd08924a1515205ea88a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1343663737,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343663737,
+    "wof:lastmodified":1537700478,
+    "wof:name":"Sengema",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.77629,
+    8.2186,
+    -12.77629,
+    8.2186
+],
+  "geometry": {"coordinates":[-12.77629,8.2186],"type":"Point"}
+}

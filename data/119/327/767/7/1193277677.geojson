@@ -1,0 +1,73 @@
+{
+  "id": 1193277677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.73515,7.46101,-11.73515,7.46101",
+    "geom:latitude":7.46101,
+    "geom:longitude":-11.73515,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gangama",
+    "gn:country_code":"SL",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408029,
+    "gn:latitude":7.46101,
+    "gn:longitude":-11.73515,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gangama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gangama"
+    ],
+    "name:und_x_variant":[
+        "Kangama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408029
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6bf95b8540c4790a3246bbeb200c6382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779069,
+            "locality_id":1193277677,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1193277677,
+    "wof:lastmodified":1537700614,
+    "wof:name":"Gangama",
+    "wof:parent_id":1108779069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.73515,
+    7.46101,
+    -11.73515,
+    7.46101
+],
+  "geometry": {"coordinates":[-11.73515,7.46101],"type":"Point"}
+}

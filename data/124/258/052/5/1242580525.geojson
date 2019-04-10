@@ -1,0 +1,70 @@
+{
+  "id": 1242580525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.38448,9.61714,-11.38448,9.61714",
+    "geom:latitude":9.61714,
+    "geom:longitude":-11.38448,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kerudu",
+    "gn:country_code":"SL",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872263,
+    "gn:latitude":9.61714,
+    "gn:longitude":-11.38448,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Kerudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kerudu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872263
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2a8938c2ba2fae50344c28a335ca0554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1242580525,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1242580525,
+    "wof:lastmodified":1537700744,
+    "wof:name":"Kerudu",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.38448,
+    9.61714,
+    -11.38448,
+    9.61714
+],
+  "geometry": {"coordinates":[-11.38448,9.61714],"type":"Point"}
+}

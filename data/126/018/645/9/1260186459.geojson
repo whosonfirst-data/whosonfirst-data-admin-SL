@@ -1,0 +1,70 @@
+{
+  "id": 1260186459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.76616,8.61381,-10.76616,8.61381",
+    "geom:latitude":8.61381,
+    "geom:longitude":-10.76616,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kugbao",
+    "gn:country_code":"SL",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407273,
+    "gn:latitude":8.61381,
+    "gn:longitude":-10.76616,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kugbao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kugbao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407273
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9133d401fc6e19bf85a18676ab0230b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1260186459,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1260186459,
+    "wof:lastmodified":1537700590,
+    "wof:name":"Kugbao",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.76616,
+    8.61381,
+    -10.76616,
+    8.61381
+],
+  "geometry": {"coordinates":[-10.76616,8.61381],"type":"Point"}
+}

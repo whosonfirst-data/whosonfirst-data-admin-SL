@@ -1,0 +1,70 @@
+{
+  "id": 1259491091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.07255,7.47717,-12.07255,7.47717",
+    "geom:latitude":7.47717,
+    "geom:longitude":-12.07255,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wueh",
+    "gn:country_code":"SL",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876570,
+    "gn:latitude":7.47717,
+    "gn:longitude":-12.07255,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Wueh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wueh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876570
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2358be551b186ac8d25f925c9efc6ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1259491091,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1259491091,
+    "wof:lastmodified":1537700783,
+    "wof:name":"Wueh",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.07255,
+    7.47717,
+    -12.07255,
+    7.47717
+],
+  "geometry": {"coordinates":[-12.07255,7.47717],"type":"Point"}
+}

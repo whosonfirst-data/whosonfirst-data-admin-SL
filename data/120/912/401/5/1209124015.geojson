@@ -1,0 +1,64 @@
+{
+  "id": 1209124015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.03755,7.88919,-11.03755,7.88919",
+    "geom:latitude":7.88919,
+    "geom:longitude":-11.03755,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Buma",
+    "gn:country_code":"SL",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875425,
+    "gn:latitude":7.88919,
+    "gn:longitude":-11.03755,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Buma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875425
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2d0d5b4652f5b0ef67d2415547022049",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209124015
+        }
+    ],
+    "wof:id":1209124015,
+    "wof:lastmodified":1537700764,
+    "wof:name":"Buma",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.03755,
+    7.88919,
+    -11.03755,
+    7.88919
+],
+  "geometry": {"coordinates":[-11.03755,7.88919],"type":"Point"}
+}

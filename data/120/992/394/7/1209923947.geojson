@@ -1,0 +1,67 @@
+{
+  "id": 1209923947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.22765,8.71496,-11.22765,8.71496",
+    "geom:latitude":8.71496,
+    "geom:longitude":-11.22765,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Waidala",
+    "gn:country_code":"SL",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9857567,
+    "gn:latitude":8.71496,
+    "gn:longitude":-11.22765,
+    "gn:modification_date":"2014-11-20",
+    "gn:name":"Waidala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9857567
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ab87e5a71860586027ba1e18078af205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1209923947,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1209923947,
+    "wof:lastmodified":1536395743,
+    "wof:name":"Waidala",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.22765,
+    8.71496,
+    -11.22765,
+    8.71496
+],
+  "geometry": {"coordinates":[-11.22765,8.71496],"type":"Point"}
+}

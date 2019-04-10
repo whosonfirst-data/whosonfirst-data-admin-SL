@@ -1,0 +1,80 @@
+{
+  "id": 1360197319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.86418,9.26416,-12.86418,9.26416",
+    "geom:latitude":9.26416,
+    "geom:longitude":-12.86418,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fofomeri",
+    "gn:country_code":"SL",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880308,
+    "gn:latitude":9.26416,
+    "gn:longitude":-12.86418,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Fofomeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fofomeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880308
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2e03fee0218451542b7afe092acfb3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1360197319,
+            "region_id":85671403
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1360197319,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1360197319,
+    "wof:lastmodified":1537700800,
+    "wof:name":"Fofomeri",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.86418,
+    9.26416,
+    -12.86418,
+    9.26416
+],
+  "geometry": {"coordinates":[-12.86418,9.26416],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343470297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.05454,8.17611,-12.05454,8.17611",
+    "geom:latitude":8.17611,
+    "geom:longitude":-12.05454,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Magbonka",
+    "gn:country_code":"SL",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406625,
+    "gn:latitude":8.17611,
+    "gn:longitude":-12.05454,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Magbonka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magbonka"
+    ],
+    "name:und_x_variant":[
+        "Magbenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406625
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2054475965eba1d4c348143a5d60d6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1343470297,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343470297,
+    "wof:lastmodified":1537700568,
+    "wof:name":"Magbonka",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.05454,
+    8.17611,
+    -12.05454,
+    8.17611
+],
+  "geometry": {"coordinates":[-12.05454,8.17611],"type":"Point"}
+}

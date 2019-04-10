@@ -1,0 +1,70 @@
+{
+  "id": 1343466341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.75471,8.1089,-11.75471,8.1089",
+    "geom:latitude":8.1089,
+    "geom:longitude":-11.75471,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kenema",
+    "gn:country_code":"SL",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904456,
+    "gn:latitude":8.1089,
+    "gn:longitude":-11.75471,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Kenema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kenema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904456
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9a051c8791fb7df697ce97585002bf1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1343466341,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343466341,
+    "wof:lastmodified":1537700853,
+    "wof:name":"Kenema",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.75471,
+    8.1089,
+    -11.75471,
+    8.1089
+],
+  "geometry": {"coordinates":[-11.75471,8.1089],"type":"Point"}
+}

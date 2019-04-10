@@ -1,0 +1,70 @@
+{
+  "id": 1327335535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.27235,7.44413,-12.27235,7.44413",
+    "geom:latitude":7.44413,
+    "geom:longitude":-12.27235,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gewojahun",
+    "gn:country_code":"SL",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593625,
+    "gn:latitude":7.44413,
+    "gn:longitude":-12.27235,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gewojahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gewojahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593625
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c339e265c36920113166fa274fa3f222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1327335535,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1327335535,
+    "wof:lastmodified":1537700722,
+    "wof:name":"Gewojahun",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.27235,
+    7.44413,
+    -12.27235,
+    7.44413
+],
+  "geometry": {"coordinates":[-12.27235,7.44413],"type":"Point"}
+}

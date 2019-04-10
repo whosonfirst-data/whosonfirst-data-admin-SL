@@ -1,0 +1,64 @@
+{
+  "id": 1209118841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.1354,8.77692,-13.1354,8.77692",
+    "geom:latitude":8.77692,
+    "geom:longitude":-13.1354,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kawbana",
+    "gn:country_code":"SL",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407848,
+    "gn:latitude":8.77692,
+    "gn:longitude":-13.1354,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kawbana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kawbana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407848
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c38d4bdeb03053459d06102e6c133f05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209118841
+        }
+    ],
+    "wof:id":1209118841,
+    "wof:lastmodified":1537700608,
+    "wof:name":"Kawbana",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.1354,
+    8.77692,
+    -13.1354,
+    8.77692
+],
+  "geometry": {"coordinates":[-13.1354,8.77692],"type":"Point"}
+}

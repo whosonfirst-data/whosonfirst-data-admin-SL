@@ -1,0 +1,70 @@
+{
+  "id": 1276657463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.19931,8.42983,-13.19931,8.42983",
+    "geom:latitude":8.42983,
+    "geom:longitude":-13.19931,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bathurst",
+    "gn:country_code":"SL",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410282,
+    "gn:latitude":8.42983,
+    "gn:longitude":-13.19931,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bathurst",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bathurst"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410282
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7b220d7b39604e8a93474a7660d7c96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1276657463,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1276657463,
+    "wof:lastmodified":1537700691,
+    "wof:name":"Bathurst",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.19931,
+    8.42983,
+    -13.19931,
+    8.42983
+],
+  "geometry": {"coordinates":[-13.19931,8.42983],"type":"Point"}
+}

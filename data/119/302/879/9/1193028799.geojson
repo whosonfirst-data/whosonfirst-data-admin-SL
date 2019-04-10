@@ -1,0 +1,70 @@
+{
+  "id": 1193028799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.2698,8.97601,-13.2698,8.97601",
+    "geom:latitude":8.97601,
+    "geom:longitude":-13.2698,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Saka",
+    "gn:country_code":"SL",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404194,
+    "gn:latitude":8.97601,
+    "gn:longitude":-13.2698,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Saka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404194
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"99a50d0f1d7fa479995395847a5afda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1193028799,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1193028799,
+    "wof:lastmodified":1537700487,
+    "wof:name":"Saka",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.2698,
+    8.97601,
+    -13.2698,
+    8.97601
+],
+  "geometry": {"coordinates":[-13.2698,8.97601],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259485251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.92084,7.39386,-11.92084,7.39386",
+    "geom:latitude":7.39386,
+    "geom:longitude":-11.92084,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tungie",
+    "gn:country_code":"SL",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403234,
+    "gn:latitude":7.39386,
+    "gn:longitude":-11.92084,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tungie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tungia",
+        "Tungie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403234
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"df0aa98e16671df1ff5298853d39adc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1259485251,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1259485251,
+    "wof:lastmodified":1537700457,
+    "wof:name":"Tungie",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.92084,
+    7.39386,
+    -11.92084,
+    7.39386
+],
+  "geometry": {"coordinates":[-11.92084,7.39386],"type":"Point"}
+}

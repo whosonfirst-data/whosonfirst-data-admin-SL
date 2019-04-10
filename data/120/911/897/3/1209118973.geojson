@@ -1,0 +1,64 @@
+{
+  "id": 1209118973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.17273,9.31557,-12.17273,9.31557",
+    "geom:latitude":9.31557,
+    "geom:longitude":-12.17273,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makere",
+    "gn:country_code":"SL",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10134767,
+    "gn:latitude":9.31557,
+    "gn:longitude":-12.17273,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Makere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10134767
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4bf84e44025ab1384d119ec314b11ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209118973
+        }
+    ],
+    "wof:id":1209118973,
+    "wof:lastmodified":1537700948,
+    "wof:name":"Makere",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.17273,
+    9.31557,
+    -12.17273,
+    9.31557
+],
+  "geometry": {"coordinates":[-12.17273,9.31557],"type":"Point"}
+}

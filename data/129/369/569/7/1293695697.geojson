@@ -1,0 +1,70 @@
+{
+  "id": 1293695697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.02426,8.49355,-12.02426,8.49355",
+    "geom:latitude":8.49355,
+    "geom:longitude":-12.02426,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Petifu",
+    "gn:country_code":"SL",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404511,
+    "gn:latitude":8.49355,
+    "gn:longitude":-12.02426,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Petifu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Petifu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404511
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7956af041cfeb1e7db004222497906ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421467,
+            "locality_id":1293695697,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293695697,
+    "wof:lastmodified":1537700497,
+    "wof:name":"Petifu",
+    "wof:parent_id":890421467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.02426,
+    8.49355,
+    -12.02426,
+    8.49355
+],
+  "geometry": {"coordinates":[-12.02426,8.49355],"type":"Point"}
+}

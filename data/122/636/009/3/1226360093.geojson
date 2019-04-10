@@ -1,0 +1,80 @@
+{
+  "id": 1226360093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.64607,8.44526,-10.64607,8.44526",
+    "geom:latitude":8.44526,
+    "geom:longitude":-10.64607,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sekualu",
+    "gn:country_code":"SL",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9879843,
+    "gn:latitude":8.44526,
+    "gn:longitude":-10.64607,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Sekualu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sekualu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9879843
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1f4cef62d6a675669aeff5a7a9fec159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1226360093,
+            "region_id":85677133
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1226360093,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1226360093,
+    "wof:lastmodified":1537700796,
+    "wof:name":"Sekualu",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.64607,
+    8.44526,
+    -10.64607,
+    8.44526
+],
+  "geometry": {"coordinates":[-10.64607,8.44526],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243567135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.76386,9.29512,-10.76386,9.29512",
+    "geom:latitude":9.29512,
+    "geom:longitude":-10.76386,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sanboria",
+    "gn:country_code":"SL",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404137,
+    "gn:latitude":9.29512,
+    "gn:longitude":-10.76386,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Sanboria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samboraia",
+        "Samboria",
+        "Sanboria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404137
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"139680cc26f9cdfe13f850de69009c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":1243567135,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1243567135,
+    "wof:lastmodified":1537700485,
+    "wof:name":"Sanboria",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.76386,
+    9.29512,
+    -10.76386,
+    9.29512
+],
+  "geometry": {"coordinates":[-10.76386,9.29512],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226144981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.88498,8.02545,-12.88498,8.02545",
+    "geom:latitude":8.02545,
+    "geom:longitude":-12.88498,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Rembi",
+    "gn:country_code":"SL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404376,
+    "gn:latitude":8.02545,
+    "gn:longitude":-12.88498,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Rembi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rembi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404376
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1709568a3eb5bcba86dabb346fe1a925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1226144981,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1226144981,
+    "wof:lastmodified":1537700493,
+    "wof:name":"Rembi",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.88498,
+    8.02545,
+    -12.88498,
+    8.02545
+],
+  "geometry": {"coordinates":[-12.88498,8.02545],"type":"Point"}
+}

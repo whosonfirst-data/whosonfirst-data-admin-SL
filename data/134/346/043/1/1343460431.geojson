@@ -1,0 +1,71 @@
+{
+  "id": 1343460431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.39352,7.75154,-12.39352,7.75154",
+    "geom:latitude":7.75154,
+    "geom:longitude":-12.39352,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mokombe",
+    "gn:country_code":"SL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405198,
+    "gn:latitude":7.75154,
+    "gn:longitude":-12.39352,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mokombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mokombo",
+        "Mokombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405198
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ea818b146304eb283a1642b0b6fed2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428991,
+            "locality_id":1343460431,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343460431,
+    "wof:lastmodified":1537700522,
+    "wof:name":"Mokombe",
+    "wof:parent_id":890428991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.39352,
+    7.75154,
+    -12.39352,
+    7.75154
+],
+  "geometry": {"coordinates":[-12.39352,7.75154],"type":"Point"}
+}

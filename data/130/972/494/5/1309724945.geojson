@@ -1,0 +1,70 @@
+{
+  "id": 1309724945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.46981,9.02265,-12.46981,9.02265",
+    "geom:latitude":9.02265,
+    "geom:longitude":-12.46981,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mabure",
+    "gn:country_code":"SL",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131400,
+    "gn:latitude":9.02265,
+    "gn:longitude":-12.46981,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Mabure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mabure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131400
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1d7874e1182e0b08ae7cfd3c41701202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1309724945,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309724945,
+    "wof:lastmodified":1537700925,
+    "wof:name":"Mabure",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.46981,
+    9.02265,
+    -12.46981,
+    9.02265
+],
+  "geometry": {"coordinates":[-12.46981,9.02265],"type":"Point"}
+}

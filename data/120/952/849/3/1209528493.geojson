@@ -1,0 +1,64 @@
+{
+  "id": 1209528493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.295,8.71252,-12.295,8.71252",
+    "geom:latitude":8.71252,
+    "geom:longitude":-12.295,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mayine",
+    "gn:country_code":"SL",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10132039,
+    "gn:latitude":8.71252,
+    "gn:longitude":-12.295,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Mayine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mayine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10132039
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"90251938b633b2e9441dceda2f134720",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209528493
+        }
+    ],
+    "wof:id":1209528493,
+    "wof:lastmodified":1537700933,
+    "wof:name":"Mayine",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.295,
+    8.71252,
+    -12.295,
+    8.71252
+],
+  "geometry": {"coordinates":[-12.295,8.71252],"type":"Point"}
+}

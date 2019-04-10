@@ -1,0 +1,70 @@
+{
+  "id": 1310007685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.65128,7.38965,-11.65128,7.38965",
+    "geom:latitude":7.38965,
+    "geom:longitude":-11.65128,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kobolia",
+    "gn:country_code":"SL",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9892754,
+    "gn:latitude":7.38965,
+    "gn:longitude":-11.65128,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Kobolia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kobolia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9892754
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"0e99ab64c4305fa206a5cf71cdf0ff8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779069,
+            "locality_id":1310007685,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310007685,
+    "wof:lastmodified":1537700822,
+    "wof:name":"Kobolia",
+    "wof:parent_id":1108779069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.65128,
+    7.38965,
+    -11.65128,
+    7.38965
+],
+  "geometry": {"coordinates":[-11.65128,7.38965],"type":"Point"}
+}

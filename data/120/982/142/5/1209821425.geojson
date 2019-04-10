@@ -1,0 +1,71 @@
+{
+  "id": 1209821425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.10511,8.38189,-13.10511,8.38189",
+    "geom:latitude":8.38189,
+    "geom:longitude":-13.10511,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rokel",
+    "gn:country_code":"SL",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404320,
+    "gn:latitude":8.38189,
+    "gn:longitude":-13.10511,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Rokel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rokell",
+        "Rokel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404320
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"bd4f35db91939645a52020ae0ba4dbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1209821425,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1209821425,
+    "wof:lastmodified":1537700491,
+    "wof:name":"Rokel",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.10511,
+    8.38189,
+    -13.10511,
+    8.38189
+],
+  "geometry": {"coordinates":[-13.10511,8.38189],"type":"Point"}
+}

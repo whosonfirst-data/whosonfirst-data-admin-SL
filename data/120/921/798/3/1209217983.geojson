@@ -1,0 +1,64 @@
+{
+  "id": 1209217983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.09883,8.95179,-12.09883,8.95179",
+    "geom:latitude":8.95179,
+    "geom:longitude":-12.09883,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Magberi",
+    "gn:country_code":"SL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10133308,
+    "gn:latitude":8.95179,
+    "gn:longitude":-12.09883,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Magberi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magberi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10133308
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7dcd11cd94b684df7024ffd0a2715993",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209217983
+        }
+    ],
+    "wof:id":1209217983,
+    "wof:lastmodified":1537700939,
+    "wof:name":"Magberi",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.09883,
+    8.95179,
+    -12.09883,
+    8.95179
+],
+  "geometry": {"coordinates":[-12.09883,8.95179],"type":"Point"}
+}

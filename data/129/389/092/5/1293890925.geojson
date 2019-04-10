@@ -1,0 +1,70 @@
+{
+  "id": 1293890925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.16975,8.00405,-12.16975,8.00405",
+    "geom:latitude":8.00405,
+    "geom:longitude":-12.16975,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wongufo",
+    "gn:country_code":"SL",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904213,
+    "gn:latitude":8.00405,
+    "gn:longitude":-12.16975,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Wongufo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wongufo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904213
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f779ca16da740758af9490dc9891c7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1293890925,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293890925,
+    "wof:lastmodified":1537700849,
+    "wof:name":"Wongufo",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.16975,
+    8.00405,
+    -12.16975,
+    8.00405
+],
+  "geometry": {"coordinates":[-12.16975,8.00405],"type":"Point"}
+}

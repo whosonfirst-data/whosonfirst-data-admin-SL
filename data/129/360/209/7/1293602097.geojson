@@ -1,0 +1,70 @@
+{
+  "id": 1293602097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.17194,8.61889,-13.17194,8.61889",
+    "geom:latitude":8.61889,
+    "geom:longitude":-13.17194,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tumbu Bana",
+    "gn:country_code":"SL",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566533,
+    "gn:latitude":8.61889,
+    "gn:longitude":-13.17194,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Tumbu Bana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tumbu Bana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566533
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c18bbddaeb01b8e9e78fde7de677e71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1293602097,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1293602097,
+    "wof:lastmodified":1537700710,
+    "wof:name":"Tumbu Bana",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.17194,
+    8.61889,
+    -13.17194,
+    8.61889
+],
+  "geometry": {"coordinates":[-13.17194,8.61889],"type":"Point"}
+}

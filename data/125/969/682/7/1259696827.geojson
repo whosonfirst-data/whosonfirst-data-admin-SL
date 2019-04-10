@@ -1,0 +1,71 @@
+{
+  "id": 1259696827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.98835,8.98554,-12.98835,8.98554",
+    "geom:latitude":8.98554,
+    "geom:longitude":-12.98835,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Surie",
+    "gn:country_code":"SL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403672,
+    "gn:latitude":8.98554,
+    "gn:longitude":-12.98835,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Surie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suria",
+        "Surie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403672
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5c9c0025916465ae1adc6752b1a4d3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1259696827,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259696827,
+    "wof:lastmodified":1537700470,
+    "wof:name":"Surie",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.98835,
+    8.98554,
+    -12.98835,
+    8.98554
+],
+  "geometry": {"coordinates":[-12.98835,8.98554],"type":"Point"}
+}

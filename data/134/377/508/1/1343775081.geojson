@@ -1,0 +1,70 @@
+{
+  "id": 1343775081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.30013,9.49798,-12.30013,9.49798",
+    "geom:latitude":9.49798,
+    "geom:longitude":-12.30013,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kasirun",
+    "gn:country_code":"SL",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131169,
+    "gn:latitude":9.49798,
+    "gn:longitude":-12.30013,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Kasirun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kasirun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131169
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d8cc5c082a33bdbd34f6bc9d8505c14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1343775081,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343775081,
+    "wof:lastmodified":1537700923,
+    "wof:name":"Kasirun",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.30013,
+    9.49798,
+    -12.30013,
+    9.49798
+],
+  "geometry": {"coordinates":[-12.30013,9.49798],"type":"Point"}
+}

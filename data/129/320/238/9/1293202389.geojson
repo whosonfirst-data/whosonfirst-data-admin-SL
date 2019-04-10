@@ -1,0 +1,70 @@
+{
+  "id": 1293202389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.44595,8.14335,-12.44595,8.14335",
+    "geom:latitude":8.14335,
+    "geom:longitude":-12.44595,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kongoworo",
+    "gn:country_code":"SL",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893816,
+    "gn:latitude":8.14335,
+    "gn:longitude":-12.44595,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Kongoworo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kongoworo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893816
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"2f070103c4d6a8f85b45eb3de530444e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1293202389,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293202389,
+    "wof:lastmodified":1537700841,
+    "wof:name":"Kongoworo",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.44595,
+    8.14335,
+    -12.44595,
+    8.14335
+],
+  "geometry": {"coordinates":[-12.44595,8.14335],"type":"Point"}
+}

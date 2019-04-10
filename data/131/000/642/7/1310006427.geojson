@@ -1,0 +1,70 @@
+{
+  "id": 1310006427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.21793,8.4351,-13.21793,8.4351",
+    "geom:latitude":8.4351,
+    "geom:longitude":-13.21793,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Regent",
+    "gn:country_code":"SL",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404377,
+    "gn:latitude":8.4351,
+    "gn:longitude":-13.21793,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Regent",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Regent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404377
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"95d09da32a2da0d386e676faee9f2731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1310006427,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1310006427,
+    "wof:lastmodified":1537700493,
+    "wof:name":"Regent",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.21793,
+    8.4351,
+    -13.21793,
+    8.4351
+],
+  "geometry": {"coordinates":[-13.21793,8.4351],"type":"Point"}
+}

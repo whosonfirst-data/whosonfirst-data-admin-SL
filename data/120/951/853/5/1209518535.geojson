@@ -1,0 +1,64 @@
+{
+  "id": 1209518535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.81989,8.42169,-12.81989,8.42169",
+    "geom:latitude":8.42169,
+    "geom:longitude":-12.81989,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masampa",
+    "gn:country_code":"SL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405822,
+    "gn:latitude":8.42169,
+    "gn:longitude":-12.81989,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Masampa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405822
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5967dfd5624d2b997d0c633ba7af0e1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209518535
+        }
+    ],
+    "wof:id":1209518535,
+    "wof:lastmodified":1537700542,
+    "wof:name":"Masampa",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.81989,
+    8.42169,
+    -12.81989,
+    8.42169
+],
+  "geometry": {"coordinates":[-12.81989,8.42169],"type":"Point"}
+}

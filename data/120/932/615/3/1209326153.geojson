@@ -1,0 +1,64 @@
+{
+  "id": 1209326153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.64068,8.13369,-12.64068,8.13369",
+    "geom:latitude":8.13369,
+    "geom:longitude":-12.64068,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mokume",
+    "gn:country_code":"SL",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893553,
+    "gn:latitude":8.13369,
+    "gn:longitude":-12.64068,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Mokume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mokume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893553
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6d82f149b3a817ba0c7202c4f72bbdef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209326153
+        }
+    ],
+    "wof:id":1209326153,
+    "wof:lastmodified":1537700836,
+    "wof:name":"Mokume",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.64068,
+    8.13369,
+    -12.64068,
+    8.13369
+],
+  "geometry": {"coordinates":[-12.64068,8.13369],"type":"Point"}
+}

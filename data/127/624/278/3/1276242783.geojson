@@ -1,0 +1,70 @@
+{
+  "id": 1276242783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.28773,8.61145,-11.28773,8.61145",
+    "geom:latitude":8.61145,
+    "geom:longitude":-11.28773,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bomboafuidu",
+    "gn:country_code":"SL",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409979,
+    "gn:latitude":8.61145,
+    "gn:longitude":-11.28773,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Bomboafuidu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bomboafuidu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409979
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"848fc995f2a5e9e54d73e08824b6dad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1276242783,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1276242783,
+    "wof:lastmodified":1537700681,
+    "wof:name":"Bomboafuidu",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.28773,
+    8.61145,
+    -11.28773,
+    8.61145
+],
+  "geometry": {"coordinates":[-11.28773,8.61145],"type":"Point"}
+}

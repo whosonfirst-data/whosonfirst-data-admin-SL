@@ -1,0 +1,68 @@
+{
+  "id": 1193149643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.71624,9.14789,-10.71624,9.14789",
+    "geom:latitude":9.14789,
+    "geom:longitude":-10.71624,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bandaia",
+    "gn:country_code":"SL",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410511,
+    "gn:latitude":9.14789,
+    "gn:longitude":-10.71624,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Bandaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bandaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410511
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ea927c7838d1afcaf6ef26ef3a1b8257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "locality_id":1193149643,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1193149643,
+    "wof:lastmodified":1537700699,
+    "wof:name":"Bandaia",
+    "wof:parent_id":85671399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.71624,
+    9.14789,
+    -10.71624,
+    9.14789
+],
+  "geometry": {"coordinates":[-10.71624,9.14789],"type":"Point"}
+}

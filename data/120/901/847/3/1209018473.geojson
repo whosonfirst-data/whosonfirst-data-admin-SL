@@ -1,0 +1,64 @@
+{
+  "id": 1209018473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.19991,8.0038,-11.19991,8.0038",
+    "geom:latitude":8.0038,
+    "geom:longitude":-11.19991,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Buwibu",
+    "gn:country_code":"SL",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9915757,
+    "gn:latitude":8.0038,
+    "gn:longitude":-11.19991,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Buwibu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buwibu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9915757
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"82fd2b38c17c2c7d4208442de8712b3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209018473
+        }
+    ],
+    "wof:id":1209018473,
+    "wof:lastmodified":1537700864,
+    "wof:name":"Buwibu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.19991,
+    8.0038,
+    -11.19991,
+    8.0038
+],
+  "geometry": {"coordinates":[-11.19991,8.0038],"type":"Point"}
+}

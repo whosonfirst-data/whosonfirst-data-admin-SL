@@ -1,0 +1,70 @@
+{
+  "id": 1226255719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.11469,8.85029,-12.11469,8.85029",
+    "geom:latitude":8.85029,
+    "geom:longitude":-12.11469,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Laia",
+    "gn:country_code":"SL",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407082,
+    "gn:latitude":8.85029,
+    "gn:longitude":-12.11469,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Laia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Laia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407082
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1a7e397423beccffee7bcbd9109c81d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1226255719,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226255719,
+    "wof:lastmodified":1537700583,
+    "wof:name":"Laia",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.11469,
+    8.85029,
+    -12.11469,
+    8.85029
+],
+  "geometry": {"coordinates":[-12.11469,8.85029],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209017141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.31856,9.3026,-12.31856,9.3026",
+    "geom:latitude":9.3026,
+    "geom:longitude":-12.31856,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Robis",
+    "gn:country_code":"SL",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131105,
+    "gn:latitude":9.3026,
+    "gn:longitude":-12.31856,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Robis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Robis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131105
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d19fd2c6098f73f108ff7b2985bb08fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209017141
+        }
+    ],
+    "wof:id":1209017141,
+    "wof:lastmodified":1537700921,
+    "wof:name":"Robis",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.31856,
+    9.3026,
+    -12.31856,
+    9.3026
+],
+  "geometry": {"coordinates":[-12.31856,9.3026],"type":"Point"}
+}

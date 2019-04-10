@@ -1,0 +1,70 @@
+{
+  "id": 1226051297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.87785,9.02606,-11.87785,9.02606",
+    "geom:latitude":9.02606,
+    "geom:longitude":-11.87785,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makaita",
+    "gn:country_code":"SL",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406483,
+    "gn:latitude":9.02606,
+    "gn:longitude":-11.87785,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Makaita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makaita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406483
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"45db267f45b068bdeec344d558bcbb69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1226051297,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226051297,
+    "wof:lastmodified":1537700564,
+    "wof:name":"Makaita",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.87785,
+    9.02606,
+    -11.87785,
+    9.02606
+],
+  "geometry": {"coordinates":[-11.87785,9.02606],"type":"Point"}
+}

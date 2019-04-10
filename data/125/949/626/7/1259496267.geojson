@@ -1,0 +1,70 @@
+{
+  "id": 1259496267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.90774,9.1234,-11.90774,9.1234",
+    "geom:latitude":9.1234,
+    "geom:longitude":-11.90774,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bumban",
+    "gn:country_code":"SL",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409849,
+    "gn:latitude":9.1234,
+    "gn:longitude":-11.90774,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Bumban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bumban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409849
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5a7e37f3475505de3173d077ab02f4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1259496267,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259496267,
+    "wof:lastmodified":1537700677,
+    "wof:name":"Bumban",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.90774,
+    9.1234,
+    -11.90774,
+    9.1234
+],
+  "geometry": {"coordinates":[-11.90774,9.1234],"type":"Point"}
+}

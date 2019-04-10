@@ -1,0 +1,70 @@
+{
+  "id": 1344260231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.7317,9.3402,-12.7317,9.3402",
+    "geom:latitude":9.3402,
+    "geom:longitude":-12.7317,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wongbuya",
+    "gn:country_code":"SL",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880526,
+    "gn:latitude":9.3402,
+    "gn:longitude":-12.7317,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Wongbuya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wongbuya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880526
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4547a6ce447b748d7afc9600d2525811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1344260231,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1344260231,
+    "wof:lastmodified":1537700804,
+    "wof:name":"Wongbuya",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.7317,
+    9.3402,
+    -12.7317,
+    9.3402
+],
+  "geometry": {"coordinates":[-12.7317,9.3402],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 890420453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.06278,8.58167,-13.06278,8.58167",
+    "geom:latitude":8.58167,
+    "geom:longitude":-13.06278,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":4462,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u043f\u0435\u043b"
+    ],
+    "name:dut_x_preferred":[
+        "Pepel"
+    ],
+    "name:eng_x_preferred":[
+        "Pepel"
+    ],
+    "name:fin_x_preferred":[
+        "Pepel"
+    ],
+    "name:ger_x_preferred":[
+        "Pepel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30da\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Pepel"
+    ],
+    "name:por_x_preferred":[
+        "Pepel"
+    ],
+    "qs:name":"Pepel",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404607,
+        "gp:id":12517517,
+        "qs:id":139962,
+        "wd:id":"Q3466506",
+        "wk:page":"Pepel"
+    },
+    "wof:country":"SL",
+    "wof:created":1469051340,
+    "wof:geomhash":"3110534cdc1a3dbeee2e76b9a5a109a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":890420453,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":890420453,
+    "wof:lastmodified":1527792809,
+    "wof:name":"Pepel",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:population":4462,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.06278,
+    8.58167,
+    -13.06278,
+    8.58167
+],
+  "geometry": {"coordinates":[-13.06278,8.58167],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309812261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.01736,9.05338,-13.01736,9.05338",
+    "geom:latitude":9.05338,
+    "geom:longitude":-13.01736,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Koto",
+    "gn:country_code":"SL",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880390,
+    "gn:latitude":9.05338,
+    "gn:longitude":-13.01736,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Koto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880390
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"97e62ae44b60e47aedbde5b2e6959fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1309812261,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1309812261,
+    "wof:lastmodified":1537700800,
+    "wof:name":"Koto",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.01736,
+    9.05338,
+    -13.01736,
+    9.05338
+],
+  "geometry": {"coordinates":[-13.01736,9.05338],"type":"Point"}
+}

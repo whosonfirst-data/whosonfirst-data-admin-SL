@@ -1,0 +1,87 @@
+{
+  "id": 890444387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.4,9.16667,-11.4,9.16667",
+    "geom:latitude":9.16667,
+    "geom:longitude":-11.4,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":3138,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0438\u043a\u0430\u043b\u0438\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Alikalia"
+    ],
+    "name:eng_x_preferred":[
+        "Alikalia"
+    ],
+    "name:fin_x_preferred":[
+        "Alikalia"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u06cc\u06a9\u0627\u0644\u06cc\u0627"
+    ],
+    "name:rum_x_preferred":[
+        "Alikalia"
+    ],
+    "qs:name":"Alikalia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890421473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410708,
+        "gp:id":1418862,
+        "qs:id":1035476,
+        "wd:id":"Q4726610",
+        "wk:page":"Alikalia"
+    },
+    "wof:country":"SL",
+    "wof:created":1469052467,
+    "wof:geomhash":"8bd5c735dafe1d2ff146bf514617dfc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421473,
+            "locality_id":890444387,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":890444387,
+    "wof:lastmodified":1527787055,
+    "wof:name":"Alikalia",
+    "wof:parent_id":890421473,
+    "wof:placetype":"locality",
+    "wof:population":3138,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.4,
+    9.16667,
+    -11.4,
+    9.16667
+],
+  "geometry": {"coordinates":[-11.4,9.16667],"type":"Point"}
+}

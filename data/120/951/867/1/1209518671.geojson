@@ -1,0 +1,64 @@
+{
+  "id": 1209518671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4296,8.54411,-12.4296,8.54411",
+    "geom:latitude":8.54411,
+    "geom:longitude":-12.4296,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mafare",
+    "gn:country_code":"SL",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406725,
+    "gn:latitude":8.54411,
+    "gn:longitude":-12.4296,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Mafare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mafare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406725
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"da7b815bf779f3338f73b718e15e211f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209518671
+        }
+    ],
+    "wof:id":1209518671,
+    "wof:lastmodified":1537700572,
+    "wof:name":"Mafare",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4296,
+    8.54411,
+    -12.4296,
+    8.54411
+],
+  "geometry": {"coordinates":[-12.4296,8.54411],"type":"Point"}
+}

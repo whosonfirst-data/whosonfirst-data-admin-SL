@@ -1,0 +1,70 @@
+{
+  "id": 1360288733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.22019,9.57853,-12.22019,9.57853",
+    "geom:latitude":9.57853,
+    "geom:longitude":-12.22019,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kagboso",
+    "gn:country_code":"SL",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875628,
+    "gn:latitude":9.57853,
+    "gn:longitude":-12.22019,
+    "gn:modification_date":"2015-07-22",
+    "gn:name":"Kagboso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kagboso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875628
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"00e24e52332b53db0a3174fcb2aa041b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1360288733,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1360288733,
+    "wof:lastmodified":1537700767,
+    "wof:name":"Kagboso",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.22019,
+    9.57853,
+    -12.22019,
+    9.57853
+],
+  "geometry": {"coordinates":[-12.22019,9.57853],"type":"Point"}
+}

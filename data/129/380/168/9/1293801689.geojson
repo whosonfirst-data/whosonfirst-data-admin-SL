@@ -1,0 +1,70 @@
+{
+  "id": 1293801689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.81756,8.60384,-10.81756,8.60384",
+    "geom:latitude":8.60384,
+    "geom:longitude":-10.81756,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gbetema",
+    "gn:country_code":"SL",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409006,
+    "gn:latitude":8.60384,
+    "gn:longitude":-10.81756,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Gbetema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbetema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409006
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"398b9dc8788b860e1a1dcc35adc9cab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1293801689,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1293801689,
+    "wof:lastmodified":1537700647,
+    "wof:name":"Gbetema",
+    "wof:parent_id":890421469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.81756,
+    8.60384,
+    -10.81756,
+    8.60384
+],
+  "geometry": {"coordinates":[-10.81756,8.60384],"type":"Point"}
+}

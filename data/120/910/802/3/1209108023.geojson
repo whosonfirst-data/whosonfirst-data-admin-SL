@@ -1,0 +1,64 @@
+{
+  "id": 1209108023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.16466,7.79529,-12.16466,7.79529",
+    "geom:latitude":7.79529,
+    "geom:longitude":-12.16466,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mabore",
+    "gn:country_code":"SL",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872500,
+    "gn:latitude":7.79529,
+    "gn:longitude":-12.16466,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Mabore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mabore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872500
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"72f863b747e59f709abdedd1f9af2735",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209108023
+        }
+    ],
+    "wof:id":1209108023,
+    "wof:lastmodified":1537700747,
+    "wof:name":"Mabore",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.16466,
+    7.79529,
+    -12.16466,
+    7.79529
+],
+  "geometry": {"coordinates":[-12.16466,7.79529],"type":"Point"}
+}

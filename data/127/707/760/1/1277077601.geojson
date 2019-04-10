@@ -1,0 +1,70 @@
+{
+  "id": 1277077601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.26245,9.4755,-12.26245,9.4755",
+    "geom:latitude":9.4755,
+    "geom:longitude":-12.26245,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Buduku",
+    "gn:country_code":"SL",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131153,
+    "gn:latitude":9.4755,
+    "gn:longitude":-12.26245,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Buduku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buduku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131153
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"db83a18400d0dd98beb33fd2ad6c27dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1277077601,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1277077601,
+    "wof:lastmodified":1537700923,
+    "wof:name":"Buduku",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.26245,
+    9.4755,
+    -12.26245,
+    9.4755
+],
+  "geometry": {"coordinates":[-12.26245,9.4755],"type":"Point"}
+}

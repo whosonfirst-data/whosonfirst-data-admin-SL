@@ -1,0 +1,64 @@
+{
+  "id": 1209216669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.1605,7.66737,-12.1605,7.66737",
+    "geom:latitude":7.66737,
+    "geom:longitude":-12.1605,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mogbodo",
+    "gn:country_code":"SL",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593551,
+    "gn:latitude":7.66737,
+    "gn:longitude":-12.1605,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mogbodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mogbodo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593551
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"110ae7a7e240401eb699a631b685823d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209216669
+        }
+    ],
+    "wof:id":1209216669,
+    "wof:lastmodified":1537700720,
+    "wof:name":"Mogbodo",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.1605,
+    7.66737,
+    -12.1605,
+    7.66737
+],
+  "geometry": {"coordinates":[-12.1605,7.66737],"type":"Point"}
+}

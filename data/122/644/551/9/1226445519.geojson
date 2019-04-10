@@ -1,0 +1,70 @@
+{
+  "id": 1226445519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.12453,8.74955,-12.12453,8.74955",
+    "geom:latitude":8.74955,
+    "geom:longitude":-12.12453,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rolunk",
+    "gn:country_code":"SL",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2404299,
+    "gn:latitude":8.74955,
+    "gn:longitude":-12.12453,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Rolunk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rolunk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404299
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"79b9d8df597ba8ee3d15a251eeb2f4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1226445519,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226445519,
+    "wof:lastmodified":1537700490,
+    "wof:name":"Rolunk",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.12453,
+    8.74955,
+    -12.12453,
+    8.74955
+],
+  "geometry": {"coordinates":[-12.12453,8.74955],"type":"Point"}
+}

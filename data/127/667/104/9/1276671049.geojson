@@ -1,0 +1,70 @@
+{
+  "id": 1276671049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.77974,8.41207,-12.77974,8.41207",
+    "geom:latitude":8.41207,
+    "geom:longitude":-12.77974,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mabitra",
+    "gn:country_code":"SL",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872009,
+    "gn:latitude":8.41207,
+    "gn:longitude":-12.77974,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Mabitra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mabitra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872009
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7338428d57e61a53ab363631b785048b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1276671049,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276671049,
+    "wof:lastmodified":1537700741,
+    "wof:name":"Mabitra",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.77974,
+    8.41207,
+    -12.77974,
+    8.41207
+],
+  "geometry": {"coordinates":[-12.77974,8.41207],"type":"Point"}
+}

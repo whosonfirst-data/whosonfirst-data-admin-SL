@@ -1,0 +1,71 @@
+{
+  "id": 1259486499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.63804,8.80334,-12.63804,8.80334",
+    "geom:latitude":8.80334,
+    "geom:longitude":-12.63804,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Melikuru",
+    "gn:country_code":"SL",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405406,
+    "gn:latitude":8.80334,
+    "gn:longitude":-12.63804,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Melikuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melikuri",
+        "Melikuru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405406
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ded9d16a6870e61acb6fecc22032b0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1259486499,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1259486499,
+    "wof:lastmodified":1537700529,
+    "wof:name":"Melikuru",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.63804,
+    8.80334,
+    -12.63804,
+    8.80334
+],
+  "geometry": {"coordinates":[-12.63804,8.80334],"type":"Point"}
+}

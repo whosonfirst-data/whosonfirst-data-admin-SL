@@ -1,0 +1,70 @@
+{
+  "id": 1242790865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.90558,9.35374,-11.90558,9.35374",
+    "geom:latitude":9.35374,
+    "geom:longitude":-11.90558,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maleni",
+    "gn:country_code":"SL",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406209,
+    "gn:latitude":9.35374,
+    "gn:longitude":-11.90558,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Maleni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maleni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406209
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d6dbdd54d1ccbc1fa0d81ad02dfcfd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1242790865,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1242790865,
+    "wof:lastmodified":1537700554,
+    "wof:name":"Maleni",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.90558,
+    9.35374,
+    -11.90558,
+    9.35374
+],
+  "geometry": {"coordinates":[-11.90558,9.35374],"type":"Point"}
+}

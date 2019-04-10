@@ -1,0 +1,70 @@
+{
+  "id": 1293786049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.63162,7.77613,-12.63162,7.77613",
+    "geom:latitude":7.77613,
+    "geom:longitude":-12.63162,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wue",
+    "gn:country_code":"SL",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9913766,
+    "gn:latitude":7.77613,
+    "gn:longitude":-12.63162,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Wue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9913766
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7e8627e1148f0b42dd88e42561c1a1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1293786049,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293786049,
+    "wof:lastmodified":1537700861,
+    "wof:name":"Wue",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.63162,
+    7.77613,
+    -12.63162,
+    7.77613
+],
+  "geometry": {"coordinates":[-12.63162,7.77613],"type":"Point"}
+}

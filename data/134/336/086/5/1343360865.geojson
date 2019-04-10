@@ -1,0 +1,70 @@
+{
+  "id": 1343360865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.31806,8.07359,-12.31806,8.07359",
+    "geom:latitude":8.07359,
+    "geom:longitude":-12.31806,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bandama",
+    "gn:country_code":"SL",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9901164,
+    "gn:latitude":8.07359,
+    "gn:longitude":-12.31806,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Bandama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bandama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9901164
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"c71f7e3d8a5f02592d2619f41f7de8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1343360865,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1343360865,
+    "wof:lastmodified":1537700843,
+    "wof:name":"Bandama",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.31806,
+    8.07359,
+    -12.31806,
+    8.07359
+],
+  "geometry": {"coordinates":[-12.31806,8.07359],"type":"Point"}
+}

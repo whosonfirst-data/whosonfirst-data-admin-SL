@@ -1,0 +1,70 @@
+{
+  "id": 1260298127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.69359,8.44331,-12.69359,8.44331",
+    "geom:latitude":8.44331,
+    "geom:longitude":-12.69359,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mamara",
+    "gn:country_code":"SL",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406169,
+    "gn:latitude":8.44331,
+    "gn:longitude":-12.69359,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mamara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406169
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"7729adf79b58abeb54970d569dcc660c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":1260298127,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1260298127,
+    "wof:lastmodified":1537700553,
+    "wof:name":"Mamara",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.69359,
+    8.44331,
+    -12.69359,
+    8.44331
+],
+  "geometry": {"coordinates":[-12.69359,8.44331],"type":"Point"}
+}

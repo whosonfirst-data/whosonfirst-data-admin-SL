@@ -1,0 +1,64 @@
+{
+  "id": 1209216649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.40659,7.97135,-12.40659,7.97135",
+    "geom:latitude":7.97135,
+    "geom:longitude":-12.40659,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gewenga",
+    "gn:country_code":"SL",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904190,
+    "gn:latitude":7.97135,
+    "gn:longitude":-12.40659,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Gewenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gewenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904190
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a994fbe3ffe713be558ffdb94d87429a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209216649
+        }
+    ],
+    "wof:id":1209216649,
+    "wof:lastmodified":1537700848,
+    "wof:name":"Gewenga",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.40659,
+    7.97135,
+    -12.40659,
+    7.97135
+],
+  "geometry": {"coordinates":[-12.40659,7.97135],"type":"Point"}
+}

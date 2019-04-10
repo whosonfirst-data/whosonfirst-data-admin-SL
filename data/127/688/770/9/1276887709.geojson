@@ -1,0 +1,73 @@
+{
+  "id": 1276887709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.89649,8.19257,-10.89649,8.19257",
+    "geom:latitude":8.19257,
+    "geom:longitude":-10.89649,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lemblema",
+    "gn:country_code":"SL",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407014,
+    "gn:latitude":8.19257,
+    "gn:longitude":-10.89649,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Lemblema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lemblema"
+    ],
+    "name:und_x_variant":[
+        "Lembilema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407014
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"4c5fb2ce17dca854078912000dd19ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1276887709,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1276887709,
+    "wof:lastmodified":1537700581,
+    "wof:name":"Lemblema",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.89649,
+    8.19257,
+    -10.89649,
+    8.19257
+],
+  "geometry": {"coordinates":[-10.89649,8.19257],"type":"Point"}
+}

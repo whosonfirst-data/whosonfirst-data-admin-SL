@@ -1,0 +1,70 @@
+{
+  "id": 1293494963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.3604,7.24827,-11.3604,7.24827",
+    "geom:latitude":7.24827,
+    "geom:longitude":-11.3604,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Saiama",
+    "gn:country_code":"SL",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893167,
+    "gn:latitude":7.24827,
+    "gn:longitude":-11.3604,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Saiama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saiama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893167
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"398dfa3e57e056cfaa60e81bbf5c6d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779069,
+            "locality_id":1293494963,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293494963,
+    "wof:lastmodified":1537700830,
+    "wof:name":"Saiama",
+    "wof:parent_id":1108779069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.3604,
+    7.24827,
+    -11.3604,
+    7.24827
+],
+  "geometry": {"coordinates":[-11.3604,7.24827],"type":"Point"}
+}

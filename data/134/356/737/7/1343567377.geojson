@@ -1,0 +1,70 @@
+{
+  "id": 1343567377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.02134,8.3123,-13.02134,8.3123",
+    "geom:latitude":8.3123,
+    "geom:longitude":-13.02134,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Luseni",
+    "gn:country_code":"SL",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2406913,
+    "gn:latitude":8.3123,
+    "gn:longitude":-13.02134,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Luseni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Luseni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2406913
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9fbeb7b50b82384daaa339b4cf590c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1343567377,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1343567377,
+    "wof:lastmodified":1537700578,
+    "wof:name":"Luseni",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.02134,
+    8.3123,
+    -13.02134,
+    8.3123
+],
+  "geometry": {"coordinates":[-13.02134,8.3123],"type":"Point"}
+}

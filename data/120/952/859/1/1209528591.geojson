@@ -1,0 +1,65 @@
+{
+  "id": 1209528591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.80398,8.8004,-12.80398,8.8004",
+    "geom:latitude":8.8004,
+    "geom:longitude":-12.80398,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fulun",
+    "gn:country_code":"SL",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409278,
+    "gn:latitude":8.8004,
+    "gn:longitude":-12.80398,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Fulun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pulun",
+        "Fulun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409278
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ae08d908977c972ed45cc0f29c097e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209528591
+        }
+    ],
+    "wof:id":1209528591,
+    "wof:lastmodified":1537700657,
+    "wof:name":"Fulun",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.80398,
+    8.8004,
+    -12.80398,
+    8.8004
+],
+  "geometry": {"coordinates":[-12.80398,8.8004],"type":"Point"}
+}

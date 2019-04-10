@@ -1,0 +1,64 @@
+{
+  "id": 1209526931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.49129,7.42495,-11.49129,7.42495",
+    "geom:latitude":7.42495,
+    "geom:longitude":-11.49129,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Niayama",
+    "gn:country_code":"SL",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570888,
+    "gn:latitude":7.42495,
+    "gn:longitude":-11.49129,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Niayama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Niayama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570888
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"1958e7771344dbc45724dd0e05da0bad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209526931
+        }
+    ],
+    "wof:id":1209526931,
+    "wof:lastmodified":1537700716,
+    "wof:name":"Niayama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.49129,
+    7.42495,
+    -11.49129,
+    7.42495
+],
+  "geometry": {"coordinates":[-11.49129,7.42495],"type":"Point"}
+}

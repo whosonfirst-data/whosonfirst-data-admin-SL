@@ -1,0 +1,70 @@
+{
+  "id": 1344268765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.82015,8.17063,-12.82015,8.17063",
+    "geom:latitude":8.17063,
+    "geom:longitude":-12.82015,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mokamem",
+    "gn:country_code":"SL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893016,
+    "gn:latitude":8.17063,
+    "gn:longitude":-12.82015,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Mokamem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mokamem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893016
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"9f9e13fb786f837d12e3b309182fee65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1344268765,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1344268765,
+    "wof:lastmodified":1537700827,
+    "wof:name":"Mokamem",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.82015,
+    8.17063,
+    -12.82015,
+    8.17063
+],
+  "geometry": {"coordinates":[-12.82015,8.17063],"type":"Point"}
+}

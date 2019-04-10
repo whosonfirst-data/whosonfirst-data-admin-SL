@@ -1,0 +1,64 @@
+{
+  "id": 1209626905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.12545,7.87691,-12.12545,7.87691",
+    "geom:latitude":7.87691,
+    "geom:longitude":-12.12545,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Petewama",
+    "gn:country_code":"SL",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872438,
+    "gn:latitude":7.87691,
+    "gn:longitude":-12.12545,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Petewama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Petewama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872438
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"94e0bd0e030231c64690fa9814bd45b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209626905
+        }
+    ],
+    "wof:id":1209626905,
+    "wof:lastmodified":1537700746,
+    "wof:name":"Petewama",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.12545,
+    7.87691,
+    -12.12545,
+    7.87691
+],
+  "geometry": {"coordinates":[-12.12545,7.87691],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209217705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.76177,9.13747,-12.76177,9.13747",
+    "geom:latitude":9.13747,
+    "geom:longitude":-12.76177,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Buya",
+    "gn:country_code":"SL",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880800,
+    "gn:latitude":9.13747,
+    "gn:longitude":-12.76177,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Buya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880800
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"46e3b1e32d92d788f258f95c55e69638",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209217705
+        }
+    ],
+    "wof:id":1209217705,
+    "wof:lastmodified":1537700811,
+    "wof:name":"Buya",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.76177,
+    9.13747,
+    -12.76177,
+    9.13747
+],
+  "geometry": {"coordinates":[-12.76177,9.13747],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243387691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.25491,8.44849,-13.25491,8.44849",
+    "geom:latitude":8.44849,
+    "geom:longitude":-13.25491,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mirimboe",
+    "gn:country_code":"SL",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566476,
+    "gn:latitude":8.44849,
+    "gn:longitude":-13.25491,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Mirimboe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mirimboe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677123,
+        1108779071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566476
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"5762e0cbc4ec3a23e49c27d7c4584f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779071,
+            "locality_id":1243387691,
+            "region_id":85677123
+        }
+    ],
+    "wof:id":1243387691,
+    "wof:lastmodified":1537700709,
+    "wof:name":"Mirimboe",
+    "wof:parent_id":1108779071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.25491,
+    8.44849,
+    -13.25491,
+    8.44849
+],
+  "geometry": {"coordinates":[-13.25491,8.44849],"type":"Point"}
+}

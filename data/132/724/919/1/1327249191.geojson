@@ -1,0 +1,83 @@
+{
+  "id": 1327249191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.52113,8.77356,-10.52113,8.77356",
+    "geom:latitude":8.77356,
+    "geom:longitude":-10.52113,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gborgborma",
+    "gn:country_code":"SL",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408990,
+    "gn:latitude":8.77356,
+    "gn:longitude":-10.52113,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Gborgborma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gborgborma"
+    ],
+    "name:und_x_variant":[
+        "Gbogboma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890421469,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408990
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"6b6700b7146ac214f8687f2c17eb34d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890421469,
+            "locality_id":1327249191,
+            "region_id":85677133
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1327249191,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1327249191,
+    "wof:lastmodified":1537700646,
+    "wof:name":"Gborgborma",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.52113,
+    8.77356,
+    -10.52113,
+    8.77356
+],
+  "geometry": {"coordinates":[-10.52113,8.77356],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293008167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.70378,8.315,-11.70378,8.315",
+    "geom:latitude":8.315,
+    "geom:longitude":-11.70378,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Belebu",
+    "gn:country_code":"SL",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2410229,
+    "gn:latitude":8.315,
+    "gn:longitude":-11.70378,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Belebu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Belebu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2410229
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"437b7169af36c70717f48d5abf0b7778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1293008167,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293008167,
+    "wof:lastmodified":1537700690,
+    "wof:name":"Belebu",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.70378,
+    8.315,
+    -11.70378,
+    8.315
+],
+  "geometry": {"coordinates":[-11.70378,8.315],"type":"Point"}
+}

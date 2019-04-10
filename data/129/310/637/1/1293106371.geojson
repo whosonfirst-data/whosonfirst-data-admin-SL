@@ -1,0 +1,67 @@
+{
+  "id": 1293106371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.2475,7.85306,-12.2475,7.85306",
+    "geom:latitude":7.85306,
+    "geom:longitude":-12.2475,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mosungi",
+    "gn:country_code":"SL",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593535,
+    "gn:latitude":7.85306,
+    "gn:longitude":-12.2475,
+    "gn:modification_date":"1999-12-14",
+    "gn:name":"Mosungi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        1108779067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593535
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"24a4fd552d9447d9e32db459ada8f8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779067,
+            "locality_id":1293106371,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1293106371,
+    "wof:lastmodified":1536838443,
+    "wof:name":"Mosungi",
+    "wof:parent_id":1108779067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.2475,
+    7.85306,
+    -12.2475,
+    7.85306
+],
+  "geometry": {"coordinates":[-12.2475,7.85306],"type":"Point"}
+}

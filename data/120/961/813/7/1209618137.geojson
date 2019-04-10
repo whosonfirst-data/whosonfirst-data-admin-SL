@@ -1,0 +1,64 @@
+{
+  "id": 1209618137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.36656,9.01147,-11.36656,9.01147",
+    "geom:latitude":9.01147,
+    "geom:longitude":-11.36656,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Farakoro",
+    "gn:country_code":"SL",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2409454,
+    "gn:latitude":9.01147,
+    "gn:longitude":-11.36656,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Farakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Farakoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2409454
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b846178806bfaae0079ba62de2d8d2f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209618137
+        }
+    ],
+    "wof:id":1209618137,
+    "wof:lastmodified":1537700663,
+    "wof:name":"Farakoro",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.36656,
+    9.01147,
+    -11.36656,
+    9.01147
+],
+  "geometry": {"coordinates":[-11.36656,9.01147],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209323347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.24628,9.18521,-12.24628,9.18521",
+    "geom:latitude":9.18521,
+    "geom:longitude":-12.24628,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sindugu",
+    "gn:country_code":"SL",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2403818,
+    "gn:latitude":9.18521,
+    "gn:longitude":-12.24628,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Sindugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sindugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2403818
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fe18d2bd8f66b1f7e6498b1151093632",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209323347
+        }
+    ],
+    "wof:id":1209323347,
+    "wof:lastmodified":1537700475,
+    "wof:name":"Sindugu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.24628,
+    9.18521,
+    -12.24628,
+    9.18521
+],
+  "geometry": {"coordinates":[-12.24628,9.18521],"type":"Point"}
+}

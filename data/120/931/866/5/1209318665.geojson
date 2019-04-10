@@ -1,0 +1,67 @@
+{
+  "id": 1209318665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.84806,7.99587,-10.84806,7.99587",
+    "geom:latitude":7.99587,
+    "geom:longitude":-10.84806,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maloma",
+    "gn:country_code":"SL",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570608,
+    "gn:latitude":7.99587,
+    "gn:longitude":-10.84806,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Maloma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maloma"
+    ],
+    "name:und_x_variant":[
+        "Malonta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570608
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"fa95f65f36f998588e9cad64f2f8d2e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209318665
+        }
+    ],
+    "wof:id":1209318665,
+    "wof:lastmodified":1537700714,
+    "wof:name":"Maloma",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.84806,
+    7.99587,
+    -10.84806,
+    7.99587
+],
+  "geometry": {"coordinates":[-10.84806,7.99587],"type":"Point"}
+}

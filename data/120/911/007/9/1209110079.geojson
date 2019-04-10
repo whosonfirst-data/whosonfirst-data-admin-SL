@@ -1,0 +1,64 @@
+{
+  "id": 1209110079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.1467,8.11541,-11.1467,8.11541",
+    "geom:latitude":8.11541,
+    "geom:longitude":-11.1467,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gurala",
+    "gn:country_code":"SL",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2408598,
+    "gn:latitude":8.11541,
+    "gn:longitude":-11.1467,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gurala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gurala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2408598
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"95ef4359fab0910bf3ac1a291aa016d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209110079
+        }
+    ],
+    "wof:id":1209110079,
+    "wof:lastmodified":1537700633,
+    "wof:name":"Gurala",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.1467,
+    8.11541,
+    -11.1467,
+    8.11541
+],
+  "geometry": {"coordinates":[-11.1467,8.11541],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890437935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.20194,8.63194,-13.20194,8.63194",
+    "geom:latitude":8.63194,
+    "geom:longitude":-13.20194,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
+    "gn:pop":3452,
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sawkta"
+    ],
+    "qs:name":"Sawkta",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":557,
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        1108779065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2404067,
+        "gp:id":12517517,
+        "qs:id":1035445,
+        "wd:id":"Q1852034",
+        "wk:page":"Port Loko District"
+    },
+    "wof:country":"SL",
+    "wof:created":1469052172,
+    "wof:geomhash":"3fd7b7089784aa9c320a2aa358d1a751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":1108779065,
+            "locality_id":890437935,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":890437935,
+    "wof:lastmodified":1527729751,
+    "wof:name":"Sawkta",
+    "wof:parent_id":1108779065,
+    "wof:placetype":"locality",
+    "wof:population":3452,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.20194,
+    8.63194,
+    -13.20194,
+    8.63194
+],
+  "geometry": {"coordinates":[-13.20194,8.63194],"type":"Point"}
+}

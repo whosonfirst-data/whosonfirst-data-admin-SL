@@ -1,0 +1,70 @@
+{
+  "id": 1343861355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.22114,9.39471,-12.22114,9.39471",
+    "geom:latitude":9.39471,
+    "geom:longitude":-12.22114,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makangwi",
+    "gn:country_code":"SL",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10134728,
+    "gn:latitude":9.39471,
+    "gn:longitude":-12.22114,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Makangwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makangwi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10134728
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a9f791cc76cf3ea85bd6afcd6e5c6e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1343861355,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1343861355,
+    "wof:lastmodified":1537700947,
+    "wof:name":"Makangwi",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.22114,
+    9.39471,
+    -12.22114,
+    9.39471
+],
+  "geometry": {"coordinates":[-12.22114,9.39471],"type":"Point"}
+}

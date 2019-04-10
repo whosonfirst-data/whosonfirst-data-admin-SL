@@ -1,0 +1,70 @@
+{
+  "id": 1226658805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.86682,9.16666,-12.86682,9.16666",
+    "geom:latitude":9.16666,
+    "geom:longitude":-12.86682,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makeni",
+    "gn:country_code":"SL",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9880753,
+    "gn:latitude":9.16666,
+    "gn:longitude":-12.86682,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Makeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890453881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9880753
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ed4b4d60b730081d0c6b3fc69989f871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453881,
+            "locality_id":1226658805,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1226658805,
+    "wof:lastmodified":1537700810,
+    "wof:name":"Makeni",
+    "wof:parent_id":890453881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.86682,
+    9.16666,
+    -12.86682,
+    9.16666
+],
+  "geometry": {"coordinates":[-12.86682,9.16666],"type":"Point"}
+}

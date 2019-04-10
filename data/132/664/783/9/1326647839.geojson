@@ -1,0 +1,70 @@
+{
+  "id": 1326647839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.24837,7.72189,-11.24837,7.72189",
+    "geom:latitude":7.72189,
+    "geom:longitude":-11.24837,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nyawalago",
+    "gn:country_code":"SL",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9879869,
+    "gn:latitude":7.72189,
+    "gn:longitude":-11.24837,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Nyawalago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyawalago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9879869
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"212d633915befcb9c1c927b731735126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1326647839,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1326647839,
+    "wof:lastmodified":1537700797,
+    "wof:name":"Nyawalago",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.24837,
+    7.72189,
+    -11.24837,
+    7.72189
+],
+  "geometry": {"coordinates":[-11.24837,7.72189],"type":"Point"}
+}

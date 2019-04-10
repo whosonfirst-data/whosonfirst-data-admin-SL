@@ -1,0 +1,64 @@
+{
+  "id": 1209323359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.17467,8.62379,-13.17467,8.62379",
+    "geom:latitude":8.62379,
+    "geom:longitude":-13.17467,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tumbu Lol",
+    "gn:country_code":"SL",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566537,
+    "gn:latitude":8.62379,
+    "gn:longitude":-13.17467,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Tumbu Lol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tumbu Lol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566537
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"025d0b4d5c7dd0b89fbc66c3cc1267ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209323359
+        }
+    ],
+    "wof:id":1209323359,
+    "wof:lastmodified":1537700710,
+    "wof:name":"Tumbu Lol",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.17467,
+    8.62379,
+    -13.17467,
+    8.62379
+],
+  "geometry": {"coordinates":[-13.17467,8.62379],"type":"Point"}
+}

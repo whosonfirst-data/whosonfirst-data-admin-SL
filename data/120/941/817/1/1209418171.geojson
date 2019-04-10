@@ -1,0 +1,64 @@
+{
+  "id": 1209418171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.2858,8.4847,-12.2858,8.4847",
+    "geom:latitude":8.4847,
+    "geom:longitude":-12.2858,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Morka",
+    "gn:country_code":"SL",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2405090,
+    "gn:latitude":8.4847,
+    "gn:longitude":-12.2858,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Morka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Morka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2405090
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"33a361233bf3c6e09051e0170f249893",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209418171
+        }
+    ],
+    "wof:id":1209418171,
+    "wof:lastmodified":1537700518,
+    "wof:name":"Morka",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.2858,
+    8.4847,
+    -12.2858,
+    8.4847
+],
+  "geometry": {"coordinates":[-12.2858,8.4847],"type":"Point"}
+}

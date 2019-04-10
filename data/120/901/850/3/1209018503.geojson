@@ -1,0 +1,64 @@
+{
+  "id": 1209018503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.37771,8.40471,-10.37771,8.40471",
+    "geom:latitude":8.40471,
+    "geom:longitude":-10.37771,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Fasedu",
+    "gn:country_code":"SL",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9892002,
+    "gn:latitude":8.40471,
+    "gn:longitude":-10.37771,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Fasedu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fasedu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9892002
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"b4eda27949a31a2018cdfd536a61071f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632467,
+            "locality_id":1209018503
+        }
+    ],
+    "wof:id":1209018503,
+    "wof:lastmodified":1537700818,
+    "wof:name":"Fasedu",
+    "wof:parent_id":85632467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.37771,
+    8.40471,
+    -10.37771,
+    8.40471
+],
+  "geometry": {"coordinates":[-10.37771,8.40471],"type":"Point"}
+}

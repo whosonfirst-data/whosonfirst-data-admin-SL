@@ -1,0 +1,64 @@
+{
+  "id": 1226244425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.48978,7.44097,-12.48978,7.44097",
+    "geom:latitude":7.44097,
+    "geom:longitude":-12.48978,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kopoila",
+    "gn:country_code":"SL",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876382,
+    "gn:latitude":7.44097,
+    "gn:longitude":-12.48978,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Kopoila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kopoila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876382
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"ad0b89ae043fef7675e2d7f8bf671d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226244425,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226244425,
+    "wof:lastmodified":1537700781,
+    "wof:name":"Kopoila",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.48978,
+    7.44097,
+    -12.48978,
+    7.44097
+],
+  "geometry": {"coordinates":[-12.48978,7.44097],"type":"Point"}
+}

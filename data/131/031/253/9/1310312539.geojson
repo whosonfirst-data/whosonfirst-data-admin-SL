@@ -1,0 +1,70 @@
+{
+  "id": 1310312539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.4915,7.93428,-11.4915,7.93428",
+    "geom:latitude":7.93428,
+    "geom:longitude":-11.4915,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yamandu",
+    "gn:country_code":"SL",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2402946,
+    "gn:latitude":7.93428,
+    "gn:longitude":-11.4915,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yamandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yamandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677119,
+        890428997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2402946
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"d8c5be479b9b105616a308646567809d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428997,
+            "locality_id":1310312539,
+            "region_id":85677119
+        }
+    ],
+    "wof:id":1310312539,
+    "wof:lastmodified":1537700448,
+    "wof:name":"Yamandu",
+    "wof:parent_id":890428997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.4915,
+    7.93428,
+    -11.4915,
+    7.93428
+],
+  "geometry": {"coordinates":[-11.4915,7.93428],"type":"Point"}
+}

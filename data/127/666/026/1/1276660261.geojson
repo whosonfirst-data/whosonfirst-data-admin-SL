@@ -1,0 +1,70 @@
+{
+  "id": 1276660261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.22689,9.44871,-12.22689,9.44871",
+    "geom:latitude":9.44871,
+    "geom:longitude":-12.22689,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maron",
+    "gn:country_code":"SL",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10134741,
+    "gn:latitude":9.44871,
+    "gn:longitude":-12.22689,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Maron",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677127,
+        890428993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10134741
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"a49fd7e24ccf20136539e1ac326fa28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890428993,
+            "locality_id":1276660261,
+            "region_id":85677127
+        }
+    ],
+    "wof:id":1276660261,
+    "wof:lastmodified":1537700947,
+    "wof:name":"Maron",
+    "wof:parent_id":890428993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.22689,
+    9.44871,
+    -12.22689,
+    9.44871
+],
+  "geometry": {"coordinates":[-12.22689,9.44871],"type":"Point"}
+}

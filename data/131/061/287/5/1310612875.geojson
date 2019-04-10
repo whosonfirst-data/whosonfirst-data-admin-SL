@@ -1,0 +1,70 @@
+{
+  "id": 1310612875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.38328,7.78049,-11.38328,7.78049",
+    "geom:latitude":7.78049,
+    "geom:longitude":-11.38328,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kundowahun",
+    "gn:country_code":"SL",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407195,
+    "gn:latitude":7.78049,
+    "gn:longitude":-11.38328,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kundowahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Freetown",
+    "iso:country":"SL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kundowahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632467,
+        85677133,
+        890453879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407195
+    },
+    "wof:country":"SL",
+    "wof:geomhash":"f4e258e956ddfa3cd0e133eec8e0208d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632467,
+            "county_id":890453879,
+            "locality_id":1310612875,
+            "region_id":85677133
+        }
+    ],
+    "wof:id":1310612875,
+    "wof:lastmodified":1537700587,
+    "wof:name":"Kundowahun",
+    "wof:parent_id":890453879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.38328,
+    7.78049,
+    -11.38328,
+    7.78049
+],
+  "geometry": {"coordinates":[-11.38328,7.78049],"type":"Point"}
+}
