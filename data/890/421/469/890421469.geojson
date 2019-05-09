@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.452917,
-    "geom:area_square_m":5536134203.739551,
+    "geom:area_square_m":5536134203.739595,
     "geom:bbox":"-11.3644036859,8.32325481871,-10.464392,9.06307380383",
     "geom:latitude":8.686968,
     "geom:longitude":-10.94595,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":337954,
     "iso:country":"SL",
+    "label:eng_x_preferred_longname":[
+        "Kono District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.668506,
     "lbl:longitude":-10.982213,
     "meso:adm1_en":"Eastern",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":890421469,
-    "wof:lastmodified":1553816392,
+    "wof:lastmodified":1555037039,
     "wof:name":"Kono",
     "wof:parent_id":85677133,
     "wof:placetype":"county",

@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":281141,
     "iso:country":"SL",
+    "label:eng_x_preferred_longname":[
+        "Kambia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.193808,
     "lbl:longitude":-12.808959,
     "meso:adm1_en":"Northern",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890453881,
-    "wof:lastmodified":1536617388,
+    "wof:lastmodified":1553717607,
     "wof:name":"Kambia",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.06064,
     "geom:longitude":-12.435148,
     "iso:country":"SL",
+    "label:eng_x_preferred_longname":[
+        "Moyamba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.036837,
     "lbl:longitude":-12.435041,
     "meso:adm1_en":"Southern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108779067,
-    "wof:lastmodified":1536615765,
+    "wof:lastmodified":1553718734,
     "wof:name":"Moyamba",
     "wof:parent_id":85677119,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.295355,
     "geom:longitude":-11.582463,
     "iso:country":"SL",
+    "label:eng_x_preferred_longname":[
+        "Pujehun District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.289254,
     "lbl:longitude":-11.588321,
     "meso:adm1_en":"Southern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108779069,
-    "wof:lastmodified":1536615765,
+    "wof:lastmodified":1553718734,
     "wof:name":"Pujehun",
     "wof:parent_id":85677119,
     "wof:placetype":"county",

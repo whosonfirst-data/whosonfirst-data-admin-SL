@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":236269,
     "iso:country":"SL",
+    "label:eng_x_preferred_longname":[
+        "Koinadugu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.532864,
     "lbl:longitude":-11.344469,
     "meso:adm1_en":"Northern",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890421473,
-    "wof:lastmodified":1536617374,
+    "wof:lastmodified":1553717595,
     "wof:name":"Koinadugu",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

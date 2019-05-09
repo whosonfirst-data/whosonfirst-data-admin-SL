@@ -10,6 +10,12 @@
     "geom:latitude":8.33851,
     "geom:longitude":-13.115795,
     "iso:country":"SL",
+    "label:eng_x_preferred_longname":[
+        "Western Area"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "area"
+    ],
     "lbl:latitude":8.34437,
     "lbl:longitude":-13.133197,
     "meso:adm1_en":"Western",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108779071,
-    "wof:lastmodified":1536615765,
+    "wof:lastmodified":1553718734,
     "wof:name":"Western Area",
     "wof:parent_id":85677123,
     "wof:placetype":"county",

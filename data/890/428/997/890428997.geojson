@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":482884,
     "iso:country":"SL",
+    "label:eng_x_preferred_longname":[
+        "Bo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.015703,
     "lbl:longitude":-11.635072,
     "meso:adm1_en":"Southern",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890428997,
-    "wof:lastmodified":1536617379,
+    "wof:lastmodified":1553717599,
     "wof:name":"Bo",
     "wof:parent_id":85677119,
     "wof:placetype":"county",

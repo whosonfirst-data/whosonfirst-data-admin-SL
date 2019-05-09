@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":409254,
     "iso:country":"SL",
+    "label:eng_x_preferred_longname":[
+        "Bombali District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.259546,
     "lbl:longitude":-12.120254,
     "meso:adm1_en":"Northern",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890428993,
-    "wof:lastmodified":1536617379,
+    "wof:lastmodified":1553717599,
     "wof:name":"Bombali",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

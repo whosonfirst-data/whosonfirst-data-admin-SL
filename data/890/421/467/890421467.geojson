@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":350353,
     "iso:country":"SL",
+    "label:eng_x_preferred_longname":[
+        "Tonkolili District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.751683,
     "lbl:longitude":-11.672564,
     "meso:adm1_en":"Northern",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890421467,
-    "wof:lastmodified":1536617373,
+    "wof:lastmodified":1553717595,
     "wof:name":"Tonkolili",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

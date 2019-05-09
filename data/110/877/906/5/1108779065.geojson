@@ -10,6 +10,12 @@
     "geom:latitude":8.72681,
     "geom:longitude":-12.742277,
     "iso:country":"SL",
+    "label:eng_x_preferred_longname":[
+        "Port Loko District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.776654,
     "lbl:longitude":-12.652444,
     "meso:adm1_en":"Northern",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108779065,
-    "wof:lastmodified":1536615765,
+    "wof:lastmodified":1553718734,
     "wof:name":"Port Loko",
     "wof:parent_id":85677127,
     "wof:placetype":"county",
