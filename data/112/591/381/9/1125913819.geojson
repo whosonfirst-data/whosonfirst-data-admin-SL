@@ -25,14 +25,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09ac\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u574e\u6bd4\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Kambia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kambia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bc\u03c0\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kambia"
@@ -40,14 +40,8 @@
     "name:fin_x_preferred":[
         "Kambia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kambia"
-    ],
-    "name:ger_x_preferred":[
-        "Kambia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03bc\u03c0\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a82\u0aac\u0abf\u0aaf\u0abe"
@@ -79,7 +73,10 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0902\u092c\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kambia"
+    ],
+    "name:nld_x_preferred":[
         "Kambia"
     ],
     "name:nob_x_preferred":[
@@ -124,6 +121,9 @@
     "name:vie_x_preferred":[
         "Kambia"
     ],
+    "name:zho_x_preferred":[
+        "\u574e\u6bd4\u4e9e"
+    ],
     "qs_pg:aaroncc":"SL",
     "qs_pg:gn_country":"SL",
     "qs_pg:gn_fcode":"PPL",
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":1125913819,
-    "wof:lastmodified":1553816624,
+    "wof:lastmodified":1561843588,
     "wof:name":"Kambia",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",
