@@ -18,13 +18,10 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0439\u043b\u0430\u0445\u0443\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u62c9\u6d2a"
-    ],
     "name:dan_x_preferred":[
         "Kailahun"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kailahun"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +30,7 @@
     "name:fin_x_preferred":[
         "Kailahun"
     ],
-    "name:fre_x_preferred":[
-        "Kailahun"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kailahun"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +38,9 @@
     ],
     "name:lit_x_preferred":[
         "Kailahunas"
+    ],
+    "name:nld_x_preferred":[
+        "Kailahun"
     ],
     "name:pol_x_preferred":[
         "Kailahun"
@@ -53,6 +50,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0439\u043b\u0430\u0445\u0443\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u62c9\u6d2a"
     ],
     "qs:name":"Kailahun",
     "qs:photos_9r":0,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":890444383,
-    "wof:lastmodified":1527782131,
+    "wof:lastmodified":1561843588,
     "wof:name":"Kailahun",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

@@ -34,16 +34,13 @@
     "name:bul_x_preferred":[
         "\u042e\u0436\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u65b9\u7701"
-    ],
     "name:dan_x_preferred":[
         "Southern Province"
     ],
     "name:deu_x_preferred":[
         "Southern Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Southern"
     ],
     "name:ell_x_preferred":[
@@ -64,17 +61,8 @@
     "name:fra_x_preferred":[
         "Province du Sud"
     ],
-    "name:fre_x_preferred":[
-        "Province du Sud"
-    ],
-    "name:ger_x_preferred":[
-        "Southern"
-    ],
     "name:glg_x_preferred":[
         "Provincia do Sur"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03cc\u03c4\u03b9\u03b1 \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -106,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Southern Province"
     ],
     "name:nld_x_preferred":[
@@ -118,9 +106,6 @@
     "name:nor_x_preferred":[
         "Southern"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc\u060c \u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646"
-    ],
     "name:pol_x_preferred":[
         "Prowincja Po\u0142udniowa"
     ],
@@ -128,9 +113,6 @@
         "Prov\u00edncia do Sul"
     ],
     "name:ron_x_preferred":[
-        "Provincia Southern"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Southern"
     ],
     "name:rus_x_preferred":[
@@ -296,7 +278,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550506,
+    "wof:lastmodified":1561843564,
     "wof:name":"Southern",
     "wof:parent_id":85632467,
     "wof:placetype":"region",

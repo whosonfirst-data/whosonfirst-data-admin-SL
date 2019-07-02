@@ -30,16 +30,10 @@
     "name:bul_x_preferred":[
         "\u041a\u0435\u043d\u0435\u043c\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u51ef\u5185\u9a6c"
-    ],
     "name:dan_x_preferred":[
         "Kenema"
     ],
     "name:deu_x_preferred":[
-        "Kenema"
-    ],
-    "name:dut_x_preferred":[
         "Kenema"
     ],
     "name:ell_x_preferred":[
@@ -54,14 +48,8 @@
     "name:fin_x_preferred":[
         "Kenema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kenema"
-    ],
-    "name:ger_x_preferred":[
-        "Kenema"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03bd\u03ad\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aa8\u0ac7\u0aae\u0abe"
@@ -96,7 +84,10 @@
     "name:mar_x_preferred":[
         "\u0915\u0947\u0928\u094b\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kenema"
+    ],
+    "name:nld_x_preferred":[
         "Kenema"
     ],
     "name:nob_x_preferred":[
@@ -108,7 +99,7 @@
     "name:por_x_preferred":[
         "Kenema"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kenema"
     ],
     "name:rus_x_preferred":[
@@ -286,7 +277,7 @@
         }
     ],
     "wof:id":1141907087,
-    "wof:lastmodified":1534379461,
+    "wof:lastmodified":1561843599,
     "wof:name":"Kenema",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",
