@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0439\u043b\u0430\u0445\u0443\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Kailahun"
+    ],
     "name:dan_x_preferred":[
         "Kailahun"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890444383,
-    "wof:lastmodified":1561843588,
+    "wof:lastmodified":1563259674,
     "wof:name":"Kailahun",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

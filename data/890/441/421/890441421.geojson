@@ -18,6 +18,9 @@
     "name:eng_x_preferred":[
         "Mamboma"
     ],
+    "name:nld_x_preferred":[
+        "Mamboma"
+    ],
     "qs:name":"Mamboma",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":890441421,
-    "wof:lastmodified":1527727232,
+    "wof:lastmodified":1563259661,
     "wof:name":"Mamboma",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

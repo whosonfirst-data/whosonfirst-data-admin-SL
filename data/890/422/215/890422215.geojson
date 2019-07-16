@@ -15,6 +15,9 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gandorhun"
+    ],
     "name:eng_x_preferred":[
         "Gandorhun"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890422215,
-    "wof:lastmodified":1561843587,
+    "wof:lastmodified":1563259660,
     "wof:name":"Gandorhun",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

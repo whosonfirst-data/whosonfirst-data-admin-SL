@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u043c\u0431\u0443\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Bumbuna"
+    ],
     "name:eng_x_preferred":[
         "Bumbuna"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890434639,
-    "wof:lastmodified":1561843588,
+    "wof:lastmodified":1563259677,
     "wof:name":"Bumbuna",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

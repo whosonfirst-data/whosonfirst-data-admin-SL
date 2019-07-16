@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043b\u0438\u043c\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Palima"
+    ],
     "name:eng_x_preferred":[
         "Baiima"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125913983,
-    "wof:lastmodified":1561843588,
+    "wof:lastmodified":1563259681,
     "wof:name":"Baiima",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

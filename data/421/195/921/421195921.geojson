@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Bo"
     ],
+    "name:ceb_x_preferred":[
+        "Bo"
+    ],
     "name:dan_x_preferred":[
         "Bo"
     ],
@@ -136,6 +139,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u060c \u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0648"
     ],
     "name:vie_x_preferred":[
         "Bo"
@@ -285,7 +291,7 @@
         }
     ],
     "wof:id":421195921,
-    "wof:lastmodified":1561843586,
+    "wof:lastmodified":1563259649,
     "wof:name":"Bo",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

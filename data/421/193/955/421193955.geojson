@@ -16,8 +16,14 @@
     "name:ara_x_preferred":[
         "\u0648\u0627\u062a\u0631\u0644\u0648\u060c \u0633\u064a\u0631\u0627\u0644\u064a\u0648\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0627\u062a\u0631\u0644\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u099f\u09be\u09b0\u09b2\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Waterloo"
     ],
     "name:dan_x_preferred":[
         "Waterloo"
@@ -100,6 +106,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb2\u0bc2"
     ],
+    "name:tam_x_variant":[
+        "\u0bb5\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb2\u0bc2 "
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3e\u0c1f\u0c30\u0c4d\u0c32\u0c42"
     ],
@@ -114,6 +123,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0679\u0631\u0644\u0648\u060c \u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u0627\u0679\u0631\u0644\u0648"
     ],
     "name:vie_x_preferred":[
         "Waterloo"
@@ -166,7 +178,7 @@
         }
     ],
     "wof:id":421193955,
-    "wof:lastmodified":1561843586,
+    "wof:lastmodified":1563259650,
     "wof:name":"Waterloo",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",
