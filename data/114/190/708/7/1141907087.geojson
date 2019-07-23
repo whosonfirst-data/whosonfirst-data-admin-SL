@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u041a\u0435\u043d\u0435\u043c\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kenema"
+    ],
+    "name:ces_x_preferred":[
+        "Kenema"
+    ],
     "name:dan_x_preferred":[
         "Kenema"
     ],
@@ -105,11 +111,11 @@
     "name:rus_x_preferred":[
         "\u041a\u0435\u043d\u0435\u043c\u0430"
     ],
-    "name:rus_x_variant":[
-        "\u041a\u0435\u043d\u0435\u043c\u0430"
-    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd9\u0db1\u0dd9\u0db8\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Kenema"
     ],
     "name:spa_x_preferred":[
         "Kenema"
@@ -277,7 +283,7 @@
         }
     ],
     "wof:id":1141907087,
-    "wof:lastmodified":1561843599,
+    "wof:lastmodified":1563260369,
     "wof:name":"Kenema",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

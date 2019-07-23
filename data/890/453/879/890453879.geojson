@@ -34,11 +34,56 @@
     "mps:longitude":-11.220887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u043c\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kenema District"
+    ],
+    "name:deu_x_preferred":[
+        "Kenema"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bd\u03ad\u03bc\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Kenema"
     ],
+    "name:eng_x_variant":[
+        "Kenema District"
+    ],
+    "name:fin_x_preferred":[
+        "Keneman piirikunta"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Kenema"
+    ],
+    "name:nld_x_preferred":[
+        "Kenema"
+    ],
+    "name:nob_x_preferred":[
+        "Kenema"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Kenema"
+    ],
+    "name:por_x_preferred":[
+        "Kenema"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kenema"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u043c\u0430"
+    ],
     "name:unk_x_variant":[
         "Kenema District"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u5185\u9a6c\u533a"
     ],
     "qs:name":"Kenema District",
     "qs:photos_9r":0,
@@ -87,7 +132,7 @@
         }
     ],
     "wof:id":890453879,
-    "wof:lastmodified":1553717606,
+    "wof:lastmodified":1563259667,
     "wof:name":"Kenema",
     "wof:parent_id":85677133,
     "wof:placetype":"county",

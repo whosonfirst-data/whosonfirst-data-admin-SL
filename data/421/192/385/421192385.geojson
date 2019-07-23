@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Makeni"
     ],
+    "name:ceb_x_preferred":[
+        "Makeni"
+    ],
     "name:dan_x_preferred":[
         "Makeni"
     ],
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":421192385,
-    "wof:lastmodified":1561843586,
+    "wof:lastmodified":1563259648,
     "wof:name":"Makeni",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0443\u043d\u0441\u0430\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Lunsar"
+    ],
     "name:dan_x_preferred":[
         "Lunsar"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421199059,
-    "wof:lastmodified":1561843587,
+    "wof:lastmodified":1563259655,
     "wof:name":"Lunsar",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

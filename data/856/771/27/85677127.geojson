@@ -40,6 +40,9 @@
     "name:ceb_x_preferred":[
         "Northern"
     ],
+    "name:ceb_x_variant":[
+        "Northern Province"
+    ],
     "name:dan_x_preferred":[
         "Northern Province"
     ],
@@ -55,8 +58,14 @@
     "name:eng_x_variant":[
         "Northern Province"
     ],
+    "name:epo_x_preferred":[
+        "Norda Provinco"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0634\u0645\u0627\u0644\u06cc\u060c \u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:fin_x_preferred":[
         "Pohjoinen maakunta"
@@ -73,6 +82,9 @@
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hrv_x_preferred":[
+        "Sjeverna provincija"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
@@ -85,11 +97,17 @@
     "name:jpn_x_preferred":[
         "\u30ce\u30fc\u30b6\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u5317\u90e8\u5dde"
+    ],
     "name:kan_x_preferred":[
         "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
     "name:kor_x_preferred":[
         "\ubd81\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd81\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Zieme\u013cu province"
@@ -112,6 +130,9 @@
     "name:pol_x_preferred":[
         "Northern"
     ],
+    "name:pol_x_variant":[
+        "Prowincja P\u00f3\u0142nocna"
+    ],
     "name:por_x_preferred":[
         "Northern"
     ],
@@ -130,6 +151,9 @@
     "name:swe_x_preferred":[
         "Northern"
     ],
+    "name:swe_x_variant":[
+        "Nord"
+    ],
     "name:tam_x_preferred":[
         "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
@@ -145,11 +169,17 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0437\u0435\u0440\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
+    ],
     "name:unk_x_variant":[
         "Northern Province"
     ],
     "name:urd_x_preferred":[
         "\u0634\u0645\u0627\u0644\u06cc \u0635\u0648\u0628\u06c1\u060c \u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0634\u0645\u0627\u0644\u06cc \u0635\u0648\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Ph\u00eda B\u1eafc"
@@ -279,7 +309,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561843563,
+    "wof:lastmodified":1563258380,
     "wof:name":"Northern",
     "wof:parent_id":85632467,
     "wof:placetype":"region",

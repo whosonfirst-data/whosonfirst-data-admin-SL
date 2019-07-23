@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kono District"
+    ],
     "name:deu_x_preferred":[
         "Kono"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Kono"
+    ],
+    "name:eng_x_variant":[
+        "Kono District"
     ],
     "name:fin_x_preferred":[
         "Konon piirikunta"
@@ -58,6 +64,9 @@
     "name:nld_x_preferred":[
         "Kono"
     ],
+    "name:nob_x_preferred":[
+        "Kono"
+    ],
     "name:pol_x_preferred":[
         "Dystrykt Kono"
     ],
@@ -69,6 +78,9 @@
     ],
     "name:swe_x_preferred":[
         "Kono"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u043e"
     ],
     "name:unk_x_variant":[
         "Kono District"
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":890421469,
-    "wof:lastmodified":1561843587,
+    "wof:lastmodified":1563259670,
     "wof:name":"Kono",
     "wof:parent_id":85677133,
     "wof:placetype":"county",

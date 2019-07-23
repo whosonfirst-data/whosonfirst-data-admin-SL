@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0419\u043e\u043d\u0438\u0431\u0430\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Yonibana"
+    ],
     "name:eng_x_preferred":[
         "Yonibana"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421194395,
-    "wof:lastmodified":1561843586,
+    "wof:lastmodified":1563259649,
     "wof:name":"Yonibana",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

@@ -15,8 +15,50 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0628 \u0627\u0644\u062d\u064a\u0648\u0627\u0646"
+    ],
+    "name:dan_x_preferred":[
+        "Skab"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00e4ude"
+    ],
     "name:eng_x_preferred":[
         "Mange"
+    ],
+    "name:est_x_preferred":[
+        "Demodikoos"
+    ],
+    "name:fin_x_preferred":[
+        "Kapi"
+    ],
+    "name:fra_x_preferred":[
+        "gale animale"
+    ],
+    "name:gle_x_preferred":[
+        "Claimhe"
+    ],
+    "name:ind_x_preferred":[
+        "Mange"
+    ],
+    "name:ita_x_preferred":[
+        "Rogna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6bdb\u5305\u866b\u75c7"
+    ],
+    "name:nld_x_preferred":[
+        "Schurft"
+    ],
+    "name:pol_x_preferred":[
+        "Nu\u017cyca"
+    ],
+    "name:swe_x_preferred":[
+        "skabb"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bdb\u56ca\u87f2\u75c5"
     ],
     "qs:name":"Mange",
     "qs:photos_9r":0,
@@ -51,7 +93,7 @@
         }
     ],
     "wof:id":890451653,
-    "wof:lastmodified":1527792941,
+    "wof:lastmodified":1563259676,
     "wof:name":"Mange",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

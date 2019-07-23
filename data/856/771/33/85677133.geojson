@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0418\u0437\u0442\u043e\u0447\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Eastern Province"
+    ],
     "name:dan_x_preferred":[
         "Eastern Province"
     ],
@@ -52,8 +55,14 @@
     "name:eng_x_variant":[
         "Eastern Province"
     ],
+    "name:epo_x_preferred":[
+        "Orienta Provinco"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0634\u0631\u0642\u06cc\u060c \u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0634\u0631\u0642\u06cc"
     ],
     "name:fin_x_preferred":[
         "It\u00e4inen maakunta"
@@ -67,6 +76,9 @@
     "name:hin_x_preferred":[
         "\u092a\u0942\u0930\u094d\u0935\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hrv_x_preferred":[
+        "Isto\u010dna provincija"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Timur"
     ],
@@ -76,11 +88,17 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30fc\u30b9\u30bf\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u6771\u90e8\u5dde"
+    ],
     "name:kan_x_preferred":[
         "\u0caa\u0cc2\u0cb0\u0ccd\u0cb5 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
     "name:kor_x_preferred":[
         "\ub3d9\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub3d9\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Austrumu province"
@@ -103,8 +121,14 @@
     "name:nob_x_preferred":[
         "\u00d8stprovinsen"
     ],
+    "name:nob_x_variant":[
+        "Eastern"
+    ],
     "name:pol_x_preferred":[
         "Eastern"
+    ],
+    "name:pol_x_variant":[
+        "Prowincja Wschodnia"
     ],
     "name:por_x_preferred":[
         "Eastern"
@@ -123,6 +147,9 @@
     ],
     "name:swe_x_preferred":[
         "Eastern"
+    ],
+    "name:swe_x_variant":[
+        "\u00d6stra provinsen"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1   \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
@@ -144,6 +171,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0634\u0631\u0642\u06cc \u0635\u0648\u0628\u06c1\u060c \u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0634\u0631\u0642\u06cc \u0635\u0648\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
         "Ph\u01b0\u01a1ng \u0110\u00f4ng"
@@ -273,7 +303,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561843563,
+    "wof:lastmodified":1563258379,
     "wof:name":"Eastern",
     "wof:parent_id":85632467,
     "wof:placetype":"region",

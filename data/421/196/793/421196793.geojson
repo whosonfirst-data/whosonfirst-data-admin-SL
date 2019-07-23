@@ -16,6 +16,12 @@
     "name:eng_x_preferred":[
         "Masaka"
     ],
+    "name:eng_x_variant":[
+        "Masiaka"
+    ],
+    "name:nld_x_preferred":[
+        "Masiaka"
+    ],
     "qs:gn_country":"SL",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":2405841,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":421196793,
-    "wof:lastmodified":1527716365,
+    "wof:lastmodified":1563259654,
     "wof:name":"Masiaka",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",
