@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tumbu"
+    ],
     "name:eng_x_preferred":[
+        "Tumbu"
+    ],
+    "name:swe_x_preferred":[
         "Tumbu"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360003565,
-    "wof:lastmodified":1537700457,
+    "wof:lastmodified":1564318270,
     "wof:name":"Tumbu",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

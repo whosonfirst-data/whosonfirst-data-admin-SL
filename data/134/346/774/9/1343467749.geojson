@@ -25,6 +25,15 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Madu"
+    ],
+    "name:lit_x_preferred":[
+        "Madu"
+    ],
+    "name:slv_x_preferred":[
+        "Madu"
+    ],
     "name:und_x_variant":[
         "Madif",
         "Madu"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343467749,
-    "wof:lastmodified":1537700572,
+    "wof:lastmodified":1564316882,
     "wof:name":"Madu",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

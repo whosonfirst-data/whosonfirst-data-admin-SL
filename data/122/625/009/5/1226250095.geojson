@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Faama"
+    ],
     "name:eng_x_preferred":[
+        "Faama"
+    ],
+    "name:ind_x_preferred":[
+        "Faama"
+    ],
+    "name:por_x_preferred":[
+        "Fama"
+    ],
+    "name:spa_x_preferred":[
         "Faama"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1226250095,
-    "wof:lastmodified":1537700757,
+    "wof:lastmodified":1564319261,
     "wof:name":"Faama",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

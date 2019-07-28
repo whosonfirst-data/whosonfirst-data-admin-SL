@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Foya"
     ],
+    "name:pol_x_preferred":[
+        "Foya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0439\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259490941,
-    "wof:lastmodified":1537700658,
+    "wof:lastmodified":1564319046,
     "wof:name":"Foya",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mah"
+    ],
     "name:eng_x_preferred":[
+        "Mah"
+    ],
+    "name:ita_x_preferred":[
         "Mah"
     ],
     "name:und_x_variant":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293501363,
-    "wof:lastmodified":1537700566,
+    "wof:lastmodified":1564317205,
     "wof:name":"Mah",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

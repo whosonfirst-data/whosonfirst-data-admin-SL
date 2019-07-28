@@ -25,6 +25,12 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Panguma"
+    ],
+    "name:haw_x_preferred":[
+        "Panguma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225958489,
-    "wof:lastmodified":1536849749,
+    "wof:lastmodified":1564319142,
     "wof:name":"Panguma",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mangere"
+    ],
+    "name:deu_x_preferred":[
+        "Mangere"
+    ],
     "name:eng_x_preferred":[
+        "Mangere"
+    ],
+    "name:pol_x_preferred":[
         "Mangere"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1326542923,
-    "wof:lastmodified":1537700891,
+    "wof:lastmodified":1564316759,
     "wof:name":"Mangere",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

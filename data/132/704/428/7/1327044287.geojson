@@ -25,7 +25,49 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u062a\u0648\u0645\u0627"
+    ],
+    "name:dan_x_preferred":[
+        "Matoma"
+    ],
+    "name:deu_x_preferred":[
+        "Matoma"
+    ],
     "name:eng_x_preferred":[
+        "Matoma"
+    ],
+    "name:fin_x_preferred":[
+        "Matoma"
+    ],
+    "name:fra_x_preferred":[
+        "Matoma"
+    ],
+    "name:hye_x_preferred":[
+        "Matoma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c8\u30de"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ud1a0\ub9c8"
+    ],
+    "name:nld_x_preferred":[
+        "Matoma"
+    ],
+    "name:nor_x_preferred":[
+        "Matoma"
+    ],
+    "name:ron_x_preferred":[
+        "Matoma"
+    ],
+    "name:rus_x_preferred":[
+        "Matoma"
+    ],
+    "name:spa_x_preferred":[
+        "Matoma"
+    ],
+    "name:swe_x_preferred":[
         "Matoma"
     ],
     "src:geom":"geonames",
@@ -51,7 +93,7 @@
         }
     ],
     "wof:id":1327044287,
-    "wof:lastmodified":1537700863,
+    "wof:lastmodified":1564316684,
     "wof:name":"Matoma",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

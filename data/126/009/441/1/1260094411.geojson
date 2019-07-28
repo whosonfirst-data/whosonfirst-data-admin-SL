@@ -25,8 +25,17 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Varma"
+    ],
     "name:eng_x_preferred":[
         "Varma"
+    ],
+    "name:fin_x_preferred":[
+        "Varma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30eb\u30de"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1260094411,
-    "wof:lastmodified":1537700455,
+    "wof:lastmodified":1564317925,
     "wof:name":"Varma",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

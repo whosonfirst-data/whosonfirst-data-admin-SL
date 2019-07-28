@@ -25,6 +25,15 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Pamb\u0131q a\u011fac\u0131"
+    ],
+    "name:deu_x_preferred":[
+        "Cotton Tree"
+    ],
+    "name:fin_x_preferred":[
+        "Cotton Tree"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1243185181,
-    "wof:lastmodified":1537573660,
+    "wof:lastmodified":1564318901,
     "wof:name":"Cotton Tree",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

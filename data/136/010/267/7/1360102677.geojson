@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Darma"
+    ],
     "name:eng_x_preferred":[
+        "Darma"
+    ],
+    "name:nld_x_preferred":[
+        "Darma"
+    ],
+    "name:swe_x_preferred":[
         "Darma"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1360102677,
-    "wof:lastmodified":1537700793,
+    "wof:lastmodified":1564318376,
     "wof:name":"Darma",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

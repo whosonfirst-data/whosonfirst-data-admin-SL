@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Matoi"
+    ],
     "name:eng_x_preferred":[
+        "Matoi"
+    ],
+    "name:fra_x_preferred":[
+        "Matoi"
+    ],
+    "name:ita_x_preferred":[
         "Matoi"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1309909315,
-    "wof:lastmodified":1537700884,
+    "wof:lastmodified":1564318437,
     "wof:name":"Matoi",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

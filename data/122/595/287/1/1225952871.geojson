@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Masisa"
     ],
+    "name:fra_x_preferred":[
+        "Masisa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1225952871,
-    "wof:lastmodified":1537700539,
+    "wof:lastmodified":1564319134,
     "wof:name":"Masisa",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

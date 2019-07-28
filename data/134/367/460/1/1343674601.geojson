@@ -25,7 +25,22 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matete"
+    ],
     "name:eng_x_preferred":[
+        "Matete"
+    ],
+    "name:eus_x_preferred":[
+        "Matete"
+    ],
+    "name:fra_x_preferred":[
+        "Matete"
+    ],
+    "name:lin_x_preferred":[
+        "Matete"
+    ],
+    "name:swe_x_preferred":[
         "Matete"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1343674601,
-    "wof:lastmodified":1537700938,
+    "wof:lastmodified":1564316969,
     "wof:name":"Matete",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

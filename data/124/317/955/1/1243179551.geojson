@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Yo"
     ],
+    "name:ita_x_preferred":[
+        "Yo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243179551,
-    "wof:lastmodified":1537700718,
+    "wof:lastmodified":1564318935,
     "wof:name":"Yo",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

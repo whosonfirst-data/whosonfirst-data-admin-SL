@@ -25,7 +25,25 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Teso"
+    ],
     "name:eng_x_preferred":[
+        "Teso"
+    ],
+    "name:fra_x_preferred":[
+        "Teso"
+    ],
+    "name:ita_x_preferred":[
+        "Teso"
+    ],
+    "name:nld_x_preferred":[
+        "Teso"
+    ],
+    "name:por_x_preferred":[
+        "Teso"
+    ],
+    "name:swe_x_preferred":[
         "Teso"
     ],
     "src:geom":"geonames",
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1344264355,
-    "wof:lastmodified":1537700464,
+    "wof:lastmodified":1564316985,
     "wof:name":"Teso",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

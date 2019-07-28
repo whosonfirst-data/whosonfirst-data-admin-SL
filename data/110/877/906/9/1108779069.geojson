@@ -31,8 +31,35 @@
     "mps:longitude":-11.588321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pujehun"
+    ],
+    "name:deu_x_preferred":[
+        "Pujehun"
+    ],
     "name:eng_x_preferred":[
         "Pujehun"
+    ],
+    "name:fin_x_preferred":[
+        "Pujehun"
+    ],
+    "name:fra_x_preferred":[
+        "Pujehun"
+    ],
+    "name:ita_x_preferred":[
+        "Pujehun"
+    ],
+    "name:lit_x_preferred":[
+        "Pud\u017eehunas"
+    ],
+    "name:pol_x_preferred":[
+        "Pujehun"
+    ],
+    "name:ron_x_preferred":[
+        "Pujehun"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5091\u6d2a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +96,7 @@
         }
     ],
     "wof:id":1108779069,
-    "wof:lastmodified":1553718734,
+    "wof:lastmodified":1564317994,
     "wof:name":"Pujehun",
     "wof:parent_id":85677119,
     "wof:placetype":"county",

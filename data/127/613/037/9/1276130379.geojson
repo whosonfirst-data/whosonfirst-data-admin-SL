@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sulima"
+    ],
+    "name:deu_x_preferred":[
+        "Sulima"
+    ],
     "name:eng_x_preferred":[
+        "Sulima"
+    ],
+    "name:pol_x_preferred":[
+        "Sulima"
+    ],
+    "name:swe_x_preferred":[
         "Sulima"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1276130379,
-    "wof:lastmodified":1537700761,
+    "wof:lastmodified":1564317473,
     "wof:name":"Sulima",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

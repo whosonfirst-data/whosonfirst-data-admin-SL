@@ -28,6 +28,15 @@
     "name:eng_x_preferred":[
         "Mambia"
     ],
+    "name:ita_x_preferred":[
+        "Mambia"
+    ],
+    "name:msa_x_preferred":[
+        "Mambia"
+    ],
+    "name:spa_x_preferred":[
+        "Mambia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1309806601,
-    "wof:lastmodified":1537700553,
+    "wof:lastmodified":1564318487,
     "wof:name":"Mambia",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

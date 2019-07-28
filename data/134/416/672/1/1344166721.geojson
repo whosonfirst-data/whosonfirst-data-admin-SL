@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Tomiyama"
     ],
+    "name:fra_x_preferred":[
+        "Tomiyama"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0438\u044f\u043c\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1344166721,
-    "wof:lastmodified":1537700459,
+    "wof:lastmodified":1564316994,
     "wof:name":"Tomiyama",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

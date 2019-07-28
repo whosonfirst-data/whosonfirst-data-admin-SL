@@ -25,8 +25,17 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Malal"
+    ],
     "name:eng_x_preferred":[
         "Malal"
+    ],
+    "name:swe_x_preferred":[
+        "Malal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043b\u044c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209109453,
-    "wof:lastmodified":1537700946,
+    "wof:lastmodified":1564317818,
     "wof:name":"Malal",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yima"
+    ],
+    "name:deu_x_preferred":[
+        "Yima"
+    ],
     "name:eng_x_preferred":[
+        "Yima"
+    ],
+    "name:fra_x_preferred":[
         "Yima"
     ],
     "src:geom":"geonames",
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209323429,
-    "wof:lastmodified":1537700442,
+    "wof:lastmodified":1564317765,
     "wof:name":"Yima",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

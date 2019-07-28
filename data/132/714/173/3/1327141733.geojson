@@ -25,6 +25,15 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Njala"
+    ],
+    "name:fin_x_preferred":[
+        "Njala"
+    ],
+    "name:pol_x_preferred":[
+        "Njala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1327141733,
-    "wof:lastmodified":1537573623,
+    "wof:lastmodified":1564316603,
     "wof:name":"Njala",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

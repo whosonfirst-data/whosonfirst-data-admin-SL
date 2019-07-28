@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Denti"
     ],
+    "name:fra_x_preferred":[
+        "Denti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1326933421,
-    "wof:lastmodified":1537700669,
+    "wof:lastmodified":1564316588,
     "wof:name":"Denti",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Weh"
     ],
+    "name:fra_x_preferred":[
+        "Weh"
+    ],
     "name:und_x_variant":[
         "Wei"
     ],
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209318581,
-    "wof:lastmodified":1537700452,
+    "wof:lastmodified":1564317598,
     "wof:name":"Weh",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

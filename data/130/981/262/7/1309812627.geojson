@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mape"
+    ],
+    "name:deu_x_preferred":[
+        "Mape"
+    ],
     "name:eng_x_preferred":[
+        "Mape"
+    ],
+    "name:swe_x_preferred":[
         "Mape"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1309812627,
-    "wof:lastmodified":1537700545,
+    "wof:lastmodified":1564318524,
     "wof:name":"Mape",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

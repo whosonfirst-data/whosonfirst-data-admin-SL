@@ -25,8 +25,35 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Moyamba"
+    ],
+    "name:deu_x_preferred":[
+        "Moyamba"
+    ],
     "name:eng_x_preferred":[
         "Moyamba"
+    ],
+    "name:fin_x_preferred":[
+        "Moyamba"
+    ],
+    "name:fra_x_preferred":[
+        "Moyamba"
+    ],
+    "name:ita_x_preferred":[
+        "Moyamba"
+    ],
+    "name:lit_x_preferred":[
+        "Mojamba"
+    ],
+    "name:pol_x_preferred":[
+        "Moyamba"
+    ],
+    "name:por_x_preferred":[
+        "Moyamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u63da\u5df4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1242691847,
-    "wof:lastmodified":1537700514,
+    "wof:lastmodified":1564318812,
     "wof:name":"Moyamba",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

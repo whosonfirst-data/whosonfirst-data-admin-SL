@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mankara"
+    ],
     "name:eng_x_preferred":[
+        "Mankara"
+    ],
+    "name:swe_x_preferred":[
         "Mankara"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243181137,
-    "wof:lastmodified":1537700548,
+    "wof:lastmodified":1564318908,
     "wof:name":"Mankara",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

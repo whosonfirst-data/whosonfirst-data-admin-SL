@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Masao"
+    ],
+    "name:deu_x_preferred":[
+        "Masao"
+    ],
     "name:eng_x_preferred":[
+        "Masao"
+    ],
+    "name:fra_x_preferred":[
+        "Masao"
+    ],
+    "name:ita_x_preferred":[
         "Masao"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310306879,
-    "wof:lastmodified":1537700542,
+    "wof:lastmodified":1564318074,
     "wof:name":"Masao",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

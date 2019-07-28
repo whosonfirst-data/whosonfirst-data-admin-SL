@@ -25,6 +25,12 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dalu"
+    ],
+    "name:deu_x_preferred":[
+        "Dalu"
+    ],
     "name:eng_x_preferred":[
         "Dalu"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243567209,
-    "wof:lastmodified":1537700814,
+    "wof:lastmodified":1564318847,
     "wof:name":"Dalu",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

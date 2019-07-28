@@ -25,7 +25,22 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maila"
+    ],
     "name:eng_x_preferred":[
+        "Maila"
+    ],
+    "name:msa_x_preferred":[
+        "Maila"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0948\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u093e\u0908\u0932\u093e"
+    ],
+    "name:pol_x_preferred":[
         "Maila"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1243076563,
-    "wof:lastmodified":1537700743,
+    "wof:lastmodified":1564318588,
     "wof:name":"Maila",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Marampa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632467
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209317853,
-    "wof:lastmodified":1537573630,
+    "wof:lastmodified":1564317599,
     "wof:name":"Marampa",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

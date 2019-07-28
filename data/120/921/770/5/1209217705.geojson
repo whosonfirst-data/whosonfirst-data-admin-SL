@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Buya"
+    ],
     "name:eng_x_preferred":[
+        "Buya"
+    ],
+    "name:swe_x_preferred":[
         "Buya"
     ],
     "src:geom":"geonames",
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209217705,
-    "wof:lastmodified":1537700811,
+    "wof:lastmodified":1564317808,
     "wof:name":"Buya",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

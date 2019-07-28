@@ -25,7 +25,88 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043d\u0434\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Kindia"
+    ],
+    "name:ceb_x_preferred":[
+        "Kindia"
+    ],
+    "name:dan_x_preferred":[
+        "Kindia"
+    ],
+    "name:deu_x_preferred":[
+        "Kindia"
+    ],
     "name:eng_x_preferred":[
+        "Kindia"
+    ],
+    "name:epo_x_preferred":[
+        "Kindia"
+    ],
+    "name:eus_x_preferred":[
+        "Kindia"
+    ],
+    "name:fin_x_preferred":[
+        "Kindia"
+    ],
+    "name:fra_x_preferred":[
+        "Kindia"
+    ],
+    "name:frr_x_preferred":[
+        "Kindia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e0\u05d3\u05d9\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Kindia"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0576\u0564\u056b\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Kindia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30f3\u30c7\u30a3\u30a2"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0438\u043d\u0434\u0438\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0a8\ub514\uc544"
+    ],
+    "name:lit_x_preferred":[
+        "Kindija"
+    ],
+    "name:nld_x_preferred":[
+        "Kindia"
+    ],
+    "name:pol_x_preferred":[
+        "Kindia"
+    ],
+    "name:por_x_preferred":[
+        "Quindia"
+    ],
+    "name:ron_x_preferred":[
+        "Kindia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u0434\u0438\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kindia"
+    ],
+    "name:swe_x_preferred":[
+        "Kindia"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0646\u062f\u06cc\u0627"
+    ],
+    "name:uzb_x_preferred":[
         "Kindia"
     ],
     "src:geom":"geonames",
@@ -51,7 +132,7 @@
         }
     ],
     "wof:id":1293602199,
-    "wof:lastmodified":1537700605,
+    "wof:lastmodified":1564317229,
     "wof:name":"Kindia",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

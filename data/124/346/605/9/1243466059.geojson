@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Masaru"
     ],
+    "name:fra_x_preferred":[
+        "Masaru"
+    ],
+    "name:pol_x_preferred":[
+        "Masaru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243466059,
-    "wof:lastmodified":1537700826,
+    "wof:lastmodified":1564318818,
     "wof:name":"Masaru",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

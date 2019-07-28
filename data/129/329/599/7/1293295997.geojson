@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Makamba"
+    ],
     "name:eng_x_preferred":[
+        "Makamba"
+    ],
+    "name:nld_x_preferred":[
+        "Makamba"
+    ],
+    "name:swe_x_preferred":[
         "Makamba"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293295997,
-    "wof:lastmodified":1537700563,
+    "wof:lastmodified":1564317289,
     "wof:name":"Makamba",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

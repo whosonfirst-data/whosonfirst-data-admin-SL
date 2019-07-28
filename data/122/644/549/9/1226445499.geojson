@@ -25,7 +25,25 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kamandi"
+    ],
     "name:eng_x_preferred":[
+        "Kamandi"
+    ],
+    "name:fra_x_preferred":[
+        "Kamandi"
+    ],
+    "name:ita_x_preferred":[
+        "Kamandi"
+    ],
+    "name:por_x_preferred":[
+        "Kamandi"
+    ],
+    "name:spa_x_preferred":[
+        "Kamandi"
+    ],
+    "name:srd_x_preferred":[
         "Kamandi"
     ],
     "src:geom":"geonames",
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1226445499,
-    "wof:lastmodified":1537700618,
+    "wof:lastmodified":1564319170,
     "wof:name":"Kamandi",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

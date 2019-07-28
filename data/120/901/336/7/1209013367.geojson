@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Yakobi"
     ],
+    "name:swa_x_preferred":[
+        "Yakobi"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u06a9\u0648\u0628\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632467
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209013367,
-    "wof:lastmodified":1537700448,
+    "wof:lastmodified":1564317632,
     "wof:name":"Yakobi",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

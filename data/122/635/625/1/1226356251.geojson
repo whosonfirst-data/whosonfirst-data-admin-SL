@@ -25,6 +25,33 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kunjo"
+    ],
+    "name:deu_x_preferred":[
+        "Kunjo"
+    ],
+    "name:dty_x_preferred":[
+        "\u0915\u0941\u091e\u094d\u091c\u094b"
+    ],
+    "name:fra_x_preferred":[
+        "Kunjo"
+    ],
+    "name:msa_x_preferred":[
+        "Kunjo"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u0941\u091e\u094d\u091c\u094b"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u0941\u0902\u091c\u094b"
+    ],
+    "name:pol_x_preferred":[
+        "Kunjo"
+    ],
+    "name:por_x_preferred":[
+        "Kunjo"
+    ],
     "name:und_x_variant":[
         "Kundiu",
         "Kunjo"
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1226356251,
-    "wof:lastmodified":1537700586,
+    "wof:lastmodified":1564319236,
     "wof:name":"Kunjo",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

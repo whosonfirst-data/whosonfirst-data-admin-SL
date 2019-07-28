@@ -25,6 +25,12 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mobin"
+    ],
+    "name:swe_x_preferred":[
+        "Mobin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276659113,
-    "wof:lastmodified":1536838186,
+    "wof:lastmodified":1564317574,
     "wof:name":"Mobin",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

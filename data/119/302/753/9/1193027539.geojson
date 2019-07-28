@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kowa"
+    ],
+    "name:deu_x_preferred":[
+        "Kowa"
+    ],
     "name:eng_x_preferred":[
+        "Kowa"
+    ],
+    "name:fra_x_preferred":[
+        "K\u014dwa"
+    ],
+    "name:swe_x_preferred":[
         "Kowa"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1193027539,
-    "wof:lastmodified":1537700594,
+    "wof:lastmodified":1564317904,
     "wof:name":"Kowa",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

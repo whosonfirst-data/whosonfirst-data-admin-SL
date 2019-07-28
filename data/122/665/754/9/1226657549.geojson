@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Pehun"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0647\u0648\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Pehun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226657549,
-    "wof:lastmodified":1537700501,
+    "wof:lastmodified":1564319326,
     "wof:name":"Pehun",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

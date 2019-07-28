@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "La"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627"
+    ],
+    "name:glg_x_preferred":[
+        "La"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259897687,
-    "wof:lastmodified":1537700829,
+    "wof:lastmodified":1564319108,
     "wof:name":"La",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

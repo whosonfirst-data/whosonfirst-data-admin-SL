@@ -25,6 +25,9 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a3\u30eb\u30d0\u30fc\u30d5\u30a9\u30fc\u30b9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1242897635,
-    "wof:lastmodified":1537573614,
+    "wof:lastmodified":1564318700,
     "wof:name":"Wilberforce",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",

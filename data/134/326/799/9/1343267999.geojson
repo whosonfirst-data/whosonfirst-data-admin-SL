@@ -25,8 +25,29 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mesopotamichthys sharpeyi"
+    ],
+    "name:ceb_x_preferred":[
+        "Mesopotamichthys sharpeyi"
+    ],
     "name:eng_x_preferred":[
         "Binni"
+    ],
+    "name:eus_x_preferred":[
+        "Mesopotamichthys sharpeyi"
+    ],
+    "name:nld_x_preferred":[
+        "Mesopotamichthys sharpeyi"
+    ],
+    "name:spa_x_preferred":[
+        "Mesopotamichthys sharpeyi"
+    ],
+    "name:swe_x_preferred":[
+        "Mesopotamichthys sharpeyi"
+    ],
+    "name:war_x_preferred":[
+        "Mesopotamichthys sharpeyi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1343267999,
-    "wof:lastmodified":1537700707,
+    "wof:lastmodified":1564317040,
     "wof:name":"Binni",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",

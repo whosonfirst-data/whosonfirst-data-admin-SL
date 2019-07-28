@@ -25,6 +25,15 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yon"
+    ],
+    "name:deu_x_preferred":[
+        "Yon"
+    ],
+    "name:swe_x_preferred":[
+        "Yon"
+    ],
     "name:und_x_variant":[
         "Yoni"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1326531687,
-    "wof:lastmodified":1537700440,
+    "wof:lastmodified":1564316742,
     "wof:name":"Yon",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

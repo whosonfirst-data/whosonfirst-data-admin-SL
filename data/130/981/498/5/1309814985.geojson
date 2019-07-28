@@ -25,7 +25,22 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hima"
+    ],
+    "name:deu_x_preferred":[
+        "Hima"
+    ],
     "name:eng_x_preferred":[
+        "Hima"
+    ],
+    "name:fra_x_preferred":[
+        "Hima"
+    ],
+    "name:lug_x_preferred":[
+        "Hima"
+    ],
+    "name:swe_x_preferred":[
         "Hima"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1309814985,
-    "wof:lastmodified":1537700632,
+    "wof:lastmodified":1564318509,
     "wof:name":"Hima",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

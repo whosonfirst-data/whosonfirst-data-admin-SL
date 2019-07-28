@@ -28,6 +28,21 @@
     "name:eng_x_preferred":[
         "Kakia"
     ],
+    "name:ita_x_preferred":[
+        "Kakia"
+    ],
+    "name:lit_x_preferred":[
+        "Kakija"
+    ],
+    "name:por_x_preferred":[
+        "Cacia"
+    ],
+    "name:spa_x_preferred":[
+        "Kakia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5580\u4e9a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1310114497,
-    "wof:lastmodified":1537700621,
+    "wof:lastmodified":1564318108,
     "wof:name":"Kakia",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

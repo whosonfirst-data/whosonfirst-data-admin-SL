@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Makola"
+    ],
     "name:eng_x_preferred":[
+        "Makola"
+    ],
+    "name:swe_x_preferred":[
         "Makola"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326843267,
-    "wof:lastmodified":1537700927,
+    "wof:lastmodified":1564316698,
     "wof:name":"Makola",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

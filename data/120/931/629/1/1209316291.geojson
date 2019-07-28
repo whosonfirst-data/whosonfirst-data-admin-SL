@@ -25,6 +25,9 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Moko"
+    ],
     "name:eng_x_preferred":[
         "Moko"
     ],
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209316291,
-    "wof:lastmodified":1537700721,
+    "wof:lastmodified":1564317597,
     "wof:name":"Moko",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

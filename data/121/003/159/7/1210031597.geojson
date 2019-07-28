@@ -24,6 +24,21 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Goderich"
+    ],
+    "name:fra_x_preferred":[
+        "Goderich"
+    ],
+    "name:pol_x_preferred":[
+        "Goderich"
+    ],
+    "name:ron_x_preferred":[
+        "Goderich"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0434\u0435\u0440\u0438\u0447"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1210031597,
-    "wof:lastmodified":1537573663,
+    "wof:lastmodified":1564317848,
     "wof:name":"Goderich",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",

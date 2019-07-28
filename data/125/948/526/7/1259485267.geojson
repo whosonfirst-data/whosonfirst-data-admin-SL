@@ -25,7 +25,28 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pipi"
+    ],
+    "name:ceb_x_preferred":[
+        "Pipi"
+    ],
+    "name:deu_x_preferred":[
+        "Pipi"
+    ],
     "name:eng_x_preferred":[
+        "Pipi"
+    ],
+    "name:eus_x_preferred":[
+        "Pipi"
+    ],
+    "name:mri_x_preferred":[
+        "Pipi"
+    ],
+    "name:scn_x_preferred":[
+        "Pipi"
+    ],
+    "name:swe_x_preferred":[
         "Pipi"
     ],
     "src:geom":"geonames",
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1259485267,
-    "wof:lastmodified":1537700735,
+    "wof:lastmodified":1564319000,
     "wof:name":"Pipi",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

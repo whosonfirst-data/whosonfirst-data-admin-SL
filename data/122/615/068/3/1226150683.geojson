@@ -25,6 +25,18 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sulima"
+    ],
+    "name:deu_x_preferred":[
+        "Sulima"
+    ],
+    "name:pol_x_preferred":[
+        "Sulima"
+    ],
+    "name:swe_x_preferred":[
+        "Sulima"
+    ],
     "name:und_x_variant":[
         "Sowama",
         "Sulima"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1226150683,
-    "wof:lastmodified":1537700472,
+    "wof:lastmodified":1564319300,
     "wof:name":"Sulima",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

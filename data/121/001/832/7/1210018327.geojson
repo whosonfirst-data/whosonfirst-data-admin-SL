@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baoma"
+    ],
     "name:eng_x_preferred":[
+        "Baoma"
+    ],
+    "name:ron_x_preferred":[
         "Baoma"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1210018327,
-    "wof:lastmodified":1537700694,
+    "wof:lastmodified":1564317843,
     "wof:name":"Baoma",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

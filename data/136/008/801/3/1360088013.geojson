@@ -25,6 +25,9 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mayana"
+    ],
     "name:eng_x_preferred":[
         "Mayana"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1360088013,
-    "wof:lastmodified":1537700876,
+    "wof:lastmodified":1564318317,
     "wof:name":"Mayana",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

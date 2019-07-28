@@ -25,11 +25,32 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Yengema"
+    ],
     "name:eng_x_preferred":[
+        "Yengema"
+    ],
+    "name:fra_x_preferred":[
+        "Yengema"
+    ],
+    "name:pol_x_preferred":[
+        "Yengema"
+    ],
+    "name:por_x_preferred":[
+        "Yengema"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043d\u0433\u0435\u043c\u0430"
+    ],
+    "name:tur_x_preferred":[
         "Yengema"
     ],
     "name:und_x_variant":[
         "Yengima"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0646\u06af\u0645\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1193151125,
-    "wof:lastmodified":1537700443,
+    "wof:lastmodified":1564317876,
     "wof:name":"Yengema",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

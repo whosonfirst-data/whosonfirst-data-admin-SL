@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Karamon"
     ],
+    "name:fra_x_preferred":[
+        "Karamon"
+    ],
+    "name:por_x_preferred":[
+        "Karamon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1260196013,
-    "wof:lastmodified":1537700612,
+    "wof:lastmodified":1564317990,
     "wof:name":"Karamon",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

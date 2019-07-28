@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kambia"
+    ],
     "name:eng_x_preferred":[
+        "Kambia"
+    ],
+    "name:ita_x_preferred":[
+        "Kambia"
+    ],
+    "name:nld_x_preferred":[
+        "Kambia"
+    ],
+    "name:swe_x_preferred":[
         "Kambia"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343370575,
-    "wof:lastmodified":1537700616,
+    "wof:lastmodified":1564316834,
     "wof:name":"Kambia",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kulia"
+    ],
     "name:eng_x_preferred":[
+        "Kulia"
+    ],
+    "name:nor_x_preferred":[
+        "Kulia"
+    ],
+    "name:pol_x_preferred":[
+        "Kulia"
+    ],
+    "name:spa_x_preferred":[
         "Kulia"
     ],
     "src:geom":"geonames",
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1209518699,
-    "wof:lastmodified":1537700589,
+    "wof:lastmodified":1564317769,
     "wof:name":"Kulia",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

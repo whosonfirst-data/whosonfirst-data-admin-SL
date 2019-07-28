@@ -25,7 +25,43 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0424\u0443\u0440\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "F\u00faria"
+    ],
+    "name:deu_x_preferred":[
+        "Furia"
+    ],
     "name:eng_x_preferred":[
+        "Furia"
+    ],
+    "name:fra_x_preferred":[
+        "Furia"
+    ],
+    "name:ita_x_preferred":[
+        "Furia"
+    ],
+    "name:nld_x_preferred":[
+        "Furia"
+    ],
+    "name:pol_x_preferred":[
+        "Furia"
+    ],
+    "name:por_x_preferred":[
+        "F\u00faria"
+    ],
+    "name:ron_x_preferred":[
+        "Furia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u0440\u0438\u044f"
+    ],
+    "name:scn_x_preferred":[
+        "Furia"
+    ],
+    "name:spa_x_preferred":[
         "Furia"
     ],
     "src:geom":"geonames",
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1242887153,
-    "wof:lastmodified":1537700656,
+    "wof:lastmodified":1564318715,
     "wof:name":"Furia",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

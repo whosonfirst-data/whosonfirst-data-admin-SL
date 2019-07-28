@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Tikonko"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043a\u043e\u043d\u043a\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327044275,
-    "wof:lastmodified":1537700463,
+    "wof:lastmodified":1564316685,
     "wof:name":"Tikonko",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mabana"
+    ],
     "name:eng_x_preferred":[
+        "Mabana"
+    ],
+    "name:pol_x_preferred":[
+        "Mabana"
+    ],
+    "name:por_x_preferred":[
+        "Mabana"
+    ],
+    "name:spa_x_preferred":[
         "Mabana"
     ],
     "src:geom":"geonames",
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1209427825,
-    "wof:lastmodified":1537700937,
+    "wof:lastmodified":1564317796,
     "wof:name":"Mabana",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

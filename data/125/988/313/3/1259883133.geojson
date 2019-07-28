@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matai"
+    ],
+    "name:deu_x_preferred":[
+        "Matai"
+    ],
     "name:eng_x_preferred":[
+        "Matai"
+    ],
+    "name:swe_x_preferred":[
         "Matai"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259883133,
-    "wof:lastmodified":1537700537,
+    "wof:lastmodified":1564319118,
     "wof:name":"Matai",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

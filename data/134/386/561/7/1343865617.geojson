@@ -25,7 +25,28 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fula"
+    ],
     "name:eng_x_preferred":[
+        "Fula"
+    ],
+    "name:ita_x_preferred":[
+        "Fula"
+    ],
+    "name:nld_x_preferred":[
+        "Fula"
+    ],
+    "name:pol_x_preferred":[
+        "Fula"
+    ],
+    "name:por_x_preferred":[
+        "Fula"
+    ],
+    "name:spa_x_preferred":[
+        "Fula"
+    ],
+    "name:swe_x_preferred":[
         "Fula"
     ],
     "src:geom":"geonames",
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1343865617,
-    "wof:lastmodified":1537700716,
+    "wof:lastmodified":1564317049,
     "wof:name":"Fula",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

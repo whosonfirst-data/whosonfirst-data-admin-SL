@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Masu"
+    ],
     "name:eng_x_preferred":[
+        "Masu"
+    ],
+    "name:swe_x_preferred":[
         "Masu"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1242877123,
-    "wof:lastmodified":1537700539,
+    "wof:lastmodified":1564318689,
     "wof:name":"Masu",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

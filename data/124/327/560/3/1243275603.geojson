@@ -25,6 +25,9 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Machan"
+    ],
     "name:eng_x_preferred":[
         "Machan"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243275603,
-    "wof:lastmodified":1537700836,
+    "wof:lastmodified":1564318910,
     "wof:name":"Machan",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

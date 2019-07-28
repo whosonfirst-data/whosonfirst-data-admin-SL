@@ -28,8 +28,20 @@
     "name:eng_x_preferred":[
         "Falaba"
     ],
+    "name:fra_x_preferred":[
+        "Falaba"
+    ],
+    "name:pol_x_preferred":[
+        "Falaba"
+    ],
+    "name:por_x_preferred":[
+        "Falaba"
+    ],
     "name:und_x_variant":[
         "Falabu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0644\u0627\u0628\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326637489,
-    "wof:lastmodified":1537700664,
+    "wof:lastmodified":1564316734,
     "wof:name":"Falaba",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

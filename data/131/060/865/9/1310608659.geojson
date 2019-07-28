@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Mokita"
     ],
+    "name:swe_x_preferred":[
+        "Mokita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310608659,
-    "wof:lastmodified":1537700776,
+    "wof:lastmodified":1564318262,
     "wof:name":"Mokita",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

@@ -25,8 +25,26 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042f\u043d\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Yanka"
+    ],
     "name:eng_x_preferred":[
         "Yanka"
+    ],
+    "name:fra_x_preferred":[
+        "Yanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Yanka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043d\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1293886873,
-    "wof:lastmodified":1537700922,
+    "wof:lastmodified":1564317334,
     "wof:name":"Yanka",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Bourma"
     ],
+    "name:fra_x_preferred":[
+        "Bourma"
+    ],
     "name:und_x_variant":[
         "Boma"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293801611,
-    "wof:lastmodified":1537700682,
+    "wof:lastmodified":1564317310,
     "wof:name":"Bourma",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

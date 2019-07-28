@@ -25,8 +25,137 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0631"
+    ],
+    "name:arg_x_preferred":[
+        "Chubo"
+    ],
+    "name:aym_x_preferred":[
+        "Lluku"
+    ],
+    "name:bre_x_preferred":[
+        "Yev"
+    ],
+    "name:cat_x_preferred":[
+        "Jou"
+    ],
+    "name:ces_x_preferred":[
+        "Jho"
+    ],
+    "name:cym_x_preferred":[
+        "Iau"
+    ],
     "name:eng_x_preferred":[
         "Yoke"
+    ],
+    "name:eus_x_preferred":[
+        "Uztarri"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u063a"
+    ],
+    "name:fin_x_preferred":[
+        "Ies"
+    ],
+    "name:fra_x_preferred":[
+        "Joug"
+    ],
+    "name:gle_x_preferred":[
+        "Cuing"
+    ],
+    "name:glg_x_preferred":[
+        "Xugo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d5\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "J\u00e1rom"
+    ],
+    "name:ido_x_preferred":[
+        "Yugo"
+    ],
+    "name:ind_x_preferred":[
+        "Kuk"
+    ],
+    "name:ita_x_preferred":[
+        "Giogo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u304f\u3073\u304d"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cca\u0c97"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e6\u10d4\u10da\u10d8"
+    ],
+    "name:kur_x_preferred":[
+        "N\u00eer"
+    ],
+    "name:lat_x_preferred":[
+        "Iugum"
+    ],
+    "name:lit_x_preferred":[
+        "Jungas"
+    ],
+    "name:lmo_x_preferred":[
+        "Gi\u00f9f"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d41\u0d15\u0d02"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0408\u0430\u0440\u0435\u043c"
+    ],
+    "name:nap_x_preferred":[
+        "Juve"
+    ],
+    "name:nld_x_preferred":[
+        "Juk"
+    ],
+    "name:nrm_x_preferred":[
+        "Jouq\u00f9et"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a70\u0a1c\u0a3e\u0a32\u0a40"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0646\u062c\u0627\u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Jarzmo"
+    ],
+    "name:por_x_preferred":[
+        "Jugo"
+    ],
+    "name:que_x_preferred":[
+        "Yunta"
+    ],
+    "name:ron_x_preferred":[
+        "Jug"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0440\u043c\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Telenge"
+    ],
+    "name:spa_x_preferred":[
+        "Yugo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0440\u0430\u043c"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0b9f\u0bbf"
+    ],
+    "name:tur_x_preferred":[
+        "Boyunduruk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0440\u043c\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +180,7 @@
         }
     ],
     "wof:id":1276119965,
-    "wof:lastmodified":1537700441,
+    "wof:lastmodified":1564317412,
     "wof:name":"Yoke",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

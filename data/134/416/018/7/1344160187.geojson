@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fofo"
+    ],
     "name:eng_x_preferred":[
+        "Fofo"
+    ],
+    "name:swe_x_preferred":[
         "Fofo"
     ],
     "src:geom":"geonames",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1344160187,
-    "wof:lastmodified":1537700800,
+    "wof:lastmodified":1564317003,
     "wof:name":"Fofo",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -25,8 +25,26 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Koiva"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u056b\u057e\u0561"
+    ],
+    "name:spa_x_preferred":[
+        "Koiva"
+    ],
+    "name:swe_x_preferred":[
+        "Koiva"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0439\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Quiva",
+        "Koiva"
+    ],
+    "name:vol_x_preferred":[
         "Koiva"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343366449,
-    "wof:lastmodified":1537700603,
+    "wof:lastmodified":1564316801,
     "wof:name":"Koiva",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Selu"
+    ],
+    "name:deu_x_preferred":[
+        "Selu"
+    ],
     "name:eng_x_preferred":[
+        "Selu"
+    ],
+    "name:swe_x_preferred":[
         "Selu"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1276988151,
-    "wof:lastmodified":1537700481,
+    "wof:lastmodified":1564317586,
     "wof:name":"Selu",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

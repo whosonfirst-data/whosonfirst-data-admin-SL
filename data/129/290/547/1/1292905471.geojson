@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Shenge"
     ],
+    "name:fin_x_preferred":[
+        "Shenge"
+    ],
+    "name:por_x_preferred":[
+        "Shenge"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1292905471,
-    "wof:lastmodified":1537700825,
+    "wof:lastmodified":1564317264,
     "wof:name":"Shenge",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kawana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293796939,
-    "wof:lastmodified":1536836922,
+    "wof:lastmodified":1564317133,
     "wof:name":"Kawana",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

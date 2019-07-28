@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lewa"
+    ],
+    "name:deu_x_preferred":[
+        "Lewa"
+    ],
     "name:eng_x_preferred":[
+        "Lewa"
+    ],
+    "name:swe_x_preferred":[
         "Lewa"
     ],
     "src:geom":"geonames",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1326834329,
-    "wof:lastmodified":1537700909,
+    "wof:lastmodified":1564316710,
     "wof:name":"Lewa",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

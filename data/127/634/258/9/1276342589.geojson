@@ -28,6 +28,18 @@
     "name:eng_x_preferred":[
         "Motoko"
     ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ud1a0\ucf54"
+    ],
+    "name:pol_x_preferred":[
+        "Motoko"
+    ],
+    "name:swe_x_preferred":[
+        "Motoko"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e21\u0e42\u0e15\u0e42\u0e01\u0e30"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1276342589,
-    "wof:lastmodified":1537700515,
+    "wof:lastmodified":1564317426,
     "wof:name":"Motoko",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Mofos"
     ],
+    "name:rus_x_preferred":[
+        "Mofos"
+    ],
+    "name:spa_x_preferred":[
+        "Mofos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1210018535,
-    "wof:lastmodified":1537700526,
+    "wof:lastmodified":1564317846,
     "wof:name":"Mofos",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

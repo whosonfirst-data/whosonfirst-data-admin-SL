@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kisi"
+    ],
+    "name:deu_x_preferred":[
+        "Kisi"
+    ],
     "name:eng_x_preferred":[
+        "Kisi"
+    ],
+    "name:swe_x_preferred":[
         "Kisi"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1243365421,
-    "wof:lastmodified":1537700781,
+    "wof:lastmodified":1564318616,
     "wof:name":"Kisi",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

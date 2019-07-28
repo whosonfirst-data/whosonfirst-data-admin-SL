@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matui"
+    ],
     "name:eng_x_preferred":[
+        "Matui"
+    ],
+    "name:swe_x_preferred":[
         "Matui"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226649269,
-    "wof:lastmodified":1537700533,
+    "wof:lastmodified":1564319322,
     "wof:name":"Matui",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

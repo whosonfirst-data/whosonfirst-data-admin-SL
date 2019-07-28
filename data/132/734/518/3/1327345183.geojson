@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yago"
+    ],
+    "name:deu_x_preferred":[
+        "Yago"
+    ],
     "name:eng_x_preferred":[
+        "Yago"
+    ],
+    "name:por_x_preferred":[
+        "Yago"
+    ],
+    "name:swe_x_preferred":[
         "Yago"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1327345183,
-    "wof:lastmodified":1537700449,
+    "wof:lastmodified":1564316644,
     "wof:name":"Yago",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

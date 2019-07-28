@@ -25,6 +25,15 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Konjo"
+    ],
+    "name:fra_x_preferred":[
+        "Konjo"
+    ],
+    "name:pol_x_preferred":[
+        "Konjo"
+    ],
     "name:und_x_variant":[
         "Kundiu",
         "Konjo"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259697751,
-    "wof:lastmodified":1537700598,
+    "wof:lastmodified":1564319098,
     "wof:name":"Konjo",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",
