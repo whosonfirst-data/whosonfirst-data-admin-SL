@@ -25,8 +25,35 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pujehun"
+    ],
+    "name:deu_x_preferred":[
+        "Pujehun"
+    ],
     "name:eng_x_preferred":[
         "Pujehun"
+    ],
+    "name:fin_x_preferred":[
+        "Pujehun"
+    ],
+    "name:fra_x_preferred":[
+        "Pujehun"
+    ],
+    "name:ita_x_preferred":[
+        "Pujehun"
+    ],
+    "name:lit_x_preferred":[
+        "Pud\u017eehunas"
+    ],
+    "name:pol_x_preferred":[
+        "Pujehun"
+    ],
+    "name:ron_x_preferred":[
+        "Pujehun"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5091\u6d2a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1193020059,
-    "wof:lastmodified":1537700494,
+    "wof:lastmodified":1564317914,
     "wof:name":"Pujehun",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

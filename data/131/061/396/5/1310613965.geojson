@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Malimba"
+    ],
     "name:eng_x_preferred":[
+        "Malimba"
+    ],
+    "name:fra_x_preferred":[
         "Malimba"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310613965,
-    "wof:lastmodified":1537700554,
+    "wof:lastmodified":1564318160,
     "wof:name":"Malimba",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

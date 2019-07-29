@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Marusia"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0443\u0441\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0443\u0441\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293107627,
-    "wof:lastmodified":1537700544,
+    "wof:lastmodified":1564317311,
     "wof:name":"Marusia",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

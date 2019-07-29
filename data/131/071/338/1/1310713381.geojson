@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Moroso"
     ],
+    "name:ita_x_preferred":[
+        "Moroso"
+    ],
+    "name:spa_x_preferred":[
+        "Moroso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310713381,
-    "wof:lastmodified":1537700518,
+    "wof:lastmodified":1564318031,
     "wof:name":"Moroso",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

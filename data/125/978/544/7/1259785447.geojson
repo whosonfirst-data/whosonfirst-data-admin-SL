@@ -25,6 +25,15 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gandorhun"
+    ],
+    "name:ron_x_preferred":[
+        "Gandorhun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u0434\u043e\u0440\u0445\u0443\u043d"
+    ],
     "name:und_x_variant":[
         "Gandohun",
         "Gandorhun"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1259785447,
-    "wof:lastmodified":1537700655,
+    "wof:lastmodified":1564319024,
     "wof:name":"Gandorhun",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

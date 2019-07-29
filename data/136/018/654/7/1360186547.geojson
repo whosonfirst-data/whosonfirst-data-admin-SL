@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boba"
+    ],
+    "name:deu_x_preferred":[
+        "Boba"
+    ],
     "name:eng_x_preferred":[
+        "Boba"
+    ],
+    "name:ita_x_preferred":[
+        "Boba"
+    ],
+    "name:swe_x_preferred":[
         "Boba"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1360186547,
-    "wof:lastmodified":1537700833,
+    "wof:lastmodified":1564318332,
     "wof:name":"Boba",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

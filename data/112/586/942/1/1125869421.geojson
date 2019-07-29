@@ -22,6 +22,18 @@
     "name:eng_x_preferred":[
         "Blama"
     ],
+    "name:fra_x_preferred":[
+        "Blama"
+    ],
+    "name:haw_x_preferred":[
+        "Blama"
+    ],
+    "name:pol_x_preferred":[
+        "Blama"
+    ],
+    "name:ron_x_preferred":[
+        "Blama"
+    ],
     "qs_pg:aaroncc":"SL",
     "qs_pg:gn_country":"SL",
     "qs_pg:gn_fcode":"PPL",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1125869421,
-    "wof:lastmodified":1509397197,
+    "wof:lastmodified":1564318576,
     "wof:name":"Blama",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

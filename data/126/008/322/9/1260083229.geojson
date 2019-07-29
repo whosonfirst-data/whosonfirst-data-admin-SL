@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Manami"
     ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub098\ubbf8"
+    ],
+    "name:pol_x_preferred":[
+        "Manami"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1260083229,
-    "wof:lastmodified":1537700551,
+    "wof:lastmodified":1564317940,
     "wof:name":"Manami",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

@@ -25,8 +25,20 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "G\u00f2bries"
+    ],
+    "name:deu_x_preferred":[
+        "Gobryas"
+    ],
     "name:eng_x_preferred":[
         "Gubaru"
+    ],
+    "name:hrv_x_preferred":[
+        "Gobrias"
+    ],
+    "name:spa_x_preferred":[
+        "Gobrias"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1226449887,
-    "wof:lastmodified":1537700634,
+    "wof:lastmodified":1564319171,
     "wof:name":"Gubaru",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

@@ -25,8 +25,53 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Toyama"
+    ],
+    "name:ceb_x_preferred":[
+        "Toyama"
+    ],
+    "name:deu_x_preferred":[
+        "Toyama"
+    ],
     "name:eng_x_preferred":[
         "Toyama"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u06cc\u0627\u0645\u0627"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3c4\uc57c\ub9c8"
+    ],
+    "name:mlg_x_preferred":[
+        "Toyama"
+    ],
+    "name:nld_x_preferred":[
+        "Toyama"
+    ],
+    "name:nor_x_preferred":[
+        "Toyama"
+    ],
+    "name:por_x_preferred":[
+        "Toyama"
+    ],
+    "name:ron_x_preferred":[
+        "Toyama"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u044f\u043c\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Tojama"
+    ],
+    "name:swa_x_preferred":[
+        "Toyama"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u044f\u043c\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +96,7 @@
         }
     ],
     "wof:id":1193151181,
-    "wof:lastmodified":1537700458,
+    "wof:lastmodified":1564317874,
     "wof:name":"Toyama",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

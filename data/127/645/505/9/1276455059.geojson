@@ -25,7 +25,22 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dema"
+    ],
+    "name:deu_x_preferred":[
+        "Dema"
+    ],
     "name:eng_x_preferred":[
+        "Dema"
+    ],
+    "name:fra_x_preferred":[
+        "Dema"
+    ],
+    "name:ita_x_preferred":[
+        "Dema"
+    ],
+    "name:swe_x_preferred":[
         "Dema"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276455059,
-    "wof:lastmodified":1537700670,
+    "wof:lastmodified":1564317386,
     "wof:name":"Dema",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

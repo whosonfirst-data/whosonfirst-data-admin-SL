@@ -25,8 +25,17 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kojo"
+    ],
     "name:eng_x_preferred":[
         "Kojo"
+    ],
+    "name:fin_x_preferred":[
+        "Kojo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0439\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1327235467,
-    "wof:lastmodified":1537700769,
+    "wof:lastmodified":1564316638,
     "wof:name":"Kojo",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

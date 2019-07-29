@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Konia"
+    ],
     "name:eng_x_preferred":[
+        "Konia"
+    ],
+    "name:pol_x_preferred":[
+        "Konia"
+    ],
+    "name:swe_x_preferred":[
         "Konia"
     ],
     "src:geom":"geonames",
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209123777,
-    "wof:lastmodified":1537700598,
+    "wof:lastmodified":1564317677,
     "wof:name":"Konia",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

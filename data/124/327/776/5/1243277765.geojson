@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fola"
+    ],
     "name:eng_x_preferred":[
+        "Fola"
+    ],
+    "name:swe_x_preferred":[
         "Fola"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243277765,
-    "wof:lastmodified":1537700660,
+    "wof:lastmodified":1564318917,
     "wof:name":"Fola",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

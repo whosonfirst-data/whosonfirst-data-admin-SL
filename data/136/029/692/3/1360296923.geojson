@@ -25,8 +25,14 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Malema"
+    ],
     "name:eng_x_preferred":[
         "Malema"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u840a\u99ac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360296923,
-    "wof:lastmodified":1537700555,
+    "wof:lastmodified":1564318346,
     "wof:name":"Malema",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

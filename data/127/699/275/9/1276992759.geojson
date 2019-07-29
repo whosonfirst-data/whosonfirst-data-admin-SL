@@ -25,6 +25,21 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dema"
+    ],
+    "name:deu_x_preferred":[
+        "Dema"
+    ],
+    "name:fra_x_preferred":[
+        "Dema"
+    ],
+    "name:ita_x_preferred":[
+        "Dema"
+    ],
+    "name:swe_x_preferred":[
+        "Dema"
+    ],
     "name:und_x_variant":[
         "Gema",
         "Dema"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276992759,
-    "wof:lastmodified":1537700670,
+    "wof:lastmodified":1564317561,
     "wof:name":"Dema",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

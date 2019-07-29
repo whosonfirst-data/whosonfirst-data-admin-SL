@@ -25,6 +25,9 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u062c\u064a"
+    ],
     "name:eng_x_preferred":[
         "Naji"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293304171,
-    "wof:lastmodified":1537700511,
+    "wof:lastmodified":1564317087,
     "wof:name":"Naji",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

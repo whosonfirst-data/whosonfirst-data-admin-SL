@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kando"
+    ],
+    "name:deu_x_preferred":[
+        "Kando"
+    ],
     "name:eng_x_preferred":[
+        "Kando"
+    ],
+    "name:fra_x_preferred":[
+        "Kando"
+    ],
+    "name:swe_x_preferred":[
         "Kando"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343870021,
-    "wof:lastmodified":1537700788,
+    "wof:lastmodified":1564317038,
     "wof:name":"Kando",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

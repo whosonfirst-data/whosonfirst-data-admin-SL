@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Gbara"
+    ],
     "name:eng_x_preferred":[
+        "Gbara"
+    ],
+    "name:ind_x_preferred":[
+        "Gbara"
+    ],
+    "name:por_x_preferred":[
+        "Gbara"
+    ],
+    "name:spa_x_preferred":[
         "Gbara"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1193028901,
-    "wof:lastmodified":1537700816,
+    "wof:lastmodified":1564317915,
     "wof:name":"Gbara",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

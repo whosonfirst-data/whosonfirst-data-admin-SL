@@ -28,6 +28,15 @@
     "name:eng_x_preferred":[
         "Movil"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06cc\u0644"
+    ],
+    "name:msa_x_preferred":[
+        "Movil"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0648\u06cc\u0644"
+    ],
     "name:und_x_variant":[
         "Mowil"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209921681,
-    "wof:lastmodified":1537700721,
+    "wof:lastmodified":1564317731,
     "wof:name":"Movil",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

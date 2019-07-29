@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yele"
+    ],
     "name:eng_x_preferred":[
+        "Yele"
+    ],
+    "name:fra_x_preferred":[
+        "Yele"
+    ],
+    "name:swe_x_preferred":[
         "Yele"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1226355375,
-    "wof:lastmodified":1537700902,
+    "wof:lastmodified":1564319234,
     "wof:name":"Yele",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

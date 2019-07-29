@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gahan"
+    ],
     "name:eng_x_preferred":[
+        "Gahan"
+    ],
+    "name:fra_x_preferred":[
         "Gahan"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310504595,
-    "wof:lastmodified":1537700944,
+    "wof:lastmodified":1564318208,
     "wof:name":"Gahan",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

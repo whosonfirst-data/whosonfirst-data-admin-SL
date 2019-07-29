@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Matula"
     ],
+    "name:ind_x_preferred":[
+        "Matula"
+    ],
+    "name:msa_x_preferred":[
+        "Matula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226654891,
-    "wof:lastmodified":1537700533,
+    "wof:lastmodified":1564319334,
     "wof:name":"Matula",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

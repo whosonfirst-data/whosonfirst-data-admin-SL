@@ -28,6 +28,15 @@
     "name:eng_x_preferred":[
         "Banama"
     ],
+    "name:ita_x_preferred":[
+        "Banama"
+    ],
+    "name:msa_x_preferred":[
+        "Banama"
+    ],
+    "name:spa_x_preferred":[
+        "Banama"
+    ],
     "name:und_x_variant":[
         "Bandama"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1326734391,
-    "wof:lastmodified":1537700698,
+    "wof:lastmodified":1564316556,
     "wof:name":"Banama",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

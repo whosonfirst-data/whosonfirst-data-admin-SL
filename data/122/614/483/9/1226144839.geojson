@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Longo"
     ],
+    "name:ita_x_preferred":[
+        "Longo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10dc\u10d2\u10dd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226144839,
-    "wof:lastmodified":1537700823,
+    "wof:lastmodified":1564319249,
     "wof:name":"Longo",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

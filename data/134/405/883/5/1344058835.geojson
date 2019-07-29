@@ -28,6 +28,18 @@
     "name:eng_x_preferred":[
         "Makala"
     ],
+    "name:eus_x_preferred":[
+        "Makala"
+    ],
+    "name:fra_x_preferred":[
+        "Makala"
+    ],
+    "name:lin_x_preferred":[
+        "Mak\u00e1la"
+    ],
+    "name:pol_x_preferred":[
+        "Makala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1344058835,
-    "wof:lastmodified":1537700743,
+    "wof:lastmodified":1564317014,
     "wof:name":"Makala",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

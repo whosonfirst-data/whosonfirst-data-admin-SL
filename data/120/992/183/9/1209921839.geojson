@@ -25,7 +25,25 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jimi"
+    ],
+    "name:deu_x_preferred":[
+        "Jimi"
+    ],
     "name:eng_x_preferred":[
+        "Jimi"
+    ],
+    "name:fra_x_preferred":[
+        "Jimi"
+    ],
+    "name:ita_x_preferred":[
+        "Jimi"
+    ],
+    "name:swa_x_preferred":[
+        "Kijimi"
+    ],
+    "name:swe_x_preferred":[
         "Jimi"
     ],
     "src:geom":"geonames",
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1209921839,
-    "wof:lastmodified":1537700627,
+    "wof:lastmodified":1564317743,
     "wof:name":"Jimi",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

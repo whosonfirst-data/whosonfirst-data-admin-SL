@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kunya"
+    ],
     "name:eng_x_preferred":[
+        "Kunya"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043d\u044c\u044f"
+    ],
+    "name:swe_x_preferred":[
         "Kunya"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1209923107,
-    "wof:lastmodified":1537700586,
+    "wof:lastmodified":1564317744,
     "wof:name":"Kunya",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

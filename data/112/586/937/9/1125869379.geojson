@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Panguma"
     ],
+    "name:fin_x_preferred":[
+        "Panguma"
+    ],
+    "name:haw_x_preferred":[
+        "Panguma"
+    ],
     "qs_pg:aaroncc":"SL",
     "qs_pg:gn_country":"SL",
     "qs_pg:gn_fcode":"PPL",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1125869379,
-    "wof:lastmodified":1509397193,
+    "wof:lastmodified":1564318575,
     "wof:name":"Panguma",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

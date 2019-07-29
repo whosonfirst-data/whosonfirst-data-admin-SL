@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Boto"
     ],
+    "name:por_x_preferred":[
+        "Boto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632467
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209108119,
-    "wof:lastmodified":1537700678,
+    "wof:lastmodified":1564317813,
     "wof:name":"Boto",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

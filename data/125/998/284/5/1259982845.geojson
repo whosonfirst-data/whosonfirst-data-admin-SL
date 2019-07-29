@@ -28,6 +28,18 @@
     "name:eng_x_preferred":[
         "Babura"
     ],
+    "name:fra_x_preferred":[
+        "Babura"
+    ],
+    "name:hau_x_preferred":[
+        "Babura"
+    ],
+    "name:ita_x_preferred":[
+        "Babura"
+    ],
+    "name:spa_x_preferred":[
+        "Babura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1259982845,
-    "wof:lastmodified":1537700705,
+    "wof:lastmodified":1564318965,
     "wof:name":"Babura",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

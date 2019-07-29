@@ -25,7 +25,22 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lat"
+    ],
     "name:eng_x_preferred":[
+        "Lat"
+    ],
+    "name:fra_x_preferred":[
+        "Lat"
+    ],
+    "name:ind_x_preferred":[
+        "Lat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30c3\u30c8"
+    ],
+    "name:msa_x_preferred":[
         "Lat"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276131659,
-    "wof:lastmodified":1537700581,
+    "wof:lastmodified":1564317476,
     "wof:name":"Lat",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Tambi"
     ],
+    "name:fra_x_preferred":[
+        "Tambi"
+    ],
+    "name:msa_x_preferred":[
+        "Tambi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276776101,
-    "wof:lastmodified":1537700468,
+    "wof:lastmodified":1564317533,
     "wof:name":"Tambi",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

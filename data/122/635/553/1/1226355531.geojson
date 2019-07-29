@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Gbinti"
     ],
+    "name:fin_x_preferred":[
+        "Gbinti"
+    ],
+    "name:pol_x_preferred":[
+        "Gbinti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226355531,
-    "wof:lastmodified":1537700946,
+    "wof:lastmodified":1564319236,
     "wof:name":"Gbinti",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

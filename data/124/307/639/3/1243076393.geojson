@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Maranda"
+    ],
     "name:eng_x_preferred":[
+        "Maranda"
+    ],
+    "name:fra_x_preferred":[
         "Maranda"
     ],
     "name:und_x_variant":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243076393,
-    "wof:lastmodified":1537700671,
+    "wof:lastmodified":1564318599,
     "wof:name":"Maranda",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

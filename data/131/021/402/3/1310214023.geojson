@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Dankan"
     ],
+    "name:fra_x_preferred":[
+        "Iizuka Minoru"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30f3\u30ab\u30f3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310214023,
-    "wof:lastmodified":1537700671,
+    "wof:lastmodified":1564318151,
     "wof:name":"Dankan",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

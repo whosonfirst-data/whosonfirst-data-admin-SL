@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Bantai"
     ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0a82\u0a9f\u0abe\u0a87"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327243335,
-    "wof:lastmodified":1537700781,
+    "wof:lastmodified":1564316622,
     "wof:name":"Bantai",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

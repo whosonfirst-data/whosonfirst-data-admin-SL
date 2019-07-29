@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Konjo"
+    ],
     "name:eng_x_preferred":[
+        "Konjo"
+    ],
+    "name:fra_x_preferred":[
+        "Konjo"
+    ],
+    "name:pol_x_preferred":[
         "Konjo"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1225859207,
-    "wof:lastmodified":1537700598,
+    "wof:lastmodified":1564319367,
     "wof:name":"Konjo",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

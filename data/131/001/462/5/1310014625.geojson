@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Madala"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u0627\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310014625,
-    "wof:lastmodified":1537700573,
+    "wof:lastmodified":1564318085,
     "wof:name":"Madala",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

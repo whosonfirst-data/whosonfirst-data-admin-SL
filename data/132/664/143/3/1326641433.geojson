@@ -25,6 +25,18 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mattru Jong"
+    ],
+    "name:fin_x_preferred":[
+        "Mattru Jong"
+    ],
+    "name:fra_x_preferred":[
+        "Mattru Jong"
+    ],
+    "name:por_x_preferred":[
+        "Mattru Jong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1326641433,
-    "wof:lastmodified":1537573663,
+    "wof:lastmodified":1564316718,
     "wof:name":"Mattru Jong",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

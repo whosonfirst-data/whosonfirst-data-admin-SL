@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Keleh"
     ],
+    "name:kur_x_preferred":[
+        "Keleh"
+    ],
     "name:und_x_variant":[
         "Kelei"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276982081,
-    "wof:lastmodified":1537700607,
+    "wof:lastmodified":1564317589,
     "wof:name":"Keleh",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

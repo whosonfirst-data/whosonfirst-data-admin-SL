@@ -25,7 +25,16 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bolia"
+    ],
     "name:eng_x_preferred":[
+        "Bolia"
+    ],
+    "name:fra_x_preferred":[
+        "Bolia"
+    ],
+    "name:swe_x_preferred":[
         "Bolia"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1242790579,
-    "wof:lastmodified":1537700682,
+    "wof:lastmodified":1564318857,
     "wof:name":"Bolia",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

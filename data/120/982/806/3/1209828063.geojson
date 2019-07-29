@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Katala"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0442\u0430\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209828063,
-    "wof:lastmodified":1537700805,
+    "wof:lastmodified":1564317708,
     "wof:name":"Katala",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

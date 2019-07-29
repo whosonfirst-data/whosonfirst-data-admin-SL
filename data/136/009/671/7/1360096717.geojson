@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mongla"
+    ],
     "name:eng_x_preferred":[
+        "Mongla"
+    ],
+    "name:swe_x_preferred":[
         "Mongla"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360096717,
-    "wof:lastmodified":1537700749,
+    "wof:lastmodified":1564318287,
     "wof:name":"Mongla",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

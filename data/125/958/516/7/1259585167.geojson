@@ -25,6 +25,9 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bengi"
+    ],
     "name:eng_x_preferred":[
         "Bengi"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259585167,
-    "wof:lastmodified":1537700687,
+    "wof:lastmodified":1564319073,
     "wof:name":"Bengi",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

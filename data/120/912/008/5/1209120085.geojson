@@ -28,6 +28,18 @@
     "name:eng_x_preferred":[
         "Blama"
     ],
+    "name:fra_x_preferred":[
+        "Blama"
+    ],
+    "name:haw_x_preferred":[
+        "Blama"
+    ],
+    "name:pol_x_preferred":[
+        "Blama"
+    ],
+    "name:ron_x_preferred":[
+        "Blama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632467
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1209120085,
-    "wof:lastmodified":1537700684,
+    "wof:lastmodified":1564317677,
     "wof:name":"Blama",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

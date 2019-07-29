@@ -25,7 +25,22 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bum"
+    ],
+    "name:dan_x_preferred":[
+        "Bums"
+    ],
+    "name:deu_x_preferred":[
+        "Bum"
+    ],
     "name:eng_x_preferred":[
+        "Bum"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10db\u10d8"
+    ],
+    "name:swe_x_preferred":[
         "Bum"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1293100491,
-    "wof:lastmodified":1537700677,
+    "wof:lastmodified":1564317313,
     "wof:name":"Bum",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

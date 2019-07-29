@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Shota"
     ],
+    "name:ita_x_preferred":[
+        "Shota"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10dd\u10d7\u10d0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326642779,
-    "wof:lastmodified":1537700945,
+    "wof:lastmodified":1564316723,
     "wof:name":"Shota",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

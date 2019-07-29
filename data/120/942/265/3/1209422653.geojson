@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Komala"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632467
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209422653,
-    "wof:lastmodified":1537700833,
+    "wof:lastmodified":1564317801,
     "wof:name":"Komala",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

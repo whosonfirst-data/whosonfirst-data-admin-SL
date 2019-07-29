@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Kafu"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30af\u30bf\u30fc\u30fb\u30bb\u30ed\u30f3"
+    ],
+    "name:por_x_preferred":[
+        "Kafu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276344229,
-    "wof:lastmodified":1537700623,
+    "wof:lastmodified":1564317423,
     "wof:name":"Kafu",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

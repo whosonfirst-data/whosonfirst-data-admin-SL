@@ -25,8 +25,35 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Babai"
+    ],
+    "name:deu_x_preferred":[
+        "Babai"
+    ],
     "name:eng_x_preferred":[
         "Babai"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0627\u06cc\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Babai"
+    ],
+    "name:nld_x_preferred":[
+        "Babai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0430\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Babai"
+    ],
+    "name:swe_x_preferred":[
+        "Babai"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0431\u0430\u0439"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1226245805,
-    "wof:lastmodified":1537700916,
+    "wof:lastmodified":1564319286,
     "wof:name":"Babai",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

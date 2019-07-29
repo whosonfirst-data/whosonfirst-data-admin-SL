@@ -25,8 +25,20 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Fernando P\u00f3"
+    ],
+    "name:deu_x_preferred":[
+        "Fernando P\u00f3o"
+    ],
     "name:eng_x_preferred":[
         "Fernando Po"
+    ],
+    "name:por_x_preferred":[
+        "Fernando P\u00f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e-\u041f\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1243273025,
-    "wof:lastmodified":1537700662,
+    "wof:lastmodified":1564318920,
     "wof:name":"Fernando Po",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

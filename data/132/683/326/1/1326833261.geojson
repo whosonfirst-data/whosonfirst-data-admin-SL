@@ -25,8 +25,20 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Barabara"
+    ],
     "name:eng_x_preferred":[
         "Barabara"
+    ],
+    "name:hun_x_preferred":[
+        "Barabara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u0431\u043e\u0440\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Aleut evi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1326833261,
-    "wof:lastmodified":1537700693,
+    "wof:lastmodified":1564316713,
     "wof:name":"Barabara",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

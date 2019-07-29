@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Makuta"
+    ],
     "name:eng_x_preferred":[
+        "Makuta"
+    ],
+    "name:fra_x_preferred":[
+        "Makuta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0443\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Makuta"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1226654819,
-    "wof:lastmodified":1537700946,
+    "wof:lastmodified":1564319332,
     "wof:name":"Makuta",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

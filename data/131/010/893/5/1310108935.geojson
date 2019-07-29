@@ -25,7 +25,22 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Karine"
+    ],
+    "name:deu_x_preferred":[
+        "Karine"
+    ],
     "name:eng_x_preferred":[
+        "Karine"
+    ],
+    "name:fra_x_preferred":[
+        "Karine"
+    ],
+    "name:nno_x_preferred":[
+        "Karine"
+    ],
+    "name:nor_x_preferred":[
         "Karine"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1310108935,
-    "wof:lastmodified":1537700611,
+    "wof:lastmodified":1564318122,
     "wof:name":"Karine",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yema"
+    ],
     "name:eng_x_preferred":[
+        "Yema"
+    ],
+    "name:swe_x_preferred":[
         "Yema"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327342235,
-    "wof:lastmodified":1537700445,
+    "wof:lastmodified":1564316647,
     "wof:name":"Yema",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

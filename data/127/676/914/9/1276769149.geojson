@@ -25,7 +25,31 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ricketts"
+    ],
     "name:eng_x_preferred":[
+        "Ricketts"
+    ],
+    "name:fra_x_preferred":[
+        "Ricketts"
+    ],
+    "name:ita_x_preferred":[
+        "Ricketts"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30b1\u30c3\u30c4"
+    ],
+    "name:nds_x_preferred":[
+        "Ricketts"
+    ],
+    "name:pol_x_preferred":[
+        "Ricketts"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043a\u0435\u0442\u0442\u0441"
+    ],
+    "name:swe_x_preferred":[
         "Ricketts"
     ],
     "src:geom":"geonames",
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1276769149,
-    "wof:lastmodified":1537700493,
+    "wof:lastmodified":1564317490,
     "wof:name":"Ricketts",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",

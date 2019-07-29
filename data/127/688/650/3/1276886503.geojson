@@ -25,7 +25,13 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Donia"
+    ],
     "name:eng_x_preferred":[
+        "Donia"
+    ],
+    "name:ita_x_preferred":[
         "Donia"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276886503,
-    "wof:lastmodified":1537700667,
+    "wof:lastmodified":1564317369,
     "wof:name":"Donia",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

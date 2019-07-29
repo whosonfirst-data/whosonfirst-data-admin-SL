@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Panguma"
     ],
+    "name:fin_x_preferred":[
+        "Panguma"
+    ],
+    "name:haw_x_preferred":[
+        "Panguma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632467
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209517325,
-    "wof:lastmodified":1537700832,
+    "wof:lastmodified":1564317771,
     "wof:name":"Panguma",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

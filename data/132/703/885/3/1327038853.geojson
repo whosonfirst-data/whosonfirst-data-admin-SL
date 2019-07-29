@@ -25,8 +25,143 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u062a\u0627\u062f\u06cc"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0434\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0434\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Matadi"
+    ],
+    "name:ceb_x_preferred":[
+        "Matadi"
+    ],
+    "name:ces_x_preferred":[
+        "Matadi"
+    ],
+    "name:dan_x_preferred":[
+        "Matadi"
+    ],
+    "name:deu_x_preferred":[
+        "Matadi"
+    ],
     "name:eng_x_preferred":[
         "Matadi"
+    ],
+    "name:epo_x_preferred":[
+        "Matadi"
+    ],
+    "name:est_x_preferred":[
+        "Matadi"
+    ],
+    "name:eus_x_preferred":[
+        "Matadi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062a\u0627\u062f\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Matadi"
+    ],
+    "name:fra_x_preferred":[
+        "Matadi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d8\u05d3\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Matadi"
+    ],
+    "name:hun_x_preferred":[
+        "Matadi"
+    ],
+    "name:ind_x_preferred":[
+        "Matadi"
+    ],
+    "name:ita_x_preferred":[
+        "Matadi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30bf\u30c7\u30a3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e2\u10d0\u10d3\u10d8"
+    ],
+    "name:kon_x_preferred":[
+        "Matadi"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ud0c0\ub514"
+    ],
+    "name:lin_x_preferred":[
+        "Mat\u00e1di"
+    ],
+    "name:lit_x_preferred":[
+        "Matadis"
+    ],
+    "name:ltz_x_preferred":[
+        "Matadi"
+    ],
+    "name:nld_x_preferred":[
+        "Matadi"
+    ],
+    "name:nor_x_preferred":[
+        "Matadi"
+    ],
+    "name:pol_x_preferred":[
+        "Matadi"
+    ],
+    "name:por_x_preferred":[
+        "Matadi"
+    ],
+    "name:ron_x_preferred":[
+        "Matadi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0434\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Matadi"
+    ],
+    "name:sna_x_preferred":[
+        "Matadi"
+    ],
+    "name:spa_x_preferred":[
+        "Matadi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0434\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Matadi"
+    ],
+    "name:swe_x_preferred":[
+        "Matadi"
+    ],
+    "name:tgl_x_preferred":[
+        "Matadi"
+    ],
+    "name:tur_x_preferred":[
+        "Matadi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0434\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u062a\u0627\u062f\u06cc"
+    ],
+    "name:war_x_preferred":[
+        "Matadi"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d0\u10e2\u10d0\u10d3\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5854\u8fea"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +186,7 @@
         }
     ],
     "wof:id":1327038853,
-    "wof:lastmodified":1537700537,
+    "wof:lastmodified":1564316673,
     "wof:name":"Matadi",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

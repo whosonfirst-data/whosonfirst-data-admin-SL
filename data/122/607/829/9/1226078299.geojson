@@ -25,6 +25,15 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lumley"
+    ],
+    "name:fra_x_preferred":[
+        "Lumley"
+    ],
+    "name:nds_x_preferred":[
+        "Lumley"
+    ],
     "name:und_x_variant":[
         "Pasandi",
         "Lumley"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226078299,
-    "wof:lastmodified":1537700578,
+    "wof:lastmodified":1564319348,
     "wof:name":"Lumley",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",

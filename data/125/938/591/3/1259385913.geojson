@@ -25,7 +25,19 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Binkolo"
+    ],
     "name:eng_x_preferred":[
+        "Binkolo"
+    ],
+    "name:fin_x_preferred":[
+        "Binkolo"
+    ],
+    "name:pol_x_preferred":[
+        "Yengema"
+    ],
+    "name:por_x_preferred":[
         "Binkolo"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1259385913,
-    "wof:lastmodified":1537700898,
+    "wof:lastmodified":1564318956,
     "wof:name":"Binkolo",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

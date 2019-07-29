@@ -25,11 +25,29 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mabra"
+    ],
+    "name:ceb_x_preferred":[
+        "Mabra"
+    ],
     "name:eng_x_preferred":[
+        "Mabra"
+    ],
+    "name:por_x_preferred":[
+        "Mabra"
+    ],
+    "name:swe_x_preferred":[
         "Mabra"
     ],
     "name:und_x_variant":[
         "Mabar"
+    ],
+    "name:vie_x_preferred":[
+        "Mabra"
+    ],
+    "name:war_x_preferred":[
+        "Mabra"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1276556621,
-    "wof:lastmodified":1537700576,
+    "wof:lastmodified":1564317555,
     "wof:name":"Mabra",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

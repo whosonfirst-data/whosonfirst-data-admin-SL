@@ -28,6 +28,15 @@
     "name:eng_x_preferred":[
         "Kinto"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0576\u057f\u0578"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10dc\u10e2\u10dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u0442\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1309724801,
-    "wof:lastmodified":1537700766,
+    "wof:lastmodified":1564318555,
     "wof:name":"Kinto",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

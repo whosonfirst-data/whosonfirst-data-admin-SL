@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Fontane"
     ],
+    "name:spa_x_preferred":[
+        "Fontane"
+    ],
     "name:und_x_variant":[
         "Fotani"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226351219,
-    "wof:lastmodified":1537700659,
+    "wof:lastmodified":1564319233,
     "wof:name":"Fontane",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

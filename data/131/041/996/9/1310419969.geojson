@@ -28,6 +28,21 @@
     "name:eng_x_preferred":[
         "Dambo"
     ],
+    "name:fra_x_preferred":[
+        "Dambo"
+    ],
+    "name:glg_x_preferred":[
+        "Dambo"
+    ],
+    "name:ita_x_preferred":[
+        "Dambo"
+    ],
+    "name:pol_x_preferred":[
+        "Dambo"
+    ],
+    "name:spa_x_preferred":[
+        "Dambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1310419969,
-    "wof:lastmodified":1537700671,
+    "wof:lastmodified":1564317999,
     "wof:name":"Dambo",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

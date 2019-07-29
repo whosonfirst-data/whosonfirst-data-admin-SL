@@ -25,6 +25,12 @@
     "iso:country":"SL",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Manika"
+    ],
+    "name:swe_x_preferred":[
+        "Manika"
+    ],
     "name:und_x_variant":[
         "Maniki",
         "Menika",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1309812395,
-    "wof:lastmodified":1537700549,
+    "wof:lastmodified":1564318525,
     "wof:name":"Manika",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",
