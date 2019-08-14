@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SO"
+    ],
     "lbl:latitude":7.831196,
     "lbl:longitude":-12.005904,
     "mps:latitude":7.888823,
@@ -287,16 +290,13 @@
         }
     ],
     "wof:id":85677119,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563258381,
+    "wof:lastmodified":1565736595,
     "wof:name":"Southern",
     "wof:parent_id":85632467,
     "wof:placetype":"region",

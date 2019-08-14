@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EA"
+    ],
     "lbl:latitude":8.209877,
     "lbl:longitude":-11.035278,
     "mps:latitude":8.219064,
@@ -294,16 +297,13 @@
         }
     ],
     "wof:id":85677133,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563258379,
+    "wof:lastmodified":1565736594,
     "wof:name":"Eastern",
     "wof:parent_id":85632467,
     "wof:placetype":"region",

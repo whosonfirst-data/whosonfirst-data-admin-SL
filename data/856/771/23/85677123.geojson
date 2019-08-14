@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "area"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WE"
+    ],
     "lbl:latitude":8.34437,
     "lbl:longitude":-13.133197,
     "mps:latitude":8.330248,
@@ -260,16 +263,13 @@
         }
     ],
     "wof:id":85677123,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563258382,
+    "wof:lastmodified":1565736595,
     "wof:name":"Western",
     "wof:parent_id":85632467,
     "wof:placetype":"region",
