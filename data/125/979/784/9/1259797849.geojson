@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.78913,7.63601,-10.74913,7.67601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mogbaiima"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259797849,
-    "wof:lastmodified":1537700526,
+    "wof:lastmodified":1566647646,
     "wof:name":"Mogbaiima",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

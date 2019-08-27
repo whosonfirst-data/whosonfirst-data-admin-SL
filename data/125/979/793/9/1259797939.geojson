@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.47192,8.36129,-10.43192,8.40129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sakpeh"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259797939,
-    "wof:lastmodified":1537700486,
+    "wof:lastmodified":1566647647,
     "wof:name":"Sakpeh",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

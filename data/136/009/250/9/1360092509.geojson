@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.45575,7.97131,-12.41575,8.01131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Njabaama"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360092509,
-    "wof:lastmodified":1537700848,
+    "wof:lastmodified":1566647285,
     "wof:name":"Njabaama",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

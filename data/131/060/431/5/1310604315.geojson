@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.53643,9.48436,-11.49643,9.52436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fasawaya"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310604315,
-    "wof:lastmodified":1537700730,
+    "wof:lastmodified":1566647277,
     "wof:name":"Fasawaya",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.48062,8.17906,-11.44062,8.21906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jala",
         "Njala"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327146193,
-    "wof:lastmodified":1537700508,
+    "wof:lastmodified":1566646117,
     "wof:name":"Njala",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

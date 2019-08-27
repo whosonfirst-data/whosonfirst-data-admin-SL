@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.57726,8.63177,-12.53726,8.67177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0437\u043e\u043d"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1210019633,
-    "wof:lastmodified":1564317842,
+    "wof:lastmodified":1566647017,
     "wof:name":"Maso",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

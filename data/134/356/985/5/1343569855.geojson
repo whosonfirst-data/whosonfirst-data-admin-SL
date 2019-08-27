@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.25691,8.34386,-12.21691,8.38386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mosinmira"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343569855,
-    "wof:lastmodified":1537700770,
+    "wof:lastmodified":1566646374,
     "wof:name":"Mosinmira",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

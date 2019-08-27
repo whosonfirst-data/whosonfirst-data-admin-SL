@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.45624,7.3829,-11.41624,7.4229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dandegahun"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310113227,
-    "wof:lastmodified":1537700671,
+    "wof:lastmodified":1566647219,
     "wof:name":"Dendegahun",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

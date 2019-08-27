@@ -11,10 +11,14 @@
     "geom:longitude":-13.06278,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":4462,
+    "gn:population":4462,
     "iso:country":"SL",
+    "lbl:bbox":"-13.08278,8.56167,-13.04278,8.60167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u043f\u0435\u043b"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":2404607,
         "gp:id":12517517,
-        "qs:id":139962,
+        "qs_pg:id":139962,
         "wd:id":"Q3466506",
         "wk:page":"Pepel"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890420453,
-    "wof:lastmodified":1563259675,
+    "wof:lastmodified":1566647400,
     "wof:name":"Pepel",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

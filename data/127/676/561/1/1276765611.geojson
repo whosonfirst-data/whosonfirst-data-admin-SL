@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.68195,9.22086,-12.64195,9.26086",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276765611,
-    "wof:lastmodified":1564317486,
+    "wof:lastmodified":1566646755,
     "wof:name":"Balo",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

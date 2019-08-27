@@ -9,15 +9,18 @@
     "geom:bbox":"-10.61667,8.13333,-10.61667,8.13333",
     "geom:latitude":8.13333,
     "geom:longitude":-10.61667,
-    "gn:gn_country":"SL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5985,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
     "gn:population":5985,
     "iso:country":"SL",
+    "lbl:bbox":"-10.63667,8.11333,-10.59667,8.15333",
     "lbl:latitude":8.13333,
     "lbl:longitude":-10.61667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u043e\u043c\u0431\u043e\u0434\u0443"
@@ -34,7 +37,7 @@
     "name:nld_x_preferred":[
         "Tombodu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fobu"
     ],
     "qs_pg:aaroncc":"SL",
@@ -49,7 +52,7 @@
     "qs_pg:qs_id":1035432,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125913701,
-    "wof:lastmodified":1563259682,
+    "wof:lastmodified":1566647403,
     "wof:name":"Tombodu",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

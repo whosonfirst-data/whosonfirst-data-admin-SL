@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.99707,8.23038,-10.95707,8.27038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moimadu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242891555,
-    "wof:lastmodified":1537700524,
+    "wof:lastmodified":1566647451,
     "wof:name":"Moimada",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

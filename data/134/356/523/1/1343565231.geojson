@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.89022,7.91791,-10.85022,7.95791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Goma"
     ],
@@ -186,7 +190,7 @@
         }
     ],
     "wof:id":1343565231,
-    "wof:lastmodified":1564316958,
+    "wof:lastmodified":1566646376,
     "wof:name":"Goma",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

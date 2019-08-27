@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-13.01749,8.82905,-12.97749,8.86905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kikam"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209427787,
-    "wof:lastmodified":1537700877,
+    "wof:lastmodified":1566646980,
     "wof:name":"Kikam",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

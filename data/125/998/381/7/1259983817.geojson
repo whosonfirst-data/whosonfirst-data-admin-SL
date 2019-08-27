@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.91411,8.16287,-10.87411,8.20287",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Koyama"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1259983817,
-    "wof:lastmodified":1564318969,
+    "wof:lastmodified":1566647613,
     "wof:name":"Koyama",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

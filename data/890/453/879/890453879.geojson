@@ -11,7 +11,7 @@
     "geom:longitude":-11.214851,
     "gn:country":"SL",
     "gn:fcode":"ADM2",
-    "gn:pop":493928,
+    "gn:population":493928,
     "iso:country":"SL",
     "label:eng_x_preferred_longname":[
         "Kenema District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":7.74664,
     "lbl:longitude":-11.220887,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Eastern",
     "meso:dissme":"EasternKenema",
     "meso:gadm_adm2":"Kenema",
@@ -34,6 +36,7 @@
     "mps:longitude":-11.220887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041a\u0435\u043d\u0435\u043c\u0430"
     ],
@@ -79,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043d\u0435\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Kenema District"
-    ],
     "name:zho_x_preferred":[
         "\u51ef\u5185\u9a6c\u533a"
     ],
@@ -93,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"6,053.0",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"Kenema",
@@ -116,7 +116,7 @@
     "wof:concordances":{
         "gn:id":2407781,
         "hasc:id":"SL.EA.KE",
-        "qs:id":91370,
+        "qs_pg:id":91370,
         "wd:id":"Q1738741",
         "wk:page":"Kenema District"
     },
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":890453879,
-    "wof:lastmodified":1563259667,
+    "wof:lastmodified":1566647395,
     "wof:name":"Kenema",
     "wof:parent_id":85677133,
     "wof:placetype":"county",

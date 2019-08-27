@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.95882,7.52248,-11.91882,7.56248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Yesa"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1276665261,
-    "wof:lastmodified":1564317462,
+    "wof:lastmodified":1566646738,
     "wof:name":"Yesa",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

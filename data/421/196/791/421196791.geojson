@@ -10,8 +10,12 @@
     "geom:latitude":8.67167,
     "geom:longitude":-12.395,
     "iso:country":"SL",
+    "lbl:bbox":"-12.415,8.65167,-12.375,8.69167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Rokupr"
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":2404303,
         "gp:id":1423452,
-        "qs:id":1298283,
+        "qs_pg:id":1298283,
         "wd:id":"Q3012883"
     },
     "wof:country":"SL",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421196791,
-    "wof:lastmodified":1563259653,
+    "wof:lastmodified":1566647391,
     "wof:name":"Rokupr",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

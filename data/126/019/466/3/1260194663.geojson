@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.02894,7.72731,-11.98894,7.76731",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mangema"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260194663,
-    "wof:lastmodified":1537700720,
+    "wof:lastmodified":1566647127,
     "wof:name":"Mangema",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

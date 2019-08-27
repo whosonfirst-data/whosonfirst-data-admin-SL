@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.87235,8.05345,-12.83235,8.09345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Samu"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343366345,
-    "wof:lastmodified":1564316802,
+    "wof:lastmodified":1566646264,
     "wof:name":"Samu",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

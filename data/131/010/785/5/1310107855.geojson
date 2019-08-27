@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.64476,7.19032,-11.60476,7.23032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kanayama"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310107855,
-    "wof:lastmodified":1537700732,
+    "wof:lastmodified":1566647227,
     "wof:name":"Kanayama",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.41517,8.43229,-10.37517,8.47229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Keredu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343570709,
-    "wof:lastmodified":1537700713,
+    "wof:lastmodified":1566646359,
     "wof:name":"Keredu",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

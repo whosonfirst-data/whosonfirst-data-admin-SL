@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.93546,7.99453,-10.89546,8.03453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ngokolu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226456417,
-    "wof:lastmodified":1537700509,
+    "wof:lastmodified":1566647771,
     "wof:name":"Ngokolu",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

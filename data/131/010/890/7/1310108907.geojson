@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-13.14776,8.85427,-13.10776,8.89427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rogbam",
         "Rogbom"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310108907,
-    "wof:lastmodified":1537700491,
+    "wof:lastmodified":1566647230,
     "wof:name":"Rogbom",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

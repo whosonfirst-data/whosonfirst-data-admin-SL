@@ -11,7 +11,7 @@
     "geom:longitude":-12.287398,
     "gn:country":"SL",
     "gn:fcode":"ADM2",
-    "gn:pop":131580,
+    "gn:population":131580,
     "iso:country":"SL",
     "label:eng_x_preferred_longname":[
         "Bonthe District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":7.467016,
     "lbl:longitude":-12.173412,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Southern",
     "meso:dissme":"SouthernBonthe",
     "meso:gadm_adm2":"Bonthe",
@@ -34,6 +36,7 @@
     "mps:longitude":-12.173412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u043d\u0442\u0435"
     ],
@@ -73,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043d\u0442\u0435"
     ],
-    "name:unk_x_variant":[
-        "Bonthe District"
-    ],
     "name:zho_x_preferred":[
         "\u90a6\u7279\u533a"
     ],
@@ -87,9 +87,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"3,468.0",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"Bonthe",
@@ -110,7 +110,7 @@
     "wof:concordances":{
         "gn:id":2409913,
         "hasc:id":"SL.SO.BN",
-        "qs:id":91375,
+        "qs_pg:id":91375,
         "wd:id":"Q892889",
         "wk:page":"Bonthe District"
     },
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":890428991,
-    "wof:lastmodified":1563259671,
+    "wof:lastmodified":1566647398,
     "wof:name":"Bonthe",
     "wof:parent_id":85677119,
     "wof:placetype":"county",

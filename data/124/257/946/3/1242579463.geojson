@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.14674,7.49079,-12.10674,7.53079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karleh"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242579463,
-    "wof:lastmodified":1537700778,
+    "wof:lastmodified":1566647462,
     "wof:name":"Karleh",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

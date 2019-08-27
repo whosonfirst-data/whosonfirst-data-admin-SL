@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.15077,7.9682,-11.11077,8.0082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Foya"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293306927,
-    "wof:lastmodified":1564317083,
+    "wof:lastmodified":1566646471,
     "wof:name":"Foya",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.67568,8.46926,-10.63568,8.50926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226557481,
-    "wof:lastmodified":1537700469,
+    "wof:lastmodified":1566647862,
     "wof:name":"Tia",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

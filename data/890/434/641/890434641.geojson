@@ -11,10 +11,14 @@
     "geom:longitude":-11.52583,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":5463,
+    "gn:population":5463,
     "iso:country":"SL",
+    "lbl:bbox":"-11.54583,7.22611,-11.50583,7.26611",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bomi"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":2409970,
         "gp:id":1419372,
-        "qs:id":139992,
+        "qs_pg:id":139992,
         "wd:id":"Q4940864",
         "wk:page":"Bomi"
     },
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890434641,
-    "wof:lastmodified":1561843588,
+    "wof:lastmodified":1566647400,
     "wof:name":"Bomi",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

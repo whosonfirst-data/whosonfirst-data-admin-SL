@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.15526,8.2255,-11.11526,8.2655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jago"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1225858943,
-    "wof:lastmodified":1564319357,
+    "wof:lastmodified":1566647898,
     "wof:name":"Jago",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

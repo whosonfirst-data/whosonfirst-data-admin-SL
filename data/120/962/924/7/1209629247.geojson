@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.80036,8.19213,-10.76036,8.23213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kpatama"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209629247,
-    "wof:lastmodified":1537700866,
+    "wof:lastmodified":1566646855,
     "wof:name":"Kpatama",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

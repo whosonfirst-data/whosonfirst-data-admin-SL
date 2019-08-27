@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.65536,7.30646,-11.61536,7.34646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kuraka"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1360292929,
-    "wof:lastmodified":1564318342,
+    "wof:lastmodified":1566647312,
     "wof:name":"Kuraka",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

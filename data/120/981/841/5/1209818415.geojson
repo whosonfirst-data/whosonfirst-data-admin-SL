@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.19059,9.16069,-12.15059,9.20069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Masiba"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209818415,
-    "wof:lastmodified":1537700940,
+    "wof:lastmodified":1566647004,
     "wof:name":"Masiba",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

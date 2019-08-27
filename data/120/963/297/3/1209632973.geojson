@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.1068,8.64461,-11.0668,8.68461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Patama"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209632973,
-    "wof:lastmodified":1537700619,
+    "wof:lastmodified":1566646874,
     "wof:name":"Patama",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

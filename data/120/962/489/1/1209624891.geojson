@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.68892,8.82947,-10.64892,8.86947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kasadu"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209624891,
-    "wof:lastmodified":1537700908,
+    "wof:lastmodified":1566646859,
     "wof:name":"Kasadu",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

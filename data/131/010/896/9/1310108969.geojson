@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-13.25578,8.8889,-13.21578,8.9289",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lenkenboli"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310108969,
-    "wof:lastmodified":1537700580,
+    "wof:lastmodified":1566647230,
     "wof:name":"Lenkenboli",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

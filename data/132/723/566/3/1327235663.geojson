@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.86015,8.5594,-10.82015,8.5994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0438\u0434\u0443"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1327235663,
-    "wof:lastmodified":1564316630,
+    "wof:lastmodified":1566646140,
     "wof:name":"Maidu",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

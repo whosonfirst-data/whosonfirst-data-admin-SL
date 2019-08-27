@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.39545,7.96254,-11.35545,8.00254",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dema"
     ],
@@ -41,8 +45,7 @@
         "Dema"
     ],
     "name:und_x_variant":[
-        "Gema",
-        "Dema"
+        "Gema"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1276992759,
-    "wof:lastmodified":1564317561,
+    "wof:lastmodified":1566646809,
     "wof:name":"Dema",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

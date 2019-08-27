@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.83271,8.58973,-12.79271,8.62973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fundu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293892393,
-    "wof:lastmodified":1537700657,
+    "wof:lastmodified":1566646631,
     "wof:name":"Fundu",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

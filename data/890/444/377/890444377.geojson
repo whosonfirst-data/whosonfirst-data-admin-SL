@@ -11,14 +11,18 @@
     "geom:longitude":-11.21667,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":3544,
+    "gn:population":3544,
     "iso:country":"SL",
+    "lbl:bbox":"-11.23667,8.68,-11.19667,8.72",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tefeya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tefee"
     ],
     "qs:name":"Tefea",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":2403513,
         "gp:id":1515866,
-        "qs:id":1035434
+        "qs_pg:id":1035434
     },
     "wof:country":"SL",
     "wof:created":1469052466,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890444377,
-    "wof:lastmodified":1505343599,
+    "wof:lastmodified":1566647399,
     "wof:name":"Tefea",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

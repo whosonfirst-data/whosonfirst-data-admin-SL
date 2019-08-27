@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.91831,7.7445,-11.87831,7.7845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Venima"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226749339,
-    "wof:lastmodified":1537700753,
+    "wof:lastmodified":1566647777,
     "wof:name":"Venima",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

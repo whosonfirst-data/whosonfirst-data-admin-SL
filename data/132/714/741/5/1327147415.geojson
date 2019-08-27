@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.3768,8.62087,-12.3368,8.66087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bina"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1327147415,
-    "wof:lastmodified":1564316605,
+    "wof:lastmodified":1566646121,
     "wof:name":"Bina",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

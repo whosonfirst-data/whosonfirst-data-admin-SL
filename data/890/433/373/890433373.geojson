@@ -11,10 +11,14 @@
     "geom:longitude":-10.75111,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":3441,
+    "gn:population":3441,
     "iso:country":"SL",
+    "lbl:bbox":"-10.77111,7.97444,-10.73111,8.01444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mobai"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2405347,
         "gp:id":1512965,
-        "qs:id":139976
+        "qs_pg:id":139976
     },
     "wof:country":"SL",
     "wof:created":1469051978,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890433373,
-    "wof:lastmodified":1505343535,
+    "wof:lastmodified":1566647400,
     "wof:name":"Mobai",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

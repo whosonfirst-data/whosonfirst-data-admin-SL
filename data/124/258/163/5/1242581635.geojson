@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.9116,8.04444,-10.8716,8.08444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0644\u0648"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1242581635,
-    "wof:lastmodified":1564318800,
+    "wof:lastmodified":1566647486,
     "wof:name":"Jalu",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

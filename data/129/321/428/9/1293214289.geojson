@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.43473,8.41231,-10.39473,8.45231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sangha"
     ],
@@ -148,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0491\u0433\u0430"
     ],
-    "name:und_x_variant":[
-        "Sanga"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0646\u06af\u06be"
     ],
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":1293214289,
-    "wof:lastmodified":1564317329,
+    "wof:lastmodified":1566646647,
     "wof:name":"Sangha",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.08092,7.54723,-12.04092,7.58723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Keyenhun",
         "Keyehun"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226647805,
-    "wof:lastmodified":1537700606,
+    "wof:lastmodified":1566647872,
     "wof:name":"Keyehun",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

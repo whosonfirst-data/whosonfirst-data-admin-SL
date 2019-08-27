@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.74123,8.11812,-12.70123,8.15812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pend\u00e9"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1243371007,
-    "wof:lastmodified":1564318641,
+    "wof:lastmodified":1566647427,
     "wof:name":"Pende",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

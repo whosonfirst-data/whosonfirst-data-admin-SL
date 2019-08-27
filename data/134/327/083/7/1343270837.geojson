@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.80353,9.13854,-12.76353,9.17854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bundu"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343270837,
-    "wof:lastmodified":1564317018,
+    "wof:lastmodified":1566646418,
     "wof:name":"Bundu",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.88941,8.09455,-11.84941,8.13455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Misibu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310113357,
-    "wof:lastmodified":1537700685,
+    "wof:lastmodified":1566647219,
     "wof:name":"Misibu",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.66947,8.17312,-11.62947,8.21312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jaluahun",
         "Hendobu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243466085,
-    "wof:lastmodified":1537700632,
+    "wof:lastmodified":1566647505,
     "wof:name":"Hendobu",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

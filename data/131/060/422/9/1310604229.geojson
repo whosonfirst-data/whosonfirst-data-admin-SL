@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.66175,8.9238,-12.62175,8.9638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bonka"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310604229,
-    "wof:lastmodified":1564318248,
+    "wof:lastmodified":1566647275,
     "wof:name":"Bonka",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

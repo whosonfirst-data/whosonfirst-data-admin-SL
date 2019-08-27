@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.82117,7.99845,-10.78117,8.03845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ngolala"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326939965,
-    "wof:lastmodified":1537700868,
+    "wof:lastmodified":1566646101,
     "wof:name":"Ngolala",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

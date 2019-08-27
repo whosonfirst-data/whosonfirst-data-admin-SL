@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.48426,9.51843,-12.44426,9.55843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tembu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259586277,
-    "wof:lastmodified":1537700464,
+    "wof:lastmodified":1566647689,
     "wof:name":"Tembu",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

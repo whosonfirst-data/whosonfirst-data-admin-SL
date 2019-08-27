@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.61768,9.70379,-11.57768,9.74379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kumbakada"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259796567,
-    "wof:lastmodified":1537700728,
+    "wof:lastmodified":1566647642,
     "wof:name":"Kumbakada",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

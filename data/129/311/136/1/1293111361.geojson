@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.48268,8.93547,-11.44268,8.97547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bamaia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293111361,
-    "wof:lastmodified":1537700701,
+    "wof:lastmodified":1566646613,
     "wof:name":"Bamaia",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

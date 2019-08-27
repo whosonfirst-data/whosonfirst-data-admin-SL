@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.31604,8.11168,-11.27604,8.15168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u062d\u0646"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1293700745,
-    "wof:lastmodified":1564317149,
+    "wof:lastmodified":1566646516,
     "wof:name":"Sahn",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.49962,8.47364,-12.45962,8.51364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Magbende"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343961219,
-    "wof:lastmodified":1537700569,
+    "wof:lastmodified":1566646278,
     "wof:name":"Magbende",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

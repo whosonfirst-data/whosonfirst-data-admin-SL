@@ -11,7 +11,7 @@
     "geom:longitude":-11.344677,
     "gn:country":"SL",
     "gn:fcode":"ADM2",
-    "gn:pop":236269,
+    "gn:population":236269,
     "iso:country":"SL",
     "label:eng_x_preferred_longname":[
         "Koinadugu District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":9.532864,
     "lbl:longitude":-11.344469,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Northern",
     "meso:dissme":"NorthernKoinadugu",
     "meso:gadm_adm2":"Koinadugu",
@@ -34,6 +36,7 @@
     "mps:longitude":-11.344469,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0439\u043d\u0430\u0434\u0443\u0433\u0443"
     ],
@@ -76,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0439\u043d\u0430\u0434\u0443\u0491\u0443"
     ],
-    "name:unk_x_variant":[
-        "Koinadugu District"
-    ],
     "name:zho_x_preferred":[
         "\u79d1\u4f0a\u7eb3\u675c\u53e4\u533a"
     ],
@@ -90,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"12,121.0",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"Kabala",
@@ -113,7 +113,7 @@
     "wof:concordances":{
         "gn:id":2407650,
         "hasc:id":"SL.NO.KD",
-        "qs:id":91369,
+        "qs_pg:id":91369,
         "wd:id":"Q1778860",
         "wk:page":"Koinadugu District"
     },
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":890421473,
-    "wof:lastmodified":1563259669,
+    "wof:lastmodified":1566647396,
     "wof:name":"Koinadugu",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

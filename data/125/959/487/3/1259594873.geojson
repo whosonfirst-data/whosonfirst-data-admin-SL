@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.39925,8.1916,-12.35925,8.2316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Falaba"
     ],
@@ -35,8 +39,7 @@
         "Falaba"
     ],
     "name:und_x_variant":[
-        "Fataba",
-        "Falaba"
+        "Fataba"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0644\u0627\u0628\u0627"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1259594873,
-    "wof:lastmodified":1564319065,
+    "wof:lastmodified":1566647686,
     "wof:name":"Falaba",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

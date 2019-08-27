@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.15765,8.06328,-12.11765,8.10328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moyambaworo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343269353,
-    "wof:lastmodified":1537700514,
+    "wof:lastmodified":1566646438,
     "wof:name":"Moyambaworo",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

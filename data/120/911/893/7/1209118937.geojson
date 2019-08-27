@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.0827,8.28101,-12.0427,8.32101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moyoro"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209118937,
-    "wof:lastmodified":1537700772,
+    "wof:lastmodified":1566646967,
     "wof:name":"Moyoro",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

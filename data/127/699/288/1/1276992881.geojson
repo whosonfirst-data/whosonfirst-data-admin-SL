@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.61707,7.51433,-12.57707,7.55433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sebbe"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276992881,
-    "wof:lastmodified":1564317561,
+    "wof:lastmodified":1566646809,
     "wof:name":"Sebe",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

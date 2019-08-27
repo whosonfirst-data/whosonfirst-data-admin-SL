@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.45608,9.49319,-12.41608,9.53319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Madina"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225848131,
-    "wof:lastmodified":1537700766,
+    "wof:lastmodified":1566647911,
     "wof:name":"Madina",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

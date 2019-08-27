@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.837,8.3654,-11.797,8.4054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rufola"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343270695,
-    "wof:lastmodified":1537700778,
+    "wof:lastmodified":1566646428,
     "wof:name":"Rufola",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

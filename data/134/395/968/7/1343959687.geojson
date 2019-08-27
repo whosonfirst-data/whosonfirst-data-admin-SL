@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.73077,7.77196,-12.69077,7.81196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gambia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343959687,
-    "wof:lastmodified":1537700860,
+    "wof:lastmodified":1566646348,
     "wof:name":"Gambia",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

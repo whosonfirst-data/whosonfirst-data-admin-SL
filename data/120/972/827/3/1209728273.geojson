@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.88682,8.85552,-11.84682,8.89552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Makombom"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209728273,
-    "wof:lastmodified":1537700559,
+    "wof:lastmodified":1566647007,
     "wof:name":"Makombom",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

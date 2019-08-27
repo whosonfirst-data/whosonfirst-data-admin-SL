@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.13874,7.63701,-11.09874,7.67701",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koila"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276562027,
-    "wof:lastmodified":1564317442,
+    "wof:lastmodified":1566646724,
     "wof:name":"Koila",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

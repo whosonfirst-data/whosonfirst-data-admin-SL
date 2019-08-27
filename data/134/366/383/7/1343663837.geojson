@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.77222,7.13472,-11.73222,7.17472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mano Bonjema"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343663837,
-    "wof:lastmodified":1537700547,
+    "wof:lastmodified":1566646352,
     "wof:name":"Mano Bonjema",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

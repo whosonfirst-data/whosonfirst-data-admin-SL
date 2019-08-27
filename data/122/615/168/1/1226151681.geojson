@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.38623,9.49545,-11.34623,9.53545",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalkoia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226151681,
-    "wof:lastmodified":1537700619,
+    "wof:lastmodified":1566647845,
     "wof:name":"Kalkoia",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

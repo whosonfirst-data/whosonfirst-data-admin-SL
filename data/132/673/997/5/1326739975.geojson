@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.40772,8.17823,-10.36772,8.21823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Golahun"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326739975,
-    "wof:lastmodified":1537700636,
+    "wof:lastmodified":1566646082,
     "wof:name":"Golahun",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.90171,7.59211,-12.86171,7.63211",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Konolo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226653311,
-    "wof:lastmodified":1537700724,
+    "wof:lastmodified":1566647874,
     "wof:name":"Konolo",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

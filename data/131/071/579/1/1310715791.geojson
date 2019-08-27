@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.1124,9.02205,-11.0724,9.06205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fantibaia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310715791,
-    "wof:lastmodified":1537700661,
+    "wof:lastmodified":1566647167,
     "wof:name":"Fantibaia",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

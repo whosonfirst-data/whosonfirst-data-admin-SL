@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.85045,8.56306,-12.81045,8.60306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mabaren"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310710771,
-    "wof:lastmodified":1537700893,
+    "wof:lastmodified":1566647159,
     "wof:name":"Mabaren",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

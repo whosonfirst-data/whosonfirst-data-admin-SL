@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.00939,8.47918,-11.96939,8.51918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ngawla"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276993973,
-    "wof:lastmodified":1537700510,
+    "wof:lastmodified":1566646808,
     "wof:name":"Ngawla",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

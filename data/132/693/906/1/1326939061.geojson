@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.60874,9.25329,-12.56874,9.29329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tantini"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326939061,
-    "wof:lastmodified":1537700466,
+    "wof:lastmodified":1566646102,
     "wof:name":"Tantini",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

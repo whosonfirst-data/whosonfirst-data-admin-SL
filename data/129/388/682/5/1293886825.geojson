@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.17929,9.41308,-12.13929,9.45308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u043d\u0434\u0438\u044f"
     ],
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1293886825,
-    "wof:lastmodified":1564317338,
+    "wof:lastmodified":1566646653,
     "wof:name":"Kindia",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

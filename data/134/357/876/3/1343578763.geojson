@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.35095,7.97582,-11.31095,8.01582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Komala"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343578763,
-    "wof:lastmodified":1564316942,
+    "wof:lastmodified":1566646365,
     "wof:name":"Komala",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

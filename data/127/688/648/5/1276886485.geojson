@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.75333,9.89667,-11.71333,9.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0645\u064a"
     ],
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1276886485,
-    "wof:lastmodified":1564317374,
+    "wof:lastmodified":1566646676,
     "wof:name":"Sami",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

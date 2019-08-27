@@ -11,10 +11,14 @@
     "geom:longitude":-13.22994,
     "gn:country":"SL",
     "gn:fcode":"PPLC",
-    "gn:pop":802639,
+    "gn:population":802639,
     "iso:country":"SL",
+    "lbl:bbox":"-13.24994,8.464,-13.20994,8.504",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Freetown"
     ],
@@ -360,7 +364,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0456\u0442\u0430\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint George"
     ],
     "name:urd_x_preferred":[
@@ -428,7 +432,7 @@
     "wof:concordances":{
         "gn:id":2409306,
         "gp:id":1419467,
-        "qs:id":1298271,
+        "qs_pg:id":1298271,
         "wd:id":"Q3780",
         "wk:page":"Freetown"
     },
@@ -445,7 +449,7 @@
         }
     ],
     "wof:id":890452049,
-    "wof:lastmodified":1563259664,
+    "wof:lastmodified":1566647394,
     "wof:name":"Freetown",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",

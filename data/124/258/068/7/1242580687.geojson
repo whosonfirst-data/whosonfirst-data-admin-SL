@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.9958,8.34604,-12.9558,8.38604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kwama"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242580687,
-    "wof:lastmodified":1537700584,
+    "wof:lastmodified":1566647488,
     "wof:name":"Kwama",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.54556,7.45628,-12.50556,7.49628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092f\u094b\u0928\u0940"
     ],
@@ -107,8 +111,7 @@
         "\u0419\u043e\u043d\u0456"
     ],
     "name:und_x_variant":[
-        "Yoki",
-        "Yoni"
+        "Yoki"
     ],
     "name:vie_x_preferred":[
         "Yoni"
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1310316923,
-    "wof:lastmodified":1564318063,
+    "wof:lastmodified":1566647181,
     "wof:name":"Yoni",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

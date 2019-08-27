@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.38032,8.39561,-10.34032,8.43561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Njama"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327044263,
-    "wof:lastmodified":1537700818,
+    "wof:lastmodified":1566646181,
     "wof:name":"Njama",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.43936,8.54506,-11.39936,8.58506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Magbanapoli"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259385707,
-    "wof:lastmodified":1537700569,
+    "wof:lastmodified":1566647605,
     "wof:name":"Magbanapoli",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",
