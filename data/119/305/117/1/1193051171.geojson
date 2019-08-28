@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-13.14402,8.17903,-13.10402,8.21903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mama Beach"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193051171,
-    "wof:lastmodified":1537700554,
+    "wof:lastmodified":1566647058,
     "wof:name":"Mama Beach",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",

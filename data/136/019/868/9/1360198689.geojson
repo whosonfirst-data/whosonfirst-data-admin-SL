@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.13013,8.86666,-11.09013,8.90666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bengomaia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360198689,
-    "wof:lastmodified":1537700687,
+    "wof:lastmodified":1566647329,
     "wof:name":"Bengomaia",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

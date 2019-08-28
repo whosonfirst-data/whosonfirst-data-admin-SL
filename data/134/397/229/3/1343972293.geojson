@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.04853,8.17123,-11.00853,8.21123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Rorbu"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1343972293,
-    "wof:lastmodified":1564316837,
+    "wof:lastmodified":1566646292,
     "wof:name":"Rorbu",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

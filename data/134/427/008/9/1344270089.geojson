@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.29423,9.49567,-12.25423,9.53567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dada\u00efsme"
     ],
@@ -285,7 +289,7 @@
         }
     ],
     "wof:id":1344270089,
-    "wof:lastmodified":1564317010,
+    "wof:lastmodified":1566646412,
     "wof:name":"Dada",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

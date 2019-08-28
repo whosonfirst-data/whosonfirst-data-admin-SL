@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.35221,8.47276,-10.31221,8.51276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Yenga"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209729727,
-    "wof:lastmodified":1564317840,
+    "wof:lastmodified":1566647016,
     "wof:name":"Yenga",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

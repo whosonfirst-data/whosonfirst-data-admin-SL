@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.05995,8.93473,-11.01995,8.97473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Samadu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327241117,
-    "wof:lastmodified":1537700486,
+    "wof:lastmodified":1566646132,
     "wof:name":"Samadu",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

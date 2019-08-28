@@ -11,10 +11,14 @@
     "geom:longitude":-11.66667,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":3550,
+    "gn:population":3550,
     "iso:country":"SL",
+    "lbl:bbox":"-11.68667,8.61333,-11.64667,8.65333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Makali"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2406473,
         "gp:id":1422154,
-        "qs:id":278611
+        "qs_pg:id":278611
     },
     "wof:country":"SL",
     "wof:created":1469052323,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890441425,
-    "wof:lastmodified":1505343582,
+    "wof:lastmodified":1566647393,
     "wof:name":"Makali",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.97585,7.26592,-11.93585,7.30592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baoma"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1260087775,
-    "wof:lastmodified":1564317939,
+    "wof:lastmodified":1566647086,
     "wof:name":"Baoma",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

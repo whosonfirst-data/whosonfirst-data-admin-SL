@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.09189,9.05349,-12.05189,9.09349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Magbandi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293695723,
-    "wof:lastmodified":1537700943,
+    "wof:lastmodified":1566646567,
     "wof:name":"Magbandi",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

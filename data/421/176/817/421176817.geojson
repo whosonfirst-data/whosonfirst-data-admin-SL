@@ -12,6 +12,8 @@
     "iso:country":"SL",
     "lbl:latitude":8.489846,
     "lbl:longitude":-13.232287,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -365,7 +367,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0456\u0442\u0430\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Godrich"
     ],
     "name:urd_x_preferred":[
@@ -547,7 +549,7 @@
     "wof:concordances":{
         "gn:id":2408770,
         "gp:id":1419467,
-        "qs:id":1083581,
+        "qs_pg:id":1083581,
         "wd:id":"Q3780"
     },
     "wof:country":"SL",
@@ -563,7 +565,7 @@
         }
     ],
     "wof:id":421176817,
-    "wof:lastmodified":1563259658,
+    "wof:lastmodified":1566647392,
     "wof:name":"Freetown",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",

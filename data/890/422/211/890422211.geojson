@@ -11,10 +11,14 @@
     "geom:longitude":-11.05,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":3350,
+    "gn:population":3350,
     "iso:country":"SL",
+    "lbl:bbox":"-11.07,7.86333,-11.03,7.90333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0435\u043d\u0435\u043c\u0430"
     ],
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":2408845,
         "gp:id":12517520,
-        "qs:id":1035463,
+        "qs_pg:id":1035463,
         "wd:id":"Q1738741",
         "wk:page":"Kenema District"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890422211,
-    "wof:lastmodified":1563259660,
+    "wof:lastmodified":1566647393,
     "wof:name":"Giehun",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

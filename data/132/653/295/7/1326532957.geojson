@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.90662,9.39255,-10.86662,9.43255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kurumando"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326532957,
-    "wof:lastmodified":1537700585,
+    "wof:lastmodified":1566646223,
     "wof:name":"Kurumando",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

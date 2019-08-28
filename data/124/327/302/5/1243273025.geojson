@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-13.0397,8.57722,-12.9997,8.61722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Fernando P\u00f3"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1243273025,
-    "wof:lastmodified":1564318920,
+    "wof:lastmodified":1566647574,
     "wof:name":"Fernando Po",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

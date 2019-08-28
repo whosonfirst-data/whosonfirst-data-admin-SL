@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.95765,7.97939,-10.91765,8.01939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kawma"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259386799,
-    "wof:lastmodified":1537700769,
+    "wof:lastmodified":1566647604,
     "wof:name":"Kawma",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

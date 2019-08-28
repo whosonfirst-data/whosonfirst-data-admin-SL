@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.71636,8.57665,-12.67636,8.61665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mabil\u00e9",
         "Magbile"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360294437,
-    "wof:lastmodified":1537700568,
+    "wof:lastmodified":1566647316,
     "wof:name":"Magbile",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

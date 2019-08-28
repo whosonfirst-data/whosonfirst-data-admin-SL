@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.66946,8.59705,-10.62946,8.63705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yadema",
         "Nyandeama"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276461445,
-    "wof:lastmodified":1537700506,
+    "wof:lastmodified":1566646785,
     "wof:name":"Nyandeama",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

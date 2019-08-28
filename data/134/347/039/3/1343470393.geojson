@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.06042,8.00638,-12.02042,8.04638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gogbendehun"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343470393,
-    "wof:lastmodified":1537700849,
+    "wof:lastmodified":1566646344,
     "wof:name":"Gogbendehun",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

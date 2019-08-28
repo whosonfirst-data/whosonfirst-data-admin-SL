@@ -11,10 +11,14 @@
     "geom:longitude":-12.03333,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":3435,
+    "gn:population":3435,
     "iso:country":"SL",
+    "lbl:bbox":"-12.05333,9.73,-12.01333,9.77",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Loma"
     ],
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2406963,
         "gp:id":1513776,
-        "qs:id":278612,
+        "qs_pg:id":278612,
         "wk:page":"Loma"
     },
     "wof:country":"SL",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890441427,
-    "wof:lastmodified":1564318571,
+    "wof:lastmodified":1566647394,
     "wof:name":"Loma",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

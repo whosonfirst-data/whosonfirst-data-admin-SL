@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.52415,8.6822,-10.48415,8.7222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Mara"
     ],
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1209328343,
-    "wof:lastmodified":1564317755,
+    "wof:lastmodified":1566646948,
     "wof:name":"Mara",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

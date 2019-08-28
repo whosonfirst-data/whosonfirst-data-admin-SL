@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.15002,9.08738,-12.11002,9.12738",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wehun"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276343951,
-    "wof:lastmodified":1537700452,
+    "wof:lastmodified":1566646715,
     "wof:name":"Wehun",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

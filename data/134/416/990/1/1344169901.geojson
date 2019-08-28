@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.27704,8.94844,-12.23704,8.98844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mangowka"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344169901,
-    "wof:lastmodified":1537700550,
+    "wof:lastmodified":1566646400,
     "wof:name":"Mangowka",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

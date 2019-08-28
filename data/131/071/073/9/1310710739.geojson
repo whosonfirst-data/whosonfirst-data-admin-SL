@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.53082,9.1156,-11.49082,9.1556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kurakoro"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310710739,
-    "wof:lastmodified":1537700585,
+    "wof:lastmodified":1566647165,
     "wof:name":"Kurakoro",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

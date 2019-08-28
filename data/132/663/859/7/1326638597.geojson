@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.6984,8.55124,-12.6584,8.59124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Petifu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326638597,
-    "wof:lastmodified":1537700497,
+    "wof:lastmodified":1566646212,
     "wof:name":"Petifu",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

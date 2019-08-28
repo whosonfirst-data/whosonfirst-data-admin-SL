@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.17922,8.94502,-12.13922,8.98502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Musungbo",
         "Masungbo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276875805,
-    "wof:lastmodified":1537700538,
+    "wof:lastmodified":1566646698,
     "wof:name":"Masungbo",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

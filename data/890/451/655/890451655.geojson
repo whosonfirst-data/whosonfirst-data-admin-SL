@@ -11,10 +11,14 @@
     "geom:longitude":-11.9025,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":13580,
+    "gn:population":13580,
     "iso:country":"SL",
+    "lbl:bbox":"-11.9225,7.87194,-11.8825,7.91194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Bumpe"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":2409823,
         "gp:id":56618631,
-        "qs:id":139982,
+        "qs_pg:id":139982,
         "wd:id":"Q2946676",
         "wk:page":"Bumpe"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890451655,
-    "wof:lastmodified":1563259676,
+    "wof:lastmodified":1566647400,
     "wof:name":"Bumpe",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

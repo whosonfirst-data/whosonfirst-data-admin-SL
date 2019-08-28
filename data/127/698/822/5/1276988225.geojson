@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.4462,7.90181,-11.4062,7.94181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tembe",
         "Jembe"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276988225,
-    "wof:lastmodified":1537700628,
+    "wof:lastmodified":1566646828,
     "wof:name":"Jembe",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

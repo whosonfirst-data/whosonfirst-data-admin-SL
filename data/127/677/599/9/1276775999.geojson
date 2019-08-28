@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.63338,8.99025,-12.59338,9.03025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Laia"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1276775999,
-    "wof:lastmodified":1564317540,
+    "wof:lastmodified":1566646792,
     "wof:name":"Laia",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

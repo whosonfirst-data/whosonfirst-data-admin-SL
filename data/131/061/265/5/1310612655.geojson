@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.59089,8.21414,-11.55089,8.25414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Saama"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310612655,
-    "wof:lastmodified":1537700485,
+    "wof:lastmodified":1566647251,
     "wof:name":"Saama",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

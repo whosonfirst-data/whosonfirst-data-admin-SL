@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.41334,8.66297,-12.37334,8.70297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Makeia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225848277,
-    "wof:lastmodified":1537700933,
+    "wof:lastmodified":1566647908,
     "wof:name":"Makeia",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

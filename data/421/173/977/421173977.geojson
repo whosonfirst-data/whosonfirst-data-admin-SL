@@ -10,8 +10,12 @@
     "geom:latitude":7.52639,
     "geom:longitude":-12.505,
     "iso:country":"SL",
+    "lbl:bbox":"-12.525,7.50639,-12.485,7.54639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bonthe"
@@ -49,7 +53,7 @@
     "name:spa_x_preferred":[
         "Bonthe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bonth"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":2409914,
         "gp:id":1419173,
-        "qs:id":642320,
+        "qs_pg:id":642320,
         "wd:id":"Q892886",
         "wk:page":"Bonthe"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421173977,
-    "wof:lastmodified":1563259652,
+    "wof:lastmodified":1566647391,
     "wof:name":"Bonthe",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

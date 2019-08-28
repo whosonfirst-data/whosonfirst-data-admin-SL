@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.89131,7.86696,-12.85131,7.90696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tempehlong"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310117635,
-    "wof:lastmodified":1537700464,
+    "wof:lastmodified":1566647214,
     "wof:name":"Tempehlong",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

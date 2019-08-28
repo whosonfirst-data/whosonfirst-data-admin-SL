@@ -11,10 +11,14 @@
     "geom:longitude":-11.03333,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":2705,
+    "gn:population":2705,
     "iso:country":"SL",
+    "lbl:bbox":"-11.05333,8.68,-11.01333,8.72",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u043e"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":2404472,
         "gp:id":1424724,
-        "qs:id":1035447,
+        "qs_pg:id":1035447,
         "wd:id":"Q1781849",
         "wk:page":"Kono District"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890435433,
-    "wof:lastmodified":1563259678,
+    "wof:lastmodified":1566647401,
     "wof:name":"Peyima",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

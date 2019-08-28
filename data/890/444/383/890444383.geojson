@@ -11,10 +11,14 @@
     "geom:longitude":-10.56667,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":14085,
+    "gn:population":14085,
     "iso:country":"SL",
+    "lbl:bbox":"-10.58667,8.26333,-10.54667,8.30333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0439\u043b\u0430\u0445\u0443\u043d"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":2408250,
         "gp:id":56125596,
-        "qs:id":1035456,
+        "qs_pg:id":1035456,
         "wd:id":"Q1721432",
         "wk:page":"Kailahun"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890444383,
-    "wof:lastmodified":1563259674,
+    "wof:lastmodified":1566647399,
     "wof:name":"Kailahun",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

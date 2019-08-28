@@ -10,8 +10,12 @@
     "geom:latitude":8.68333,
     "geom:longitude":-12.53333,
     "iso:country":"SL",
+    "lbl:bbox":"-12.55333,8.66333,-12.51333,8.70333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041b\u0443\u043d\u0441\u0430\u0440"
@@ -49,7 +53,7 @@
     "name:rus_x_variant":[
         "\u041b\u0443\u043d\u0441\u0430\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lansar"
     ],
     "qs:gn_country":"SL",
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2406916,
         "gp:id":1421065,
-        "qs:id":188971,
+        "qs_pg:id":188971,
         "wd:id":"Q995392",
         "wk:page":"Lunsar"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421199059,
-    "wof:lastmodified":1563259655,
+    "wof:lastmodified":1566647392,
     "wof:name":"Lunsar",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

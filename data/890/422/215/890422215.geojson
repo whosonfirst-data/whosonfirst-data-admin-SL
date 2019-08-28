@@ -11,10 +11,14 @@
     "geom:longitude":-11.83333,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":10678,
+    "gn:population":10678,
     "iso:country":"SL",
+    "lbl:bbox":"-11.85333,7.48,-11.81333,7.52",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Gandorhun"
     ],
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":2409215,
         "gp:id":1419835,
-        "qs:id":1035465,
+        "qs_pg:id":1035465,
         "wd:id":"Q3012892",
         "wk:page":"Gandorhun"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890422215,
-    "wof:lastmodified":1563259660,
+    "wof:lastmodified":1566647393,
     "wof:name":"Gandorhun",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

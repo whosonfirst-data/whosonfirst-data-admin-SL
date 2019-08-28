@@ -10,8 +10,12 @@
     "geom:latitude":8.46667,
     "geom:longitude":-13.23333,
     "iso:country":"SL",
+    "lbl:bbox":"-13.25333,8.44667,-13.21333,8.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Nieu-Engeland"
@@ -289,7 +293,7 @@
     "wof:concordances":{
         "gn:id":2404885,
         "gp:id":1422933,
-        "qs:id":222672
+        "qs_pg:id":222672
     },
     "wof:country":"SL",
     "wof:created":1459010118,
@@ -304,7 +308,7 @@
         }
     ],
     "wof:id":421202451,
-    "wof:lastmodified":1564318567,
+    "wof:lastmodified":1566647390,
     "wof:name":"New England",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",

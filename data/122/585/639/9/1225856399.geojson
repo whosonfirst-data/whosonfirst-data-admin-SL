@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.8988,8.22706,-12.8588,8.26706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mofengari",
         "Mofengeri"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225856399,
-    "wof:lastmodified":1537700526,
+    "wof:lastmodified":1566647904,
     "wof:name":"Mofengeri",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

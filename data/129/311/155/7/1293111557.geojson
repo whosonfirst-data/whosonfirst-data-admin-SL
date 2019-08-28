@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.33631,9.21419,-12.29631,9.25419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Magbafat",
         "Mabafet"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293111557,
-    "wof:lastmodified":1537700578,
+    "wof:lastmodified":1566646614,
     "wof:name":"Mabafet",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

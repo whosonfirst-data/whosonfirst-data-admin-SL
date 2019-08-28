@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.76918,9.07188,-12.72918,9.11188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bamoi",
         "Barmoi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343770709,
-    "wof:lastmodified":1537700692,
+    "wof:lastmodified":1566646327,
     "wof:name":"Barmoi",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

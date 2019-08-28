@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.85124,8.04667,-11.81124,8.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mokebi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327136245,
-    "wof:lastmodified":1537700854,
+    "wof:lastmodified":1566646112,
     "wof:name":"Mokebi",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

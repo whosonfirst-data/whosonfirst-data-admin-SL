@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-13.06628,8.21995,-13.02628,8.25995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kabu"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1260182649,
-    "wof:lastmodified":1564317957,
+    "wof:lastmodified":1566647099,
     "wof:name":"Kabu",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.0919,8.99168,-12.0519,9.03168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ngingilu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209923197,
-    "wof:lastmodified":1537700941,
+    "wof:lastmodified":1566646941,
     "wof:name":"Ngingilu",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.47538,7.68058,-11.43538,7.72058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Njagbakahun"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243075129,
-    "wof:lastmodified":1537700795,
+    "wof:lastmodified":1566647414,
     "wof:name":"Njagbakahun",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

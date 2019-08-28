@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.03486,7.73453,-10.99486,7.77453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pekebobu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343862353,
-    "wof:lastmodified":1537700501,
+    "wof:lastmodified":1566646444,
     "wof:name":"Pekebobu",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

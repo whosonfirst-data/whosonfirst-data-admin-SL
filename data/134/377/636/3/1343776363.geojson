@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.89856,7.88864,-10.85856,7.92864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fangoya"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343776363,
-    "wof:lastmodified":1537700665,
+    "wof:lastmodified":1566646333,
     "wof:name":"Fangoya",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

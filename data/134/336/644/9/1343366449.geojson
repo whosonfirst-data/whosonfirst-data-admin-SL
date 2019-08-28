@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.59119,7.57601,-11.55119,7.61601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Koiva"
     ],
@@ -41,8 +45,7 @@
         "\u041a\u043e\u0439\u0432\u0430"
     ],
     "name:und_x_variant":[
-        "Quiva",
-        "Koiva"
+        "Quiva"
     ],
     "name:vol_x_preferred":[
         "Koiva"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1343366449,
-    "wof:lastmodified":1564316801,
+    "wof:lastmodified":1566646263,
     "wof:name":"Koiva",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

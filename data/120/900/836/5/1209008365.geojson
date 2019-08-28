@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.81755,8.16045,-10.77755,8.20045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Talia"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1209008365,
-    "wof:lastmodified":1564317604,
+    "wof:lastmodified":1566646842,
     "wof:name":"Talia",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

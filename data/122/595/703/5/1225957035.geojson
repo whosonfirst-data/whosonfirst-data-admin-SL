@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.05058,8.65883,-12.01058,8.69883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Makapr"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225957035,
-    "wof:lastmodified":1537700562,
+    "wof:lastmodified":1566647740,
     "wof:name":"Makapr",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

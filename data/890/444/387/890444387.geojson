@@ -11,10 +11,14 @@
     "geom:longitude":-11.4,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":3138,
+    "gn:population":3138,
     "iso:country":"SL",
+    "lbl:bbox":"-11.42,9.14667,-11.38,9.18667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u0438\u043a\u0430\u043b\u0438\u0430"
     ],
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":2410708,
         "gp:id":1418862,
-        "qs:id":1035476,
+        "qs_pg:id":1035476,
         "wd:id":"Q4726610",
         "wk:page":"Alikalia"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890444387,
-    "wof:lastmodified":1563259674,
+    "wof:lastmodified":1566647399,
     "wof:name":"Alikalia",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

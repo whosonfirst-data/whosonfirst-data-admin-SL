@@ -10,8 +10,12 @@
     "geom:latitude":8.18333,
     "geom:longitude":-11.33333,
     "iso:country":"SL",
+    "lbl:bbox":"-11.35333,8.16333,-11.31333,8.20333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Boajibu"
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":2410040,
         "gp:id":56123196,
-        "qs:id":139993,
+        "qs_pg:id":139993,
         "wd:id":"Q4931229",
         "wk:page":"Boajibu"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421167685,
-    "wof:lastmodified":1563259650,
+    "wof:lastmodified":1566647390,
     "wof:name":"Boajibu",
     "wof:parent_id":890453879,
     "wof:placetype":"locality",

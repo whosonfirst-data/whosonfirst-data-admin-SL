@@ -11,7 +11,7 @@
     "geom:longitude":-11.885933,
     "gn:country":"SL",
     "gn:fcode":"ADM2",
-    "gn:pop":350353,
+    "gn:population":350353,
     "iso:country":"SL",
     "label:eng_x_preferred_longname":[
         "Tonkolili District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":8.751683,
     "lbl:longitude":-11.672564,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Northern",
     "meso:dissme":"NorthernTonkolili",
     "meso:gadm_adm2":"Tonkolili",
@@ -34,6 +36,7 @@
     "mps:longitude":-11.672564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u043d\u043a\u043e\u043b\u0438\u043b\u0438"
     ],
@@ -79,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043d\u043a\u043e\u043b\u0456\u043b\u0456"
     ],
-    "name:unk_x_variant":[
-        "Tonkolili District"
-    ],
     "name:zho_x_preferred":[
         "\u901a\u79d1\u5229\u5229\u533a"
     ],
@@ -93,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-12-01",
+    "src:population_date":"2004-12-01",
     "statoids:area_km":"7,003.0",
     "statoids:as_of_date":"2004-12-01",
     "statoids:capital":"Magburaka",
@@ -116,7 +116,7 @@
     "wof:concordances":{
         "gn:id":2403287,
         "hasc:id":"SL.NO.TO",
-        "qs:id":91362,
+        "qs_pg:id":91362,
         "wd:id":"Q1852020",
         "wk:page":"Tonkolili District"
     },
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":890421467,
-    "wof:lastmodified":1563259669,
+    "wof:lastmodified":1566647397,
     "wof:name":"Tonkolili",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

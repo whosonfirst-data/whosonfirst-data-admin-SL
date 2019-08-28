@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.05705,9.31052,-12.01705,9.35052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Masse"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1343871175,
-    "wof:lastmodified":1564317035,
+    "wof:lastmodified":1566646431,
     "wof:name":"Masei",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

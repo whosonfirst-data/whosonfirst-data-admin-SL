@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.85565,7.39326,-11.81565,7.43326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bamba"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1243466171,
-    "wof:lastmodified":1564318816,
+    "wof:lastmodified":1566647498,
     "wof:name":"Bamba",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

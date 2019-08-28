@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":8.616007,
     "lbl:longitude":-11.756202,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":8.616007,
     "mps:longitude":-11.756202,
     "mz:hierarchy_label":1,
@@ -762,9 +764,6 @@
     "name:und_x_variant":[
         "Republika Sierra Leone"
     ],
-    "name:unk_x_variant":[
-        "Serra Leoa"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646"
     ],
@@ -924,7 +923,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"232",
     "statoids:ds":"WAL",
@@ -968,7 +967,7 @@
         "mzb:id":"sierra-leone",
         "ne:adm0_a3":"SLE",
         "nyt:id":"75226122957717739381",
-        "qs:id":91363,
+        "qs_pg:id":91363,
         "uncrt:id":"WAL",
         "wd:id":"Q1044",
         "wk:page":"Sierra Leone",
@@ -990,7 +989,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736594,
+    "wof:lastmodified":1566646453,
     "wof:name":"Sierra Leone",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

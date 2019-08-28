@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.44121,8.29233,-10.40121,8.33233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Petema"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344171343,
-    "wof:lastmodified":1537700498,
+    "wof:lastmodified":1566646394,
     "wof:name":"Petema",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

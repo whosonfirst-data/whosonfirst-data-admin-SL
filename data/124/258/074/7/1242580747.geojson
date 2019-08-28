@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.21408,8.36369,-12.17408,8.40369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Malempa",
         "Malempeh"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242580747,
-    "wof:lastmodified":1537700555,
+    "wof:lastmodified":1566647487,
     "wof:name":"Malempeh",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

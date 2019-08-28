@@ -10,8 +10,12 @@
     "geom:latitude":8.71667,
     "geom:longitude":-11.95,
     "iso:country":"SL",
+    "lbl:bbox":"-11.97,8.69667,-11.93,8.73667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u0430\u0433\u0431\u0443\u0440\u0430\u043a\u0430"
@@ -52,7 +56,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0433\u0431\u0443\u0440\u0430\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Magburuka"
     ],
     "name:zho_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":2406576,
         "gp:id":1421395,
-        "qs:id":188970,
+        "qs_pg:id":188970,
         "wd:id":"Q1883766",
         "wk:page":"Magburaka"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421199057,
-    "wof:lastmodified":1563259655,
+    "wof:lastmodified":1566647392,
     "wof:name":"Magburaka",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

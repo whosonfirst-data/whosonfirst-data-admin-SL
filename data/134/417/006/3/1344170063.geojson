@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-13.0432,9.0339,-13.0032,9.0739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mawdia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344170063,
-    "wof:lastmodified":1537700800,
+    "wof:lastmodified":1566646396,
     "wof:name":"Mawdia",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

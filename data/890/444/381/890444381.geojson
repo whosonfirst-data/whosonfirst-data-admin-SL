@@ -11,11 +11,15 @@
     "geom:longitude":-13.12444,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":5161,
+    "gn:population":5161,
     "iso:country":"SL",
+    "lbl:bbox":"-13.14444,8.91722,-13.10444,8.95722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Karsarai"
     ],
     "qs:name":"Kassiri",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2407899,
         "gp:id":1421782,
-        "qs:id":1035453
+        "qs_pg:id":1035453
     },
     "wof:country":"SL",
     "wof:created":1469052466,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890444381,
-    "wof:lastmodified":1505343599,
+    "wof:lastmodified":1566647400,
     "wof:name":"Kassiri",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

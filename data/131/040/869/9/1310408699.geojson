@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.36068,8.37376,-12.32068,8.41376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mayimbo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310408699,
-    "wof:lastmodified":1537700531,
+    "wof:lastmodified":1566647169,
     "wof:name":"Mayimbo",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

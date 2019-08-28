@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.83367,7.75736,-10.79367,7.79736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bumpe"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1210020509,
-    "wof:lastmodified":1564317860,
+    "wof:lastmodified":1566647029,
     "wof:name":"Bumpe",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

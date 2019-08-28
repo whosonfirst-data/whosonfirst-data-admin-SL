@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-13.21026,8.9019,-13.17026,8.9419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kipimp"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209917375,
-    "wof:lastmodified":1537700605,
+    "wof:lastmodified":1566646844,
     "wof:name":"Kipimp",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

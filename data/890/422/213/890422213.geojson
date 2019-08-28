@@ -11,10 +11,14 @@
     "geom:longitude":-11.16667,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":3034,
+    "gn:population":3034,
     "iso:country":"SL",
+    "lbl:bbox":"-11.18667,9.86333,-11.14667,9.90333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Gberia Fotombu"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2409019,
         "gp:id":1419598,
-        "qs:id":1035464
+        "qs_pg:id":1035464
     },
     "wof:country":"SL",
     "wof:created":1469051433,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890422213,
-    "wof:lastmodified":1505343468,
+    "wof:lastmodified":1566647393,
     "wof:name":"Gberia Fotombu",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

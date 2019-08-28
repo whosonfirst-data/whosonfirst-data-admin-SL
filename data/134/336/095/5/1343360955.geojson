@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.70333,8.41333,-11.66333,8.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pujehun"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1343360955,
-    "wof:lastmodified":1564316810,
+    "wof:lastmodified":1566646271,
     "wof:name":"Pujehun",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

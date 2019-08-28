@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.87749,8.0219,-11.83749,8.0619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Komende"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209517225,
-    "wof:lastmodified":1537700854,
+    "wof:lastmodified":1566646959,
     "wof:name":"Komende",
     "wof:parent_id":85632467,
     "wof:placetype":"locality",

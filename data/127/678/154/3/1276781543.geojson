@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.38795,8.45572,-10.34795,8.49572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boyadu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276781543,
-    "wof:lastmodified":1537700817,
+    "wof:lastmodified":1566646760,
     "wof:name":"Boyadu",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

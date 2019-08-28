@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.67895,7.90714,-10.63895,7.94714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gauwuyema"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293700695,
-    "wof:lastmodified":1537700837,
+    "wof:lastmodified":1566646517,
     "wof:name":"Gauwuyema",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

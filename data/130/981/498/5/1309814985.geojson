@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-11.92102,7.71979,-11.88102,7.75979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hima"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1309814985,
-    "wof:lastmodified":1564318509,
+    "wof:lastmodified":1566647371,
     "wof:name":"Hima",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-12.61,7.44417,-12.57,7.48417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343269589,
-    "wof:lastmodified":1537020758,
+    "wof:lastmodified":1566646438,
     "wof:name":"Mogbovu",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.73333,
     "geom:longitude":-12.0,
     "iso:country":"SL",
+    "lbl:bbox":"-12.02,8.71333,-11.98,8.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u064a\u0646\u064a"
@@ -142,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0435\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makem"
     ],
     "name:urd_x_preferred":[
@@ -186,7 +190,7 @@
     "wof:concordances":{
         "gn:id":2406408,
         "gp:id":1421551,
-        "qs:id":1168062,
+        "qs_pg:id":1168062,
         "wd:id":"Q42678"
     },
     "wof:country":"SL",
@@ -202,7 +206,7 @@
         }
     ],
     "wof:id":421192385,
-    "wof:lastmodified":1563259648,
+    "wof:lastmodified":1566647390,
     "wof:name":"Makeni",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

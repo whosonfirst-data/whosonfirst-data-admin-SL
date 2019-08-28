@@ -11,10 +11,14 @@
     "geom:longitude":-11.01667,
     "gn:country":"SL",
     "gn:fcode":"PPL",
-    "gn:pop":2514,
+    "gn:population":2514,
     "iso:country":"SL",
+    "lbl:bbox":"-11.03667,8.58,-10.99667,8.62",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u043e"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":2403828,
         "gp:id":1424724,
-        "qs:id":1035443,
+        "qs_pg:id":1035443,
         "wd:id":"Q1781849",
         "wk:page":"Kono District"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890444379,
-    "wof:lastmodified":1563259673,
+    "wof:lastmodified":1566647399,
     "wof:name":"Simbakoro",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

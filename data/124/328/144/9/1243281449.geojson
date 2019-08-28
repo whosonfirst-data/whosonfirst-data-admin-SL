@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Freetown",
     "iso:country":"SL",
+    "lbl:bbox":"-10.88534,8.24047,-10.84534,8.28047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pepeyama"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243281449,
-    "wof:lastmodified":1537700796,
+    "wof:lastmodified":1566647584,
     "wof:name":"Pepeyama",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

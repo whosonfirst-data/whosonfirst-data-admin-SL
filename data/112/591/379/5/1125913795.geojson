@@ -9,17 +9,20 @@
     "geom:bbox":"-12.66667,9.4,-12.66667,9.4",
     "geom:latitude":9.4,
     "geom:longitude":-12.66667,
-    "gn:gn_country":"SL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7676,
+    "gn:country":"SL",
+    "gn:fcode":"PPL",
     "gn:population":7676,
     "iso:country":"SL",
+    "lbl:bbox":"-12.68667,9.38,-12.64667,9.42",
     "lbl:latitude":9.4,
     "lbl:longitude":-12.66667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kakuna"
     ],
     "qs_pg:aaroncc":"SL",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":1035452,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125913795,
-    "wof:lastmodified":1509400370,
+    "wof:lastmodified":1566647403,
     "wof:name":"Kukuna",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",
