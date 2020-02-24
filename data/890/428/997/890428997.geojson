@@ -119,6 +119,9 @@
     },
     "wof:country":"SL",
     "wof:created":1469051786,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4113d493cb443856973fee124cc6d964",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890428997,
-    "wof:lastmodified":1566647398,
+    "wof:lastmodified":1582381164,
     "wof:name":"Bo",
     "wof:parent_id":85677119,
     "wof:placetype":"county",

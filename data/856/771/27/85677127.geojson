@@ -292,6 +292,9 @@
         "wd:id":"Q912359"
     },
     "wof:country":"SL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6344b13d68ea9a23f0a1ef097925bb0d",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566646455,
+    "wof:lastmodified":1582381146,
     "wof:name":"Northern",
     "wof:parent_id":85632467,
     "wof:placetype":"region",

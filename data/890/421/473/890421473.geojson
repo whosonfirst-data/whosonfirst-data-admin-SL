@@ -119,6 +119,9 @@
     },
     "wof:country":"SL",
     "wof:created":1469051394,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c131280dfbf215f2f462b944c7a476b2",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890421473,
-    "wof:lastmodified":1566647396,
+    "wof:lastmodified":1582381163,
     "wof:name":"Koinadugu",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

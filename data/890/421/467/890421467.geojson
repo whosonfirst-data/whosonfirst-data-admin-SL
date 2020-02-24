@@ -122,6 +122,9 @@
     },
     "wof:country":"SL",
     "wof:created":1469051394,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae0e219d715045223c9a65cb632b7344",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890421467,
-    "wof:lastmodified":1566647397,
+    "wof:lastmodified":1582381163,
     "wof:name":"Tonkolili",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

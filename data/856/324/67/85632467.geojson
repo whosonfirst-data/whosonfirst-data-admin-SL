@@ -975,6 +975,11 @@
     },
     "wof:country":"SL",
     "wof:country_alpha3":"SLE",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"e8888e7d27102316d884c482bb1c505a",
     "wof:hierarchy":[
         {
@@ -989,7 +994,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566646453,
+    "wof:lastmodified":1582381143,
     "wof:name":"Sierra Leone",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

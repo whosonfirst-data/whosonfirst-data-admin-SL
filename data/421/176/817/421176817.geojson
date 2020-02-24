@@ -554,6 +554,9 @@
     },
     "wof:country":"SL",
     "wof:created":1459009120,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57d8fa65f49e08d77449079503bcb620",
     "wof:hierarchy":[
         {
@@ -565,7 +568,7 @@
         }
     ],
     "wof:id":421176817,
-    "wof:lastmodified":1566647392,
+    "wof:lastmodified":1582381162,
     "wof:name":"Freetown",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",

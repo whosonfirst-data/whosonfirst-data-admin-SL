@@ -122,6 +122,9 @@
     },
     "wof:country":"SL",
     "wof:created":1469052876,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d130b898e8942d14b254089cde39dfc4",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890453879,
-    "wof:lastmodified":1566647395,
+    "wof:lastmodified":1582381162,
     "wof:name":"Kenema",
     "wof:parent_id":85677133,
     "wof:placetype":"county",

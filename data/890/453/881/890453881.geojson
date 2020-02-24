@@ -125,6 +125,9 @@
     },
     "wof:country":"SL",
     "wof:created":1469052876,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f7510bcd5cdae56ac27b992e3b27000f",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":890453881,
-    "wof:lastmodified":1566647395,
+    "wof:lastmodified":1582381162,
     "wof:name":"Kambia",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

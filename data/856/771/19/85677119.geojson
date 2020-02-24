@@ -282,6 +282,9 @@
         "wk:page":"Southern Province, Sierra Leone"
     },
     "wof:country":"SL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3ce6b8d972e391eb789d686342088766",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566646456,
+    "wof:lastmodified":1582381146,
     "wof:name":"Southern",
     "wof:parent_id":85632467,
     "wof:placetype":"region",

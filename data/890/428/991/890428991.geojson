@@ -116,6 +116,9 @@
     },
     "wof:country":"SL",
     "wof:created":1469051786,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3c30db5d3e79cf6e4b74f248f07142c2",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890428991,
-    "wof:lastmodified":1566647398,
+    "wof:lastmodified":1582381164,
     "wof:name":"Bonthe",
     "wof:parent_id":85677119,
     "wof:placetype":"county",
