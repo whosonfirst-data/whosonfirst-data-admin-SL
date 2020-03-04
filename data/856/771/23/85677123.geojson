@@ -252,6 +252,9 @@
         "wk:page":"Western Area"
     },
     "wof:country":"SL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ee6f60bf6401ed01de0a0eeabb7e90eb",
     "wof:hierarchy":[
         {
@@ -267,7 +270,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566646456,
+    "wof:lastmodified":1582381147,
     "wof:name":"Western",
     "wof:parent_id":85632467,
     "wof:placetype":"region",

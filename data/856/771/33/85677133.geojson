@@ -289,6 +289,9 @@
         "wd:id":"Q1050497"
     },
     "wof:country":"SL",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3cc58d7f335d6afe47d65f04d20ec196",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566646454,
+    "wof:lastmodified":1582381145,
     "wof:name":"Eastern",
     "wof:parent_id":85632467,
     "wof:placetype":"region",

@@ -122,6 +122,9 @@
     },
     "wof:country":"SL",
     "wof:created":1469051394,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a4426a0348f90bb429d2467a80a252ed",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890421475,
-    "wof:lastmodified":1566647396,
+    "wof:lastmodified":1582381162,
     "wof:name":"Kailahun",
     "wof:parent_id":85677133,
     "wof:placetype":"county",

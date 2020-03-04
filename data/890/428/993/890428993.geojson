@@ -119,6 +119,9 @@
     },
     "wof:country":"SL",
     "wof:created":1469051786,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"23cfbe7ec17a3bc1d30bbeae824426a0",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890428993,
-    "wof:lastmodified":1566647398,
+    "wof:lastmodified":1582381164,
     "wof:name":"Bombali",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

@@ -125,6 +125,9 @@
     },
     "wof:country":"SL",
     "wof:created":1469051394,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8230c828c21187595349b0eb40bc114d",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":890421469,
-    "wof:lastmodified":1566647397,
+    "wof:lastmodified":1582381163,
     "wof:name":"Kono",
     "wof:parent_id":85677133,
     "wof:placetype":"county",
