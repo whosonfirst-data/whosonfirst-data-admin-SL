@@ -952,9 +952,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Sierra_Leone",
-        "digitalenvoy:country_code":[
-            694
-        ],
+        "digitalenvoy:country_code":694,
         "fb:id":"en.sierra_leone",
         "fifa:id":"SLE",
         "fips:code":"SL",
@@ -997,7 +995,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529222,
+    "wof:lastmodified":1583797431,
     "wof:name":"Sierra Leone",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
