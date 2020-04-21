@@ -111,7 +111,7 @@
         "\u0bb5\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb2\u0bc2"
     ],
     "name:tam_x_variant":[
-        "\u0bb5\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb2\u0bc2 "
+        "\u0bb5\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0bb2\u0bc2"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3e\u0c1f\u0c30\u0c4d\u0c32\u0c42"
@@ -158,8 +158,8 @@
     "wof:belongsto":[
         102191573,
         85632467,
-        85677123,
-        1108779071
+        1108779071,
+        85677123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -182,7 +182,7 @@
         }
     ],
     "wof:id":421193955,
-    "wof:lastmodified":1566647390,
+    "wof:lastmodified":1587163137,
     "wof:name":"Waterloo",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",
