@@ -551,6 +551,7 @@
     "wof:concordances":{
         "gn:id":2408770,
         "gp:id":1419467,
+        "ne:id":1159150625,
         "qs_pg:id":1083581,
         "wd:id":"Q3780"
     },
@@ -570,7 +571,8 @@
         }
     ],
     "wof:id":421176817,
-    "wof:lastmodified":1607390884,
+    "wof:lastmodified":1608688176,
+    "wof:megacity":1,
     "wof:name":"Freetown",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",
