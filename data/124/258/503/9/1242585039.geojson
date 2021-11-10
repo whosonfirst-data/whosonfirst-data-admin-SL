@@ -171,6 +171,9 @@
         "Maniya"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Mania"
+    ],
+    "name:vie_x_variant":[
         "H\u01b0ng c\u1ea3m"
     ],
     "src:geom":"geonames",
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":1242585039,
-    "wof:lastmodified":1566647481,
+    "wof:lastmodified":1636505030,
     "wof:name":"Mania",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",

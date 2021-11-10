@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Tete"
     ],
+    "name:hun_x_preferred":[
+        "Tete"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1277087419,
-    "wof:lastmodified":1566646658,
+    "wof:lastmodified":1636505008,
     "wof:name":"Tete",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

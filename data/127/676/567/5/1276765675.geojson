@@ -47,6 +47,12 @@
     "name:fra_x_preferred":[
         "Bumba"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05de\u05d1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bumba"
+    ],
     "name:ind_x_preferred":[
         "Bumba"
     ],
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1276765675,
-    "wof:lastmodified":1566646755,
+    "wof:lastmodified":1636505010,
     "wof:name":"Bumba",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Makeni"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06a9\u0646\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Makeni"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1309918767,
-    "wof:lastmodified":1566647345,
+    "wof:lastmodified":1636505025,
     "wof:name":"Makeni",
     "wof:parent_id":890421467,
     "wof:placetype":"locality",

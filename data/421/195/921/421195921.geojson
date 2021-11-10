@@ -50,6 +50,9 @@
     "name:epo_x_preferred":[
         "Bo"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Bo"
     ],
@@ -66,6 +69,9 @@
         "\u092c\u094b"
     ],
     "name:hrv_x_preferred":[
+        "Bo"
+    ],
+    "name:hun_x_preferred":[
         "Bo"
     ],
     "name:ind_x_preferred":[
@@ -294,7 +300,7 @@
         }
     ],
     "wof:id":421195921,
-    "wof:lastmodified":1566647390,
+    "wof:lastmodified":1636505027,
     "wof:name":"Bo",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

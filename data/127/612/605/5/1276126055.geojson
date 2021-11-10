@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Wa"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276126055,
-    "wof:lastmodified":1566646779,
+    "wof:lastmodified":1636505011,
     "wof:name":"Wa",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

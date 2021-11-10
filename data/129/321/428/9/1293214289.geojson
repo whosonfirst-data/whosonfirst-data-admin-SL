@@ -156,6 +156,9 @@
         "\u0633\u0646\u06af\u06be"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Sangha"
+    ],
+    "name:vie_x_variant":[
         "T\u0103ng \u0111o\u00e0n"
     ],
     "src:geom":"geonames",
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":1293214289,
-    "wof:lastmodified":1566646647,
+    "wof:lastmodified":1636505008,
     "wof:name":"Sangha",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

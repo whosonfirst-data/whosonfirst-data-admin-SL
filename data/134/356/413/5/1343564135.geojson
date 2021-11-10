@@ -74,6 +74,9 @@
     "name:swe_x_preferred":[
         "Bali"
     ],
+    "name:tur_x_preferred":[
+        "Bali"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0644\u06cc"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1343564135,
-    "wof:lastmodified":1566646371,
+    "wof:lastmodified":1636505002,
     "wof:name":"Bali",
     "wof:parent_id":890453881,
     "wof:placetype":"locality",

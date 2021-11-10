@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0643\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u0995\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043a\u0430"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:deu_x_preferred":[
         "Kaka"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03ba\u03ac"
     ],
     "name:eng_x_preferred":[
         "Kaka"
@@ -62,14 +68,26 @@
     "name:fra_x_preferred":[
         "Kaka"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0915\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Kaka"
     ],
     "name:hun_x_preferred":[
         "Kaka"
     ],
+    "name:ind_x_preferred":[
+        "Kaka"
+    ],
     "name:ita_x_preferred":[
         "Kak\u00e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ab"
     ],
     "name:kor_x_preferred":[
         "\uce74\uce74"
@@ -139,7 +157,7 @@
         }
     ],
     "wof:id":1309720863,
-    "wof:lastmodified":1566647387,
+    "wof:lastmodified":1636505026,
     "wof:name":"Kaka",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",

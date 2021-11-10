@@ -37,6 +37,9 @@
     "name:deu_x_preferred":[
         "Koidu"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06cc\u062f\u0648"
+    ],
     "name:fin_x_preferred":[
         "Koidu"
     ],
@@ -44,6 +47,9 @@
         "Koidu"
     ],
     "name:hrv_x_preferred":[
+        "Koidu"
+    ],
+    "name:hun_x_preferred":[
         "Koidu"
     ],
     "name:ita_x_preferred":[
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1125913771,
-    "wof:lastmodified":1566647403,
+    "wof:lastmodified":1636505028,
     "wof:name":"Koidu",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

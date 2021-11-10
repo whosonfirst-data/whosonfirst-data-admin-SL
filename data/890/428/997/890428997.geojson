@@ -55,10 +55,16 @@
     "name:eng_x_variant":[
         "Bo District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Bon piirikunta"
     ],
     "name:fra_x_preferred":[
+        "Bo"
+    ],
+    "name:hun_x_preferred":[
         "Bo"
     ],
     "name:ind_x_preferred":[
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":890428997,
-    "wof:lastmodified":1627522781,
+    "wof:lastmodified":1636505027,
     "wof:name":"Bo",
     "wof:parent_id":85677119,
     "wof:placetype":"county",

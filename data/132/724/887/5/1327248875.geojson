@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Mongo"
     ],
+    "name:hun_x_preferred":[
+        "Mongo"
+    ],
     "name:ita_x_preferred":[
         "Mongo"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1327248875,
-    "wof:lastmodified":1566646129,
+    "wof:lastmodified":1636504998,
     "wof:name":"Mongo",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

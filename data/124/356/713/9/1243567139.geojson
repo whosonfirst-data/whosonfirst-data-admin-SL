@@ -44,6 +44,9 @@
     "name:epo_x_preferred":[
         "Kumba"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kumba"
     ],
@@ -51,6 +54,9 @@
         "Kumba"
     ],
     "name:hrv_x_preferred":[
+        "Kumba"
+    ],
+    "name:hun_x_preferred":[
         "Kumba"
     ],
     "name:ita_x_preferred":[
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1243567139,
-    "wof:lastmodified":1566647516,
+    "wof:lastmodified":1636505031,
     "wof:name":"Kumba",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

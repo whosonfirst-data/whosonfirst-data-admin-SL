@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Hastings"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e1\u05d8\u05d9\u05e0\u05d2\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Hastings"
+    ],
     "name:jpn_x_preferred":[
         "\u30d8\u30a4\u30b9\u30c6\u30a3\u30f3\u30b0\u30ba"
     ],
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1125913875,
-    "wof:lastmodified":1566647404,
+    "wof:lastmodified":1636505028,
     "wof:name":"Hastings",
     "wof:parent_id":1108779071,
     "wof:placetype":"locality",
