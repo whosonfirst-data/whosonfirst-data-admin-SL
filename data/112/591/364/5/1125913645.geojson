@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Yengema"
+    ],
     "name:deu_x_preferred":[
         "Yengema"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125913645,
-    "wof:lastmodified":1566647402,
+    "wof:lastmodified":1690865787,
     "wof:name":"Yengema",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",

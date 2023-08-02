@@ -43,6 +43,9 @@
     "name:ron_x_preferred":[
         "Baiima"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0438\u043c\u0430"
+    ],
     "name:spa_x_preferred":[
         "Baiima"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125913983,
-    "wof:lastmodified":1566647402,
+    "wof:lastmodified":1690865787,
     "wof:name":"Baiima",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

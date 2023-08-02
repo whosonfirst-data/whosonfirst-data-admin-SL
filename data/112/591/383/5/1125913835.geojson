@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kamakwie"
+    ],
     "name:ceb_x_preferred":[
         "Kamakwie"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125913835,
-    "wof:lastmodified":1566647403,
+    "wof:lastmodified":1690865787,
     "wof:name":"Kamakwie",
     "wof:parent_id":890428993,
     "wof:placetype":"locality",

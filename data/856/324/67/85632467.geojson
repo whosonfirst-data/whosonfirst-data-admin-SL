@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u0421\u0438\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435"
+    ],
     "name:ace_x_preferred":[
         "Sierra Leone"
     ],
@@ -46,8 +49,14 @@
     "name:amh_x_variant":[
         "\u1234\u122b\u120a\u12ee\u1295"
     ],
+    "name:ami_x_preferred":[
+        "Sierra leone"
+    ],
     "name:ang_x_preferred":[
         "Sierra Leone"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u093f\u090f\u0930\u093e \u0932\u094b\u0928"
     ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0627\u0644\u064a\u0648\u0646"
@@ -66,6 +75,9 @@
     ],
     "name:ast_x_variant":[
         "Sierra Lleona"
+    ],
+    "name:avk_x_preferred":[
+        "Sierraleona"
     ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646"
@@ -88,6 +100,9 @@
     "name:ban_x_preferred":[
         "Sierra Leone"
     ],
+    "name:bar_x_preferred":[
+        "Sierra Leone"
+    ],
     "name:bcl_x_preferred":[
         "Sierra Leona"
     ],
@@ -102,6 +117,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0938\u093f\u090f\u0930\u093e \u0932\u093f\u092f\u094b\u0928"
+    ],
+    "name:bis_x_preferred":[
+        "Siera Leon"
     ],
     "name:bjn_x_preferred":[
         "Sierra Leone"
@@ -148,10 +166,16 @@
     "name:cor_x_preferred":[
         "Sierra Leon"
     ],
+    "name:cos_x_preferred":[
+        "Sierra Leone"
+    ],
     "name:crh_x_preferred":[
         "Syerra Leone"
     ],
     "name:cym_x_preferred":[
+        "Sierra Leone"
+    ],
+    "name:dag_x_preferred":[
         "Sierra Leone"
     ],
     "name:dan_x_preferred":[
@@ -278,6 +302,9 @@
     "name:glv_x_preferred":[
         "Sierra Leone"
     ],
+    "name:gpe_x_preferred":[
+        "Sierra Leone"
+    ],
     "name:grn_x_preferred":[
         "Si\u00e9rra Le\u00f5"
     ],
@@ -336,6 +363,9 @@
     ],
     "name:hye_x_variant":[
         "\u054d\u0575\u0565\u0580\u0561-\u053c\u0565\u0578\u0576\u0565"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054d\u056b\u0565\u0580\u0561 \u053c\u0567\u0578\u0576\u0567"
     ],
     "name:ibo_x_preferred":[
         "Sierra Leone"
@@ -403,6 +433,9 @@
     "name:kbp_x_preferred":[
         "Siyeeraa Ley\u0254\u0254n\u0269"
     ],
+    "name:kcg_x_preferred":[
+        "Sira Lyon"
+    ],
     "name:khm_x_preferred":[
         "\u179f\u17c1\u179a\u17c9\u17b6\u17a1\u17c1\u17a2\u17bc\u1793"
     ],
@@ -469,6 +502,9 @@
     "name:lit_x_preferred":[
         "Siera Leon\u0117"
     ],
+    "name:lld_x_preferred":[
+        "Sierra Leone"
+    ],
     "name:lmo_x_preferred":[
         "Sierra Leone"
     ],
@@ -505,6 +541,15 @@
     "name:mar_x_variant":[
         "\u0938\u093f\u090f\u0930\u093e \u0932\u093f\u0913\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u044d\u043e\u043d\u044d"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435"
+    ],
+    "name:min_x_preferred":[
+        "Sierra Leone"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u0435\u0440\u0430 \u041b\u0435\u043e\u043d\u0435"
     ],
@@ -513,6 +558,9 @@
     ],
     "name:mlt_x_preferred":[
         "Sierra Leone"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabe4\uabd1\uabe6\uabd4\uabd4\uabe5 \uabc2\uabe4\uabd1\uabe3\uabdf\uabc5\uabe6"
     ],
     "name:mon_x_preferred":[
         "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435"
@@ -539,6 +587,9 @@
         "Tep\u0113tlah Leona"
     ],
     "name:nan_x_preferred":[
+        "Sierra Leone"
+    ],
+    "name:nau_x_preferred":[
         "Sierra Leone"
     ],
     "name:nav_x_preferred":[
@@ -658,6 +709,9 @@
     "name:san_x_preferred":[
         "\u0938\u093f\u092f\u093e\u0930\u093e-\u0932\u093f\u092f\u094b\u0928"
     ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c64\u1c6d\u1c6e\u1c68\u1c5f \u1c5e\u1c64\u1c6d\u1c5a\u1c71"
+    ],
     "name:scn_x_preferred":[
         "Serra Liuni"
     ],
@@ -666,6 +720,9 @@
     ],
     "name:sgs_x_preferred":[
         "S\u0117ira Leuon\u0117"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u102e\u1087\u1022\u1084\u1087\u101b\u1083\u1087\u101c\u102e\u1087\u101a\u1030\u107c\u103a\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0dba\u0dd9\u0dbb\u0dcf \u0dbd\u0dd2\u0dba\u0ddd\u0db1\u0dca"
@@ -745,6 +802,9 @@
     "name:szl_x_preferred":[
         "Sierra Leone"
     ],
+    "name:szy_x_preferred":[
+        "Sierra Leone"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0baf\u0bc7\u0bb0\u0bbe \u0bb2\u0bbf\u0baf\u0bcb\u0ba9\u0bbf"
     ],
@@ -778,10 +838,16 @@
     "name:tir_x_preferred":[
         "\u1234\u122b\u120a\u12ee\u1295"
     ],
+    "name:tok_x_preferred":[
+        "ma Sijelalijon"
+    ],
     "name:ton_x_preferred":[
         "Siela Lione"
     ],
     "name:tpi_x_preferred":[
+        "Sierra Leone"
+    ],
+    "name:trv_x_preferred":[
         "Sierra Leone"
     ],
     "name:tso_x_preferred":[
@@ -789,6 +855,9 @@
     ],
     "name:tuk_x_preferred":[
         "S\u00fderra-Leone"
+    ],
+    "name:tum_x_preferred":[
+        "Sierra Leone"
     ],
     "name:tur_x_preferred":[
         "Sierra Leone"
@@ -1126,7 +1195,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1617827722,
+    "wof:lastmodified":1690865771,
     "wof:name":"Sierra Leone",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

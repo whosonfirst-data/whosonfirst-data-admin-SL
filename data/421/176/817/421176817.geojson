@@ -22,11 +22,20 @@
     "name:afr_x_preferred":[
         "Freetown"
     ],
+    "name:aka_x_preferred":[
+        "Freetown"
+    ],
     "name:amh_x_preferred":[
         "\u134d\u122a\u1273\u12cd\u1295"
     ],
     "name:ara_x_preferred":[
         "\u0641\u0631\u064a\u062a\u0627\u0648\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "Freetown"
+    ],
+    "name:ary_x_preferred":[
+        "\u0641\u0631\u064a\u0637\u0627\u0648\u0646"
     ],
     "name:arz_x_preferred":[
         "\u0641\u0631\u064a\u062a\u0627\u0648\u0646"
@@ -34,10 +43,19 @@
     "name:ast_x_preferred":[
         "Freetown"
     ],
+    "name:avk_x_preferred":[
+        "Freetown"
+    ],
+    "name:azb_x_preferred":[
+        "\u0641\u0631\u06cc\u062a\u0648\u0648\u0646"
+    ],
     "name:aze_x_preferred":[
         "Fritaun"
     ],
     "name:bam_x_preferred":[
+        "Freetown"
+    ],
+    "name:ban_x_preferred":[
         "Freetown"
     ],
     "name:bel_x_preferred":[
@@ -54,6 +72,9 @@
     ],
     "name:bos_x_preferred":[
         "Freetown"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ab\u09cd\u09b0\u09bf\u099f\u09be\u0989\u09a8"
     ],
     "name:bre_x_preferred":[
         "Freetown"
@@ -115,8 +136,14 @@
     "name:fra_x_preferred":[
         "Freetown"
     ],
+    "name:frr_x_preferred":[
+        "Freetown"
+    ],
     "name:fry_x_preferred":[
         "Freetown"
+    ],
+    "name:ful_x_preferred":[
+        "Firiton"
     ],
     "name:gla_x_preferred":[
         "Freetown"
@@ -135,6 +162,9 @@
     ],
     "name:hat_x_preferred":[
         "Fritonn"
+    ],
+    "name:hau_x_preferred":[
+        "Freetown"
     ],
     "name:hbs_x_preferred":[
         "Freetown"
@@ -161,6 +191,9 @@
         "Freetown"
     ],
     "name:ile_x_preferred":[
+        "Freetown"
+    ],
+    "name:ina_x_preferred":[
         "Freetown"
     ],
     "name:ind_x_preferred":[
@@ -208,7 +241,13 @@
     "name:lav_x_preferred":[
         "Fr\u012btauna"
     ],
+    "name:lfn_x_preferred":[
+        "Freetown"
+    ],
     "name:lij_x_preferred":[
+        "Freetown"
+    ],
+    "name:lim_x_preferred":[
         "Freetown"
     ],
     "name:lit_x_preferred":[
@@ -226,6 +265,9 @@
     "name:mar_x_preferred":[
         "\u092b\u094d\u0930\u0940\u091f\u093e\u0909\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u0424\u0440\u0438\u0442\u0430\u0443\u043d"
+    ],
     "name:mkd_x_preferred":[
         "\u0424\u0440\u0438\u0442\u0430\u0443\u043d"
     ],
@@ -240,6 +282,9 @@
     ],
     "name:msa_x_preferred":[
         "Freetown"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0641\u0631\u06cc \u062a\u0627\u0624\u0646"
     ],
     "name:nah_x_preferred":[
         "Freetown"
@@ -262,8 +307,17 @@
     "name:nov_x_preferred":[
         "Freetown"
     ],
+    "name:nqo_x_preferred":[
+        "\u07dd\u07d9\u07cc\u07d5\u07ca\u07f2\u07eb\u07cf"
+    ],
     "name:oci_x_preferred":[
         "Freetown"
+    ],
+    "name:olo_x_preferred":[
+        "Fritaun"
+    ],
+    "name:oss_x_preferred":[
+        "\u0424\u0440\u0438\u0442\u0430\u0443\u043d"
     ],
     "name:pan_x_preferred":[
         "\u0a2b\u0a3c\u0a30\u0a40\u0a1f\u0a3e\u0a0a\u0a28"
@@ -308,6 +362,9 @@
         "Freetown"
     ],
     "name:slv_x_preferred":[
+        "Freetown"
+    ],
+    "name:smn_x_preferred":[
         "Freetown"
     ],
     "name:sna_x_preferred":[
@@ -541,8 +598,8 @@
     "wof:belongsto":[
         102191573,
         85632467,
-        1108779071,
-        85677123
+        85677123,
+        1108779071
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -571,7 +628,7 @@
         }
     ],
     "wof:id":421176817,
-    "wof:lastmodified":1608688176,
+    "wof:lastmodified":1690865780,
     "wof:megacity":1,
     "wof:name":"Freetown",
     "wof:parent_id":1108779071,

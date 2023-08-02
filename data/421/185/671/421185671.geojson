@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pujehun"
+    ],
     "name:ceb_x_preferred":[
         "Pujehun"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421185671,
-    "wof:lastmodified":1566647392,
+    "wof:lastmodified":1690865780,
     "wof:name":"Pujehun",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",

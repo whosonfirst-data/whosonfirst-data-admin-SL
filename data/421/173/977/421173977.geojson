@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Bonthe"
+    ],
+    "name:cat_x_preferred":[
+        "Bonthe"
+    ],
     "name:ceb_x_preferred":[
         "Bonthe"
     ],
@@ -35,8 +41,14 @@
     "name:fra_x_preferred":[
         "Bonthe"
     ],
+    "name:glg_x_preferred":[
+        "Bonthe"
+    ],
     "name:ita_x_preferred":[
         "Bonthe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30f3\u30c6\u30a3"
     ],
     "name:lit_x_preferred":[
         "Bont\u0117"
@@ -49,6 +61,9 @@
     ],
     "name:por_x_preferred":[
         "Bonthe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043d\u0442\u0435"
     ],
     "name:spa_x_preferred":[
         "Bonthe"
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":421173977,
-    "wof:lastmodified":1566647391,
+    "wof:lastmodified":1690865778,
     "wof:name":"Bonthe",
     "wof:parent_id":890428991,
     "wof:placetype":"locality",

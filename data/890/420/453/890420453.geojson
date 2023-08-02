@@ -46,6 +46,9 @@
     "name:por_x_preferred":[
         "Pepel"
     ],
+    "name:zho_x_preferred":[
+        "\u4f69\u4f69\u5c14\u6e2f"
+    ],
     "qs:name":"Pepel",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890420453,
-    "wof:lastmodified":1566647400,
+    "wof:lastmodified":1690865785,
     "wof:name":"Pepel",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

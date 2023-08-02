@@ -41,6 +41,9 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
+    "name:cat_x_preferred":[
+        "Western Area"
+    ],
     "name:ceb_x_preferred":[
         "Western Area"
     ],
@@ -62,11 +65,17 @@
     "name:est_x_preferred":[
         "L\u00e4\u00e4nepiirkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u063a\u0631\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "L\u00e4ntinen alue"
     ],
     "name:fra_x_preferred":[
         "Zone de l'Ouest"
+    ],
+    "name:frr_x_preferred":[
+        "Western Area"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab8\u0acd\u0a9f\u0ab0\u0acd\u0aa8 \u0a8f\u0ab0\u0abf\u0aaf\u0abe"
@@ -76,6 +85,9 @@
     ],
     "name:hrv_x_preferred":[
         "Zapadna zona"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0580\u0565\u0582\u0574\u057f\u0565\u0561\u0576 \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:ind_x_preferred":[
         "Wilayah Barat"
@@ -128,6 +140,9 @@
     "name:swe_x_preferred":[
         "Freetown Peninsula"
     ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0b8f\u0bb0\u0bbf\u0baf\u0bbe"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c36\u0c4d\u0c1a\u0c3f\u0c2e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
@@ -139,6 +154,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u0440\u0435\u0433\u0456\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0430\u0445\u0456\u0434\u043d\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u044f"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0633\u0679\u0631\u0646"
@@ -282,7 +300,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636505004,
+    "wof:lastmodified":1690865773,
     "wof:name":"Western",
     "wof:parent_id":85632467,
     "wof:placetype":"region",
