@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ast_x_preferred":[
+        "Port Loko"
+    ],
     "name:ceb_x_preferred":[
         "Port Loko"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:fra_x_preferred":[
         "Port Loko"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05dc\u05d5\u05e7\u05d5"
     ],
     "name:ind_x_preferred":[
         "Port Loko"
@@ -57,6 +63,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u041b\u043e\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Port Loko"
     ],
     "name:und_x_variant":[
         "Port Loka"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":890436693,
-    "wof:lastmodified":1566647394,
+    "wof:lastmodified":1690865782,
     "wof:name":"Port Loko",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

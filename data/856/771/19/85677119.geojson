@@ -74,6 +74,9 @@
     "name:fra_x_preferred":[
         "Province du Sud"
     ],
+    "name:frr_x_preferred":[
+        "Southern"
+    ],
     "name:glg_x_preferred":[
         "Provincia do Sur"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:hrv_x_preferred":[
         "Ju\u017ena provincija"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0540\u0561\u0580\u0561\u0582\u0561\u0575\u056b\u0576 \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:ind_x_preferred":[
         "Provinsi Selatan"
@@ -309,7 +315,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636505004,
+    "wof:lastmodified":1690865772,
     "wof:name":"Southern",
     "wof:parent_id":85632467,
     "wof:placetype":"region",

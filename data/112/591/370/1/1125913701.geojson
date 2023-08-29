@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Tombodu"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0431\u043e\u0434\u0443"
+    ],
     "name:und_x_variant":[
         "Fobu"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125913701,
-    "wof:lastmodified":1566647403,
+    "wof:lastmodified":1690865787,
     "wof:name":"Tombodu",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

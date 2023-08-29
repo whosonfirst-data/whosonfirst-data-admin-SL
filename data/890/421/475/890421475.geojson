@@ -55,6 +55,9 @@
     "name:eng_x_variant":[
         "Kailahun District"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0627\u06cc\u0644\u0647\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Kailahunin piirikunta"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":890421475,
-    "wof:lastmodified":1627522781,
+    "wof:lastmodified":1690865782,
     "wof:name":"Kailahun",
     "wof:parent_id":85677133,
     "wof:placetype":"county",

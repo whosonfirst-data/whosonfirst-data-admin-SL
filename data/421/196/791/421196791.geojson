@@ -29,6 +29,9 @@
     "name:nld_x_preferred":[
         "Rokupr"
     ],
+    "name:pol_x_preferred":[
+        "Rokupr"
+    ],
     "name:ron_x_preferred":[
         "Rokupr"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421196791,
-    "wof:lastmodified":1566647391,
+    "wof:lastmodified":1690865779,
     "wof:name":"Rokupr",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",

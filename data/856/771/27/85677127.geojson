@@ -81,6 +81,9 @@
     "name:fra_x_variant":[
         "Province du Nord"
     ],
+    "name:frr_x_preferred":[
+        "Northern"
+    ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa4\u0acd\u0aa4\u0ab0\u0ac0\u0aaf \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -98,6 +101,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0576\u0561\u0570\u0561\u0576\u0563"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0540\u056b\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:ind_x_preferred":[
         "Provinsi Utara"
@@ -317,7 +323,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636505003,
+    "wof:lastmodified":1690865772,
     "wof:name":"Northern",
     "wof:parent_id":85632467,
     "wof:placetype":"region",

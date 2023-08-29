@@ -74,6 +74,9 @@
     "name:hun_x_preferred":[
         "Bo"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578"
+    ],
     "name:ind_x_preferred":[
         "Bo"
     ],
@@ -153,6 +156,9 @@
         "\u0628\u0648"
     ],
     "name:vie_x_preferred":[
+        "Bo"
+    ],
+    "name:war_x_preferred":[
         "Bo"
     ],
     "name:zho_x_preferred":[
@@ -300,7 +306,7 @@
         }
     ],
     "wof:id":421195921,
-    "wof:lastmodified":1636505027,
+    "wof:lastmodified":1690865777,
     "wof:name":"Bo",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",

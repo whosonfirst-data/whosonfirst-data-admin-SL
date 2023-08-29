@@ -37,11 +37,20 @@
     "name:eng_x_variant":[
         "Kono District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u06a9\u0648\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Konon piirikunta"
     ],
+    "name:fra_x_preferred":[
+        "Kono"
+    ],
     "name:ind_x_preferred":[
         "Distrik Kono"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30ce\u5730\u533a"
     ],
     "name:nld_x_preferred":[
         "Kono"
@@ -54,6 +63,9 @@
     ],
     "name:por_x_preferred":[
         "Kono"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u043e"
     ],
     "name:swe_x_preferred":[
         "Kono"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":890444379,
-    "wof:lastmodified":1566647399,
+    "wof:lastmodified":1690865784,
     "wof:name":"Simbakoro",
     "wof:parent_id":890421469,
     "wof:placetype":"locality",
