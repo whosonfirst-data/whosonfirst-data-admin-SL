@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.953558,
-    "geom:area_square_m":72791068968.993073,
+    "geom:area_square_m":72791068968.991638,
     "geom:bbox":"-13.302072,6.921616,-10.271683,9.999973",
     "geom:latitude":8.559959,
     "geom:longitude":-11.789689,
@@ -14,6 +14,9 @@
     "iso:country":"SL",
     "itu:country_code":[
         "232"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "SL"
@@ -1123,7 +1126,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"232",
     "statoids:ds":"WAL",
     "statoids:fifa":"SLE",
@@ -1181,7 +1185,7 @@
         "meso",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"5d875a96cb1a008270217b150647fd95",
+    "wof:geomhash":"a8d283ebc7f78bd38d165cc0e778ee85",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1195,12 +1199,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690865771,
+    "wof:lastmodified":1694639571,
     "wof:name":"Sierra Leone",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":6092075,
-    "wof:population_rank":13,
+    "wof:population":7813215,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-sl",
     "wof:shortcode":"SL",
     "wof:superseded_by":[],
