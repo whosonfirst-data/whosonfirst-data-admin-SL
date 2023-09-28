@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.319232,
-    "geom:area_square_m":3915401229.524378,
+    "geom:area_square_m":3915401229.524286,
     "geom:bbox":"-11.9360999637,6.921616,-11.1637591801,7.65689763131",
     "geom:latitude":7.295355,
     "geom:longitude":-11.582463,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"SL.SO.PU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SL",
     "wof:created":1481737154,
-    "wof:geomhash":"eb768c87862ddb0afac3dbf62951d2bb",
+    "wof:geomhash":"7364ee012f233fa03234eda84e1f9b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108779069,
-    "wof:lastmodified":1566647130,
+    "wof:lastmodified":1695886414,
     "wof:name":"Pujehun",
     "wof:parent_id":85677119,
     "wof:placetype":"county",

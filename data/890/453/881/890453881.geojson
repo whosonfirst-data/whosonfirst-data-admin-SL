@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.244573,
-    "geom:area_square_m":2985378276.544214,
+    "geom:area_square_m":2985378112.807357,
     "geom:bbox":"-13.302072,8.836682,-12.371068,9.611999",
     "geom:latitude":9.188292,
     "geom:longitude":-12.806376,
@@ -132,12 +132,13 @@
         "wd:id":"Q1722895",
         "wk:page":"Kambia District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SL",
     "wof:created":1469052876,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"386549ea255cb22f0f33a05e37c71383",
+    "wof:geomhash":"9e03b89ab174e51daa81537f5cde0b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":890453881,
-    "wof:lastmodified":1690865782,
+    "wof:lastmodified":1695886475,
     "wof:name":"Kambia",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

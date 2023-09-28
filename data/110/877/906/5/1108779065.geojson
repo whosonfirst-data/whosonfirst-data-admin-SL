@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.485061,
-    "geom:area_square_m":5928396620.21369,
+    "geom:area_square_m":5928396620.213737,
     "geom:bbox":"-13.267944336,8.26629818218,-12.2839929512,9.27692396882",
     "geom:latitude":8.72681,
     "geom:longitude":-12.742277,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"SL.NO.PL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SL",
     "wof:created":1481737149,
-    "wof:geomhash":"3e456e654941e28ec91dcb089850bf87",
+    "wof:geomhash":"a248879750a503510085843efc795e85",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108779065,
-    "wof:lastmodified":1566647131,
+    "wof:lastmodified":1695886414,
     "wof:name":"Port Loko",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

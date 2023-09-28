@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.024657,
-    "geom:area_square_m":12497899541.826204,
+    "geom:area_square_m":12497899637.261509,
     "geom:bbox":"-12.132388,8.643762,-10.57351,9.999973",
     "geom:latitude":9.452121,
     "geom:longitude":-11.344677,
@@ -126,12 +126,13 @@
         "wd:id":"Q1778860",
         "wk:page":"Koinadugu District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SL",
     "wof:created":1469051394,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"27595f5615a51a084ed02ce83a1167db",
+    "wof:geomhash":"1c8e72e742989aa4d1021304cbe6208c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":890421473,
-    "wof:lastmodified":1690865783,
+    "wof:lastmodified":1695886476,
     "wof:name":"Koinadugu",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

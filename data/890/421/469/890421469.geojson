@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.452917,
-    "geom:area_square_m":5536134203.739595,
+    "geom:area_square_m":5536134710.397846,
     "geom:bbox":"-11.364404,8.323255,-10.464392,9.063074",
     "geom:latitude":8.686968,
     "geom:longitude":-10.94595,
@@ -135,12 +135,13 @@
         "wd:id":"Q1781849",
         "wk:page":"Kono District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SL",
     "wof:created":1469051394,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"89ea7a0448f0e60cc262e23584adacaa",
+    "wof:geomhash":"509a17e6f07824c4e4c33a403cd83ddc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":890421469,
-    "wof:lastmodified":1690865783,
+    "wof:lastmodified":1695886475,
     "wof:name":"Kono",
     "wof:parent_id":85677133,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.560787,
-    "geom:area_square_m":6865697319.197329,
+    "geom:area_square_m":6865697319.197335,
     "geom:bbox":"-13.009583473,7.65258953131,-11.8036629279,8.38635226996",
     "geom:latitude":8.06064,
     "geom:longitude":-12.435148,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"SL.SO.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SL",
     "wof:created":1481737153,
-    "wof:geomhash":"88f7414ff24c54124d0c88107dacf06f",
+    "wof:geomhash":"a1319d19c0f3bb408b23c2521ee58666",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108779067,
-    "wof:lastmodified":1566647131,
+    "wof:lastmodified":1695886415,
     "wof:name":"Moyamba",
     "wof:parent_id":85677119,
     "wof:placetype":"county",

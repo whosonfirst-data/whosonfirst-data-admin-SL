@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284107,
-    "geom:area_square_m":3482979381.564061,
+    "geom:area_square_m":3482979493.122859,
     "geom:bbox":"-13.083777,7.176311,-11.872991,7.803881",
     "geom:latitude":7.499622,
     "geom:longitude":-12.287398,
@@ -129,12 +129,13 @@
         "wd:id":"Q892889",
         "wk:page":"Bonthe District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SL",
     "wof:created":1469051786,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"509c2b3924f7cfb1adcf70c3fb90dee2",
+    "wof:geomhash":"1fef7c71b94035142a895869cac982a8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":890428991,
-    "wof:lastmodified":1690865784,
+    "wof:lastmodified":1695886474,
     "wof:name":"Bonthe",
     "wof:parent_id":85677119,
     "wof:placetype":"county",
