@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056259,
-    "geom:area_square_m":688300433.000893,
+    "geom:area_square_m":688300707.527443,
     "geom:bbox":"-13.300445,8.092055,-12.924117,8.497916",
     "geom:latitude":8.33851,
     "geom:longitude":-13.115795,
@@ -276,16 +276,18 @@
         "gn:id":2403068,
         "gp:id":2347003,
         "hasc:id":"SL.WE",
+        "iso:code":"SL-W",
         "iso:id":"SL-W",
         "qs_pg:id":901873,
         "wd:id":"Q1050475",
         "wk:page":"Western Area"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SL",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bb149ebeea8a68d9ff133a550775c5df",
+    "wof:geomhash":"608b429028673f1db92a82fb83c502ee",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -300,7 +302,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690865773,
+    "wof:lastmodified":1695884963,
     "wof:name":"Western",
     "wof:parent_id":85632467,
     "wof:placetype":"region",
