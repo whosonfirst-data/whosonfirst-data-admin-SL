@@ -1165,6 +1165,7 @@
         "hasc:id":"SL",
         "icao:code":"9L",
         "ioc:id":"SLE",
+        "iso:code":"SL",
         "itu:id":"SRL",
         "m49:code":"694",
         "marc:id":"sl",
@@ -1178,6 +1179,7 @@
         "wk:page":"Sierra Leone",
         "wmo:id":"SL"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SL",
     "wof:country_alpha3":"SLE",
     "wof:geom_alt":[
@@ -1199,7 +1201,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639571,
+    "wof:lastmodified":1695881231,
     "wof:name":"Sierra Leone",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

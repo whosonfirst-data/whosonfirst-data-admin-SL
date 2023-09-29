@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.52864,
-    "geom:area_square_m":6462133120.397492,
+    "geom:area_square_m":6462134011.336472,
     "geom:bbox":"-12.687319,8.245939,-11.345747,9.276502",
     "geom:latitude":8.661609,
     "geom:longitude":-11.885933,
@@ -129,12 +129,13 @@
         "wd:id":"Q1852020",
         "wk:page":"Tonkolili District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SL",
     "wof:created":1469051394,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"635beb4fab04b9384cb9b85c425dac28",
+    "wof:geomhash":"aeb1f6c0c5258b6f73cd291548ee9c20",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":890421467,
-    "wof:lastmodified":1690865783,
+    "wof:lastmodified":1695886067,
     "wof:name":"Tonkolili",
     "wof:parent_id":85677127,
     "wof:placetype":"county",

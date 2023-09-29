@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.514723,
-    "geom:area_square_m":6303807972.581443,
+    "geom:area_square_m":6303807869.44591,
     "geom:bbox":"-11.60692,7.305872,-10.813632,8.534113",
     "geom:latitude":7.921913,
     "geom:longitude":-11.214851,
@@ -132,12 +132,13 @@
         "wd:id":"Q1738741",
         "wk:page":"Kenema District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SL",
     "wof:created":1469052876,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b406ebde0eb6a6ca7322ca4321bc5d20",
+    "wof:geomhash":"ea3ad03a45e1d21f3664aeabbdd9bf60",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":890453879,
-    "wof:lastmodified":1690865782,
+    "wof:lastmodified":1695886167,
     "wof:name":"Kenema",
     "wof:parent_id":85677133,
     "wof:placetype":"county",

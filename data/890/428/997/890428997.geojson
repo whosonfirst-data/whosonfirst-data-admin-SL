@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.461554,
-    "geom:area_square_m":5652280190.714511,
+    "geom:area_square_m":5652280312.372889,
     "geom:bbox":"-12.167936,7.486942,-11.352076,8.487119",
     "geom:latitude":7.952068,
     "geom:longitude":-11.730798,
@@ -126,12 +126,13 @@
         "wd:id":"Q887317",
         "wk:page":"Bo District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SL",
     "wof:created":1469051786,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8038eb290712c79dce5ea20908ff1381",
+    "wof:geomhash":"2dbcec13514f2628d74158eca32ccc8d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":890428997,
-    "wof:lastmodified":1636505027,
+    "wof:lastmodified":1695886167,
     "wof:name":"Bo",
     "wof:parent_id":85677119,
     "wof:placetype":"county",
