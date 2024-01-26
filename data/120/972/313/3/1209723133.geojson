@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Konia"
     ],
+    "name:eng_x_preferred":[
+        "Konia"
+    ],
     "name:pol_x_preferred":[
         "Konia"
     ],
@@ -49,6 +52,11 @@
     "wof:concordances":{
         "gn:id":2407508
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2407510
+        ]
+    },
     "wof:country":"SL",
     "wof:geomhash":"87a03abdc31461615c1ff14c4ddbfbcf",
     "wof:hierarchy":[
@@ -61,13 +69,15 @@
         }
     ],
     "wof:id":1209723133,
-    "wof:lastmodified":1566647011,
+    "wof:lastmodified":1706240664,
     "wof:name":"Konia",
     "wof:parent_id":890428997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360192069
+    ],
     "wof:tags":[]
 },
   "bbox": [

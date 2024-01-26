@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":2405921
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2566559
+        ]
+    },
     "wof:country":"SL",
     "wof:geomhash":"661610e491dd8e881f1447d02e5c7a5e",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1225952881,
-    "wof:lastmodified":1566647735,
+    "wof:lastmodified":1706240664,
     "wof:name":"Mapella",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293004057
+    ],
     "wof:tags":[]
 },
   "bbox": [

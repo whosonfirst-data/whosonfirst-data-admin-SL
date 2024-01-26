@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-13.03639,8.74972,-13.03639,8.74972",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":1293004057,
-    "wof:lastmodified":1566646464,
+    "wof:lastmodified":1706240664,
     "wof:name":"Mapella",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1225952881
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

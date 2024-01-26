@@ -9,7 +9,11 @@
     "geom:bbox":"-13.300445,8.412716,-13.142972,8.497916",
     "geom:latitude":8.45809,
     "geom:longitude":-13.22849,
+    "gn:country":"SL",
+    "gn:fcode":"PPLC",
+    "gn:population":802639,
     "iso:country":"SL",
+    "lbl:bbox":"-13.24994,8.464,-13.20994,8.504",
     "lbl:latitude":8.489846,
     "lbl:longitude":-13.232287,
     "lbl:max_zoom":13.0,
@@ -472,6 +476,9 @@
     "name:zho_x_preferred":[
         "\u5f17\u91cc\u6566"
     ],
+    "name:zho_x_variant":[
+        "\u5f17\u91cc\u6566"
+    ],
     "name:zho_yue_x_preferred":[
         "Freetown"
     ],
@@ -610,7 +617,22 @@
         "gp:id":1419467,
         "ne:id":1159150625,
         "qs_pg:id":1083581,
-        "wd:id":"Q3780"
+        "wd:id":"Q3780",
+        "wk:page":"Freetown"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2409306
+        ],
+        "gp:id":[
+            1419467
+        ],
+        "qs_pg:id":[
+            1298271
+        ],
+        "wd:id":[
+            "Q3780"
+        ]
     },
     "wof:country":"SL",
     "wof:created":1459009120,
@@ -628,7 +650,7 @@
         }
     ],
     "wof:id":421176817,
-    "wof:lastmodified":1690865780,
+    "wof:lastmodified":1706240664,
     "wof:megacity":1,
     "wof:name":"Freetown",
     "wof:parent_id":1108779071,
@@ -637,7 +659,9 @@
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-sl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890452049
+    ],
     "wof:tags":[]
 },
   "bbox": [

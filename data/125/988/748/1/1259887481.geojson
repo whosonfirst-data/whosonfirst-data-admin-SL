@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":2405054
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2593535
+        ]
+    },
     "wof:country":"SL",
     "wof:geomhash":"56707f10d815ead6e9bb97cd601efccf",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1259887481,
-    "wof:lastmodified":1566647722,
+    "wof:lastmodified":1706240664,
     "wof:name":"Mosungi",
     "wof:parent_id":1108779067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293106371
+    ],
     "wof:tags":[]
 },
   "bbox": [
