@@ -55,6 +55,11 @@
     "wof:concordances":{
         "gn:id":2410053
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2410052
+        ]
+    },
     "wof:country":"SL",
     "wof:geomhash":"584c45d035678172a2592da2858cf264",
     "wof:hierarchy":[
@@ -67,13 +72,15 @@
         }
     ],
     "wof:id":1276982251,
-    "wof:lastmodified":1636505012,
+    "wof:lastmodified":1706240665,
     "wof:name":"Bo",
     "wof:parent_id":1108779069,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310703619
+    ],
     "wof:tags":[]
 },
   "bbox": [

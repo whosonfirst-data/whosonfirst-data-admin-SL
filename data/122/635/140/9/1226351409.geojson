@@ -29,6 +29,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Rogbombali"
+    ],
+    "name:und_x_variant":[
+        "Gbambali",
+        "Bambali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -39,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2566534
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2410554
+        ]
     },
     "wof:country":"SL",
     "wof:geomhash":"9f4ba3b2e52488878eb3aa7af62a72a8",
@@ -52,13 +64,15 @@
         }
     ],
     "wof:id":1226351409,
-    "wof:lastmodified":1566647811,
+    "wof:lastmodified":1706240664,
     "wof:name":"Rogbombali",
     "wof:parent_id":1108779065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276660399
+    ],
     "wof:tags":[]
 },
   "bbox": [

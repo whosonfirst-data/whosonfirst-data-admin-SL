@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":2410485
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7669244
+        ]
+    },
     "wof:country":"SL",
     "wof:geomhash":"0f61671e823860739ed3cffd6b954b19",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1210019521,
-    "wof:lastmodified":1566647017,
+    "wof:lastmodified":1706240664,
     "wof:name":"Banda-Karafaia",
     "wof:parent_id":890421473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343467473
+    ],
     "wof:tags":[]
 },
   "bbox": [
